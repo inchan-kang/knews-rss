@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>에이블뉴스 - 오피니언</title>
-    <link>http://www.ablenews.co.kr/ablerss/RssNews.aspx?CategoryCode=0005</link>
-    <description>에이블뉴스 - 오피니언</description>
-    <lastBuildDate>2022-09-25T00:11:16.362Z</lastBuildDate>
+    <title>에이블뉴스 - 전체기사</title>
+    <link>http://www.ablenews.co.kr/ablerss/RssNews.aspx</link>
+    <description>에이블뉴스 - 전체기사</description>
+    <lastBuildDate>2022-09-26T00:11:06.426Z</lastBuildDate>
     <item>
       <title>여성장애인 양육서비스 쟁취 서명운동 돌입</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0025&amp;NewsCode=002520190508170312520560</link>
@@ -390,13 +390,6 @@
       <content:encoded>서울의 보건·복지·장애인가족 4만179명이 25일 송영길 서울시장 캠프에서 지지를 선언했다.이들은 “송영길 후보가 ’돌봄 부담이 이미 개인과 가족의 책임을 넘어섰다‘며 ‘앞으로는 서울시가 직접 나서서 개인의 과중한 돌봄 책임을 덜어주고, 나아가 양질의 돌봄 일자리를 창출하는 선순환적 돌봄 경제를 만들겠다’고 한 약속을 믿는다”고 지지 이유를 밝혔다.송 후보...</content:encoded>
     </item>
     <item>
-      <title>보조공학기기, 장애인 직업생활 날개를 날다</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0018&amp;NewsCode=001820220526173155911558</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0018&amp;NewsCode=001820220526173155911558</guid>
-      <pubDate>2022-05-26T17:38:11.000Z</pubDate>
-      <content:encoded>저시력장애인 박 모 씨는 작은 글씨들이 많은 회의자료를 보는데 어려움을 겪었지만, ‘올캠 마이아이’를 통해 글씨들을 음성으로 들을 수 있게 되면서 빠른 속도로 업무를 처리할 수 있게 됐다. 연세대학교 중앙도서관 사서로 근무하는 이 모 씨는 양발의 사용이 자유롭지 못하지만 ‘감마스탠딩(기립형 전동휠체어)’를 통해 높게 위치한 책도 쉽게 꺼내고 정리할 수 있게 ...</content:encoded>
-    </item>
-    <item>
       <title>65세미만 노인성 질환 장애인 활보 신청 가능</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0044&amp;NewsCode=004420220527093601827159</link>
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0044&amp;NewsCode=004420220527093601827159</guid>
@@ -738,13 +731,6 @@
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0016&amp;NewsCode=001620220805081949456336</guid>
       <pubDate>2022-08-05T08:19:49.000Z</pubDate>
       <content:encoded>2022년도 중증장애인 국가공무원으로 총 45명이 최종 합격했다.인사혁신처가 지난 4일 사이버국가고시센터(www.gosi.kr))를 통해 발표한 최종 합격자는 행정, 사회복지, 전산, 보건 등 다양한 분야에서 7급 4명, 8급 3명, 9급 38명 등 총 45명이다.이들은 과학기술정보통신부, 교육부, 보건복지부 등 18개 중앙행정기관에 채용돼 ▲우편물 관리 ▲장애학생 학습지원 ▲진료비 ...</content:encoded>
-    </item>
-    <item>
-      <title>구로문화재단 뮤지컬인형극 &apos;삐노키오&apos; 공연 초대</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0002&amp;NewsCode=000020220805155803724627</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0002&amp;NewsCode=000020220805155803724627</guid>
-      <pubDate>2022-08-05T16:06:35.000Z</pubDate>
-      <content:encoded>한국시각장애인연합회(이하 &apos;한시련&apos;)와 구로문화재단은 ‘뮤지컬인형극 삐노키오’를 공연합니다.본 공연은 코로나19 관련 정부의 거리두기 정책에 따라 거리두기 좌석 유무, 좌석 배치 등의 객석 운영 방식을 상시 변동하며 탄력적으로 운영하고 있습니다. 모두의 건강과 안전한 관람을 위해 여러분의 협조와 양해를 부탁드립니다. 시각장애인 회원 여러분의 많은 관심과 신...</content:encoded>
     </item>
     <item>
       <title>구로문화재단 브런치콘서트 &apos;여행자의 노래&apos; 공연 초대</title>
@@ -1167,13 +1153,6 @@
       <content:encoded>한국장애예술인협회가 ‘2022 장애인문화예술축제 A+ Festival’ 세부 공연으로 오는 9월 2일 오후 6시부터 7시까지 대학로 마로니에공원 특설무대에서 한 편의 시를 시낭송, 웹툰, 미니상황극, 무용으로 표현하는 ‘詩풀이-그 집 모자의 기도’를 선보인다. 2022년 장애인문화예술축제는 한국장애인문화예술단체총연합회가 주최하고 A+ 2022장애인문화예술축제조직위원회가 공...</content:encoded>
     </item>
     <item>
-      <title>장애인의 안전한 삶, 국가가 책임져야</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0011&amp;NewsCode=001120220826140019162613</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0011&amp;NewsCode=001120220826140019162613</guid>
-      <pubDate>2022-08-26T13:59:53.000Z</pubDate>
-      <content:encoded>한국시각장애인연합회는 50만 시각장애인과 함께 삼가 고인의 명복을 빌며 유가족에게 위로를 전합니다.8월 24일 새벽 은평구의 한 다세대주택에서 50대 시각장애인 여성이 화재로 목숨을 잃었다. 화재 직후 119가 출동해 한 시간 여 만에 화재를 진압했지만, 5명이 다치고 재난 취약자인 시각장애인 1명이 목숨을 잃었다. 화재 발생 시 대피하기 위해서는 현장 상황과 주변 환...</content:encoded>
-    </item>
-    <item>
       <title>인도 여성장애인 옹호 활동가 &apos;비랄리 모디&apos;</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620220825194105943972</link>
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620220825194105943972</guid>
@@ -1552,13 +1531,6 @@
       <content:encoded>산업통상자원부는 ‘22년 제3차 산업융합 규제특례심의위원회(이하 위원회)를 서면으로 개최, 25개 규제 특례 안건을 심의·의결했고 5일 밝혔다.종류별로는 실증 사례 21건과 임시허가 4건이며, 이중 장애인 관련된 특례 안건은 실증 사례로 ‘지능형 배리어프리(barrier free) 키오스크’와 ‘인천공항 입국 휠체어장애인 짐 찾기 도움 서비스’가 있다. “높이조절, 음성지...</content:encoded>
     </item>
     <item>
-      <title>임태민·이건호 학생, ‘장애 아동·청소년 독후감대회’ 장관상 수상</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220906102131972295</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220906102131972295</guid>
-      <pubDate>2022-09-06T10:20:37.000Z</pubDate>
-      <content:encoded>초등부 고령초등학교 6학년 임태민 학생과중고등부 한빛맹학교 고등부 1학년 이건호 학생이 ‘제15회 장애 아동·청소년 독후감대회’에서 문화체육관광부장관상을 수상했다.국립장애인도서관(관장 원종필)은 6일 ‘제15회 장애 아동·청소년 독후감대회’ 수상자를 발표했다.이번 독후감 대회에는 지난 5월 26일부터 7월 21일까지 전국 특수학교와 일반 학교 90곳에서 총 283...</content:encoded>
-    </item>
-    <item>
       <title>‘1988 서울패럴림픽’ 기념사업 활성화 맞손</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0031&amp;NewsCode=003120220906115826118107</link>
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0031&amp;NewsCode=003120220906115826118107</guid>
@@ -1599,13 +1571,6 @@
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0011&amp;NewsCode=001120220906163820280805</guid>
       <pubDate>2022-09-06T16:36:05.000Z</pubDate>
       <content:encoded>지난 2021년 2월 9일, 지적장애와 뇌전증 중복장애를 가진 이모씨(49세)는 상속재산을 노린 가족들의 신고로 경남 사천시 소재 모 정신병원에 행정입원 되었다. 이는 누나들에 의한 두 번째 강제입원이었다. 그러나 행정입원 과정에서 법에 규정된 절차가 전혀 지켜지지 않았고, 정신병원 폐쇄병동에 입원해야 할 만한 정신질환을 앓고 있는 것도 아니므로 이는 불법적인 입원...</content:encoded>
-    </item>
-    <item>
-      <title>장애인기업종합지원센터, 장애와사회에 기부물품 전달</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220906155735662911</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220906155735662911</guid>
-      <pubDate>2022-09-06T17:00:09.000Z</pubDate>
-      <content:encoded>장애인기업종합지원센터(이사장 서기영, 이하 센터)가 6일 ‘7일간의 동행축제’ 의 상생과 나눔 취지에 동참하기 위해 (사)장애와사회에 물품을 기부했다.이날 기부물품 전달식에는 장애인기업종합지원센터 임학종 기획관리본부장과(사)장애와사회 김대유회장 등 15명이 참석했으며, 과일즙 등 총 200만원 상당의 기부물품을 전달했다.전달된 물품은 ‘7일간의 동행축제 기획...</content:encoded>
     </item>
     <item>
       <title>시각장애 안마사가 개발한 ‘휴대용 지압패드’ 제품화</title>
@@ -2266,46 +2231,11 @@
       <content:encoded>세계적인 프로야구인 미국 프로야구 메이저 리그에는 사실 그 아래에 엄청난 뿌리가 있기 때문에 존재할 수 있는 리그라는 것을 웬만한 야구팬이라면 다 알고 있을 것이다. KBO 리그에 영입되는 외국인 선수 상당수가 이 리그에서 경험을 쌓았다가 더 특별한 경험을 하고 실력이 뛰어난 선수는 이 리그에 계속 머물렀다면 이루기 힘들었던 메이저 리그로의 초대를 이뤄내기도 ...</content:encoded>
     </item>
     <item>
-      <title>&apos;발달장애인 일자리 리그&apos;가 커나가길</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620220919004014336391</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620220919004014336391</guid>
-      <pubDate>2022-09-21T11:50:14.000Z</pubDate>
-      <content:encoded>세계적인 프로야구인 미국 프로야구 메이저 리그에는 사실 그 아래에 엄청난 뿌리가 있기 때문에 존재할 수 있는 리그라는 것을 웬만한 야구팬이라면 다 알고 있을 것이다. KBO 리그에 영입되는 외국인 선수 상당수가 이 리그에서 경험을 쌓았다가 더 특별한 경험을 하고 실력이 뛰어난 선수는 이 리그에 계속 머물렀다면 이루기 힘들었던 메이저 리그로의 초대를 이뤄내기도 ...</content:encoded>
-    </item>
-    <item>
-      <title>‘사라진 배우자’ 부모에 의해 정신병원 강제입원</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0014&amp;NewsCode=001420220921093630734307</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0014&amp;NewsCode=001420220921093630734307</guid>
-      <pubDate>2022-09-21T11:50:51.000Z</pubDate>
-      <content:encoded>최근 보호의무자 입원(이하 보호입원)이라는 명목으로 비장애인이 김해 소재의 정신병원에 강제입원하는 일이 발생해, 국가인권위원회(이하 인권위)에 피해자의 조속한 퇴원과 보호입원 제도 폐지를 촉구하는 진정이 제기됐다.사단법인 장애우권익문제연구소(이하 연구소)는 21일 오전 10시 인권위 앞에서 보호입원 제도 폐지 및 공공이송체계 구축 기자회견을 개최했다.연구소...</content:encoded>
-    </item>
-    <item>
-      <title>‘자화자찬 정부’ UN CRPD 최종견해 이행촉구</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0014&amp;NewsCode=001420220921114556006746</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0014&amp;NewsCode=001420220921114556006746</guid>
-      <pubDate>2022-09-21T11:51:42.000Z</pubDate>
-      <content:encoded>장애계가 한국 정부는 유엔 장애인권리협약(UN CRPD)과 관련해 성과를 이뤘다고 자화자찬했지만, 8년 전 의료 중심 장애등급제와 시설화 폐지 등 1차 최종견해 권고도 제대로 이행하지 않아 2·3차 병합심의에서도 동일한 내용의 권고를 받은 것이 현실이라며 책임 있는 권고 이행을 촉구했다.한국장애포럼은 21일 오전 10시 서울 여의도 국회소통관에서 국민의힘 김예지 의원,...</content:encoded>
-    </item>
-    <item>
       <title>다양한 장애유형 근로자 ‘딱’ 업무효율 ‘굿’</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0018&amp;NewsCode=001820220920172151473194</link>
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0018&amp;NewsCode=001820220920172151473194</guid>
       <pubDate>2022-09-21T13:20:41.000Z</pubDate>
       <content:encoded>한국장애인고용공단(이사장 조향현)은 장애인 맞춤형 기기 등 수요자 중심의 보조공학 서비스 제공을 위해 작년 12월 서울특별시 영등포구 소재 ‘보조공학센터’를 개소했다.보조공학기기는 장애인이 직무수행시 필요한 기능을 유지, 향상시키는 기기, 장비, 소프트웨어를 말하며, 보조공학센터는 심층상담·평가, 사례분석회의, 사용 교육, 사후 관리 등을 거쳐 장애인 개인...</content:encoded>
-    </item>
-    <item>
-      <title>다양한 장애유형 근로자 ‘딱’ 업무효율 ‘굿’</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0018&amp;NewsCode=001820220920172151473194</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0018&amp;NewsCode=001820220920172151473194</guid>
-      <pubDate>2022-09-21T13:20:41.000Z</pubDate>
-      <content:encoded>한국장애인고용공단(이사장 조향현)은 장애인 맞춤형 기기 등 수요자 중심의 보조공학 서비스 제공을 위해 작년 12월 서울특별시 영등포구 소재 ‘보조공학센터’를 개소했다.보조공학기기는 장애인이 직무수행시 필요한 기능을 유지, 향상시키는 기기, 장비, 소프트웨어를 말하며, 보조공학센터는 심층상담·평가, 사례분석회의, 사용 교육, 사후 관리 등을 거쳐 장애인 개인...</content:encoded>
-    </item>
-    <item>
-      <title>충북발달센터, 영·유아기 부모교육 ‘부모 공감’ 진행</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0041&amp;NewsCode=004120220921140613001530</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0041&amp;NewsCode=004120220921140613001530</guid>
-      <pubDate>2022-09-21T14:04:08.000Z</pubDate>
-      <content:encoded>한국장애인개발원 충청북도발달장애인지원센터(센터장 김애자, 이하 충북발달센터)는 21일 영·유아기 발달장애인 부모교육 지원사업 ‘부모 공감’을 진행했다.충주시장애인복지관에서 진행된 이날 교육에는 발달장애 및 발달지연 영·유아 자녀를 둔 부모 및 보호자 13명이 참석했다.교육시간에는 해피데이발달장애인활동서비스 제공기관 석현숙 센터장이 부모의 기질분석을 ...</content:encoded>
     </item>
     <item>
       <title>‘2022년 이음 예술창작 아카데미 창작자 과정’ 교육생 모집</title>
@@ -2803,6 +2733,76 @@
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0014&amp;NewsCode=001420220923180034513335</guid>
       <pubDate>2022-09-23T18:26:06.000Z</pubDate>
       <content:encoded>“차별의 시작은 다름이지만, 다름은 결코 틀린 게 아닙니다. 우리는 모두 다를뿐입니다. 나의 다름은 모두의 다름과 같습니다. 저는 휠체어가 아닌 돌멩이처럼 굴러 오늘 이 자리까지 왔습니다. 함께 나아가기 위해 오늘도 내일도 힘차게 구르겠습니다.”23일 오후 2시 서울 은평구 은평문화예술회관에서 열린 ‘2022 장애인 당사자 스토리텔링’에서 스토리텔러로 나선 차민...</content:encoded>
+    </item>
+    <item>
+      <title>성악가 이남현과 함께하는 ‘HOPE BRIDGE CONCERT’ 개최</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220926084956829490</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220926084956829490</guid>
+      <pubDate>2022-09-26T08:00:16.000Z</pubDate>
+      <content:encoded>기적을 노래하는 바퀴달린 성악가 이남현과 함께하는 ‘HOPE BRIDGE CONCERT_음악에 기대어’가 오는 10월 1일 토요일 오후 3시 올해 첫 개관한 세종예술의전당 대극장에서 열린다.문화체육관광부와 한국장애인문화예술원의 지원을 받아 개최되는 이번 콘서트는 장애·비장애 예술가들이 함께 펼치는 음악향연으로 코로나19로 위축된 장애예술의 활성화와 장애인식개선 확대 및...</content:encoded>
+    </item>
+    <item>
+      <title>성악가 이남현과 함께하는 ‘HOPE BRIDGE CONCERT’ 개최</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220926084956829490</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220926084956829490</guid>
+      <pubDate>2022-09-26T08:00:16.000Z</pubDate>
+      <content:encoded>기적을 노래하는 바퀴달린 성악가 이남현과 함께하는 ‘HOPE BRIDGE CONCERT_음악에 기대어’가 오는 10월 1일 토요일 오후 3시 올해 첫 개관한 세종예술의전당 대극장에서 열린다.문화체육관광부와 한국장애인문화예술원의 지원을 받아 개최되는 이번 콘서트는 장애·비장애 예술가들이 함께 펼치는 음악향연으로 코로나19로 위축된 장애예술의 활성화와 장애인식개선 확대 및...</content:encoded>
+    </item>
+    <item>
+      <title>‘제8회 일상속의 장애인-스토리텔링 공모전’ 수상작 소개-⑥</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220923085638117212</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220923085638117212</guid>
+      <pubDate>2022-09-26T08:09:48.000Z</pubDate>
+      <content:encoded>밀알복지재단이 최근 ‘제8회 일상속의 장애인-스토리텔링 공모전’을 진행했다.스토리텔링 공모전 ‘일상 속의 장애인’은 장애인과 관련된 일상 속 이야기들을 통해 장애인식개선을 도모하고자 2015년부터 진행되고 있다. 올해 공모전 결과 박관찬씨의 ‘청년은 오늘도 첼로를 연주합니다’가 보건복지부 장관상의 영예를 안았으며, 총 19편이 수상했다.에이블뉴스는 총 19회...</content:encoded>
+    </item>
+    <item>
+      <title>‘제8회 일상속의 장애인-스토리텔링 공모전’ 수상작 소개-⑥</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220923085638117212</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420220923085638117212</guid>
+      <pubDate>2022-09-26T08:09:48.000Z</pubDate>
+      <content:encoded>밀알복지재단이 최근 ‘제8회 일상속의 장애인-스토리텔링 공모전’을 진행했다.스토리텔링 공모전 ‘일상 속의 장애인’은 장애인과 관련된 일상 속 이야기들을 통해 장애인식개선을 도모하고자 2015년부터 진행되고 있다. 올해 공모전 결과 박관찬씨의 ‘청년은 오늘도 첼로를 연주합니다’가 보건복지부 장관상의 영예를 안았으며, 총 19편이 수상했다.에이블뉴스는 총 19회...</content:encoded>
+    </item>
+    <item>
+      <title>이노위드(주) 등 4개소 ‘2022 트루컴퍼니’ 수상</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0016&amp;NewsCode=001620220926083939614406</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0016&amp;NewsCode=001620220926083939614406</guid>
+      <pubDate>2022-09-26T08:42:04.000Z</pubDate>
+      <content:encoded>고용노동부와 한국장애인고용공단은 2022년 트루컴퍼니(장애인고용 신뢰기업) 수상 기업을 선정해 26일 발표했다. 트루컴퍼니상은 공단과 연계해 장애인 고용확대를 위해 성실히 노력한 기업·기관에게 고용노동부 장관상을 수여해 자부심을 높이는 포상제도로 2006년부터 수상자를 선정하고 있다.2022년도 트루컴퍼니상 수상기업은 대상 이노위드(주), 금상 한국농어촌공사, ...</content:encoded>
+    </item>
+    <item>
+      <title>이노위드(주) 등 4개소 ‘2022 트루컴퍼니’ 수상</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0016&amp;NewsCode=001620220926083939614406</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0016&amp;NewsCode=001620220926083939614406</guid>
+      <pubDate>2022-09-26T08:42:04.000Z</pubDate>
+      <content:encoded>고용노동부와 한국장애인고용공단은 2022년 트루컴퍼니(장애인고용 신뢰기업) 수상 기업을 선정해 26일 발표했다. 트루컴퍼니상은 공단과 연계해 장애인 고용확대를 위해 성실히 노력한 기업·기관에게 고용노동부 장관상을 수여해 자부심을 높이는 포상제도로 2006년부터 수상자를 선정하고 있다.2022년도 트루컴퍼니상 수상기업은 대상 이노위드(주), 금상 한국농어촌공사, ...</content:encoded>
+    </item>
+    <item>
+      <title>서울관광재단, 장애인 맞춤형 국립항공박물관 투어 개시</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0002&amp;NewsCode=000220220926090224336003</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0002&amp;NewsCode=000220220926090224336003</guid>
+      <pubDate>2022-09-26T08:57:24.000Z</pubDate>
+      <content:encoded>서울시와 서울관광재단이 국립항공박물관과 함께 시각장애인, 지체장애인, 영유아 및 동반자를 위한 맞춤형 투어를 선보인다고 26일 밝혔다.지난 4월 국립항공박물관과 업무협약을 통해 영유아, 장애인 등 관광약자를 위한 맞춤형 투어를 개시하게 됐다. 서울관광재단은 시각장애인 영상해설사 교육 및 시나리오 개발과 다누림투어 운영을, 국립항공박물관은 촉각 모형․교구 ...</content:encoded>
+    </item>
+    <item>
+      <title>서울관광재단, 장애인 맞춤형 국립항공박물관 투어 개시</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0002&amp;NewsCode=000220220926090224336003</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0002&amp;NewsCode=000220220926090224336003</guid>
+      <pubDate>2022-09-26T08:57:24.000Z</pubDate>
+      <content:encoded>서울시와 서울관광재단이 국립항공박물관과 함께 시각장애인, 지체장애인, 영유아 및 동반자를 위한 맞춤형 투어를 선보인다고 26일 밝혔다.지난 4월 국립항공박물관과 업무협약을 통해 영유아, 장애인 등 관광약자를 위한 맞춤형 투어를 개시하게 됐다. 서울관광재단은 시각장애인 영상해설사 교육 및 시나리오 개발과 다누림투어 운영을, 국립항공박물관은 촉각 모형․교구 ...</content:encoded>
+    </item>
+    <item>
+      <title>SBS ‘장애인미술품 불법구매’ 방송 개구리에게 돌 던진 행위</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0009&amp;NewsCode=000920220926080052870319</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0009&amp;NewsCode=000920220926080052870319</guid>
+      <pubDate>2022-09-26T08:58:38.000Z</pubDate>
+      <content:encoded>9월 23일 SBS 저녁 8시 뉴스를 보며 내 귀를 의심했다. 방송은 공익이 우선이라서 약자 편을 들어주는 것이 관례이자 정서인데 장애예술인 작품을 구매한 공공기관이 불법을 저질렀다고 단독 보도라는 단서를 붙여 호들갑을 떨었다.그 내용은 청와대가 개방된 후 춘추관에서 열린 장애예술인 특별전에 전시된 작품 60점 가운데 25점이 판매됐고, 판매된 25점 중 8점이 문화부 ...</content:encoded>
+    </item>
+    <item>
+      <title>SBS ‘장애인미술품 불법구매’ 방송 개구리에게 돌 던진 행위</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0009&amp;NewsCode=000920220926080052870319</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0009&amp;NewsCode=000920220926080052870319</guid>
+      <pubDate>2022-09-26T08:58:38.000Z</pubDate>
+      <content:encoded>9월 23일 SBS 저녁 8시 뉴스를 보며 내 귀를 의심했다. 방송은 공익이 우선이라서 약자 편을 들어주는 것이 관례이자 정서인데 장애예술인 작품을 구매한 공공기관이 불법을 저질렀다고 단독 보도라는 단서를 붙여 호들갑을 떨었다.그 내용은 청와대가 개방된 후 춘추관에서 열린 장애예술인 특별전에 전시된 작품 60점 가운데 25점이 판매됐고, 판매된 25점 중 8점이 문화부 ...</content:encoded>
     </item>
   </channel>
 </rss>
