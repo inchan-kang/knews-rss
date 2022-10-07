@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>세계일보 - 문화</title>
-    <link>http://www.segye.com/Articles/RSSList/segye_culture.xml</link>
-    <description>세계일보 - 문화</description>
-    <lastBuildDate>2022-10-06T00:11:49.658Z</lastBuildDate>
+    <title>세계일보 - 사회</title>
+    <link>http://www.segye.com/Articles/RSSList/segye_society.xml</link>
+    <description>세계일보 - 사회</description>
+    <lastBuildDate>2022-10-07T00:15:08.557Z</lastBuildDate>
     <item>
       <title>[설왕설래] 패자의 박수</title>
       <link>https://www.segye.com/newsView/20211122514708</link>
@@ -289,41 +289,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>‘피아니스트들의 교과서’ 시프 4년 만에 한국 온다</title>
-      <link>https://www.segye.com/newsView/20221004514494</link>
-      <guid>https://www.segye.com/newsView/20221004514494</guid>
-      <pubDate>2022-10-05T01:00:00.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/04/20221004518373.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  “이 피아니스트처럼 어마어마한 레퍼토리를 지닌 연주자는 없을 겁니다. 40년 전 차이콥스키 국제콩쿠르가 열렸던 (러시아) 모스크바에서 처음 봤는데 그때부터 연주가 좋았어요. 내가 피아노를 시프만큼 쳤으면 (피아노 연주를) 계속했을지도 모르겠습니다. 하하하.”
-        
-        세계적 지휘자 정명훈이 2013년 9월 ‘ECM뮤직 페스티벌’ 당시 극찬한 피아니스트가 4년
-      </content:encoded>
-    </item>
-    <item>
-      <title>쉼없이 달려 어느덧 50대… 나를 외치다!</title>
-      <link>https://www.segye.com/newsView/20221004514487</link>
-      <guid>https://www.segye.com/newsView/20221004514487</guid>
-      <pubDate>2022-10-05T01:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/04/20221004518396.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  완벽주의 탓에 많은 스트레스를 받고 갱년기라서 열이 올라 잠을 잘 못자는 진숙(왕은숙·뮤지컬 경력 38년), 다혈질 중학교 교사로 남편과 사별한 뒤 시부모를 모시고 살며 자유를 고대하는 은옥(박선옥·38년), 2년 전 교통사고 후유증으로 기억력이 떨어지고 우울증을 겪는 수현(권명현·35년), 출판사에서 명예퇴직 당한 뒤 보험 영업을 하면서 남매를 키우는 이</content:encoded>
-    </item>
-    <item>
-      <title>사진으로만 보던 문화재, 3D로 시각화</title>
-      <link>https://www.segye.com/newsView/20221004514467</link>
-      <guid>https://www.segye.com/newsView/20221004514467</guid>
-      <pubDate>2022-10-05T01:00:00.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/04/20221004518671.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  경주 감은사지 동·서 삼층석탑을 비롯해 국보와 보물, 국가등록문화재 등 국가지정문화재 100건을 네이버에서 3차원(3D) 입체 콘텐츠로 만날 수 있다.
-        문화재청은 4일 “네이버와 2014년 맺은 ‘문화유산 가치 확산을 위한 업무협약’의 일환으로, 네이버 지식백과 서비스를 통해 문화유산 정보를 생생하게 만날 수 있는 3차원 콘텐츠를 서비스한다”고 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>“와인은 감성이자 문화… 7년 공부·세번의 도전 끝 결실” [마이 라이프]</title>
-      <link>https://www.segye.com/newsView/20221004516035</link>
-      <guid>https://www.segye.com/newsView/20221004516035</guid>
-      <pubDate>2022-10-05T06:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/04/20221004516523.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  와인잔을 가볍게 스월링한 뒤 코를 깊게 잔 속으로 들이미는 여자. 비강을 파고드는 여러 향의 단 한 줌도 놓치지 않겠다는 듯, 눈빛은 날카롭다. 깊게 숨을 들이마시며 유리잔 벽을 타고 발산되는 향들을 모두 분석한 그는 그제야 입으로 가져가 혀 위에 와인 한 모금 떨어뜨린다. 산미, 당도, 알코올의 밸런스는 적당한지, 맛은 클리어하고 잔향은 길게 이어지는지.</content:encoded>
-    </item>
-    <item>
       <title>‘무서운 10대’ 泰 티띠꾼, 세계 1위 넘본다</title>
       <link>https://www.segye.com/newsView/20221004516418</link>
       <guid>https://www.segye.com/newsView/20221004516418</guid>
@@ -339,28 +304,6 @@
         &lt;img src=&quot;//img.segye.com/content/image/2022/10/04/20221004520698.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  프로야구 KBO리그가 올해로 40년이 됐지만 단일리그로 진행된 정규시즌에서 개막전부터 1위를 내달리며 정상을 차지한 경우는 아직 단 한 번도 없었다.
         
         하지만 없었던 일이 새롭게 이뤄질 때 만들어지는 것이 역사다. 이 새 역사를 쓴 구단이 탄생했다. SSG가 KBO리그 역대 최초로 개막 첫날부터 단 하루도 1위 자리를 내주지 않고 정규리그 정상에 오르는
-      </content:encoded>
-    </item>
-    <item>
-      <title>[오늘날씨] 전국 흐리고 아침 기온도 ‘뚝’…다소 강한 바람 불어 ‘쌀쌀’</title>
-      <link>https://www.segye.com/newsView/20221005502356</link>
-      <guid>https://www.segye.com/newsView/20221005502356</guid>
-      <pubDate>2022-10-05T06:34:39.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005502393.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  수요일인 5일부터 오는 7일까지 전국적으로 흐린 날씨가 이어지는 가운데 이 사이 강원 영동과 경북 동해안은 비, 기온이 낮은 강원 높은 산지에는 눈이 내릴 수 있겠다.
-        
-        기상청에 따르면 예상 강수량은 오는 7일까지 강원 영동 30~80㎜, 경북 북부 동해안 10~50㎜, 강원 영서 북부와 경북 남부 동해안 5~20㎜다. 충북과 경남 내륙은 5㎜ 미만, 서
-      </content:encoded>
-    </item>
-    <item>
-      <title>이호철문학상 『사서』 옌롄커 “생명의 마지막 시간, 철저하게 서재로 돌아가서 글쓰기 속 침묵을” [김용출의 문학삼매경]</title>
-      <link>https://www.segye.com/newsView/20221004518122</link>
-      <guid>https://www.segye.com/newsView/20221004518122</guid>
-      <pubDate>2022-10-05T07:30:00.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/04/20221004518231.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  문화대혁명, 대약진운동과 3년 대기근, 지식인들에게 가해진 혹독한 탄압과 그들의 기회주의적 처신.... 중국 현대사에서 가장 비참했고, 황폐했으며, 그래서 중국 사회가 가장 잊고 싶고 감추고 싶었던 시대를 되살려보고 싶었다. 펄펄 살아 뛰는 인물과 감성적인 이야기로.
-        
-        음, 또 다른 ‘서랍 문학’이 될 지도 모르겠군. 문화대혁명과 지식인의 글쓰기를 다룬
       </content:encoded>
     </item>
     <item>
@@ -387,41 +330,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>“자리서 일어나 6m 걷고 앉는데 10초 넘는 노인, 장애 위험 커”</title>
-      <link>https://www.segye.com/newsView/20221005505020</link>
-      <guid>https://www.segye.com/newsView/20221005505020</guid>
-      <pubDate>2022-10-05T09:52:00.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005505162.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  의자에서 일어나 왕복 6m를 걷고 다시 의자에 앉기까지 10초 이상 걸리는 노인은 신체 움직임이나 뇌, 시각, 청각, 언어, 정신 등에 장애가 발생할 위험이 크다는 연구결과가 나왔다.
-        
-        서울아산병원 가정의학과 손기영 교수팀은 국민건강보험공단의 국가건강검진 코호트 자료(2002∼2015년)를 바탕으로 66세 노인 8만1473명의 보행 능력과 이후 장애 등록
-      </content:encoded>
-    </item>
-    <item>
-      <title>캄보디아 야생식물서 탈모예방 효능 발견</title>
-      <link>https://www.segye.com/newsView/20221005505835</link>
-      <guid>https://www.segye.com/newsView/20221005505835</guid>
-      <pubDate>2022-10-05T12:05:00.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005513157.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국내 연구진이 캄보디아 야생식물에서 탈모 예방 효능을 발견했다.
-        
-        환경부 국립생물자원관은 2020년 8월부터 최근까지 성균관대 조재열 교수 연구진과 공동으로 캄보디아 야생식물 ‘코나루스 세미데칸드러스’ 추출물을 활용한 연구결과 탈모 예방 효능의 우수성을 확인했다고 밝혔다.
-        
-        코나루스 세미데칸드러스는 캄보디아와 함께 라오스, 말레이시아, 베트남 등에서 발
-      </content:encoded>
-    </item>
-    <item>
-      <title>박보균, BTS 병역문제에 &quot;맏이 진 입대 앞둬 12월 내 입장 낼 것&quot;</title>
-      <link>https://www.segye.com/newsView/20221005510917</link>
-      <guid>https://www.segye.com/newsView/20221005510917</guid>
-      <pubDate>2022-10-05T14:17:18.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005510992.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  박보균 문화체육관광부 장관은 그룹 방탄소년단(BTS) 병역문제와 관련해 멤버 진이 입영 연기를 할 수 있는 12월 안에 입장을 확정하겠다는 뜻을 밝혔다.
-        
-        박 장관은 5일 국회 문화체육관광위원회의 문화체육관광부 국정감사에서 이용호 국민의힘 의원이 &quot;BTS 병역 문제를 적극적으로 검토해달라&quot;고 주문하자 &quot;BTS 맏이인 진의 군대 문제가 12월로 정리되니
-      </content:encoded>
-    </item>
-    <item>
       <title>김하성, 시즌 29번째 멀티 히트…샌디에이고, 메츠와 WC 결정전</title>
       <link>https://www.segye.com/newsView/20221005511078</link>
       <guid>https://www.segye.com/newsView/20221005511078</guid>
@@ -431,28 +339,6 @@
         
         샌디에이고는 김하성의 활약 속에 내셔널리그(NL) 와일드카드 2위를 확정했다.
         김하성은 5일(한국시간) 미국 캘리포니아주 샌디에이고 펫코파크에서 열린 2022 미국프로야구 메이저리그(MLB) 샌프란시스코 자이언츠와의 홈 경기에 6번 타자 유격수로 선발 출전해 4타수 2안타 2타점 1
-      </content:encoded>
-    </item>
-    <item>
-      <title>BTS 병역문제 어떻게… 맏형 진 입영 연기 만료 앞두고 결론 날 듯</title>
-      <link>https://www.segye.com/newsView/20221005511954</link>
-      <guid>https://www.segye.com/newsView/20221005511954</guid>
-      <pubDate>2022-10-05T15:07:06.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005515181.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  박보균 문화체육관광부 장관은 그룹 방탄소년단(BTS) 병역문제와 관련해 멤버 진이 입영 연기를 할 수 있는 올 12월 안에 문체부 입장을 확정하겠다는 뜻을 밝혔다.
-        
-        박 장관은 5일 국회 문화체육관광위원회의 문화체육관광부 국정감사에서 이용호 국민의힘 의원이 “BTS 병역 문제를 적극적으로 검토해달라”고 주문하자 “BTS 맏이인 진의 군대 문제가 12월로
-      </content:encoded>
-    </item>
-    <item>
-      <title>‘여성이 평화를 만든다’…세계평화여성연합, 대구·경북권 여성지도자 초청 세미나</title>
-      <link>https://www.segye.com/newsView/20221005513230</link>
-      <guid>https://www.segye.com/newsView/20221005513230</guid>
-      <pubDate>2022-10-05T15:47:14.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005513229.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  대구·경북권 여성 지도자의 교류와 협력을 통해 한반도 평화통일 기반 조성을 논의하는 자리가 마련됐다.
-        
-        세계평화여성연합 대구경북지부는 5일 호텔 인터불고에서 &apos;글로벌 여성평화 네트워크(GWPN) 대구경북 여성지도자 초청 세미나’를 개최했다고 밝혔다. &apos;여성이 평화를 만든다&apos;는 주제로 열린 행사에는 최순임 여성연합 대구경북회장, 모리나가 에미꼬 여성연합 영
       </content:encoded>
     </item>
     <item>
@@ -485,1171 +371,1515 @@
       </content:encoded>
     </item>
     <item>
-      <title>인간 혈류 맥파 측정해 집중 여부·피로 정도 알아낸다…日서 ‘뇌 활동 수치화 기술’ 잇달아 개발</title>
-      <link>https://www.segye.com/newsView/20221005511933</link>
-      <guid>https://www.segye.com/newsView/20221005511933</guid>
-      <pubDate>2022-10-05T16:36:14.000Z</pubDate>
+      <title>OPEC+ 감산에…美, 비축유 추가 방출하고 기업 생산 독려</title>
+      <link>https://www.segye.com/newsView/20221006508531</link>
+      <guid>https://www.segye.com/newsView/20221006508531</guid>
+      <pubDate>2022-10-06T11:36:02.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005511882.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  인간의 뇌에서 반응하는 감정을 가시화할 수 있는 기술 개발이 일본에서 한창이다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006508559.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  미국 정부가 석유수출국기구(OPEC) 회원국과 비회원국 연합체인 오펙플러스(OPEC+)의 대폭 감산 결정에 대응해 비축유를 방출하고 기업에 석유 생산을 독려할 방침이라고 5일(현지시간) 뉴욕타임스(NYT)가 보도했다.
         
-        공영방송 NHK의 5일 보도에 따르면 일본 광학기기 제조업체 코니카미놀타는 히로시마대와 공동 연구를 통해 뇌의 반응 해석 데이터로부터 새로운 수리 모델을 만들었다.
-        
-        아울러 이를 상품 개발로까지 연계하는 작업을 진행 중이며, 조만간 실용화 단계에 접어들 것이라고 NHK는
+        NYT에 따르면 조 바이든 행정부는 세계 유가가 급격히 오르는 것을 막기 위해 오펙플러스의 감산 최소화를 목표로 중동 산유국 정상들과 일
       </content:encoded>
     </item>
     <item>
-      <title>&apos;62호 홈런&apos; 저지 축하한 바이든…&quot;더 많은 역사 쓸 것&quot;</title>
-      <link>https://www.segye.com/newsView/20221005514521</link>
-      <guid>https://www.segye.com/newsView/20221005514521</guid>
-      <pubDate>2022-10-05T16:43:45.000Z</pubDate>
+      <title>&apos;파친코&apos; 이민진 &quot;한국인의 흥과 유머 전 세계에 알릴 것&quot;</title>
+      <link>https://www.segye.com/newsView/20221006509525</link>
+      <guid>https://www.segye.com/newsView/20221006509525</guid>
+      <pubDate>2022-10-06T12:42:01.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005515153.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  “이미 역사를 썼고 앞으로 더 많은 역사를 쓸 것이다(History made, more history to make).”
-        조 바이든 미국 대통령이 4일(현지시간) 메이저리그 애런 저지(30·뉴욕 양키스) 선수의 시즌 62호 홈런을 축하하며 올린 글이 의미심장하다. 표면상 ‘저지가 미국 야구사를 새로 썼다’는 뜻이나 다음달 연방의회 중간선거를 앞두고 꺼내든
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006509587.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  ‘파친코’로 유명한 한국계 미국인 소설가 이민진 작가가 ‘세계 한인의 날’(10월5일)을 맞아 한국인이 얼마나 재미난 사람들인지 세상에 널리 알리겠다는 포부를 밝혔다.
+        
+        5일(현지시간) 주한 미국대사관에 따르면 이 작가는 대사관, 그리고 본인의 사회관계망서비스(SNS)를 통해 공개한 영상 메시지에서 “제 글을 읽어주시는 한국을 포함한 전 세계 독자들께 제
       </content:encoded>
     </item>
     <item>
-      <title>尹 풍자 만화 ‘윤석열차’ 논란에 웹툰협회 “대놓고 ‘블랙리스트’ 경악”</title>
-      <link>https://www.segye.com/newsView/20221005515417</link>
-      <guid>https://www.segye.com/newsView/20221005515417</guid>
-      <pubDate>2022-10-05T17:07:09.000Z</pubDate>
+      <title>대장내시경, 45세 이전에 하면 대장암 사망위험 줄어든다</title>
+      <link>https://www.segye.com/newsView/20221006510270</link>
+      <guid>https://www.segye.com/newsView/20221006510270</guid>
+      <pubDate>2022-10-06T13:29:38.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005515828.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  한 고등학생이 윤석열 정부를 풍자한 ‘윤석열차’ 만화를 그린 것과 관련 문화체육관광부가 이에 유감을 표명하며 엄중경고한 것에 대해 웹툰협회가 “박근혜 정부 시절에도 뒤에서 몰래 진행하다가 관련자들이 사법 단죄를 받은 ‘블랙리스트’ 행태를 아예 대놓고 거리낌 없이 저지르겠다는 소신발언(?)은 실소를 넘어 경악할 지경”이라는 논평을 냈다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006510299.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국내 암 발생률 4위, 사망률 3위를 차지하는 ‘대장암’. 특히 최근에는 20∼40대 젊은 연령층에서 발병률이 급격히 증가하고 있다. 
         
-        4일 웹툰협회는
+        미 콜로라도대 메디컬센터 연구팀이 의학 저널 ‘랜싯’(Lancet)에 발표한 최신 논문에서 우리나라 20~49세의 대장암 발생률이 인구 10만 명당 12.9명으로 조사 대상 42국 중 1위였다. 이는 호주(11.2명),
       </content:encoded>
     </item>
     <item>
-      <title>일론 머스크 인수 결정에 트위터 주가 22.24% 폭등…테스라는 2.90%↑</title>
-      <link>https://www.segye.com/newsView/20221005510365</link>
-      <guid>https://www.segye.com/newsView/20221005510365</guid>
-      <pubDate>2022-10-05T17:38:11.000Z</pubDate>
+      <title>3대 실명질환 조기발견 ‘안저검사’…사람들 잘 몰라</title>
+      <link>https://www.segye.com/newsView/20221006511092</link>
+      <guid>https://www.segye.com/newsView/20221006511092</guid>
+      <pubDate>2022-10-06T14:05:34.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005515171.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  테슬라 최고경영자(CEO) 일론 머스크가 소셜미디어 업체 트위터를 440억달러(약 62조8300억원)에 인수하는 계약을 진행하기로 했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006511168.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  녹내장, 당뇨망막병증, 황반변성 등 3대 실명질환은 초기 증상을 자각하기 어렵고, 치료시기를 놓치면 실명으로 이어질 수 있어 정기적인 안저검사를 통해 조기 발견하는 것이 중요하다.
         
-        미국 경제 전문 블룸버그 통신과 월스트리스저널(WSJ)에 따르면 머스크는 4일(이하 현지기간) 원래 계약 조건에 따라 주당 54.20달러에 440억달러에 인수하겠다는 내용의 편지를 트위터에 전달했다.
-        
-        이에 트위터
+        하지만 안저검사에 대한 사람들의 인식은 아직 매우 낮다. 이에 따라 대한안과학회는 매년 10월 두 번째 목요일을 ‘눈의 날’로 지정하고 안저검사 정기검진을 장려하는 캠페인을
       </content:encoded>
     </item>
     <item>
-      <title>아파트 변기 뚜껑 열었더니 길이 1.6m 뱀이∼  “놀라서 볼일 볼 생각 없어졌다”</title>
-      <link>https://www.segye.com/newsView/20221005508946</link>
-      <guid>https://www.segye.com/newsView/20221005508946</guid>
-      <pubDate>2022-10-05T17:45:48.000Z</pubDate>
+      <title>美 햄버거 브랜드 ‘파이브가이즈’ 한국 상륙…내년 상반기 1호점 오픈</title>
+      <link>https://www.segye.com/newsView/20221006511157</link>
+      <guid>https://www.segye.com/newsView/20221006511157</guid>
+      <pubDate>2022-10-06T14:07:19.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005508917.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  일본의 한 아파트 화장실 변기에서 길이만 약 1.6m에 달하는 뱀이 발견됐다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006511161.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  미국 인기 햄버거 브랜드 ‘파이브가이즈’가 내년 상반기 국내에서 판매를 게시한다.
         
-        5일 마이니치 신문에 따르면 지난 2일 오후 4시쯤 나가사키현 사자쵸 가모가와멘의 아파트에 거주하던 40대 남성은 볼일을 보기 위해 화장실 변기 뚜껑을 열었다 이 같은 거대한 뱀을 발견했다.
+        6일 갤러리아백화점은 파이브가이즈 인터내셔널과 국내 사업권 관련 약정서를 체결해 내년 상반기 1호점을 개장할 예정이라고 발표했다.
         
-        놀란 남성은 변기 뚜껑을 닫고 경찰에 신고했으며, 경찰은 전문업자를 불러 포획했다
+        이번 합의는 한화그룹 김승연(70) 회장의 삼남인 김동선(33) 갤러리아 신사업전략실장이 기획 단계에서부터 주도해왔다.
+        
+        갤러리아백화점은
       </content:encoded>
     </item>
     <item>
-      <title>[재미로 보는 오늘의 운세] 10월 6일 (목요일)</title>
-      <link>https://www.segye.com/newsView/20221005515810</link>
-      <guid>https://www.segye.com/newsView/20221005515810</guid>
-      <pubDate>2022-10-05T18:08:18.000Z</pubDate>
+      <title>숲속 걷거나 앉아서 풍경만 봐도 체내 염증반응‧스트레스 감소</title>
+      <link>https://www.segye.com/newsView/20221006511568</link>
+      <guid>https://www.segye.com/newsView/20221006511568</guid>
+      <pubDate>2022-10-06T14:23:16.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006511633.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  숲속을 걷거나 앉아서 풍경을 바라보기만 해도 체내 염증반응이 완화되고, 스트레스 지수가 낮아진다는 연구 결과가 나왔다.
+        
+        특히 산림치유 효과가 가장 뛰어난 활동은 걷기로 우울증과 불안증세 완화에 도움을 주는 것으로 나타났다.
+        
+        산림청 국립산림과학원은 산림치유 프로그램의 활동 구성에 따른 치유 효과 특성을 구분하는 향후 산림치유 프로그램 설계 기반으로 활
+      </content:encoded>
+    </item>
+    <item>
+      <title>&quot;헤르손서 전략적 후퇴 중인 러…전열 정비 후 방어 강화&quot;</title>
+      <link>https://www.segye.com/newsView/20221006509548</link>
+      <guid>https://www.segye.com/newsView/20221006509548</guid>
+      <pubDate>2022-10-06T14:24:46.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006511659.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  러시아군이 남부 헤르손 전선에서 일부 퇴각 움직임을 보인 것은 완전한 철수가 아닌 전열을 가다듬기 위한 전략적 후퇴일 가능성이 더 높다고 미국 워싱턴포스트(WP)는 5일(현지시간) 분석했다.
+        
+        WP에 따르면 우크라이나군은 헤르손과 인근 미콜라이우 인근 지역의 탈환 영토를 넓혀가고 있지만, 탈환의 기쁨보다 향후 전개될 러시아군과의 더 큰 전투에 대한 불안감
+      </content:encoded>
+    </item>
+    <item>
+      <title>5가지 이상 복용 고령환자‧보호자 상당수 “약 개수 줄이고파”</title>
+      <link>https://www.segye.com/newsView/20221006512435</link>
+      <guid>https://www.segye.com/newsView/20221006512435</guid>
+      <pubDate>2022-10-06T14:57:32.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006512474.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  5가지 이상의 약제를 복용하는 것을 일컫는 ‘다약제 사용’. 이는 전 세계적으로 고령화에 따른 만성질환의 증가로 늘어나고 있는 추세다. 유럽과 미국에서는 다약제 사용 시 잠재적 부적절 약제로 인해 발생할 수도 있는 고령 환자의 기능장애, 인지장애, 낙상을 방지하기 위해 약 처방 줄이기가 큰 화두로 떠오르고 있다.
+        
+        이런 가운데 다약제 사용 중인 국내 65
+      </content:encoded>
+    </item>
+    <item>
+      <title>21세기에도 군주제 살아남으려면… &quot;왕실 슬림화 필수&quot;</title>
+      <link>https://www.segye.com/newsView/20221006512452</link>
+      <guid>https://www.segye.com/newsView/20221006512452</guid>
+      <pubDate>2022-10-06T15:10:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006512788.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  최근 덴마크 왕실이 왕세자 아닌 그냥 왕자가 낳은 자녀 4명에게서 왕자 및 공주 지위를 박탈해 큰 화제가 됐다. 이는 군주제에 대한 지지도가 상대적으로 높은 덴마크 같은 나라도 국민 눈치를 살피며 왕실 규모를 최소화하고자 안간힘을 쓰고 있음을 여실히 보여줬다. 그럼 엘리자베스 2세 여왕 서거 후 군주제 폐지 목소리가 점점 커지는 영국은 어떨까.
+        BBC는 5
+      </content:encoded>
+    </item>
+    <item>
+      <title>눈 주위 뼈, 작은 충격에도 잘 부러져…방치는 금물</title>
+      <link>https://www.segye.com/newsView/20221006513359</link>
+      <guid>https://www.segye.com/newsView/20221006513359</guid>
+      <pubDate>2022-10-06T15:30:30.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513458.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  본격적인 가을이 시작되면서 등산이나 나들이를 떠나는 사람들이 늘고 있다. 야외활동이 많아지면 외상에 의한 골절이 발생할 가능성이 커 각별한 주의가 필요하다.
+        
+        골절은 눈을 감싸고 있는 뼈에서도 생길 수 있는데 이를 ‘안와골절’이라고 한다. 이 질환은 눈에 가해지는 충격을 주변으로 분산시켜주는 일종의 보호기전이다. 경미한 안와골절은 수술할 필요가 없지만,
+      </content:encoded>
+    </item>
+    <item>
+      <title>&quot;시진핑 10년, 중국 사회·경제적 자유 희생됐다&quot;</title>
+      <link>https://www.segye.com/newsView/20221006514022</link>
+      <guid>https://www.segye.com/newsView/20221006514022</guid>
+      <pubDate>2022-10-06T15:54:02.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006514137.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  이달 16일 개막할 제20차 중국 공산당 전국대표대회(당 대회)에서 &apos;3연임&apos;을 확정할 시진핑 국가주석의 집권 10년 동안 중국의 사회·경제적 자유가 희생됐다고 블룸버그통신이 5일(현지시간) 진단했다.
+        
+        통신은 시 주석이 2012년 18차 당대회를 통해 권좌에 오른 이후 중국이 &apos;자신감과 불안의 역설&apos;에 빠졌다면서 이같이 전했다.
+        블룸버그는 경제 성장을
+      </content:encoded>
+    </item>
+    <item>
+      <title>러 핵위협에 폴란드 “미국에 핵 공유 요청”</title>
+      <link>https://www.segye.com/newsView/20221006514214</link>
+      <guid>https://www.segye.com/newsView/20221006514214</guid>
+      <pubDate>2022-10-06T16:20:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006514686.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  러시아의 핵 위협이 높아지는 가운데 폴란드가 미국의 핵탄두를 자국 영토에 배치할 것을 제안했다.
+        
+        5일(현지시간) 영국 일간 가디언에 따르면 안제이 두다 폴란드 대통령은 자국 영토에 미국의 핵무기를 배치해달라고 요청했다. 전문가들은 핵탄두가 러시아에 더 가까이 배치되는 것이 군사적 유용성은 떨어지기 때문에 상징적 의미에서 제안이 이뤄졌을 것으로 보고 있다
+      </content:encoded>
+    </item>
+    <item>
+      <title>3개월 이상 턱 주변에 통증 있으면 만성적 턱관절 통증</title>
+      <link>https://www.segye.com/newsView/20221006515177</link>
+      <guid>https://www.segye.com/newsView/20221006515177</guid>
+      <pubDate>2022-10-06T16:27:57.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006515239.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  턱관절에 통증이 생기면 턱관절만 아픈 것이 아니라 이명이나 두통, 어깨‧목 통증 등 턱 주변에 다른 증상이 함께 오는 경우가 많다. 그래서 많은 환자들이 치과 대신 신경과, 정형외과, 이비인후과 등에서 진료를 하다가 한참 뒤에 치과를 내원하게 되는 경우가 종종 있다. 
+        
+        이렇게 되면 턱관절 통증은 만성화로 이어질 수 있다. 따라서 3개월 이상 턱 주변에
+      </content:encoded>
+    </item>
+    <item>
+      <title>“산모가 들이마신 대기오염 입자, 태아에게도 도달해 악영향”</title>
+      <link>https://www.segye.com/newsView/20221006516422</link>
+      <guid>https://www.segye.com/newsView/20221006516422</guid>
+      <pubDate>2022-10-06T17:02:30.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006516480.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  산모가 들이마신 미세먼지 등 대기오염 입자가 자궁 속에 있는 태아에게도 도달해 악영향을 미친다는 연구 결과가 나왔다.
+        
+        임신 중 대기 오염에 노출되면 사산, 조산, 저체중아 및 태아의 뇌 발달 장애를 야기하고, 그 결과가 평생 지속된다고 연구팀은 지적했다.
+        
+        5일(현지시간) 블룸버그통신의 보도에 따르면 벨기에 애버딘대 전문가들은 60명의 엄마와 태아를
+      </content:encoded>
+    </item>
+    <item>
+      <title>[포토] 김규리 &apos;빛나는 등장&apos;</title>
+      <link>https://www.segye.com/newsView/20221006517221</link>
+      <guid>https://www.segye.com/newsView/20221006517221</guid>
+      <pubDate>2022-10-06T17:33:26.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517212.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 김규리가 6일 오후  부산 해운대구 시그니엘 부산에서 열린 제 31회 부일영화상 행사에 참석해 포즈를 취하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>조류인플루엔자 감염 여부 24시간 내 확인 가능해진다</title>
+      <link>https://www.segye.com/newsView/20221006517195</link>
+      <guid>https://www.segye.com/newsView/20221006517195</guid>
+      <pubDate>2022-10-06T17:33:39.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517222.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  조류인플루엔자(AI) 초기 감염단계에서 감염된 세포만을 특이적으로 인지해 분리 가능한 분자센서가 국내 연구팀에 의해 개발됐다.
+        
+        이를 통해 조류인플루엔자(AI) 감염 여부를 24시간 안에 확인할 수 있다는 게 연구팀의 설명이다. 
+        
+        고려대 의대 약리학교실 이준석 교수팀은 서울대 화학부 이동환 교수와 공동 연구를 통해 조류인플루엔자 감염 세포에서만 선택적
+      </content:encoded>
+    </item>
+    <item>
+      <title>[포토] 임시완 &apos;매력적인 눈빛&apos;</title>
+      <link>https://www.segye.com/newsView/20221006517245</link>
+      <guid>https://www.segye.com/newsView/20221006517245</guid>
+      <pubDate>2022-10-06T17:35:24.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517244.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 임시완이 6일 오후  부산 해운대구 시그니엘 부산에서 열린 제 31회 부일영화상 행사에 참석해 포즈를 취하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>[포토] 박재민 &apos;깜찍한 손하트&apos;</title>
+      <link>https://www.segye.com/newsView/20221006517272</link>
+      <guid>https://www.segye.com/newsView/20221006517272</guid>
+      <pubDate>2022-10-06T17:37:06.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517267.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 박재민이 6일 오후  부산 해운대구 시그니엘 부산에서 열린 제 31회 부일영화상 행사에 참석해 포즈를 취하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>[포토] 변요한 &apos;여심 녹이는 미소&apos;</title>
+      <link>https://www.segye.com/newsView/20221006517297</link>
+      <guid>https://www.segye.com/newsView/20221006517297</guid>
+      <pubDate>2022-10-06T17:39:05.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517293.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 변요한이 6일 오후  부산 해운대구 시그니엘 부산에서 열린 제 31회 부일영화상 행사에 참석해 포즈를 취하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>[포토] 옥택연 &apos;매력적인 미소&apos;</title>
+      <link>https://www.segye.com/newsView/20221006517314</link>
+      <guid>https://www.segye.com/newsView/20221006517314</guid>
+      <pubDate>2022-10-06T17:40:01.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517304.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 옥택연이 6일 오후  부산 해운대구 시그니엘 부산에서 열린 제 31회 부일영화상 행사에 참석해 포즈를 취하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>비·조정석, 유명 골퍼와 불륜 루머에 강경 대응 나선다 “명백한 허위”</title>
+      <link>https://www.segye.com/newsView/20221006516401</link>
+      <guid>https://www.segye.com/newsView/20221006516401</guid>
+      <pubDate>2022-10-06T17:49:28.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006516555.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  가수 비(정지훈)가 자신과 불륜 의혹을 제기한 루머가 확산되자데, 비가 강경대응의 뜻을 밝혔다. 함께 루머에 언급된 조정석도 법적 조치를 하겠다고 강조했다.
+        
+        비의 소속사 레인컴퍼니는 6일 공식 입장을 내고 온라인을 통해 확산 중인 불륜 루머와 관련해 &quot;명백한 허위사실&quot;이라고 입장을 밝혔다. 이어 &quot;당사는 아티스트에 대해 돌고 있는 루머와 찌라시를 인지하
+      </content:encoded>
+    </item>
+    <item>
+      <title>비·조정석 측 골프선수와 불륜 루머에 법적 대응 예고…“선처없다”</title>
+      <link>https://www.segye.com/newsView/20221006517124</link>
+      <guid>https://www.segye.com/newsView/20221006517124</guid>
+      <pubDate>2022-10-06T17:53:06.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006516916.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  근거 없는 불륜설에 휩싸인 가수 겸 배우 비(본명 정지훈)와 배우 조정석 측이 법적 대응을 예고했다.
+        
+        6일 비 소속사 레인컴퍼니는 “최초 이니셜로 보도한 보도 매체에 문의해 해당 아티스트가 맞는지를 확인했고, 해당 이니셜은 소속 아티스트가 아니라는 확답까지 받았다”며 논란을 일축했다.
+        
+        이어 “진위가 파악되지 않은 내용을 사실인 것처럼 올리거나 악성
+      </content:encoded>
+    </item>
+    <item>
+      <title>우크라군 마주치자 장갑차에 백기 내걸고 투항하는 러시아 병사 [영상]</title>
+      <link>https://www.segye.com/newsView/20221006517502</link>
+      <guid>https://www.segye.com/newsView/20221006517502</guid>
+      <pubDate>2022-10-06T18:01:14.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517592.gif&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  우크라이나가 자국 영토를 수복해가며 승전을 거듭하는 가운데, 우크라이나군과 마주친 러시아 병사들이 장갑차에 백기를 걸고 투항하는 장면이 공개됐다.
+        
+        5일(현지시간) 이스라엘 매체 언톨드뉴스(Untold News)는 최근 러시아군이 퇴각하고 있는 우크라이나 남부 헤르손주의 한 지역에서 이같은 상황이 벌어졌다며 유튜브에 영상을 게재했다.
+        
+        영상에 따르면,
+      </content:encoded>
+    </item>
+    <item>
+      <title>[재미로 보는 오늘의 운세] 10월 7일 (금요일)</title>
+      <link>https://www.segye.com/newsView/20221006514517</link>
+      <guid>https://www.segye.com/newsView/20221006514517</guid>
+      <pubDate>2022-10-06T18:03:21.000Z</pubDate>
       <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/09/18/20220918508829.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;</content:encoded>
     </item>
     <item>
-      <title>다이나믹 듀오, 2년만의 신곡으로 ‘벅스차트’ 20위 진입</title>
-      <link>https://www.segye.com/newsView/20221005517148</link>
-      <guid>https://www.segye.com/newsView/20221005517148</guid>
-      <pubDate>2022-10-05T18:18:37.000Z</pubDate>
+      <title>OPEC+, 11월부터 하루 200만배럴 감산 합의… 유가 또 뛴다 [뉴스 투데이]</title>
+      <link>https://www.segye.com/newsView/20221006516407</link>
+      <guid>https://www.segye.com/newsView/20221006516407</guid>
+      <pubDate>2022-10-06T18:03:51.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517191.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  개코(41·본명 김윤성)와 최자(42·본명 최재호)로 구성된 2인조 힙합 그룹 다이나믹 듀오가 2년만에 발표한 싱글 앨범으로 음원 스트리밍 사이트에서 상위권에 랭크됐다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517419.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  오펙(OPEC·석유수출국기구)과 러시아 등 비회원국 협의체인 오펙플러스(OPEC+)가 11월부터 원유 생산을 하루 200만배럴 감산하기로 하면서 국제유가에 또다시 비상등이 켜졌다. 증산을 요구하던 미국은 강력히 반발하면서 전략비축유 방출 검토에 들어갔다.
         
-        다이나믹 듀오가 지난 4일 오후 6시를 기해 각종 온라인 음원 사이트에 공개한 신규 싱글 ‘시간아 멈춰’는 벅스뮤직의 100위권 스트리밍 순위가 집계되는 ‘벅스차트’에서 5일 오후 3시
+        파이낸셜타임스(FT) 등에 따르면 오펙플러스는 5일(현지시간) 오스트리아 빈에서 정례 장관급 회의를
       </content:encoded>
     </item>
     <item>
-      <title>&quot;기시다, 6일 윤석열 대통령과 전화회담 조율 중&quot;</title>
-      <link>https://www.segye.com/newsView/20221005517362</link>
-      <guid>https://www.segye.com/newsView/20221005517362</guid>
-      <pubDate>2022-10-05T18:24:23.000Z</pubDate>
+      <title>美 vs 中·러, 北 미사일에 “네 탓”… 안보리, 설전만 하다 빈손 종료</title>
+      <link>https://www.segye.com/newsView/20221006516670</link>
+      <guid>https://www.segye.com/newsView/20221006516670</guid>
+      <pubDate>2022-10-06T19:09:15.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517376.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  기시다 후미오(岸田文雄) 일본 총리는 북한의 탄도미사일 발사를 계기로 윤석열 대통령과 6일 전화 회담을 하는 방향으로 조율 중이라고 교도통신이 복수의 관계자를 인용해 5일 보도했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006516924.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  유엔 안전보장이사회(안보리)가 5일(현지시간) 북한의 탄도미사일 발사를 규탄하기 위해 소집됐지만 결론 없이 빈손으로 산회했다.
         
-        보도에 따르면 기시다 총리는 전화 회담에서 북한의 발사를 비난하고 한일 양국이 협력해 대응한다는 방침을 확인한다는 구상이다.
+        회의를 소집한 미국과 대부분의 이사국은 북한의 거듭되는 탄도미사일 발사가 유엔 안보리 제재 위반이라는 사실을 지적하며 단호한 대응을 촉구했으나 중국과 러시아는 북한을 옹호하며 미국에 책임을 돌려 평행선을 그었다.
+        
+        임수석 외
       </content:encoded>
     </item>
     <item>
-      <title>우크라이나, 러 핵공격 대비 키이우에 대피소 설치</title>
-      <link>https://www.segye.com/newsView/20221005516031</link>
-      <guid>https://www.segye.com/newsView/20221005516031</guid>
-      <pubDate>2022-10-05T19:01:27.000Z</pubDate>
+      <title>美, 中 침공 대비 대만에 무기 대량 비축 추진</title>
+      <link>https://www.segye.com/newsView/20221006516668</link>
+      <guid>https://www.segye.com/newsView/20221006516668</guid>
+      <pubDate>2022-10-06T20:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516292.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  우크라이나군의 반격으로 수세에 몰린 러시아가 핵 공격을 할 가능성에 대비해 우크라이나 정부가 수도 키이우에 대피소를 설치한다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517528.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  미국 정부가 중국의 대만 침공 시 대만이 우방의 지원이 도착할 때까지 초기 공격을 막아낼 수 있도록 무기를 대량 비축하도록 하는 방안을 추진하고 있다고 뉴욕타임스(NYT)가 5일(현지시간) 보도했다.
         
-        미국 정치전문매체 더힐은 4일(현지시간) 키이우 시의회를 인용한 보도에서 핵 공격 대피소에 인체의 방사선 흡수 방지에 도움이 되는 요오드화칼륨 알약이 구비될 예정이라고 전했다.
-        블라디미르 푸틴 러시아 대통령의 즉흥적인 의사결정
+        신문에 따르면 미국 정부 관계자는 대만이 미국 군대를 보낼 때까지 버티기 위해 고슴도치가 될 필요가 있다고 밝혔다. 최근 중국의 대만 주변 군사훈련 분석
       </content:encoded>
     </item>
     <item>
-      <title>[6일의 날씨] 흐린 가을하늘 빗방울 뚝뚝</title>
-      <link>https://www.segye.com/newsView/20221005515657</link>
-      <guid>https://www.segye.com/newsView/20221005515657</guid>
-      <pubDate>2022-10-05T19:41:49.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519624.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;</content:encoded>
+      <title>러, 자포리자 원전 국유화 선포</title>
+      <link>https://www.segye.com/newsView/20221006516654</link>
+      <guid>https://www.segye.com/newsView/20221006516654</guid>
+      <pubDate>2022-10-06T20:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517230.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  러시아가 우크라이나 점령지에 있는 원자력 발전소의 국유화에 나섰다.
+        
+        AFP통신 등에 따르면 5일(현지시간) 세르게이 베르시닌 러시아 외무차관은 “자포리자 원전은 현재 러시아 영토에 있고, 따라서 우리 기관의 감독하에 운영돼야 한다”고 밝혔다. 우크라이나에 있는 자포리자 원전은 유럽 최대 규모로 지난 3월 러시아군이 점령했으나 실제 운영은 우크라이나 원
+      </content:encoded>
     </item>
     <item>
-      <title>日 정부, 축전지 생산 강화 위해 8조8000억원 지원 검토</title>
-      <link>https://www.segye.com/newsView/20221005517829</link>
-      <guid>https://www.segye.com/newsView/20221005517829</guid>
-      <pubDate>2022-10-05T20:00:00.000Z</pubDate>
+      <title>우크라전 갈등 속에도… 미·러 우주협력 손은 놓지않았다</title>
+      <link>https://www.segye.com/newsView/20221006516231</link>
+      <guid>https://www.segye.com/newsView/20221006516231</guid>
+      <pubDate>2022-10-06T20:10:36.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517869.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  일본 정부가 전기자동차(EV), 재생가능에너지 보급 등에 필수적인 축전지 생산기반을 강화하기 위해 9000억엔(약 8조8000억원) 규모의 지원책을 검토 중이라고 아사히신문이 5일 보도했다. 
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518309.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  우크라이나 전쟁으로 미·러 긴장 관계가 최고조에 달한 상황에서 러시아 우주비행사가 5일(현지시간) 미국 땅에서 발사된 로켓을 타고 우주로 향했다.
         
-        신문에 따르면 경제산업성은 축전지 생산을 위한 일본 내 공장건설, 신기술 연구개발, 원재료 확보 등에 보조금 지원키로 하고 올해 추가경정예산에 포함시킬 계획이다.
+        일론 머스크의 우주 탐사 기업 스페이스X는 이날 플로리다주 케네디우주센터에서 러시아 우주비행사 안나 키키나(38·여) 등이 탑승한 크루 드래건 유인 캡슐(크루-5)을 팰컨9 로켓에 실어 발사했다.
+        러시아 우주
       </content:encoded>
     </item>
     <item>
-      <title>머스크 “트위터, 기존 계약대로 인수”</title>
-      <link>https://www.segye.com/newsView/20221005515396</link>
-      <guid>https://www.segye.com/newsView/20221005515396</guid>
-      <pubDate>2022-10-05T20:00:00.000Z</pubDate>
+      <title>양조위 배우 인생 40년…“연기자 직업 즐길 시기… 한국 작품 도전하고파”</title>
+      <link>https://www.segye.com/newsView/20221006514412</link>
+      <guid>https://www.segye.com/newsView/20221006514412</guid>
+      <pubDate>2022-10-06T20:12:53.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516600.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  트위터 인수 계약을 파기해 소송 중이던 일론 머스크(사진) 테슬라 최고경영자(CEO)가 돌연 계약을 재진행한다고 밝혔다.
-        
-        블룸버그통신 등에 따르면 트위터는 4일(현지시간) 머스크 CEO가 인수 파기를 번복하겠다는 내용을 제안해 왔다고 미국 증권거래위원회(SEC)에 신고했다. 머스크 CEO는 트위터에 보낸 서한에 인수 계약 파기 소송을 중단할 것을 요구
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519183.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  “40년 연기인생 초반 20년이 배우는 시기였다면, 최근 20년은 배운 것들을 발휘하는 시기였습니다. 지금은 그 단계를 넘어서 스트레스 안 받고 연기자라는 직업을 즐길 수 있는 단계입니다. 그런 의미에서 저는 젊은 시절 도전할 수 없었던 나이 든 역할들, 지금에서야 도전할 수 있는 역할들을 소화하고 싶습니다.”
+        불혹이 넘는 연기인생 동안 ‘비정성시’, ‘중
+      </content:encoded>
+    </item>
+    <item>
+      <title>[7일의 날씨] 한낮에도 쌀쌀</title>
+      <link>https://www.segye.com/newsView/20221006516244</link>
+      <guid>https://www.segye.com/newsView/20221006516244</guid>
+      <pubDate>2022-10-06T20:13:32.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006520426.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;</content:encoded>
+    </item>
+    <item>
+      <title>혼자서는 불완전한 인간… 서로 돕는 본성 그려내</title>
+      <link>https://www.segye.com/newsView/20221006514402</link>
+      <guid>https://www.segye.com/newsView/20221006514402</guid>
+      <pubDate>2022-10-06T20:13:39.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519189.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  이란 어느 외딴 마을에 하반신 장애를 안고 사는 남자가 산다. 게다가 그 남자는 전신 마비 아들을 간호해야 한다. 어느 날, 집에 전기가 끊겨 정부 전력 담당자가 이곳을 찾지만 수리는 쉽지 않다.
+        “도울 수 있는 방법을 찾아볼게요.” 빈말이 아니었다. 전력 담당자는 고장 난 부품을 교체할 방법을 백방으로 알아본다. 차는 강에 빠지고, 시간과 돈도 부족하다.
       </content:encoded>
     </item>
     <item>
-      <title>애플 부품업체들도 美 생산공장 늘려</title>
-      <link>https://www.segye.com/newsView/20221005515400</link>
-      <guid>https://www.segye.com/newsView/20221005515400</guid>
-      <pubDate>2022-10-05T20:00:00.000Z</pubDate>
+      <title>올해 노벨 문학상에 프랑스 작가 아니 에르노</title>
+      <link>https://www.segye.com/newsView/20221006519169</link>
+      <guid>https://www.segye.com/newsView/20221006519169</guid>
+      <pubDate>2022-10-06T20:15:28.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516588.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  애플의 부품 공급업체들이 미국 생산 공장을 늘리고 있다고 월스트리트저널(WSJ)이 4일(현지시간) 보도했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519238.PNG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  올해 노벨 문학상의 영예는 프랑스 출신의 작가 아니 에르노(82)에게 돌아갔다.
+        
+        6일(현지시간) 스웨덴 한림원은 에르노를 2022년 노벨 문학상 수상자로 선정했다고 밝혔다.
         
-        신문이 애플이 공개한 부품 납품업체 180여곳 명단을 분석한 결과에 따르면 지난해 9월 기준 미국에 공장을 둔 업체 수는 48곳이다. 이는 2020년의 25곳에서 2배 가까이 늘어난 수치다.
-        애플 부품업체는 본사가 위치한 캘리포니아주(州)에 많
+        한림원은 “사적 기억의 근원과 소외, 집단적 구속의 덮개를 벗긴 그의 용기와 꾸밈없는 예리함”이라며 그를 수상자로 선정한 배경을 설명했다.
+        
+        여성 소설가 에르노는 자전적 소설가
       </content:encoded>
     </item>
     <item>
-      <title>마리 퀴리 잇는 노벨화학상 수상자는…114회 걸쳐 189명 영광</title>
-      <link>https://www.segye.com/newsView/20221005518192</link>
-      <guid>https://www.segye.com/newsView/20221005518192</guid>
-      <pubDate>2022-10-05T20:09:28.000Z</pubDate>
+      <title>노벨 문학상에 &apos;자전적 소설&apos; 프랑스 작가 아니 에르노</title>
+      <link>https://www.segye.com/newsView/20221006519325</link>
+      <guid>https://www.segye.com/newsView/20221006519325</guid>
+      <pubDate>2022-10-06T20:24:28.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005518539.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  2022년 노벨 화학상 수상자로 캐럴린 R. 버토지(미국), 모르텐 멜달(덴마크), K. 배리 샤플리스(미국) 등 3명이 5일(현지시간) 선정됐다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519368.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  올해 노벨 문학상의 영예는 프랑스 출신의 작가 아니 에르노(82)에게 돌아갔다.
+        
+        스웨덴 한림원은 6일(현지시간) 에르노를 2022년 노벨 문학상 수상자로 선정했다고 밝혔다.
         
-        노벨상 가운데서도 생리의학상이나 물리학, 화학 등 과학 분야는 최근 수십 년 사이 이 분야의 연구 동향을 가늠케 해 더욱 큰 관심이 쏠린다.
+        한림원은 &quot;사적 기억의 근원과 소외, 집단적 구속의 덮개를 벗긴 그의 용기와 꾸밈없는 예리함&quot;을 노벨 문학상 선정의 배경으로 설명했다.
         
-        노벨 화학상은 1901년부터 올해까지 모두 114차례 수여
+        프랑스 현대문학의 대표적인 여성
       </content:encoded>
     </item>
     <item>
-      <title>진우스님 “불교 중흥 새 역사 열겠다”</title>
-      <link>https://www.segye.com/newsView/20221005515853</link>
-      <guid>https://www.segye.com/newsView/20221005515853</guid>
-      <pubDate>2022-10-05T20:46:40.000Z</pubDate>
+      <title>[포토] 유라 &apos;초밀착 드레스&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519441</link>
+      <guid>https://www.segye.com/newsView/20221006519441</guid>
+      <pubDate>2022-10-06T20:28:27.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519435.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 유라가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 무대로 이동하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>[포토] 유라 &apos;완벽한 몸매&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519469</link>
+      <guid>https://www.segye.com/newsView/20221006519469</guid>
+      <pubDate>2022-10-06T20:29:56.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519460.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 유라가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 무대로 이동하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>70세 생일 맞은 푸틴 “우크라 침공 이후 고립·심리상태 불안정”</title>
+      <link>https://www.segye.com/newsView/20221006516236</link>
+      <guid>https://www.segye.com/newsView/20221006516236</guid>
+      <pubDate>2022-10-06T20:30:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005518700.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  조계종 신임 총무원장 진우스님(사진)이 5일 취임 법회를 봉행하고 일성으로 ‘불교 중흥 시대’를 선언했다. 조계종은 이날 서울 종로구 조계사 일대에서 정·관계 인사와 불자 등 약 1만명(조계종 추산)이 운집한 가운데 제37대 총무원장 진우스님 취임 법회를 개최했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518194.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  “고립된 데다 비합리적이며, 건강에 대한 두려움이 있다.”
         
-        진우스님은 취임사에서 “유구한 세월 동안 밝혀 온 한국불교의 가치는 ‘요익중생(饒益衆生
+        7일 70번째 생일을 맞는 블라디미르 푸틴 러시아 대통령에 대한 영국 일간 더타임스의 평가다. 신문은 우크라이나 침공 이후 푸틴 대통령의 심리 상태가 불안정하며, 건강 문제도 정권 유지의 변수로 떠올랐다고 5일(현지시간) 전했다.
+        장기간 푸틴 대통령을 지켜봐 온 타티아나 스타노바야 모스크바 카네
       </content:encoded>
+    </item>
+    <item>
+      <title>[포토] 유라 &apos;시선 사로잡는 몸매&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519501</link>
+      <guid>https://www.segye.com/newsView/20221006519501</guid>
+      <pubDate>2022-10-06T20:32:20.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519497.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 유라가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>[포토] 임권택-채령 부부 &apos;BIFF 참석&apos;</title>
-      <link>https://www.segye.com/newsView/20221005518982</link>
-      <guid>https://www.segye.com/newsView/20221005518982</guid>
-      <pubDate>2022-10-05T20:50:39.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005518973.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  임권택 감독(사진 왼쪽)과 채령 부부가 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>[포토] 유라 &apos;매력적인 손인사&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519515</link>
+      <guid>https://www.segye.com/newsView/20221006519515</guid>
+      <pubDate>2022-10-06T20:33:30.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519513.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 유라가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>[포토] 한선화 &apos;미소 천사&apos;</title>
-      <link>https://www.segye.com/newsView/20221005518997</link>
-      <guid>https://www.segye.com/newsView/20221005518997</guid>
-      <pubDate>2022-10-05T20:52:37.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005518995.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 한선화가 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>[포토] 유라 &apos;사인 예쁘죠?&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519534</link>
+      <guid>https://www.segye.com/newsView/20221006519534</guid>
+      <pubDate>2022-10-06T20:35:27.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519532.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 유라가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>[포토] 구혜선-안서현 &apos;블랙으로 멋냈어요!&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519049</link>
-      <guid>https://www.segye.com/newsView/20221005519049</guid>
-      <pubDate>2022-10-05T20:56:42.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519046.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 구혜선(사진 왼쪽)과 안서현이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>[포토] 유라 &apos;초밀착 드레스로 몸매 뽐내&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519563</link>
+      <guid>https://www.segye.com/newsView/20221006519563</guid>
+      <pubDate>2022-10-06T20:38:02.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519660.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 유라가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>클릭화학 개발… 노벨화학상에 버토지 등 3인 수상</title>
-      <link>https://www.segye.com/newsView/20221005519042</link>
-      <guid>https://www.segye.com/newsView/20221005519042</guid>
-      <pubDate>2022-10-05T20:59:33.000Z</pubDate>
+      <title>바이든, 또 욕설… 카메라에 딱 걸렸다</title>
+      <link>https://www.segye.com/newsView/20221006516242</link>
+      <guid>https://www.segye.com/newsView/20221006516242</guid>
+      <pubDate>2022-10-06T20:40:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519063.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  올해 노벨화학상은 분자조립을 쉽고 빠르게 하는 기술인 클릭화학(Click Chemistry)을 개발해 암 치료제 등 제약산업 발전에 기여한 3명의 과학자에게 돌아갔다.
-        스웨덴왕립과학원 노벨위원회는 5일(현지시간) 캐럴린 버토지(56·미국), 모르텐 멜달(68·덴마크), 배리 샤플리스(81·미국)에게 노벨화학상을 수여하기로 했다고 밝혔다. 클릭화학과 생체직교
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518408.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  조 바이든(사진) 미국 대통령이 미국 역사상 5번째로 강력하다고 평가받는 허리케인 이언 피해를 직접 확인하기 위해 플로리다주를 방문한 현장에서 욕설로 또다시 구설에 올랐다.
+        바이든 대통령은 5일(현지시간) 허리케인 이언으로 가장 큰 타격을 받은 플로리다주 포트마이어스비치 레이 머피 시장과 악수하고 인사하면서 누구도 내게 함부로 하지 못한다는 의미로 “No
       </content:encoded>
     </item>
     <item>
-      <title>[포토] 이채영 &apos;눈부신 미모&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519133</link>
-      <guid>https://www.segye.com/newsView/20221005519133</guid>
-      <pubDate>2022-10-05T21:08:32.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519132.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 이채영이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>[포토] 유라 &apos;섹시한 S라인&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519577</link>
+      <guid>https://www.segye.com/newsView/20221006519577</guid>
+      <pubDate>2022-10-06T20:41:21.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519568.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 유라가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>[포토] 정일우 &apos;부산국제영화제 왔어요!&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519143</link>
-      <guid>https://www.segye.com/newsView/20221005519143</guid>
-      <pubDate>2022-10-05T21:10:12.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519141.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 정일우가 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>[포토] 박해수 &apos;따뜻한 미소&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519591</link>
+      <guid>https://www.segye.com/newsView/20221006519591</guid>
+      <pubDate>2022-10-06T20:43:18.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519589.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 박해수가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>[포토] 한선화 &apos;쇄골 미녀&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519159</link>
-      <guid>https://www.segye.com/newsView/20221005519159</guid>
-      <pubDate>2022-10-05T21:11:35.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519153.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 한선화가 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>[포토] 박해수 &apos;반가운 손인사&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519617</link>
+      <guid>https://www.segye.com/newsView/20221006519617</guid>
+      <pubDate>2022-10-06T20:45:35.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519601.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 박해수가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>[포토] 한채아-송지현 &apos;같은 듯 다른 매력&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519174</link>
-      <guid>https://www.segye.com/newsView/20221005519174</guid>
-      <pubDate>2022-10-05T21:13:53.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519172.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 한채아(사진 왼쪽)와 송지현이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>[포토] 박해수 &apos;사인 멋있죠?&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519622</link>
+      <guid>https://www.segye.com/newsView/20221006519622</guid>
+      <pubDate>2022-10-06T20:46:43.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519621.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 박해수가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>[포토] 한채아 &apos;우아한 손짓&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519179</link>
-      <guid>https://www.segye.com/newsView/20221005519179</guid>
-      <pubDate>2022-10-05T21:15:20.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519177.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 한채아가 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>[포토] 박해수-유라 &apos;눈부신 선남선녀&apos;</title>
+      <link>https://www.segye.com/newsView/20221006519641</link>
+      <guid>https://www.segye.com/newsView/20221006519641</guid>
+      <pubDate>2022-10-06T20:48:25.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519640.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 박해수(사진 왼쪽)와 유라가 6일 오후 부산 해운대구 체스154에서 진행된 부산국제영화제 개최 기념 주류 브랜드의 애프터 파티 포토콜에 참석해 포즈를 취하고 있다.</content:encoded>
     </item>
     <item>
-      <title>[포토] 송지현 &apos;청순 글래머&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519188</link>
-      <guid>https://www.segye.com/newsView/20221005519188</guid>
-      <pubDate>2022-10-05T21:16:27.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519184.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 송지현이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>울긋불긋 꽃밭 속에 숨은 얼룩말 의미는</title>
+      <link>https://www.segye.com/newsView/20221006514492</link>
+      <guid>https://www.segye.com/newsView/20221006514492</guid>
+      <pubDate>2022-10-06T21:33:40.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519411.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  흰 바탕에 검은 줄무늬를 가진 얼룩말이 빨간 화병 정중앙에서 관람객을 응시한다. 얼룩말은 자신을 숨기려 하기보다는 당당하게 무대로 나와 타자들에게 자신의 온몸을 드러내고 싶은 듯하다. 그러나 그림을 꼼꼼히 들여다보면, 이내 주변에서는 숨어 있는 또 다른 얼룩말들의 일부를 찾아낼 수 있다. 울긋불긋 꽃밭 속에서도 용케 숨어 있는 얼룩말을 찾아내게 하면서, 숨</content:encoded>
     </item>
     <item>
-      <title>[포토] 이윤지-김선영 &apos;BIFF 왔어요!&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519207</link>
-      <guid>https://www.segye.com/newsView/20221005519207</guid>
-      <pubDate>2022-10-05T21:18:13.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519205.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 이윤지(사진 왼쪽)와 김선영이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>지역의 삶 오롯이 캔버스가 된 부산</title>
+      <link>https://www.segye.com/newsView/20221006514476</link>
+      <guid>https://www.segye.com/newsView/20221006514476</guid>
+      <pubDate>2022-10-06T21:33:58.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519378.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  부산에서 한창인 전시들이 이 항구도시에 쌓인 여러 겹 역사를 다각도로 보게 만든다. ‘물결 위 우리(WE, ON THE RISING WAVE)’란 주제로 열리고 있는 부산비엔날레 2022와 부산시립미술관의 소장품전 ‘모든 것은 서로를 만들어 나간다’에서다.
+        ◆부산시립미술관 소장품전
+        
+        “부산의 역사와 미술이 분리돼 있지 않음을 보여주고자 한다.”
+        
+        ‘
+      </content:encoded>
     </item>
     <item>
-      <title>[포토] 김시은 &apos;청순 미소&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519215</link>
-      <guid>https://www.segye.com/newsView/20221005519215</guid>
-      <pubDate>2022-10-05T21:19:42.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519213.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 김시은이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>50년 세월 뛰어넘은 ‘환상 하모니’…정명훈·임윤찬 클래식 무대 호흡</title>
+      <link>https://www.segye.com/newsView/20221006514504</link>
+      <guid>https://www.segye.com/newsView/20221006514504</guid>
+      <pubDate>2022-10-06T21:35:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519658.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  우리나라 클래식을 대표하는 거장과 미래가 촉망되는 음악가의 하모니는 반백년 차이를 무색하게 할 만큼 따뜻하고 감동적이었다. 5일 저녁 서울 송파구 롯데콘서트홀에선 마에스트로 정명훈(69)이 이끄는 원 코리아 오케스트라와 지난 6월 밴 클라이번 국제콩쿠르에서 역대 최연소 우승하며 세계 클래식계를 뒤흔든 피아니스트 임윤찬(18) 협연 무대가 열렸다. 연주곡은</content:encoded>
     </item>
     <item>
-      <title>[포토] BIFF 찾은 김수연-강해림-김영광</title>
-      <link>https://www.segye.com/newsView/20221005519246</link>
-      <guid>https://www.segye.com/newsView/20221005519246</guid>
-      <pubDate>2022-10-05T21:23:01.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519233.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 김수연, 강해림, 김영광(사진 왼쪽부터)이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>프로골퍼 박결, 비와 불륜설 일축 “나쁜 사람들…번호도 모르는데”</title>
+      <link>https://www.segye.com/newsView/20221006519655</link>
+      <guid>https://www.segye.com/newsView/20221006519655</guid>
+      <pubDate>2022-10-06T23:03:22.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006520604.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  프로골퍼 박결이 자신을 둘러싼 루머에 대해 입장을 밝혔다.
+        
+        박결은 6일 자신의 인스타그램에 &quot;어이가 없다&quot;라며 &quot;몇 년 전에 스폰서 행사에서 본 게 다인데&quot;라는 글을 게시하면서 자신에게 제기된 루머에 대해 간접적으로 입장을 밝혔다.
+        
+        박결은 &quot;번호도 모르는데, 나쁜 사람들&quot;라며 &quot;닮지는 않았지만 비교해 줘서 고마웠는데, 이런 말도 안되는 일이 생기다니
+      </content:encoded>
     </item>
     <item>
-      <title>[포토] 전종서 &apos;우월한 글래머 몸매&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519268</link>
-      <guid>https://www.segye.com/newsView/20221005519268</guid>
-      <pubDate>2022-10-05T21:25:48.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519263.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 전종서가 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>위장하면서도 솔직하고 싶은 욕망…홍시연 개인전</title>
+      <link>https://www.segye.com/newsView/20221006504322</link>
+      <guid>https://www.segye.com/newsView/20221006504322</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006504431.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  흰 바탕에 검은 줄무늬를 가진 얼룩말이 빨간 화병 정중앙에서 관람객을 응시한다. 얼룩말은 자신을 숨기려 하기보다는 당당하게 무대로 나와 타자들에게 자신의 온 몸을 드러내고 싶은 듯하다. 그러나 그림을 꼼꼼히 들여다보면, 이내 주변에서는 숨어있는 또 다른 얼룩말들의 일부를 찾아낼 수 있다. 울긋불긋 꽃밭 속에서도 용케 숨어있는 얼룩말을 찾아내게 하면서, 숨바</content:encoded>
     </item>
     <item>
-      <title>[포토] 전종서, 드레스가 밟혀 &apos;아찔한 노출&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519290</link>
-      <guid>https://www.segye.com/newsView/20221005519290</guid>
-      <pubDate>2022-10-05T21:27:28.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519278.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 전종서가 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>장인이 재현한 고종의 집무실 공개</title>
+      <link>https://www.segye.com/newsView/20221006511567</link>
+      <guid>https://www.segye.com/newsView/20221006511567</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006511566.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  고종의 집무실이었던 덕수궁 즉조당 내부가 장인 솜씨로 재현됐다.
+        
+        문화재청 궁능유적본부 덕수궁관리소는 6일 재단법인 아름지기와 함께 오는 12일부터 19일까지 서울 중구에 위치한 덕수궁 즉조당에서 ‘2022 즉조당 재현 집기’ 전시를 개최한다.
+        덕수궁 즉조당 재현 집기 전시는 문화재청과 아름지기, 에르메스코리아와의 협업으로 2018년부터 2021년까지 4
+      </content:encoded>
     </item>
     <item>
-      <title>[포토] 박지훈 &apos;배우로 변신&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519305</link>
-      <guid>https://www.segye.com/newsView/20221005519305</guid>
-      <pubDate>2022-10-05T21:30:13.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519304.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  가수 겸 배우 박지훈이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>GS·포스코, 배터리 재활용 합작법인 추진</title>
+      <link>https://www.segye.com/newsView/20221006516312</link>
+      <guid>https://www.segye.com/newsView/20221006516312</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518399.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  GS에너지와 포스코홀딩스가 이차전지 리사이클링 사업 합작법인을 설립한다.
+        
+        GS에너지는 6일 서울 강남구 포스코센터에서 포스코홀딩스와 ‘포스코GS에코머티리얼즈’ 설립을 위한 계약 서명식(JVA)을 했다고 밝혔다.
+        서명식에는 허태수 GS그룹 회장, 홍순기 ㈜GS 대표이사 사장, 허용수 GS에너지 대표이사 사장 등과 함께 최정우 포스코그룹 회장, 유병옥 포
+      </content:encoded>
     </item>
     <item>
-      <title>[포토] 김유정 &apos;미소 천사&apos;</title>
-      <link>https://www.segye.com/newsView/20221005519317</link>
-      <guid>https://www.segye.com/newsView/20221005519317</guid>
-      <pubDate>2022-10-05T21:31:10.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519314.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 김유정이 5일 오후 부산시 해운대구 영화의전당 하늘연극장에서 열리는 ’제27회 부산국제영화제’ 개막식 행사에 참석해 레드카펫을 밟고 있다.</content:encoded>
+      <title>LG전자, 웹OS 앞세워 TV사업 키운다</title>
+      <link>https://www.segye.com/newsView/20221006516308</link>
+      <guid>https://www.segye.com/newsView/20221006516308</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006516310.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  LG전자가 웹OS(webOS)를 앞세워 TV 소프트웨어 플랫폼 사업 확대에 나섰다.
+        
+        LG전자는 외부 TV 업체에 공급 중인 독자 소프트웨어 플랫폼 웹OS를 업그레이드한 ‘웹OS 허브(Hub)’를 최근 새롭게 출시했다고 6일 밝혔다.
+        
+        웹OS 허브에는 클라우드 게임 서비스를 새로 탑재해 LG 스마트 TV뿐 아니라 다른 제조사의 웹OS TV 사용자도
+      </content:encoded>
     </item>
     <item>
-      <title>6600만년전 4.5㎞ 높이 괴물 쓰나미, 지구 반대편 해저까지 뒤집어놨다</title>
-      <link>https://www.segye.com/newsView/20221005515404</link>
-      <guid>https://www.segye.com/newsView/20221005515404</guid>
-      <pubDate>2022-10-05T22:00:00.000Z</pubDate>
+      <title>제네시스, 부산국제영화제 개막식 레드카펫에 의전차량 제공</title>
+      <link>https://www.segye.com/newsView/20221006507575</link>
+      <guid>https://www.segye.com/newsView/20221006507575</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516605.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  약 6600만년 전 공룡 멸종의 원인으로 유력하게 꼽히는 소행성 지구 충돌 당시 초기 파고 4.5㎞의 괴물 쓰나미가 일면서 지구 반대편 해저까지 뒤집어놓았다는 분석이 나왔다고 CNN이 4일(현지시간) 보도했다.
-        
-        미국 미시간대 지구환경과학과 브라이언 아르빅 교수가 이끄는 연구팀은 미국지구물리학회(AGU) 학술지 ‘AGU어드밴시스’에 발표한 논문에서 지름
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006507777.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  제네시스가 지난 5일 부산 해운대구 센텀시티 영화의 전당에서 열린 제27회 부산국제영화제 개막식에 GV60, GV70 전동화 모델, GV80, G80, G90 등 의전 차량 100여대를 제공했다고 6일 밝혔다. 
+        ‘올해의 아시아영화인상’을 수상한 배우 양조위는 이번 영화제의 히어로 카로 선정된 제네시스의 플래그십 세단 G90를 타고 입장했으며, 개막식 사회
       </content:encoded>
     </item>
     <item>
-      <title>정보 오발신·먹통… 문제 드러낸 日 경보시스템</title>
-      <link>https://www.segye.com/newsView/20221005515406</link>
-      <guid>https://www.segye.com/newsView/20221005515406</guid>
-      <pubDate>2022-10-05T22:00:00.000Z</pubDate>
+      <title>농식품부, 농지 불법전용 단속…농업생산시설 태양광 발전에 부정 활용 여부 조사</title>
+      <link>https://www.segye.com/newsView/20221006516971</link>
+      <guid>https://www.segye.com/newsView/20221006516971</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516618.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  “텔레비전에서 보도되는 뉴스와는 너무 달라서 뭔가 잘못된 건가 생각했습니다. 어디로 피해야 할지도 모르는데 정말 무서웠어요.”
+        농림축산식품부는 태양광 발전을 하기 위해 버섯 재배나 곤충 사육을 가장하는 사례 등에 대한 단속에 나서기로 했다.
         
-        일본 도쿄도(都) 이즈제도(伊豆諸島)의 오시마마치(大島町)에 사는 70대 여성은 NHK방송과의 인터뷰에서 불만 가득한 표정을 풀지 못했다. 4일 북한이 발사한 미사일이 일본 상공을 통과하자 일본 정부가 전국순시(瞬時)경보시스템(
+        농식품부는 오는 11일부터 다음달 30일까지 17개 시도, 226개 시군구와 함께 농지 불법전용 및 부정 활동 여부에 대한 교차단속을 추진한다고 6일 밝혔다. 정부는 농지를 허가 없이 전용하는 사례를 중점적으로 점검하되, 태양광 발전을 위해
       </content:encoded>
     </item>
     <item>
-      <title>“美 중간선거 한국계 하원의원 전원 당선 유력”</title>
-      <link>https://www.segye.com/newsView/20221005515836</link>
-      <guid>https://www.segye.com/newsView/20221005515836</guid>
-      <pubDate>2022-10-05T22:00:00.000Z</pubDate>
+      <title>10월 6만가구 ‘큰 장’ 선다… 분양 열기 되살아날까</title>
+      <link>https://www.segye.com/newsView/20221006514318</link>
+      <guid>https://www.segye.com/newsView/20221006514318</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005518773.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  미국의 11월 중간선거에서 한국계 연방 하원의원 4명이 모두 당선될 가능성이 높다는 분석이 나왔다.
-        한국계 미국인의 미국 정치 참여를 유도하고 연방 의회에서 친한·지한파 정치인 그룹을 조직·지원하는 미주한인유권자연대(KAGC)는 4일(현지시간) 워싱턴에서 특파원간담회를 열고 한국계 하원의원 4명이 모두 당선이 유력하다고 주장했다. 현재 하원에는 민주당의 앤
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518668.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  정부가 세종시를 제외한 지방 전역과 수도권 일부를 부동산 규제지역에서 해제한 가운데 10월 전국에서 큰 분양시장이 선다. 부동산 경기와 함께 빠르게 식어가던 분양 열기가 회복될지 주목된다.
+        6일 부동산 플랫폼 직방에 따르면, 이달 전국에서 아파트 총 74개 단지, 5만9911가구(일반분양 4만7534가구)가 분양을 앞두고 있다. 지난해 동월(1만7791가구
       </content:encoded>
     </item>
     <item>
-      <title>‘아이브 경북대 축제 출연 불발’ 진실 공방 일단락될듯…섭외 담당 에이전시 “저희 잘못” 사과</title>
-      <link>https://www.segye.com/newsView/20221005513473</link>
-      <guid>https://www.segye.com/newsView/20221005513473</guid>
-      <pubDate>2022-10-05T22:30:04.000Z</pubDate>
+      <title>[새로 나왔어요] 에스트라 리제덤RX 리프팅 캡슐크림 외</title>
+      <link>https://www.segye.com/newsView/20221006514466</link>
+      <guid>https://www.segye.com/newsView/20221006514466</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519753.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  걸그룹 아이브((IVE)의 대학 축제 출연 불발을 둘러싸고 책임 공방이 벌어진 가운데 출연 섭외를 담당했던 에이전시 측이 사과에 나섰다.
-        
-        경북대 대동제와 관련해 아이브 섭외를 담당했던 더메르센 에이전시 측은 5일 “먼저 금번 출연 이슈로 혼선을 빚게 된 점 정중히 사과드리며 오해가 없으시도록 아이브 섭외 과정과 출연 불발 이유를 간략히 말씀드리겠다”고
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518582.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  아모레퍼시픽의 메디 뷰티 브랜드 에스트라(AESTURA)가 신제품 ‘에스트라 리제덤RX 리프팅 캡슐크림’을 출시했다. 에스트라의 특허 캡슐에 독일 바스프(BASF)사의 특허 성분 펩타이드가 더해진 ‘파워 리프팅 캡슐TM’이 최초로 적용됐다.
+        프로스펙스가 한층 높아진 경량성과 유연성으로 러닝 입문자부터 숙련된 러너까지 신기 좋은 러닝화 ‘X-FIN’을 선보였
       </content:encoded>
     </item>
     <item>
-      <title>[포토] &apos;제27회 부산국제영화제&apos; 개막식</title>
-      <link>https://www.segye.com/newsView/20221005519893</link>
-      <guid>https://www.segye.com/newsView/20221005519893</guid>
-      <pubDate>2022-10-05T22:35:30.000Z</pubDate>
+      <title>[부동산 단신] LH, 이달 인천영종 등 분양·임대 1046가구 공급 외</title>
+      <link>https://www.segye.com/newsView/20221006514319</link>
+      <guid>https://www.segye.com/newsView/20221006514319</guid>
+      <pubDate>2022-10-07T01:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519885.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  5일 오후 부산 해운대구 영화의 전당에서 ’제27회 부산국제영화제’ 개막식이 진행되고 있다. 제27회 부산국제영화제는 5일부터 14일까지 영화의전당 일대에서 개최된다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518680.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  LH, 이달 인천영종 등 분양·임대 1046가구 공급
         
-        코로나바이러스감염증-19(COVID-19)와 함께 많은 우여곡절을 겪은 부산국제영화제는 올해 비로소 팬데믹 이전 영화제의 모습으로 돌아온다. 현행 방역 지침을 준수하면서, 사회적 거리두기
+        한국토지주택공사는 이달 전국에서 분양·임대주택 총 3개 단지 1046가구를 공급한다고 6일 밝혔다. 공공분양 675가구, 국민임대 221가구, 영구임대 150가구로, 인천과 경기, 전북 지역이다. ‘인천영종 A60블록’(조감도)은 영종하늘도시 내 위치한 공공분양주택으로 지하 1층~지상 25층의 총 6
       </content:encoded>
     </item>
     <item>
-      <title>[포토] &apos;제27회 BIFF&apos; 개막식 열려</title>
-      <link>https://www.segye.com/newsView/20221005519915</link>
-      <guid>https://www.segye.com/newsView/20221005519915</guid>
-      <pubDate>2022-10-05T22:37:58.000Z</pubDate>
+      <title>NH투자증권, 가업승계 컨설팅 업무 MOU 체결</title>
+      <link>https://www.segye.com/newsView/20221006506681</link>
+      <guid>https://www.segye.com/newsView/20221006506681</guid>
+      <pubDate>2022-10-07T01:01:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005519904.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  5일 오후 부산 해운대구 영화의 전당에서 ’제27회 부산국제영화제’ 개막식이 진행되고 있다. 제27회 부산국제영화제는 5일부터 14일까지 영화의전당 일대에서 개최된다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006506680.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  NH투자증권은 한영회계법인과 가업승계컨설팅 관련 업무제휴를 체결했다고 6일 밝혔다.
         
-        코로나바이러스감염증-19(COVID-19)와 함께 많은 우여곡절을 겪은 부산국제영화제는 올해 비로소 팬데믹 이전 영화제의 모습으로 돌아온다. 현행 방역 지침을 준수하면서, 사회적 거리두기
+        NH투자증권 Premier Blue본부는 이번 협약을 통해 한영회계법인의 오래된 지식과 노하우, 글로벌 조직력을 통해 고객들의 원활한 가업승계가 이루어질 수 있도록 지원한다는 계획이다.
+        NH투자증권 Premier Blue본부는 고액자산가 자산관리에 특화된 본부로, 한영회
       </content:encoded>
     </item>
     <item>
-      <title>남궁민♥진아름 청첩장 공개…동방신기 축가</title>
-      <link>https://www.segye.com/newsView/20221005518355</link>
-      <guid>https://www.segye.com/newsView/20221005518355</guid>
-      <pubDate>2022-10-05T23:17:29.000Z</pubDate>
+      <title>“안전한 염색샴푸 위해 새 제형 지속 연구”</title>
+      <link>https://www.segye.com/newsView/20221006514443</link>
+      <guid>https://www.segye.com/newsView/20221006514443</guid>
+      <pubDate>2022-10-07T02:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005520150.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  배우 남궁민(44)·모델 진아름(33)의 청첩장이 공개됐다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518562.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  “IT 시장에 새로운 제품이 처음 나올 때 시장과 고객의 반응이 혼란스러운 것처럼 새로운 샴푸 유형인 염색샴푸도 마찬가지입니다.”
         
-        무술감독 이수민은 5일 인스타그램 스토리에 두 사람의 청첩장을 올렸다. &quot;축하드립니다. 궁민 형님&quot;이라고 썼다. 남궁민과 진아름은 청첩장에서 &quot;두 사람이 하나가 되는 뜻 깊은 날 고마운 분들을 모시고자 합니다. 약속의 자리에 함께 하시어 축복해 주시면 감사하겠습니다&quot;라고 인사했다. &apos;청첩장 미
+        두피·모발 케어 브랜드 ‘닥터포헤어’를 운영하는 권규석(40·사진) 와이어트 대표는 6일 기자와 인터뷰에서 “염색샴푸에 대한 수요는 상승세이지만 시장의 안정화를 위해 새로운 제형을 지속적으로 연구하고 있다”며 이같이 말했다.
       </content:encoded>
     </item>
     <item>
-      <title>노벨화학상 공동 수상자들 “깜짝 놀라…숨을 쉴 수 없을 정도”</title>
-      <link>https://www.segye.com/newsView/20221005520321</link>
-      <guid>https://www.segye.com/newsView/20221005520321</guid>
-      <pubDate>2022-10-06T00:16:47.000Z</pubDate>
+      <title>IMF총재 “내년 세계 경제성장률 예측치 2.9%에서 하향조정”</title>
+      <link>https://www.segye.com/newsView/20221006521005</link>
+      <guid>https://www.segye.com/newsView/20221006521005</guid>
+      <pubDate>2022-10-07T02:12:29.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006500079.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  “완전히 깜짝 놀랐다.”(모르텐 멜달)
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500731.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  크리스탈리나 게오르기에바 국제통화기금(IMF) 총재는 6일(현지시간) 내년도 세계 경제성장률 예측치를 기존의 2.9%에서 하향조정할 것이라고 밝혔다.
         
-        “완전히 놀라서 숨을 쉴 수가 없었다.”(캐럴린 버토지)
+        게오르기에바 총재는 이날 조지타운대 연설에서 경기침체 및 금융 불안정성에 대한 위험 증가를 거론하면서 IMF가 이 같은 내용을 골자로 한 세계 경제 전망을 다음 주에 발표한다고 밝혔다. 
         
-        9올해 노벨화학상 공동수상자들은 수상 소식 직후 귀를 의심하면서도 기쁨을 감추지 못했다. 스웨덴 과학원은 5일(현지시간) 버토지(56·미국) 스탠포드대 교수, 배리 샤프리스(81·미국) 스크립스연구소 박사, 멜달(68·덴마크) 코펜하겐대 교수를 올 노벨
+        앞서 IMF는
       </content:encoded>
+    </item>
+    <item>
+      <title>中신장 인권문제 토론, 유엔 표결서 19대17로 부결… 한·미 찬성</title>
+      <link>https://www.segye.com/newsView/20221006521017</link>
+      <guid>https://www.segye.com/newsView/20221006521017</guid>
+      <pubDate>2022-10-07T02:37:10.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500828.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  중국 정부가 신장에서 위구르족의 인권을 침해했다는 의혹을 두고 유엔 인권이사회에서 토론회를 여는 방안이 6일(현지시간) 표결에 부쳐졌으나 부결됐다.최근 미국과 영국 등 서방국가들이 유엔에 제출한 이 결의안은 47개 이사국 가운데 한국을 포함, 미국과 영국 등 17개국이 찬성했으나 중국과 인도네시아, 네팔 등 19개국이 반대표를 던지면서 통과되지 못했다. 말</content:encoded>
+    </item>
+    <item>
+      <title>첨단 농기계·빅데이터 기반… 생산서 유통까지 스마트화 [농어촌이 미래다-그린라이프]</title>
+      <link>https://www.segye.com/newsView/20221004520937</link>
+      <guid>https://www.segye.com/newsView/20221004520937</guid>
+      <pubDate>2022-10-07T03:04:34.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006518154.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  충북 괴산 불정면 일대에서는 최근 ‘농업의 진화’가 진행 중이다. 이곳에서는 노지 농작물을 대상으로 정보통신기술(ICT)을 활용한 ‘노지 스마트농업’ 시범사업이 한창이다. 그동안 스마트농업은 비닐하우스 등 시설농업을 중심으로 진행돼 왔다. 하지만 국내 농경지 면적의 95% 이상이 노지인 현실을 감안하면 ‘노지 스마트농업’으로 변화는 불가피한 상황이다.</content:encoded>
     </item>
     <item>
-      <title>레전트 팝가수 마이클 볼턴, 11월 8·9일 고척 스카이돔서 내한 공연</title>
-      <link>https://www.segye.com/newsView/20221005518209</link>
-      <guid>https://www.segye.com/newsView/20221005518209</guid>
-      <pubDate>2022-10-06T01:00:00.000Z</pubDate>
+      <title>신임 여신금융협회장에 정완규</title>
+      <link>https://www.segye.com/newsView/20221006519289</link>
+      <guid>https://www.segye.com/newsView/20221006519289</guid>
+      <pubDate>2022-10-07T04:12:25.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005518208.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  호소력 짙은 미국의 팝스타 마이클 볼턴(56·Michael Bolton·마이클 볼튼)이 8년 만에 내한 공연한다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519754.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  여신금융협회는 6일 임시총회를 열고 정완규(사진) 전 한국증권금융 사장을 제13대 회장으로 선임했다고 밝혔다.
         
-        5일 공연 제작사 KBES에 따르면, 볼턴은 다음달 8, 9일 서울 고척스카이돔에서 내한 공연 ‘앙코르, 마이클 볼턴 라이브 인 서울(Encore, Michael Bolton Live in Seoul)’을 연다.
+        정 회장은 행정고시 34회로 공직에 입문해 금융위원회 중소서민금융정책관, 국회 수석전문위원, 금융정보분석원장 등을 역임했다. 협회는 정 회장이 공직과 민간 금융시장을 두루 거치며 금융에 대한 풍부한 경험과 전문성을 쌓았고, 원활한 소통 능력을
+      </content:encoded>
+    </item>
+    <item>
+      <title>포스코그룹 ‘도서 나눔 캠페인’ 대상지 확대</title>
+      <link>https://www.segye.com/newsView/20221006519279</link>
+      <guid>https://www.segye.com/newsView/20221006519279</guid>
+      <pubDate>2022-10-07T04:14:40.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519280.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  포스코그룹은 임직원들의 온라인 교육 활용도를 높이면서 사회공헌활동도 할 수 있는 ‘러닝플랫폼과 함께하는 아동도서 나눔 캠페인’을 확대 시행한다고 6일 밝혔다.
         
-        2014년 올림픽공원 체
+        이번 캠페인은 그룹사 임직원들이 회사의 온라인 학습공간인 ‘러닝플랫폼’을 통해 학습하고 포인트를 쌓으면 포스코인재창조원이 매월 우수학습자 10명을 선정해 이들 명의로 지역 아동센터에 아동도서를
       </content:encoded>
     </item>
     <item>
-      <title>지휘 거장 바렌보임 “당분간 지휘 물러나 건강회복 집중”…열의 보인 11월 내한 공연 입장은 안 밝혀</title>
-      <link>https://www.segye.com/newsView/20221005516022</link>
-      <guid>https://www.segye.com/newsView/20221005516022</guid>
-      <pubDate>2022-10-06T01:00:00.000Z</pubDate>
+      <title>태국 어린이집서 총기난사 사건… 최소 38명 사망</title>
+      <link>https://www.segye.com/newsView/20221007500068</link>
+      <guid>https://www.segye.com/newsView/20221007500068</guid>
+      <pubDate>2022-10-07T04:21:40.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516019.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  세계에서 두 번째로 오래된 명문 교향악단 베를린 슈타츠카펠레를 이끌고 다음달 내한공연을 앞둔 피아니스트 겸 지휘 거장 다니엘 바렌보임(80)이 당분간 무대에서 내려와 건강 회복에 집중하겠다고 발표했다. 다만 한국을 처음 찾는 베를린 슈타츠카펠레의 공연 무대에 대한 입장은 따로 밝히지 않았다.
-        바렌보임은 4일(현지시간) 자신의 트위터와 페이스북 등 소셜네트워
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007501308.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  태국 북동부 보육시설에서 6일(현지시간) 어린이 등 약 40명이 목숨을 잃는 총기 난사 사건이 발생했다.
+        
+        이날 방콕포스트 등 현지 언론과 외신에 따르면 태국 농부아람푸주 나끌랑 지역에서 발생한 이 사건으로 최소 38명이 숨졌다. 희생자 가운데에는 어린이가 22명 포함된 것으로 전해졌다.
+        용의자는 마약 관련 혐의로 올해 초 해고된 전직 경찰관 빤야 캄랍
       </content:encoded>
     </item>
     <item>
-      <title>LG엔솔, 배터리 교환사업 진출</title>
-      <link>https://www.segye.com/newsView/20221005515450</link>
-      <guid>https://www.segye.com/newsView/20221005515450</guid>
-      <pubDate>2022-10-06T01:00:00.000Z</pubDate>
+      <title>“경기도 감사보고서, 윤석열 장모 개발사업 특혜 의혹 ‘대부분 사실’ 적시”</title>
+      <link>https://www.segye.com/newsView/20221006520840</link>
+      <guid>https://www.segye.com/newsView/20221006520840</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        LG에너지솔루션이 배터리 비즈니스 생태계 확장을 위해 사내 독립기업(CIC)을 운영하며 배터리 교환사업 등을 추진한다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500652.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  지난해 의혹이 불궈졌던 윤석열 대통령 처가의 경기 양평 공흥지구 개발사업 특혜 의혹에 대해 경기도가 감사 결과 일부 사실로 확인됐다고 결론냈다고 MBC가 6일 보도했다. 
         
-        5일 LG에너지솔루션은 사내 독립기업으로 ‘쿠루(KooRoo)’ ‘에이블(AVEL)’ 두 곳을 출범했다고 밝혔다.
+        MBC는 이날 이 사건에 대한 경기도 감사보고서를 단독 입수했다면서 “감사 보고서에 따르면 당시 불거졌던 의혹들이 대부분 사실이었던 것으로 확인됐다”고 보도했다. 
         
-        쿠루는 배터리 생애주기 전 과정에서 발생하는 데이터를 바탕으로 다양한 서비스를 제공하는 사업 모델인 ‘BaaS’(
+        지난해 대선 레
       </content:encoded>
     </item>
     <item>
-      <title>한국조선해양, 2조원대 친환경 선박 7척 수주</title>
-      <link>https://www.segye.com/newsView/20221005515444</link>
-      <guid>https://www.segye.com/newsView/20221005515444</guid>
-      <pubDate>2022-10-06T01:00:00.000Z</pubDate>
+      <title>“마약 상황 ‘심각’”, “소년원생들 밥 제대로 먹어야”…한동훈 법무장관 말말말</title>
+      <link>https://www.segye.com/newsView/20221007500502</link>
+      <guid>https://www.segye.com/newsView/20221007500502</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517090.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  현대중공업그룹 조선 지주사인 한국조선해양이 총 2조원대의 대규모 친환경 선박 7척을 수주했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500581.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  6일 국회에서 자정 무렵까지 진행된 법제사법위원회의 국정감사는 사실상 법무부 국정감사였다. 법무부 외에도 대한법률구조공단과 한국법무보호복지공단, 정부법무공단, 이민정책연구원이 대상이었으나 여야 의원들 질의는 한동훈 법무부 장관에게만 쏟아졌다.
         
-        한국조선해양은 5일 세계 최대 선사인 덴마크의 머스크와 1만7000TEU(1TEU는 20피트 컨테이너 1개)급 초대형 메탄올 추진 컨테이너선 6척에 대한 건조계약을 체결했다고 공시했다. 금액 규모는 1조6201억원으로 울산 현대중공업에서 건조돼 2025년까지
+        한동훈 장관은 국내 마약 문제가 “심각한 상황”이라고 진단하며 “무조건 막아야 된다”고 목소리를 높였다. 또 “
       </content:encoded>
     </item>
     <item>
-      <title>한국투자증권, IRP 고객 대상 이벤트 실시 [투데이 마이머니]</title>
-      <link>https://www.segye.com/newsView/20221005507452</link>
-      <guid>https://www.segye.com/newsView/20221005507452</guid>
-      <pubDate>2022-10-06T01:00:00.000Z</pubDate>
+      <title>‘기상학적’ 가을 시작?… “아직 지켜봐야”</title>
+      <link>https://www.segye.com/newsView/20221006516360</link>
+      <guid>https://www.segye.com/newsView/20221006516360</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005507450.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  한국투자증권은 이번달 말까지 영업점 고객을 대상으로 개인형퇴직연금(IRP) 계좌개설·입금 이벤트를 진행한다고 5일 밝혔다. 
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517562.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  6일 서울 아침 최저기온이 12.7도까지 떨어졌다. 대관령은 전날 아침 기온이 7.6도까지 낮아졌고 이날도 8.1도에 그쳤다. 출근길에 두꺼워진 옷을 쉽게 볼 수 있을 만큼 가을이 완연해진 듯한 요즘이지만, ‘기상학적’으로 가을이 시작됐는지는 아직 지켜봐야 한다. 최근 100여년의 추이를 보면 가을 시작이 지속적으로 늦어지고 있다.
         
-        이벤트 기간 중 IRP 계좌를 신규 개설하고 30만원 이상 입금한 고객 1000명을 추첨해 스타벅스 커피 쿠폰을 지급한다. 또, 다른 금융사에서 한국투자증권 IRP 계좌로 자산을 500만원 이상 이전하거나 새로 입금한 고객 500
+        기상학적으로 가을은
       </content:encoded>
     </item>
     <item>
-      <title>LG에너지솔루션, 사내 독립기업 운영… 배터리 교환 사업 진출</title>
-      <link>https://www.segye.com/newsView/20221005509302</link>
-      <guid>https://www.segye.com/newsView/20221005509302</guid>
-      <pubDate>2022-10-06T01:00:00.000Z</pubDate>
+      <title>“관세음보살이 시켜” 마약 후 ‘묻지마 살인’ 40대 중국인 징역 35년... “엄한 처벌 불가피”</title>
+      <link>https://www.segye.com/newsView/20221006516042</link>
+      <guid>https://www.segye.com/newsView/20221006516042</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        LG에너지솔루션이 배터리 비즈니스 생태계 확장을 위해 사내 독립기업(CIC)을 운영하며 배터리 교환사업 등을 추진한다. 
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513736.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  마약을 투약한 채 길에서 마주친 행인을 폭행해 숨지게 하고 금품까지 갈취한 혐의를 받는 40대 중국인에게 1심 법원이 중형을 선고했다.
         
-        3일 LG에너지솔루션은 사내 독립기업으로 ‘쿠루(KooRoo)’, ‘에이블(AVEL)’ 두 곳을 출범했다고 밝혔다.
-        
-        쿠루는 배터리 생애주기 전 과정에서 발생하는 데이터를 바탕으로 다양한 서비스를 제공하는 사업 모델인 BaaS 관련
+        서울남부지법 형사합의13부(부장판사 이상주)는 6일 강도살인·폭행·마약류관리에 관한 법률 위반(항정) 등의 혐의로 기소된 40대 남성 A씨에게 징역 35년과 전자장치 부착 10년을 선고했다. 아울러 약물중독 재활프로그램
       </content:encoded>
     </item>
     <item>
-      <title>한국예탁결제원, 신한은행과 ‘현금 담보 신탁 보관·관리’ 업무 협약 체결</title>
-      <link>https://www.segye.com/newsView/20221005507480</link>
-      <guid>https://www.segye.com/newsView/20221005507480</guid>
-      <pubDate>2022-10-06T01:00:00.000Z</pubDate>
+      <title>“尹정부 장차관 16명, 부동산 임대 의심”</title>
+      <link>https://www.segye.com/newsView/20221006516426</link>
+      <guid>https://www.segye.com/newsView/20221006516426</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005507535.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  한국예탁결제원이 신한은행과 비청산 장외파생상품 거래에 따른 현금담보를 신탁 방식으로 보관·관리 할 수 있는 사업을 내년 초 시작하기로 했다. 
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517067.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  윤석열정부 장차관의 평균 재산이 일반 국민 평균의 8배에 달한다는 분석이 나왔다.
         
-        한국예탁결제원은 4일 신한은행과 ‘현금담보 신탁관리 사업’을 위한 업무협약을 체결했다고 5일 밝혔다. 이 사업은 지난해 9월 시작한 개시증거금 의무교환제도에 따라 비청산 장외파생상품거래 참가 금융기관들이 증권뿐
+        경제정의실천시민연합은 6일 기자회견을 열고 장차관 41명이 보유한 재산을 분석한 결과, 이들 평균 재산은 32억6000만원으로 국민 평균 가구자산(4억1000만원)의 8배에 달한다고 발표했다. 교육부·보건복지부 장관은 조사 당시 지명되지 않아 제외됐다.
+        가장 많은 재산을
       </content:encoded>
     </item>
     <item>
-      <title>삼성전자, KES 2022서 ‘C랩 전시관’ 첫 선</title>
-      <link>https://www.segye.com/newsView/20221005515442</link>
-      <guid>https://www.segye.com/newsView/20221005515442</guid>
-      <pubDate>2022-10-06T01:00:00.000Z</pubDate>
+      <title>펜 하나로 무한한 세계 그렸던 천재 작가</title>
+      <link>https://www.segye.com/newsView/20221006519293</link>
+      <guid>https://www.segye.com/newsView/20221006519293</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        삼성전자가 지난 4일부터 나흘간 서울 삼성동 코엑스(COEX)에서 열리는 ‘한국전자전’(KES 2022)에서 ‘C랩’의 다양한 혁신 제품과 솔루션을 처음으로 선보인다고 5일 밝혔다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519750.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  아무것도 없는 흰 종이 위에 펜 하나로 새 세계를 그려냈던 일러스트레이터 김정기 작가가 심근경색으로 별세했다. 향년 47세.
         
-        C랩은 삼성전자의 스타트업 지원 프로그램이다. 창의적 조직 문화 구축과 확산을 위해 2012년 12월부터 운영하는 사내벤처 프로그램 ‘C랩 인사이드’와 2018년 신설한
+        고인과 함께 크리에이티브 스튜디오 슈퍼애니를 이끌어 온 김현진 작가는 5일 공식 소셜미디어(SNS) 계정을 통해 부고를 전했다. 고인이 작가로 유명해지기 전, 서울 홍익대 앞에서 입시학원을 하던 시절부터 함께했던 동료인 김현진
       </content:encoded>
+    </item>
+    <item>
+      <title>“체험하지 않은 건 쓰지 않는다”… 은유 없이 객관적 문체 구사</title>
+      <link>https://www.segye.com/newsView/20221006520377</link>
+      <guid>https://www.segye.com/newsView/20221006520377</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006520551.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  자신이 체험하지 않은 현실은 단 한 줄도 쓰지 않겠다는 작가, 연하 외국인 유부남과 불륜 체험을 그대로 소설화해 프랑스 사회에 스캔들을 일으킨 여성, ‘광물성의 글쓰기’로 붉디붉은 열정을 누구보다도 뜨겁게 표현하는 우아한 외설의 소설가…. 올해 노벨문학상을 거머쥔 아니 에르노(82)는 사회학적 시각을 바탕으로 자신의 자전적 이야기를 파격적으로 써온 용감한</content:encoded>
     </item>
     <item>
-      <title>‘윤석열차’ 논란, 예술계 반발…“공적 지원 승인 빌미로 예술가에 재갈 물리기”</title>
-      <link>https://www.segye.com/newsView/20221005517100</link>
-      <guid>https://www.segye.com/newsView/20221005517100</guid>
-      <pubDate>2022-10-06T06:00:00.000Z</pubDate>
+      <title>“여성 중심에서 양성평등 정책으로”… 폐지 기로에 선 ‘여가부’</title>
+      <link>https://www.segye.com/newsView/20221006519524</link>
+      <guid>https://www.segye.com/newsView/20221006519524</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517102.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  문화체육관광부가 최근 윤석열 대통령 풍자만화 &apos;윤석열차&apos;를 수상작으로 뽑아 전시한 한국만화영상진흥원에 엄중히 경고한 것을 두고 만화계에서 거센 비판의 목소리가 나오고 있다.
-        
-        5일 연합뉴스와 문화계에 따르면 사단법인 웹툰협회는 전날 밤 소셜미디어(SNS)에 &apos;고등학생 작품 윤석열차에 대한 문체부의 입장에 부쳐&apos;라는 제목의 글을 올리고 &quot;문체부는 &apos;사회적
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007501009.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  6일 정부조직 개편안이 발표되면서 숱한 폐지 찬반 논란을 겪어온 여성가족부가 출범 21년 만에 사라질 처지에 놓였다. 정부조직법 개정안이 국회를 통과할 경우 현재 여가부의 기능과 역할을 공백 없이 수행하는 것이 중요해졌다.
+        여성가족부는 2001년 1월 여성부로 출발했다. 여성 권익 증진, 차별 개선을 통한 양성 평등 등 여성정책의 기획과 정부 부처에 산재한
       </content:encoded>
     </item>
     <item>
-      <title>WTO “2023년 세계 무역성장률 1%대 그칠 것”</title>
-      <link>https://www.segye.com/newsView/20221005519741</link>
-      <guid>https://www.segye.com/newsView/20221005519741</guid>
-      <pubDate>2022-10-06T06:00:00.000Z</pubDate>
+      <title>與 윤리위, 이준석 전 당대표 당원권 정지 추가 1년 징계</title>
+      <link>https://www.segye.com/newsView/20221007500274</link>
+      <guid>https://www.segye.com/newsView/20221007500274</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/07/25/20220725520553.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  세계무역기구(WTO)가 우크라이나 전쟁, 각국의 금리 인상 등의 여파로 내년 세계 무역 성장률이 1%에 그칠 것이라고 전망했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500507.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국민의힘 중앙윤리위원회가 7일 이준석 전 국민의힘 대표에게 당원권 1년 정지 징계를 추가로 내렸다. 지난 7월8일 이 전 대표에게 6개월 당원권 정지 처분을 내린지 석달만이다. 아울러 지난 8월 당 연찬회에서 술자리 논란을 빚은 권성동 전 원내대표는 ‘엄중주의’ 처분을 받았다. 
         
-        5일(현지시간) WTO가 발표한 보고서에 따르면 내년 글로벌 시장의 상품 교역량 증가율 전망치는 지난 4월 내놓은 3.4%에서 대폭 낮춘 1%대이다. 러시아의 우크라이나 침공으로 치솟은 에너지 가격, 서방 국가들의 대 러시아
+        국민의힘 중앙윤리위원회는 전날 저녁부터 날을 넘긴 이날 새벽까지 논의한 끝
       </content:encoded>
     </item>
     <item>
-      <title>현대아울렛 대전점 화재 보상안 발표</title>
-      <link>https://www.segye.com/newsView/20221005515454</link>
-      <guid>https://www.segye.com/newsView/20221005515454</guid>
-      <pubDate>2022-10-06T06:00:00.000Z</pubDate>
+      <title>안보 고리로 관계개선 나선 한·일… 한·미·일 3국 공조체계 협력 가속</title>
+      <link>https://www.segye.com/newsView/20221006520442</link>
+      <guid>https://www.segye.com/newsView/20221006520442</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517166.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  현대백화점그룹은 현대프리미엄아울렛 대전점 화재와 관련해 입점 협력업체 직원 등에 대한 보상을 진행한다고 5일 밝혔다.
-        
-        우선 대전점 화재로 영업이 중단된 협력업체 브랜드의 중간관리 매니저와 판매사원 등 약 1000명에게 긴급 생활자금을 지원한다. 중간관리 매니저에게는 350만원, 일반판매사원에는 250만원을 지급한다.
-        대전점과 거래해오던 협력업체 300
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502393.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  윤석열 대통령이 6일 기시다 후미오 일본 총리와 전화통화를 하고 최근 연이은 북한의 미사일 도발에 대한 양국 협력 및 한·일 관계 개선 방안 등을 논의했다. 이번 정상 간 대화는 지난달 21일(현지시간) 미국 뉴욕에서 진행된 약식회담 이후 약 2주 만으로, 통화는 오후 5시35분부터 6시까지 25분간 진행됐다.
+        대통령실은 이날 서면 브리핑을 통해 “양 정상
       </content:encoded>
+    </item>
+    <item>
+      <title>북한은 왜 핵을 개발하나…핵무장론 꿈틀 [뉴스+]</title>
+      <link>https://www.segye.com/newsView/20221006515873</link>
+      <guid>https://www.segye.com/newsView/20221006515873</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502367.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 6일 또다시 동해상으로 탄도미사일 두 발을 발사했다. 북한의 연쇄 미사일 도발과 한·미의 대응으로 한반도 안보위기가 고조되는 상황이다. 결국엔 북한이 미국 전략자산의 위협을 빌미로 핵실험을 강행할 가능성이 높게 점쳐지고 있다. 핵실험이 진행된다면 이번이 일곱번째가 된다. 러시아가 우크라이나에 핵무기 위협을 강화하는 가운데 북한의 핵실험까지 진행될 것</content:encoded>
     </item>
     <item>
-      <title>턱없이 부족한 ‘항만안전점검관’… 해수부 요청 인력의 28% 불과</title>
-      <link>https://www.segye.com/newsView/20221005515582</link>
-      <guid>https://www.segye.com/newsView/20221005515582</guid>
-      <pubDate>2022-10-06T06:00:00.000Z</pubDate>
+      <title>北, 미사일 이어 새로운 도발… 전투·폭격기 투입 ‘틈새 압박’</title>
+      <link>https://www.segye.com/newsView/20221006520441</link>
+      <guid>https://www.segye.com/newsView/20221006520441</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516882.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  올해 8월부터 시행된 ‘항만안전특별법’에 따라 전국 각지에서 항만 안전 관련 업무를 전담하는 항만안전점검관이 당초 해양수산부가 요청한 인력의 28%에 불과한 것으로 나타났다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006520183.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 6일 탄도미사일 발사에 이어 폭격기와 전투기를 동원, 휴전선 이북에서 무력시위를 감행했다.
         
-        5일 국회 농림축산식품해양수산위원회 소속 더불어민주당 윤준병 의원이 해수부로부터 제출받은 ‘항만안전점검관 배치 현황’에 따르면, 전국 11개 지방해양수산청이 확보한 항만안전점검관
+        합동참모본부는 이날 “북한 전투기 8대와 폭격기 4대 등 군용기 12대가 이날 오후 2시쯤부터 약 1시간에 걸쳐 황해도 곡산 일대에서 황주 방향으로 비행하면서 우리 군의 특별감시선 남쪽으로 시위성 편대 비행을 실시했다”고 밝혔다.
+        군은 북한 전투기와 폭격
       </content:encoded>
     </item>
     <item>
-      <title>26조 규모 ‘文정부 태양광’ 대출·펀드서 일부 부실 확인</title>
-      <link>https://www.segye.com/newsView/20221005518667</link>
-      <guid>https://www.segye.com/newsView/20221005518667</guid>
-      <pubDate>2022-10-06T06:00:00.000Z</pubDate>
+      <title>尹대통령 지지율 29%…두달만에 20%대로 [NBS 조사]</title>
+      <link>https://www.segye.com/newsView/20221006513026</link>
+      <guid>https://www.segye.com/newsView/20221006513026</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516883.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  금융감독원이 26조5000억원 규모의 태양광 발전 활성화 사업과 관련한 대출 및 사모펀드에서 일부 부실을 확인하고, 향후 금융권에 대한 추가 조사를 예고했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513030.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  윤석열 대통령의 직무 수행에 대한 긍정 평가가 29%로 약 두 달 만에 다시 20%대로 하락했다는 여론조사 결과가 6일 나왔다.
         
-        5일 금융권 등에 따르면 금감원은 문재인정부 당시 태양광 발전 활성화 사업 운영 실태와 관련한 문제가 있다는 국무조정실의 발표 등이 나오자 최근 모든 금융권을 대상으로 태양광 대출과 사모펀드 현
+        엠브레인퍼블릭, 케이스탯리서치, 코리아리서치, 한국리서치가 지난 3∼5일 만 18세 이상 남녀 1천명을 대상으로 진행한 전국지표조사(NBS)에 따르면, 윤 대통령이 국정운영을 잘하고 있다는 응답은 직전 조사인 2주 전보다 3%
       </content:encoded>
     </item>
     <item>
-      <title>우크라 4개 지역 러 영토로 공식화한 푸틴 “우크라 국민 크게 존중”</title>
-      <link>https://www.segye.com/newsView/20221005520357</link>
-      <guid>https://www.segye.com/newsView/20221005520357</guid>
-      <pubDate>2022-10-06T06:00:00.000Z</pubDate>
+      <title>“ESG 공시 준비 미흡 탓에 中企 부담 가중”</title>
+      <link>https://www.segye.com/newsView/20221006520359</link>
+      <guid>https://www.segye.com/newsView/20221006520359</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006500182.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  블라디미르 푸틴 러시아 대통령은 5일(현지시간) 합병한 우크라이나 내 점령지에 대해 “상황이 안정될 것”이라고 말했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007501277.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  금융위원회의 ESG(환경·사회·지배구조) 공시 관련 준비가 미흡한 탓에 중소기업 등 시장의 부담이 가중되고, ‘코리아 디스카운트’가 심화할 수 있다는 지적이 나왔다.
         
-        AFP, 로이터 통신에 따르면 푸틴 대통령은 이날 영상으로 열린 교사들에 대한 시상식에서 이같이 말한 뒤 “이를 전제로 이들 영토를 차분히 개발할 수 있을 것”이라고 기대했다. 이어 “현재의 비극에도 불구하고 우리는 언제나, 그리고 지
+        국회 정무위원회 김성주 의원(더불어민주당)은 6일 금융위원회 국정감사에서 “통일된 ESG 공시 기준이 없고, 지속가능공시기준이 불분명한 상황에서 평가기관이 난립하는 등의 상황에 따라 시장
       </content:encoded>
     </item>
     <item>
-      <title>기름값 다시 뛰나… OPEC+, 11월부터 원유 생산량 대폭 줄이기로</title>
-      <link>https://www.segye.com/newsView/20221006500305</link>
-      <guid>https://www.segye.com/newsView/20221006500305</guid>
-      <pubDate>2022-10-06T06:00:00.000Z</pubDate>
+      <title>“英 찰스3세 국왕 대관식 2023년 6월3일”</title>
+      <link>https://www.segye.com/newsView/20221006519285</link>
+      <guid>https://www.segye.com/newsView/20221006519285</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006500701.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  석유수출국기구(OPEC)와 러시아 등 비(非)OPEC 주요 산유국들의 협의체인 ‘OPEC 플러스(OPEC+)’가 11월부터 원유 생산을 대폭 줄이기로 했다. 원유 감산을 반대한 미국 조 바이든 정부는 “근시안적 OPEC+의 감산 결정에 실망스럽다”는 입장을 내놨다. 
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519753.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  찰스 3세(사진) 영국 국왕의 대관식이 내년 6월3일에 거행될 전망이라고 블룸버그통신이 6일(현지시간) 보도했다. 지난달 8일 즉위 이후 약 9개월 만이다.
         
-        OPEC+는 5일(현지시간) 월례 장관급 회의 후 낸 성명에서 다음 달 하루 원유 생산
+        내년 6월에 대관식이 열리면 엘리자베스 2세 여왕 이후 꼭 70년 만이 된다. 여왕은 부친인 조지 6세가 갑자기 세상을 떠나면서 1952년 2월 왕위를 물려받았고, 16개월 뒤인 1953년 6월
       </content:encoded>
     </item>
     <item>
-      <title>여가부 폐지→복지부 산하 본부로?</title>
-      <link>https://www.segye.com/newsView/20221005513443</link>
-      <guid>https://www.segye.com/newsView/20221005513443</guid>
-      <pubDate>2022-10-06T06:05:00.000Z</pubDate>
+      <title>美, 전기차법 세부 규정 마련 돌입… 韓 입장 반영될까</title>
+      <link>https://www.segye.com/newsView/20221006516667</link>
+      <guid>https://www.segye.com/newsView/20221006516667</guid>
+      <pubDate>2022-10-07T06:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005513446.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  행정안전부는 5일 여성가족부를 폐지하고, 관련 기능을 보건복지부 산하 본부로 두는 안을 골자로 정부조직법 개편안을 마련 중이라고 밝혔다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517083.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  미국 정부가 한국산 전기차를 세액공제 대상에서 제외한 전기차법(정식 명칭 인플레이션감축법)의 세부 규정을 마련하기 위한 공식 절차를 개시했다.
         
-        한창섭 행정안전부 차관은 이날 오전 민주당 박홍근 원내대표를 비롯한 지도부에 정부가 준비 중인 이 같은 내용의 개편안을 보고하고, 민주당의 의견을 청취했다.
+        미국 재무부와 국세청(IRS)은 5일(현지시간) 홈페이지에 전기차법을 통해 제공하는 다양한 세제 혜택과 관련해 다음 달 4일까지 이해관계자 등 대중 의견을 수렴한다고 공지했다. 지난 8월 법안이 발효되고 물리적
+      </content:encoded>
+    </item>
+    <item>
+      <title>한동훈, 미행 관련 입장 밝히며 “제가 이상한 술집이라도 가는 걸 바랬나?”</title>
+      <link>https://www.segye.com/newsView/20221006513162</link>
+      <guid>https://www.segye.com/newsView/20221006513162</guid>
+      <pubDate>2022-10-07T06:05:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513167.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  6일 첫 국정감사에 출석하는 한동훈 법무부 장관이 &apos;채널A 사건&apos;과 관련해 지난 4일 최강욱 더불어민주당 의원이 1심에서 무죄를 선고받은 데 대해 &quot;판결문에서조차 그분이 명백한 허위사실을 유포했다고 명시하고 있다&quot;고 말했다.
         
-        민주당 오영환 대변인은 보고 후 기자들과 만나 &quot;(여성가
+        이날 오전 9시께 국회에 도착한 한 장관은 취재진의 &apos;채널A 사건 관련해 최강욱 의원이 1심에서 무죄를 선고받았는데, 어떻게 생각
       </content:encoded>
     </item>
     <item>
-      <title>감사원 ‘문자’에…대통령실 “정치적으로 해석할 대목은 없다”</title>
-      <link>https://www.segye.com/newsView/20221005517149</link>
-      <guid>https://www.segye.com/newsView/20221005517149</guid>
-      <pubDate>2022-10-06T06:05:00.000Z</pubDate>
+      <title>尹, 감사원-대통령실 문자에 “감사원 대통령 소속…관여는 못해”</title>
+      <link>https://www.segye.com/newsView/20221006513225</link>
+      <guid>https://www.segye.com/newsView/20221006513225</guid>
+      <pubDate>2022-10-07T06:10:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517152.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  유병호 감사원 사무총장이 이관섭 대통령실 국정기획수석비서관에게 &quot;오늘 또 제대로 해명 자료가 나갈 것&quot;이라고 보낸 문자메시지가 5일 포착됐다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513231.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  윤석열 대통령은 6일 유병호 감사원 사무총장이 이관섭 대통령실 국정기획수석비서관에게 보낸 &apos;문자&apos;에 대해 &quot;(감사 관련 한 언론의) 기사로 나온 것과 관련해 문의가 있지 않았나 싶다&quot;고 했다.
         
-        뉴스1에 따르면 문재인 전 대통령이 조사 대상으로 오른 서해 공무원 피격 사건을 둘러싼 감사원 감사에 절차적 하자가 있었다는 한 언론 보도에 대한 해명 자료를 언급한 것으로 보인다.
+        윤 대통령은 이날 오전 용산 대통령실 출근길에 기자들과 만나 &apos;유 사무총장과 이 수석 간 문자는 감사원의 독립성에 배치되는 것 아닌가&apos;란 취지의 질문에 이같이 답
+      </content:encoded>
+    </item>
+    <item>
+      <title>이번엔 이준석 ‘패’…法, 정진석 비대위 효력 인정</title>
+      <link>https://www.segye.com/newsView/20221006517428</link>
+      <guid>https://www.segye.com/newsView/20221006517428</guid>
+      <pubDate>2022-10-07T06:10:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517429.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국민의힘 정진석 비상대책위원회(비대위) 위원장과 비대위원 6인의 직무집행을 정지해달라고 이준석 전 대표가 낸 가처분 신청을 법원이 모두 기각했다.
         
-        대통령실은 문자 내용을 볼
+        연합뉴스에 따르면 개정 당헌에 대한 효력 정지 가처분 신청 역시 &quot;이 전 대표의 신청 이익이 없어 부적법하다&quot;는 이유로 각하되면서 이 전 대표는 국민의힘 지도부를 상대로 한 &apos;가처분 대결&apos;에서 완패했다.
       </content:encoded>
     </item>
     <item>
-      <title>北, 이틀 만에 또 탄도미사일 발사… 美 항모 전개에 반발</title>
-      <link>https://www.segye.com/newsView/20221006501776</link>
-      <guid>https://www.segye.com/newsView/20221006501776</guid>
-      <pubDate>2022-10-06T06:08:25.000Z</pubDate>
+      <title>카페 마당통로에 대변 보고 속옷까지 버려두고 간 60대</title>
+      <link>https://www.segye.com/newsView/20221006513264</link>
+      <guid>https://www.segye.com/newsView/20221006513264</guid>
+      <pubDate>2022-10-07T06:15:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006501858.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 6일 동해상으로 탄도미사일을 발사했다고 합동참모본부가 밝혔다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513271.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  한 카페 마당 통로에 대변을 보고 속옷까지 버려두고 간 60대 남성에게 건조물 침입 &apos;무죄&apos;가 선고됐다.
         
-        북한의 탄도미사일 발사에 한국과 미국 등이 연합훈련 및 유엔 안전보장이사회(안보리) 논의 등으로 대응하고, 북한이 이에 반발해 또 도발하는 등 한반도를 둘러싼 긴장감이 크게 고조되는 분위기다.
+        이 사건 &apos;마당 통로&apos;가 카페의 위요지, 즉 건조물의 부속토지에 해당하지 않는다는 판단에서다.
         
-        군 당국은 사거리, 고도, 속도 등 제원을 분석 중이다.
+        인천지법 형사7단독(판사 이해빈)은 건조물 침입 혐의로 기소된 A(64)씨에게 무죄를 선고했다고 6일 밝혔다.
         
-        지난 4일 자강도 무평리 일
+        A씨는 지난해 9월30일 오후 3시8
       </content:encoded>
     </item>
     <item>
-      <title>이재명 “무능·실패 숨기려 야당 탄압…권력은 유한”</title>
-      <link>https://www.segye.com/newsView/20221005513551</link>
-      <guid>https://www.segye.com/newsView/20221005513551</guid>
-      <pubDate>2022-10-06T06:10:00.000Z</pubDate>
+      <title>최서원, 악성댓글 2000여건 고소</title>
+      <link>https://www.segye.com/newsView/20221006517729</link>
+      <guid>https://www.segye.com/newsView/20221006517729</guid>
+      <pubDate>2022-10-07T06:15:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005513552.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  더불어민주당 이재명 대표는 5일 &quot;정부에 촉구하는데 국민이 맡긴 권력으로 자신의 무능과 실패를 숨기려 야당을 탄압하고 전 정권을 공격하는 데에 골몰하지 말라&quot;고 말했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517733.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  최서원(개명 전 최순실)씨가 자신과 관련한 기사에 악성댓글을 단 작성자들을 경찰에 무더기 고소했다.
         
-        이 대표는 서울 여의도에 있는 중앙당사 당원존에서 열린 최고위원 회의에서 이같이 말하고 &quot;국민에 대한 예의가 아닐 뿐 아니라 국민이 권한을 맡긴 것에 대한 배신&quot;이라고 강조했다.
+        6일 경찰에 따르면 최씨는 지난달 29일 서울 강남경찰서, 수서경찰서, 송파경찰서, 동작경찰서, 중랑경찰서에 모욕 혐의로 총 2000건 이상의 고소장을 제출했다.
         
-        이
+        고소 대상은 국정농단 수사와 재판이 진행 중이던 지난 2017~2018년 작성된 기사에
       </content:encoded>
     </item>
     <item>
-      <title>“조언 안 듣고 화부터, 1시간 중 혼자 59분 얘기”…尹 전 대변인이 올린 의미심장 글</title>
-      <link>https://www.segye.com/newsView/20221005520348</link>
-      <guid>https://www.segye.com/newsView/20221005520348</guid>
-      <pubDate>2022-10-06T06:10:00.000Z</pubDate>
+      <title>국힘, 이제 관심은 차기 전대로?…당권 경쟁 가열 전망</title>
+      <link>https://www.segye.com/newsView/20221006517476</link>
+      <guid>https://www.segye.com/newsView/20221006517476</guid>
+      <pubDate>2022-10-07T06:15:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005520349.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  윤석열 대통령의 대선 캠프 대변인을 지냈던 이동훈 전 조선일보 논설위원이 “1시간이면 혼자서 59분을 얘기한다. 원로들 말에도 ‘나를 가르치려 드느냐’며 화부터 낸다”는 내용의 글을 올렸다. 최근 윤 대통령을 둘러싼 각종 논란이 불거지자 윤 대통령을 에둘러 지적한 것으로 보인다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517478.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국민의힘이 6일 이준석 전 대표의 &apos;가처분 리스크&apos;를 상당 부분 털어내면서 &apos;정진석 비대위&apos; 체제로 차기 지도부 선출을 위한 전당대회 준비에 돌입할 수 있게 됐다.
         
-        이 전 위원은 5일 자신의 사회관계망서비스(SNS)에서 ‘自矜功伐(자긍공벌
+        연합뉴스에 따르면 이날 법원 결정으로 비대위 체제를 거쳐 전당대회를 여는 정치 일정이 사실상 확정된 셈이어서, 일찌감치 몸풀기에 들어간 일부 당권 주자들을 중심으로 당권 경쟁이 갈수록 가열될
       </content:encoded>
     </item>
     <item>
-      <title>[속보] 합참 “北, 동해상으로 미상 탄도미사일 발사”</title>
-      <link>https://www.segye.com/newsView/20221006501839</link>
-      <guid>https://www.segye.com/newsView/20221006501839</guid>
-      <pubDate>2022-10-06T06:17:43.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006501880.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  합동참모본부는 6일 “북한이 동해상으로 미상의 탄도미사일을 발사했다”고 밝혔다. 북한의 미사일 무력 도발은 올해 24번째다.</content:encoded>
+      <title>아이돌 출신 여배우 연락처 알아내 스토킹한 30대</title>
+      <link>https://www.segye.com/newsView/20221006513342</link>
+      <guid>https://www.segye.com/newsView/20221006513342</guid>
+      <pubDate>2022-10-07T06:20:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513346.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  아이돌 가수 출신 여배우의 연락처를 알아내 스토킹한 혐의를 받는 30대 남성이 붙잡혀 검찰에 넘겨졌다.
+        
+        6일 경찰은 이날 오전 스토킹처벌법 위반, 공무집행방해, 공용물건손상죄 등 혐의로 30대 남성 A씨를 구속 송치했다.
+        
+        A씨는 지난달 30일 피해자의 차량 유리에 부착된 개인 휴대전화 연락처를 알아낸 후 지속적으로 메시지를 보내고 전화를 건 혐의를
+      </content:encoded>
     </item>
     <item>
-      <title>[속보] NHK &quot;日정부, 北탄도미사일 가능성 물체 이미 낙하&quot;</title>
-      <link>https://www.segye.com/newsView/20221006501893</link>
-      <guid>https://www.segye.com/newsView/20221006501893</guid>
-      <pubDate>2022-10-06T06:24:45.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006501929.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  NHK &quot;日정부, 北탄도미사일 가능성 물체 이미 낙하&quot;</content:encoded>
+      <title>신천지 이만희, 57억 횡령에도 국가유공자…8년째 매달 수당 받아</title>
+      <link>https://www.segye.com/newsView/20221007500083</link>
+      <guid>https://www.segye.com/newsView/20221007500083</guid>
+      <pubDate>2022-10-07T06:20:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502380.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  57억원이 넘는 횡령 혐의로 대법원 확정판결을 받은 신천지 이만희 총회장(사진)이 국가 유공자 자격을 그대로 유지하며 매달 수당을 받고 있는 것으로 전해졌다. 현재까지 2500여만원의 보훈 수당을 받았으며 앞으로도 매월 수당을 받을 예정이다.
+        
+        7일 국가보훈처에 따르면 2015년 6·25 참전 국가 유공자로 인정받은 이 회장은 대법원 유죄 판결 이후에도
+      </content:encoded>
     </item>
     <item>
-      <title>이준석 당 윤리위원회 추가 징계 앞두고 ‘폭풍전야’?</title>
-      <link>https://www.segye.com/newsView/20221005517293</link>
-      <guid>https://www.segye.com/newsView/20221005517293</guid>
-      <pubDate>2022-10-06T06:25:00.000Z</pubDate>
+      <title>軍 급식에 ‘랍스터’까지 등장했다</title>
+      <link>https://www.segye.com/newsView/20221006513404</link>
+      <guid>https://www.segye.com/newsView/20221006513404</guid>
+      <pubDate>2022-10-07T06:25:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517296.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국민의힘이 오는 6일 이준석 전 대표에 대한 당 윤리위원회의 추가 징계를 앞두고 &apos;폭풍전야&apos; 같은 분위기다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513406.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  부실 급식으로 병사들의 불만이 쏟아지던 군에 랍스터와 초밥 식사가 등장해 화제다.
         
-        연합뉴스에 따르면 공교롭게도 현 비상대책위원회에 대한 법원의 가처분 심리 결과도 &apos;6일 이후&apos; 발표가 예고되면서 당 안팎의 긴장감이 더욱 고조된 상황이다.
+        5일 페이스북 페이지 &apos;육군훈련소 대신 전해드립니다(육대전)&apos;에는 27사단 통신대대 소속이라고 자신을 소개한 한 장병이 보낸 급식 사진이 글과 함께 실렸다.
         
-        일단 당내에선 윤리위가 이 전 대표에게 중징계를 내릴 것이라는 관측이 우세하다. 탈당요
+        이 장병은 게시글에서 &quot;통신대대 병영식당에 대해 자랑하기 위해 글을 작성하게 됐다&quot;며 &quot;입대전 느끼던 군 부실급
       </content:encoded>
     </item>
     <item>
-      <title>[속보] NHK &quot;日정부, 北 탄도미사일 추가 발사 정보 있어&quot;…2발째 추정</title>
-      <link>https://www.segye.com/newsView/20221006502008</link>
-      <guid>https://www.segye.com/newsView/20221006502008</guid>
-      <pubDate>2022-10-06T06:41:21.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/06/05/20220605505626.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  NHK &quot;日정부, 北 탄도미사일 추가 발사 정보 있어&quot;…2발째 추정</content:encoded>
+      <title>20대 여성 혼자 잠들어 있는 주택으로 무단침입한 50대</title>
+      <link>https://www.segye.com/newsView/20221006517618</link>
+      <guid>https://www.segye.com/newsView/20221006517618</guid>
+      <pubDate>2022-10-07T06:25:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517642.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  술을 마시고 여성이 혼자 잠들어 있는 주택으로 무단 침입한 50대 남성이 경찰에 붙잡혔다.
+        
+        경찰은 여성 혼자 있는 집에 몰래 침입한 50대 A씨를 주거침입 혐의로 체포해 조사 중이라고 6일 밝혔다.
+        
+        A씨는 지난 3일 낮 12시30분께 20대 여성이 잠들어 있던 한 2층 빌라에 몰래 들어간 혐의를 받고 있다.
+        
+        외벽 창문을 통해 집안으로 들어간 A씨
+      </content:encoded>
     </item>
     <item>
-      <title>이틀 만에 또… 北, 동해상으로 탄도미사일 발사</title>
-      <link>https://www.segye.com/newsView/20221006501980</link>
-      <guid>https://www.segye.com/newsView/20221006501980</guid>
-      <pubDate>2022-10-06T06:44:48.000Z</pubDate>
+      <title>베트남 다낭 찾은 한국인 관광객, 호텔 수영장서 감전사</title>
+      <link>https://www.segye.com/newsView/20221006513581</link>
+      <guid>https://www.segye.com/newsView/20221006513581</guid>
+      <pubDate>2022-10-07T06:30:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006501881.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  합동참모본부는 북한이 6일 동해상으로 탄도미사일을 발사했다고 이날 밝혔다.
-        
-        북한의 도발은 지난 4일 자강도 무평리 일대에서 화성-12형으로 추정되는 중거리 탄도미사일(IRBM)을 동쪽으로 발사한 데 이어 이틀 만이다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006513583.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  베트남 다낭을 찾은 한국인 관광객이 호텔 수영장에서 감전 사고로 사망하는 사건이 발생했다.
         
-        북한은 올해 들어 탄도미사일을 22차례, 순항미사일을 2차례 발사했다. 미사일 발사는 윤석열 정부 출범 이후 10번째다.
+        뉴시스 등에 따르면 현지 시각 5일 관광객 A씨는 호텔 수영장에 걸어 내려가던 중 감전돼 의식을 잃었다. 신고를 받은 구급 대원이 출동해 심폐소생술을 했지만 끝내 사망했다.
         
-        이날 북
+        해당 사건은 A씨의 가족 B씨가 6일 국내 주요 온라인 커뮤니티에 사건을 전하며 현지에
       </content:encoded>
     </item>
     <item>
-      <title>법인택시 2만2000대 중 7000대만 운행?…“운전할 기사가 없어요”</title>
-      <link>https://www.segye.com/newsView/20221005513926</link>
-      <guid>https://www.segye.com/newsView/20221005513926</guid>
-      <pubDate>2022-10-06T06:45:00.000Z</pubDate>
+      <title>원희룡 “집값 어디까지 떨어져야 한다고 일률적으로 말하긴 어렵지만 현재 너무 높다”</title>
+      <link>https://www.segye.com/newsView/20221006517576</link>
+      <guid>https://www.segye.com/newsView/20221006517576</guid>
+      <pubDate>2022-10-07T06:30:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005513930.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  서울 법인택시 기사들이 적은 수익 탓에 택시 기사들이 배달, 택배 등 업계로 떠나며 10대 중 3대만 운행 중인 것으로 나타났다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517578.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  원희룡 국토교통부 장관은 6일 주택 가격 하향 안정세가 상당기간 유지돼야 한다는 뜻을 밝혔다.
         
-        정부와 서울시가 택시요금과 심야 택시 호출료 인상 방침을 밝혔지만 택시난을 해소하기 위해서는 택시 기사의 처우 개선이 절실하다는 목소리가 나온다.
+        원 장관은 이날 오후 국회에서 열린 국토교통위원회의 국토부 국정감사에서 &quot;집값이 어디까지 떨어져야 한다고 일률적으로 말하긴 어렵지만 현재 너무 높다&quot;며 이 같은 생각을 밝혔다.
         
-        5일 뉴스1과 서울시에 따르면 시는 심야 택시난의 실질적인 해법으로 전액관
+        원 장관은 &quot;상당기간 하향 안정세가 유지될 필요가 있고, 그 과정에서 경착륙으로
       </content:encoded>
     </item>
     <item>
-      <title>“전세 계약하시면 1335만원 수준 명품백 드려요?”</title>
-      <link>https://www.segye.com/newsView/20221005513829</link>
-      <guid>https://www.segye.com/newsView/20221005513829</guid>
-      <pubDate>2022-10-06T06:50:00.000Z</pubDate>
+      <title>‘타다’, 정말 불법 콜택시인가?</title>
+      <link>https://www.segye.com/newsView/20221006517684</link>
+      <guid>https://www.segye.com/newsView/20221006517684</guid>
+      <pubDate>2022-10-07T06:45:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005513832.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  금리 인상 여파로 세입자들이 대출을 기피하기 시작하면서 역전세난이 벌어진 가운데, 세입자를 찾지 못한 집주인들이 급기야 명품백까지 걸고 있다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006517687.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  검찰이 차량호출 서비스 &apos;타다&apos; 전직 경영진에 무죄를 선고한 법원의 2심 판결에 불복해 대법원에 상고했다.
         
-        5일 부동산 커뮤니티 등에 따르면 최근 한 집주인은 본인의 아파트 세입자를 모집하면서 전세 계약시 정품 샤넬백을 주겠다는 글을 올렸다.
+        서비스 시작부터 검찰의 수사·기소, 운영 중단까지 많은 논란을 낳은 타다의 불법성은 결국 대법원의 최종 판단을 받게 됐다.
         
-        해당 집주인은 전세 보증금 4억5000만원을 제시하면서, 오는 12월 말
+        6일 연합뉴스와 법조계에 따르면 서울중앙지검은 상고 기한 마지막 날인 이날 서울중앙지법 형사항소1-1부(장찬 맹현무 김형
       </content:encoded>
     </item>
     <item>
-      <title>징계 심의 앞둔 이준석 “‘양두구육’ 책. 이제 금서 지정 될 듯”</title>
-      <link>https://www.segye.com/newsView/20221006502065</link>
-      <guid>https://www.segye.com/newsView/20221006502065</guid>
-      <pubDate>2022-10-06T06:51:38.000Z</pubDate>
+      <title>박범계 “‘예 의원님’ 해야 예의” vs 한동훈 “저도 노력중”</title>
+      <link>https://www.segye.com/newsView/20221007502500</link>
+      <guid>https://www.segye.com/newsView/20221007502500</guid>
+      <pubDate>2022-10-07T06:49:57.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502053.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  이준석 전 국민의힘 대표는 지난 5일 ‘양두구육’이 표지로 나온 한문 교양책을 두고 “이제 금서로 지정될 날이 다가오는 듯 하다”고 말했다. 당 중앙윤리위원회가 자신의 ‘양두구육’ 발언을 문제 삼아 추가 징계를 개시한 것을 비꼰 것으로 풀이된다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502501.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  6일 국회 법제사법위원회의 법무부 등에 대한 국정감사에선 전·현직 법무부 장관이 주고받는 신경전에도 시선이 집중됐다.
         
-        이 전 대표는 이날 페이스북에 ‘따개비 한문 숙어③’ 사진을 올리며 “이 책은 내가 어릴 때는 학교마다 꽂혀
+        연합뉴스에 따르면 문재인 정부의 마지막 법무부 장관으로, 정권교체 이후 한동훈 장관에게 법무부 장관 바통을 넘겨준 더불어민주당 박범계 의원은 오전과 오후 질의에서 잇달아 한 장관의 &apos;답변 태도&apos;를 지적했다.
+        
+        한 장관과 박 의원은 부드
       </content:encoded>
     </item>
     <item>
-      <title>“물가 ‘정점’은 10월?…내려오는 속도 더 늦어질 듯”</title>
-      <link>https://www.segye.com/newsView/20221005513669</link>
-      <guid>https://www.segye.com/newsView/20221005513669</guid>
-      <pubDate>2022-10-06T06:55:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005513671.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  지난달 소비자물가가 소폭 하락하는 등 2개월 연속 5%대를 기록하면서 물가가 피크아웃(정점)을 찍은 게 아니냐는 기대감이 커지고 있다. 전문가들은 1400원대의 높은 환율이 지속되고 있는 데다, 전기·도시가스 등 공공요금 인상도 앞두고 있어 아직 안심하기는 이르다고 보고 있다. 물가가 정점을 찍었다고 해도 5~6%대의 높은 물가가 오랫동안 지속될 가능성이</content:encoded>
+      <title>이준석 향후 행보는?…신당 창당, 2선 후퇴설 관측</title>
+      <link>https://www.segye.com/newsView/20221007502512</link>
+      <guid>https://www.segye.com/newsView/20221007502512</guid>
+      <pubDate>2022-10-07T06:52:51.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502513.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  이준석 전 국민의힘 대표가 집권여당과의 &apos;권력 다툼&apos;에서 완패했다. 정진석 비대위를 상대로 낸 가처분이 전부 기각되면서 당대표직 복귀의 길이 막혔고, 당 윤리위원회가 당원권 정지 1년을 추가 징계하면서 쐐기를 박았다. 더욱 문제는 2024년 1월까지 당원권이 박탈되면사 사실상 차기 총선길이 막혔다는 점이다. 재야(在野)로 돌아간 이 전 대표의 발걸음은 어디</content:encoded>
     </item>
     <item>
-      <title>[오늘날씨] 기온 ‘뚝’ 겉옷 챙기세요… 전국 흐리고 곳곳 ‘비’</title>
-      <link>https://www.segye.com/newsView/20221006502040</link>
-      <guid>https://www.segye.com/newsView/20221006502040</guid>
-      <pubDate>2022-10-06T06:56:04.000Z</pubDate>
+      <title>일부러 승용차 바다에 빠트려 보험금 부당수령한 40대</title>
+      <link>https://www.segye.com/newsView/20221007502523</link>
+      <guid>https://www.segye.com/newsView/20221007502523</guid>
+      <pubDate>2022-10-07T06:54:43.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502070.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  목요일인 6일은 전국이 흐리고 곳곳에 비가 내릴 것으로 보인다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502525.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  일부러 승용차를 바다에 빠트려 보험금을 부당 수령한 40대 남성이 피해금을 모두 갚아 2심에서 집행유예를 선고받았다.
         
-        기상청에 따르면 이날 전국이 약한 기압골 영향을 받아 일부 지역에 비가 내리겠다.
+        광주지방법원 형사3부(재판장 김태호)는 보험사기방지특별법 위반 혐의로 기소돼 징역 8개월을 선고받은 A씨(47)에 대한 원심을 파기하고 징역 8개월에 집행유예 2년형을 선고했다고 7일 밝혔다.
         
-        전라 동부와 경남권 해안, 제주도는 새벽부터 낮 사이 가끔 비가 내리겠으며, 수도권과 강원영서, 충북, 경상권내륙은 새벽부터 오후 사이 비가 조금 오겠고, 그 밖의 지역에도 빗방울이 떨어지는 곳이 있겠다.
+        A씨는 2019년 6월2일 오전 9시10
       </content:encoded>
     </item>
     <item>
-      <title>대통령 세종집무실 4593억원 책정, 청와대 규모?...행복청 “아직 확정 안 돼”</title>
-      <link>https://www.segye.com/newsView/20221005516942</link>
-      <guid>https://www.segye.com/newsView/20221005516942</guid>
-      <pubDate>2022-10-06T07:00:00.000Z</pubDate>
+      <title>18억→14.5억, 9억→5.6억…“입주물량 많아 타격”</title>
+      <link>https://www.segye.com/newsView/20221007502534</link>
+      <guid>https://www.segye.com/newsView/20221007502534</guid>
+      <pubDate>2022-10-07T06:57:20.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005516483.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  행정중심도시건설청(행복청)이 세종시 대통령 제2집무실 건립을 위해 사업비 4593억원을 책정한 것으로 나타났다.
-        
-        국회 국토교통위원회 소속 더불어민주당 김두관 의원이 5일 행복청에서 제출받은 ‘2023년도 예산안 및 기금운영계획안’에 따르면, 행복청은 대통령 제2집무실 건립 총사업비로 4593억원이 소요될 것이라고 밝혔다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502535.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  이른바 &apos;수용성&apos;(수원·용인·성남)으로 불리며 수도권 집값 상승을 주도했던 수원의 아파트 매매가격이 속수무책으로 하락하고 있다. 광교신도시 일대는 최고가 대비 3억~4억원 하락한 거래가 줄을 잇고 있고, 신분당선 호재로 집값이 크게 뛰었던 호매실 일대는 최고가 대비 40% 가까이 추락하는 등 분위기가 차갑게 식고 있다.
         
-        세종시 제2집무실 건립은 윤
+        7일 뉴시스와 한국부동산원에 따르
       </content:encoded>
     </item>
     <item>
-      <title>‘우클릭’ 하는 안철수 “文과 민주당은 대한민국과 싸우는 세력”</title>
-      <link>https://www.segye.com/newsView/20221005520035</link>
-      <guid>https://www.segye.com/newsView/20221005520035</guid>
-      <pubDate>2022-10-06T07:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006500745.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국민의힘 차기 당권 주자로 꼽히는 안철수 의원이 5일 문재인 전 대통령과 더불어민주당을 향해 “대한민국의 국익이 아니라 대한민국과 싸우는 세력”이라고 몰아붙였다. 중도 색채가 강한 안 의원이 당대표 선거를 앞두고 본격적으로 ‘우클릭’하는 모양새다. 안 의원의 강점으로 꼽히는 ‘중도확장성’뿐 아니라 전통적 보수층, 즉 당심(黨心)에도 호소하는 쌍끌이 전략으로</content:encoded>
+      <title>‘수리남’ 조봉행 2심서 “거액 요구했다 협상 무산…공모 안 해” 혐의 부인</title>
+      <link>https://www.segye.com/newsView/20221006517390</link>
+      <guid>https://www.segye.com/newsView/20221006517390</guid>
+      <pubDate>2022-10-07T07:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500837.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  수리남에서 ‘마약왕’으로 활동한 조봉행씨가 국내로 송환돼 재판을 받으며 범행에 관여하지 않았다는 취지로 혐의를 부인했던 것으로 나타났다.
+        
+        7일 국회 법제사법위원회 소속 조정훈 시대전환 의원실이 법원으로부터 제출받은 조씨의 마약거래방지법 위반 등 혐의에 대한 2심 판결문에 따르면 조씨는 1심에서 징역 10년에 벌금 1억원을 선고한 1심 판결이 부당하다며
+      </content:encoded>
     </item>
     <item>
-      <title>&apos;中 박물관 한국사 연표 논란&apos;에… 박보균 문체부 장관 “고의성 다분”</title>
-      <link>https://www.segye.com/newsView/20221005520102</link>
-      <guid>https://www.segye.com/newsView/20221005520102</guid>
-      <pubDate>2022-10-06T07:00:00.000Z</pubDate>
+      <title>“경찰특공대 집회시위 투입금지 운영규칙 개정 필요”</title>
+      <link>https://www.segye.com/newsView/20221006520611</link>
+      <guid>https://www.segye.com/newsView/20221006520611</guid>
+      <pubDate>2022-10-07T07:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006500106.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  최근 중국 국가박물관이 고구려와 발해를 뺀 한국사 연표를 전시해 고의성 논란이 인 것과 관련해 박보균 문화체육관광부 장관이 중국 측의 고의성을 의심했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500440.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  2019년 집회·시위 및 노사분쟁 현장에 경찰특공대 투입을 원칙적으로 금지하는 ‘경찰특공대 운영규칙’이 개정됐지만, 경찰의 자의적 판단 소지가 여전히 크다는 지적이 나온다.
         
-        박 장관은 5일 국회 문화체육관광위원회의 문화체육관광부 국정감사에서 국민의힘 김승수 의원이 “이번 사태가 중국 측의 단순 실수라고 생각하나, 고의로 누락시켰다고 생각하나”고 묻자 “고의적이냐, 단순(실
+        기본소득당 용혜인 의원은 경찰청에 대한 국정감사가 열리는 7일 “2011년 이후 한 번도 없었던 집회시위 현장 경찰특공대 투입의 우려가 올해 대우조선해양 하청 노동자의 파업을 계기로
       </content:encoded>
     </item>
     <item>
-      <title>9월 소비자물가 5.6%↑… 외식물가 30년 만에 최고 [한강로 경제브리핑]</title>
-      <link>https://www.segye.com/newsView/20221005517729</link>
-      <guid>https://www.segye.com/newsView/20221005517729</guid>
-      <pubDate>2022-10-06T07:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517825.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  9월 소비자물가 상승률이 5% 중반대에 머물며 두 달 연속 소비자물가 상승세가 둔화했다. 국제유가 하락 덕분에 상승세가 다소 꺾였지만 여전히 앞길은 험준하다. 전기·가스 요금 인상과 원·달러 환율 상승 등 물가 상방 압력이 상당해 고물가 상황은 상당 기간 이어질 전망이다. 특히 외식물가 상승률이 30년 만에 최고치를 기록하며 서민들의 체감물가는 더 고통스럽</content:encoded>
+      <title>한전 일부 직원들, 법카로 400여만원 한우 회식…“정부 방역지침 무시”</title>
+      <link>https://www.segye.com/newsView/20221006512931</link>
+      <guid>https://www.segye.com/newsView/20221006512931</guid>
+      <pubDate>2022-10-07T07:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006512948.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  역대 최대 규모 적자를 내고 있는 한국전력의 여러 부서가 상식에 어긋나는 수준으로 법인카드를 사용해온 것으로 드러났다.
+        
+        대표적 공기업으로서 방만 경영이 도를 넘는 수준이라는 지적이 나온다.
+        
+        6일 국회 산업통상자원중소벤처기업위원회(산중위) 소속 김성원 의원(국민의힘)이 2020∼2021년 한전 서울·부산·울산본부에서 법인카드로 결제된 50만원 이상의
+      </content:encoded>
     </item>
     <item>
-      <title>9월 소비자물가 5.6%↑… 외식물가 30년 만에 최고 [한강로 경제브리핑]</title>
-      <link>https://www.segye.com/newsView/20221005517729</link>
-      <guid>https://www.segye.com/newsView/20221005517729</guid>
-      <pubDate>2022-10-06T07:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517825.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  9월 소비자물가 상승률이 5% 중반대에 머물며 두 달 연속 소비자물가 상승세가 둔화했다. 국제유가 하락 덕분에 상승세가 다소 꺾였지만 여전히 앞길은 험준하다. 전기·가스 요금 인상과 원·달러 환율 상승 등 물가 상방 압력이 상당해 고물가 상황은 상당 기간 이어질 전망이다. 특히 외식물가 상승률이 30년 만에 최고치를 기록하며 서민들의 체감물가는 더 고통스럽</content:encoded>
+      <title>‘가처분 기각’에 이준석 “고독하게 제 길 가겠다”</title>
+      <link>https://www.segye.com/newsView/20221006517697</link>
+      <guid>https://www.segye.com/newsView/20221006517697</guid>
+      <pubDate>2022-10-07T07:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006516103.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  이준석 전 국민의힘 대표는 6일 법원에서 정진석 비상대책위원장 직무정지 가처분 신청을 기각한 것과 관련 “의기 있는 훌륭한 변호사들과 법리를 가지고 외롭게 그들과 다퉜고, 앞으로 더 외롭고 고독하게 제 길을 가겠다”고 밝혔다.
+        
+        이 전 대표는 이날 오후 페이스북을 통해 “지금까지 두 번의 선거에서 이겨놓고 무엇을 위해 싸워야 하는지 때로는 허탈했지만 사명
+      </content:encoded>
     </item>
     <item>
-      <title>“주중 한국대사관 외교 네트워크 구축 활동 사실상 전무” [특파원+]</title>
-      <link>https://www.segye.com/newsView/20221005517909</link>
-      <guid>https://www.segye.com/newsView/20221005517909</guid>
-      <pubDate>2022-10-06T07:00:00.000Z</pubDate>
+      <title>카카오, ‘AI VOD 클래스’ 선보여… 브런치 작가들의 창작 무대 확대</title>
+      <link>https://www.segye.com/newsView/20221005515051</link>
+      <guid>https://www.segye.com/newsView/20221005515051</guid>
+      <pubDate>2022-10-07T07:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005517907.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  신임 대사가 부임한 주중 한국대사관의 외교네트워크 구축 활동이 다른 대사관에 비해 현저히 부족한 것으로 나타났다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005515083.png&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  카카오 콘텐츠 퍼블리싱 플랫폼 브런치 측이 브런치 작가들에 ‘AI VOD 클래스’라는 새로운 창작 무대를 제공했다고 5일 밝혔다. 종이책, 전자책, 오디오북에 이어 온라인 클래스까지 브런치 생태계를 확장하며, 작가들의 창작 활동을 적극 지원한다는 방침이다.
         
-        김홍걸 국회의원(무소속)에 따르면 지난 7월 19일 정재호 신임 대사 부임 후 지난 9월 16일까지 약 두 달간 주중 한국대사관의 외교네트워크 구축비를 이용한 활동은 총 6건, 2047.32달러(약 288만원)에 불과했다.
-        그나마 실제 외교
+        카카오는 지난 2월 온라인 클래스 플랫폼 ‘클래스101’과 함께 ‘브런치북 AI 클래스 프로젝트&apos;
       </content:encoded>
     </item>
     <item>
-      <title>‘OPEC+ 원유 감산 방침‘에 바이든 “근시안적 결정” 비판</title>
-      <link>https://www.segye.com/newsView/20221006500463</link>
-      <guid>https://www.segye.com/newsView/20221006500463</guid>
-      <pubDate>2022-10-06T07:00:00.000Z</pubDate>
+      <title>‘수리남’ 조봉행 2심서 “거액 요구했다 협상 무산…공모 안 해” 혐의 부인</title>
+      <link>https://www.segye.com/newsView/20221006517390</link>
+      <guid>https://www.segye.com/newsView/20221006517390</guid>
+      <pubDate>2022-10-07T07:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006500712.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  석유수출국기구(OPEC)와 비회원국 협의체인 ‘오펙플러스(OPEC+)’가 코로나19 팬데믹 이후 최대 규모 감산 방침을 밝히자 조 바이든 미국 대통령이 즉각 실망감을 표시했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500837.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  수리남에서 ‘마약왕’으로 활동한 조봉행씨가 국내로 송환돼 재판을 받으며 범행에 관여하지 않았다는 취지로 혐의를 부인했던 것으로 나타났다.
         
-        백악관은 5일(현지시간) 제이크 설리번 국가안보보좌관과 브라이언 디스 국가경제위원회(NEC) 위원장 명의 성명을 통해 “(바이든) 대통령은 생산량을 줄이기로 한 오펙플러스의 근시
+        7일 국회 법제사법위원회 소속 조정훈 시대전환 의원실이 법원으로부터 제출받은 조씨의 마약거래방지법 위반 등 혐의에 대한 2심 판결문에 따르면 조씨는 1심에서 징역 10년에 벌금 1억원을 선고한 1심 판결이 부당하다며
       </content:encoded>
     </item>
     <item>
-      <title>[속보] &quot;北 평양 삼석 일대서 단거리 탄도미사일 2발 포착&quot;</title>
-      <link>https://www.segye.com/newsView/20221006502297</link>
-      <guid>https://www.segye.com/newsView/20221006502297</guid>
-      <pubDate>2022-10-06T07:07:10.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502323.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  [속보] &quot;北 평양 삼석 일대서 단거리 탄도미사일 2발 포착&quot;</content:encoded>
+      <title>카카오, ‘AI VOD 클래스’ 선보여… 브런치 작가들의 창작 무대 확대</title>
+      <link>https://www.segye.com/newsView/20221005515051</link>
+      <guid>https://www.segye.com/newsView/20221005515051</guid>
+      <pubDate>2022-10-07T07:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005515083.png&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  카카오 콘텐츠 퍼블리싱 플랫폼 브런치 측이 브런치 작가들에 ‘AI VOD 클래스’라는 새로운 창작 무대를 제공했다고 5일 밝혔다. 종이책, 전자책, 오디오북에 이어 온라인 클래스까지 브런치 생태계를 확장하며, 작가들의 창작 활동을 적극 지원한다는 방침이다.
+        
+        카카오는 지난 2월 온라인 클래스 플랫폼 ‘클래스101’과 함께 ‘브런치북 AI 클래스 프로젝트&apos;
+      </content:encoded>
     </item>
     <item>
-      <title>[속보] &quot;北 평양 삼석 일대서 단거리 탄도미사일 2발 포착&quot;</title>
-      <link>https://www.segye.com/newsView/20221006502297</link>
-      <guid>https://www.segye.com/newsView/20221006502297</guid>
-      <pubDate>2022-10-06T07:07:10.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502323.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  [속보] &quot;北 평양 삼석 일대서 단거리 탄도미사일 2발 포착&quot;</content:encoded>
+      <title>‘킹달러’ 대응에 외환보유액 196억달러 급감… “외환위기 가능성 낮아” [한강로 경제브리핑]</title>
+      <link>https://www.segye.com/newsView/20221006518934</link>
+      <guid>https://www.segye.com/newsView/20221006518934</guid>
+      <pubDate>2022-10-07T07:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/09/18/20220918508569.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  지난달 원·달러 환율 급등 등 외환시장 불균형에 대응하기 위해 외환당국이 달러화를 시중에 풀면서(매도) 외환보유액이 한 달 만에 200억달러 가까이 급감했다. 한은은 우리나라 외환보유액이 세계 8위 규모로 충분한 수준인 만큼, 외환위기를 걱정할 필요가 없다는 입장이다. 국제 유가 하락 등에 힘입어 물가상승률 상승폭이 다소 꺾인 가운데, 중동 산유국들이 감산</content:encoded>
     </item>
     <item>
-      <title>北, 이틀만에 또 탄도미사일…美항모 재출동에 무력시위</title>
-      <link>https://www.segye.com/newsView/20221006502525</link>
-      <guid>https://www.segye.com/newsView/20221006502525</guid>
-      <pubDate>2022-10-06T07:25:59.000Z</pubDate>
+      <title>[부고] 황남희 국가무형문화재 ‘은산별신제’ 명예보유자 별세 외</title>
+      <link>https://www.segye.com/newsView/20221007502511</link>
+      <guid>https://www.segye.com/newsView/20221007502511</guid>
+      <pubDate>2022-10-07T07:01:53.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502565.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 6일 평양에서 동해상으로 단거리 탄도미사일(SRBM) 2발을 발사했다.
+        ▲황남희씨(국가무형문화재 ‘은산별신제’ 명예보유자) 별세=6일 건양대 부여병원 발인 7일 오전 11시 (041)837-4441
         
-        미국 핵 추진 항공모함의 동해 재출동과 한미일 연합훈련, 유엔 안전보장이사회의 북한 탄도미사일 논의 등에 반발한 무력시위로 분석된다.
-        
-        합동참모본부는 이날 오전 6시 1분께부터 6시 23분께까지 북한 평양 삼석 일대에서 동해상으로 발사된 SRBM 2발을 포착했다고 밝혔다
+        ▲이경구씨(전 북한산 인수산장 관리인) 별세, 김정순씨 남편상, 이진영·진희·진은씨 부친상, 임대호·김종선씨 장인상=5일 오후 3시55분 노원을지대병원 발인 7일 오전 10시 (02)970-8444
       </content:encoded>
     </item>
     <item>
-      <title>北, 이틀만에 또 탄도미사일…美항모 재출동에 무력시위</title>
-      <link>https://www.segye.com/newsView/20221006502525</link>
-      <guid>https://www.segye.com/newsView/20221006502525</guid>
-      <pubDate>2022-10-06T07:25:59.000Z</pubDate>
+      <title>[인사] 국무조정실·국무총리비서실 외</title>
+      <link>https://www.segye.com/newsView/20221007502526</link>
+      <guid>https://www.segye.com/newsView/20221007502526</guid>
+      <pubDate>2022-10-07T07:01:57.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502565.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 6일 평양에서 동해상으로 단거리 탄도미사일(SRBM) 2발을 발사했다.
-        
-        미국 핵 추진 항공모함의 동해 재출동과 한미일 연합훈련, 유엔 안전보장이사회의 북한 탄도미사일 논의 등에 반발한 무력시위로 분석된다.
+        국무조정실·국무총리비서실 ◆과장급 신규선임 △기획총괄과장 박상철△주한미군기지지원단 정책총괄과장 이용주△법무감사담당관 김규형△규제총괄과장 이인용△규제심사총괄팀장 박정용△사회규제심사2팀장 이대섭△정무분석행정관 김나래
         
-        합동참모본부는 이날 오전 6시 1분께부터 6시 23분께까지 북한 평양 삼석 일대에서 동해상으로 발사된 SRBM 2발을 포착했다고 밝혔다
+        외교부 ◆대사 임명 △주독일 대사 김홍균△주베트남 〃 오영주△주캐나다 〃 임웅순△주오스트리아 〃 함상욱△주뉴질랜드 〃 김창식△주라오스 〃 정영
       </content:encoded>
     </item>
     <item>
-      <title>“카툰 ‘윤석열차’ 그린 고교생, 대선 때 ‘尹 구둣발’ 논란 보고 구상”</title>
-      <link>https://www.segye.com/newsView/20221006502545</link>
-      <guid>https://www.segye.com/newsView/20221006502545</guid>
-      <pubDate>2022-10-06T07:41:27.000Z</pubDate>
+      <title>감사원, 코레일·SR에 공직자 7000여명 ‘열차 탑승내역’ 요구</title>
+      <link>https://www.segye.com/newsView/20221007502624</link>
+      <guid>https://www.segye.com/newsView/20221007502624</guid>
+      <pubDate>2022-10-07T07:03:03.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502548.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  전국학생만화공모전에서 카툰 부문 금상을 차지한 ‘윤석열차’를 그린 고등학생은 지난 대선 당시 열차 내에서 앞 좌석에 구두 신은 발을 올린 윤석열 대통령(당시 후보)의 사진을 보고 해당 작품 구상에 들어간 것으로 전해졌다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502632.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  감사원이 한국철도공사(코레일)와 수서고속철도(SRT) 운영사인 SR에 공직자 수천명의 지난 5년간 KTX·SRT 이용 내역을 요구한 것으로 나타났다.
         
-        지난 5일 오마이뉴스는 ‘윤석열차’를 그린 학생이 재학 중인 A 고등학교 교감과의 인터뷰 내용을 공개했다.
+        6일 정치권에 따르면 감사원은 지난달 20일 코레일과 SR에 공직자 7천여명의 이름과 주민등록번호가 적힌 명단을 건네고 이들의 2017년 이후 KTX·SRT 탑승 내역을 모두 제출하라고 요구했다.
         
-        보도에 따르면 현재 A
+        조회
       </content:encoded>
     </item>
     <item>
-      <title>&apos;한반도 강대강&apos; 긴장 고조…북, 美전략자산 빌미로 연쇄도발</title>
-      <link>https://www.segye.com/newsView/20221006502666</link>
-      <guid>https://www.segye.com/newsView/20221006502666</guid>
-      <pubDate>2022-10-06T07:43:34.000Z</pubDate>
+      <title>감사원, 코레일·SR에 공직자 7000여명 ‘열차 탑승내역’ 요구</title>
+      <link>https://www.segye.com/newsView/20221007502624</link>
+      <guid>https://www.segye.com/newsView/20221007502624</guid>
+      <pubDate>2022-10-07T07:03:03.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502675.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 미국 전략자산 출동을 빌미로 연쇄 도발에 나서 한반도 정세가 긴장 국면으로 치닫고 있다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502632.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  감사원이 한국철도공사(코레일)와 수서고속철도(SRT) 운영사인 SR에 공직자 수천명의 지난 5년간 KTX·SRT 이용 내역을 요구한 것으로 나타났다.
         
-        한미와 북한이 &apos;팃 포 탯&apos;(tit for tat·맞받아치기) 전략으로 맞서면서 대치가 가속하는 양상이다.
+        6일 정치권에 따르면 감사원은 지난달 20일 코레일과 SR에 공직자 7천여명의 이름과 주민등록번호가 적힌 명단을 건네고 이들의 2017년 이후 KTX·SRT 탑승 내역을 모두 제출하라고 요구했다.
         
-        북한은 미국 핵 추진 항공모함 로널드 레이건호가 연합훈련을 마치고 한반도를 떠난 지난 4일 화성-12형으로 추정되는 중거리 탄도미사일(IRBM)
+        조회
       </content:encoded>
     </item>
     <item>
-      <title>&apos;한반도 강대강&apos; 긴장 고조…북, 美전략자산 빌미로 연쇄도발</title>
-      <link>https://www.segye.com/newsView/20221006502666</link>
-      <guid>https://www.segye.com/newsView/20221006502666</guid>
-      <pubDate>2022-10-06T07:43:34.000Z</pubDate>
+      <title>“우산 쓰면 못 알아볼까?”...‘스토킹 살인’ 전주환, 계획범죄 치밀 ‘태풍 때 강수량까지 검색’</title>
+      <link>https://www.segye.com/newsView/20221007502651</link>
+      <guid>https://www.segye.com/newsView/20221007502651</guid>
+      <pubDate>2022-10-07T07:04:33.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502675.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 미국 전략자산 출동을 빌미로 연쇄 도발에 나서 한반도 정세가 긴장 국면으로 치닫고 있다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502644.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  검찰이 서울 ‘신당역 스토킹 살인 사건’ 피의자 전주환(31·구속)을 재판에 넘겼다.
         
-        한미와 북한이 &apos;팃 포 탯&apos;(tit for tat·맞받아치기) 전략으로 맞서면서 대치가 가속하는 양상이다.
+        전주환은 태풍이 북상하던 당시 피해자가 우산을 쓰면 알아보지 못할 것을 우려해 미리 피해자 주소지의 강수량까지 검색하는 등 치밀하게 범행을 계획한 것으로 검찰 조사 결과 밝혀졌다.
         
-        북한은 미국 핵 추진 항공모함 로널드 레이건호가 연합훈련을 마치고 한반도를 떠난 지난 4일 화성-12형으로 추정되는 중거리 탄도미사일(IRBM)
+        6일 법조계에 따르면 서울중앙지검 신당역 살인사건 전담수사팀(팀장 김수민 형사3부장)
       </content:encoded>
     </item>
     <item>
-      <title>전주혜 “秋, 장관 시절 체력단련실 만들고 직원들에게 공지도 안 해”</title>
-      <link>https://www.segye.com/newsView/20221006502721</link>
-      <guid>https://www.segye.com/newsView/20221006502721</guid>
-      <pubDate>2022-10-06T07:59:08.000Z</pubDate>
+      <title>“우산 쓰면 못 알아볼까?”...‘스토킹 살인’ 전주환, 계획범죄 치밀 ‘태풍 때 강수량까지 검색’</title>
+      <link>https://www.segye.com/newsView/20221007502651</link>
+      <guid>https://www.segye.com/newsView/20221007502651</guid>
+      <pubDate>2022-10-07T07:04:33.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502750.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  추미애 전 법무부 장관이 재직 당시 법무부 직원들도 존재 사실을 모르는 체력단련실을 만들었다는 의혹이 제기됐다. 
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502644.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  검찰이 서울 ‘신당역 스토킹 살인 사건’ 피의자 전주환(31·구속)을 재판에 넘겼다.
         
-        지난 5일 국회 법제사법위원회 소속 국민의힘 전주혜 의원실이 법무부로부터 받은 자료에 따르면, 법무부는 지난 2020년 11월 경기 과천시 법무부 청사 장관실 바로 위층인 8층에 새 체력단련실을 꾸렸다.
+        전주환은 태풍이 북상하던 당시 피해자가 우산을 쓰면 알아보지 못할 것을 우려해 미리 피해자 주소지의 강수량까지 검색하는 등 치밀하게 범행을 계획한 것으로 검찰 조사 결과 밝혀졌다.
         
-        해당 시설은 약 16평(54㎡)
+        6일 법조계에 따르면 서울중앙지검 신당역 살인사건 전담수사팀(팀장 김수민 형사3부장)
       </content:encoded>
     </item>
     <item>
-      <title>전주혜 “秋, 장관 시절 체력단련실 만들고 직원들에게 공지도 안 해”</title>
-      <link>https://www.segye.com/newsView/20221006502721</link>
-      <guid>https://www.segye.com/newsView/20221006502721</guid>
-      <pubDate>2022-10-06T07:59:08.000Z</pubDate>
+      <title>태국 총기 참사에 美 백악관 &quot;우리도 질겁…뭐든 돕겠다&quot;</title>
+      <link>https://www.segye.com/newsView/20221007502506</link>
+      <guid>https://www.segye.com/newsView/20221007502506</guid>
+      <pubDate>2022-10-07T07:15:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502750.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  추미애 전 법무부 장관이 재직 당시 법무부 직원들도 존재 사실을 모르는 체력단련실을 만들었다는 의혹이 제기됐다. 
-        
-        지난 5일 국회 법제사법위원회 소속 국민의힘 전주혜 의원실이 법무부로부터 받은 자료에 따르면, 법무부는 지난 2020년 11월 경기 과천시 법무부 청사 장관실 바로 위층인 8층에 새 체력단련실을 꾸렸다.
-        
-        해당 시설은 약 16평(54㎡)
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502527.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  태국에서 최악의 총기난사 사건으로 40명가량이 목숨을 잃은 가운데 비슷한 범죄가 많이 발생하는 미국 행정부가 ‘남의 일 같지 않다’는 반응을 보였다. 조 바이든 미국 대통령은 오는 11월 연방의회 중간선거에서 총기 규제 강화를 핵심 공약으로 내건 상태다.
+        미국 백악관의 제이크 설리번 국가안보보좌관은 참사가 터진 6일(현지시간) 성명에서 “태국에서 발생한 비
       </content:encoded>
     </item>
     <item>
-      <title>‘환율방어’에 외환보유액 한달사이 200억달러 급감...금융위기 이후 ‘최대폭’</title>
-      <link>https://www.segye.com/newsView/20221006502797</link>
-      <guid>https://www.segye.com/newsView/20221006502797</guid>
-      <pubDate>2022-10-06T07:59:14.000Z</pubDate>
+      <title>브렉시트 약발 떨어졌나… 英, &apos;유럽으로 유턴&apos; 징후</title>
+      <link>https://www.segye.com/newsView/20221007502730</link>
+      <guid>https://www.segye.com/newsView/20221007502730</guid>
+      <pubDate>2022-10-07T07:30:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502790.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  지난달 원/달러 환율 급등을 막기 위해 외환 당국이 달러화를 시중에 풀면서(매도) 외환보유액이 한 달 사이 200억달러 가까이 급감했다.
-        
-        하지만 현재 우리나라 외환보유액은 세계 8위 규모로 충분한 수준인 만큼, 외환 위기를 걱정할 필요가 없다는 게 한국은행의 설명이다.
-        
-        한은이 6일 발표한 외환보유액 통계에 따르면 9월 말 기준 외환보유액은 4167억
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502747.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  영국의 유럽연합(EU) 탈퇴를 뜻하는 브렉시트 이후 프랑스 등 유럽 대륙 국가들과 멀어지는 듯했던 영국이 다시 EU와 긴밀히 협력하는 태도를 보여 눈길을 끈다. 러시아의 우크라이나 침공 장기화가 초래한 에너지 가격 폭등 등 경제위기에 대응하려면 결국 EU의 도움이 필요하다는 현실을 받아들인 결과로 풀이된다.
+        러시아에 맞서는 서방의 강력한 공동전선 구축을 위
       </content:encoded>
     </item>
     <item>
-      <title>‘환율방어’에 외환보유액 한달사이 200억달러 급감...금융위기 이후 ‘최대폭’</title>
-      <link>https://www.segye.com/newsView/20221006502797</link>
-      <guid>https://www.segye.com/newsView/20221006502797</guid>
-      <pubDate>2022-10-06T07:59:14.000Z</pubDate>
+      <title>부대서 대마 키워 빵에 발라먹기까지…軍에도 퍼진 마약</title>
+      <link>https://www.segye.com/newsView/20221007500318</link>
+      <guid>https://www.segye.com/newsView/20221007500318</guid>
+      <pubDate>2022-10-07T07:50:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502790.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  지난달 원/달러 환율 급등을 막기 위해 외환 당국이 달러화를 시중에 풀면서(매도) 외환보유액이 한 달 사이 200억달러 가까이 급감했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503050.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  군대 내에서 마약 투약을 넘어 군인 신분으로 마약을 판매해 수익을 챙기거나 대마를 재배하는 등 마약범죄가 잇따라 적발된 것으로 드러났다. 단속 사각지대에 놓인 군의 관리 감독을 강화해야 한다는 지적이 제기된다.
         
-        하지만 현재 우리나라 외환보유액은 세계 8위 규모로 충분한 수준인 만큼, 외환 위기를 걱정할 필요가 없다는 게 한국은행의 설명이다.
-        
-        한은이 6일 발표한 외환보유액 통계에 따르면 9월 말 기준 외환보유액은 4167억
+        7일 국회 법제사법위원회 소속 전주혜 국민의힘 의원이 국방부 군사법원으로부터 받은 ‘최근 5년간 마약범죄 현황’ 자료에 따르면 2018년부터 올
       </content:encoded>
     </item>
     <item>
-      <title>거리두기 해제, 가을 정기세일…지난달 ‘백화점 빅3’ 찾은 발길은?</title>
-      <link>https://www.segye.com/newsView/20221005512322</link>
-      <guid>https://www.segye.com/newsView/20221005512322</guid>
-      <pubDate>2022-10-06T08:00:00.000Z</pubDate>
+      <title>부대서 대마 키워 빵에 발라먹기까지…軍에도 퍼진 마약</title>
+      <link>https://www.segye.com/newsView/20221007500318</link>
+      <guid>https://www.segye.com/newsView/20221007500318</guid>
+      <pubDate>2022-10-07T07:50:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005512327.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  백화점 빅3가 지난 30일부터 가을 정기세일을 시작했다. 거리두기에 이어 실외 마스크 착용 의무까지 해제된 후 열리는 행사인 만큼 결과가 성공적일지 귀추가 주목된다.
-        
-        빅데이터 전문기업 TDI(티디아이)의 분석 플랫폼인 데이터드래곤을 통해 분석한 결과 올 9월 Tmap 이용자가 많이 찾은 백화점은 ▲롯데백화점 ▲현대백화점 ▲신세계백화점 순이었다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503050.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  군대 내에서 마약 투약을 넘어 군인 신분으로 마약을 판매해 수익을 챙기거나 대마를 재배하는 등 마약범죄가 잇따라 적발된 것으로 드러났다. 단속 사각지대에 놓인 군의 관리 감독을 강화해야 한다는 지적이 제기된다.
         
-        지난
+        7일 국회 법제사법위원회 소속 전주혜 국민의힘 의원이 국방부 군사법원으로부터 받은 ‘최근 5년간 마약범죄 현황’ 자료에 따르면 2018년부터 올
       </content:encoded>
     </item>
     <item>
-      <title>이마트, 주가 다시 반등 움직임…PBR·PER 끌어올릴 수 있을까?</title>
-      <link>https://www.segye.com/newsView/20221005512204</link>
-      <guid>https://www.segye.com/newsView/20221005512204</guid>
-      <pubDate>2022-10-06T08:00:00.000Z</pubDate>
+      <title>홍준표, 당 중진 3인 맹비난…“당대표 후보로 설쳐, 벼룩도 낯짝 있어”</title>
+      <link>https://www.segye.com/newsView/20221007502897</link>
+      <guid>https://www.segye.com/newsView/20221007502897</guid>
+      <pubDate>2022-10-07T07:56:10.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005512209.png&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  부동산 가치가 높은 이마트 주가가 최근 국내 주식 시장에서 하락세를 보여 투자자들의 관심을 집중시킨 가운데 이마트가 창고형 할인점 ‘트레이더스’의 새로운 도약을 공개해 화제다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502892.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  홍준표 대구시장은 6일 과거 자유한국당 대표 시절 자신과 갈등을 빚은 일부 당내 중진 인사 3인을 겨냥해 강하게 비판했다.
         
-        지난 4일 이마트는 창고형 할인점 ‘트레이더스’를 ‘트레이더스 홀세일 클럽’으로 변경하고 유료 멤버십을 도입하겠다고 발표했다.
+        홍 시장은 이날 페이스북에 “나는 문재인 대통령의 위장평화 쇼를 4년 전에 알았다. 그때는 국민들 80%가 문 정권에 속아 나를 비난하고 있었고 언론도 내 말을 하나같이 막말, 악담으로 매도했다”고 적었다.
         
-        홀세일의 도매, 대량의 의미를 담아 이마트만의
+        이어 “심지어 우리
       </content:encoded>
     </item>
     <item>
-      <title>“잊을때쯤 도착한다?” 이제 옛말…알리익스프레스 지속 성장</title>
-      <link>https://www.segye.com/newsView/20221005512271</link>
-      <guid>https://www.segye.com/newsView/20221005512271</guid>
-      <pubDate>2022-10-06T08:00:00.000Z</pubDate>
+      <title>홍준표, 당 중진 3인 맹비난…“당대표 후보로 설쳐, 벼룩도 낯짝 있어”</title>
+      <link>https://www.segye.com/newsView/20221007502897</link>
+      <guid>https://www.segye.com/newsView/20221007502897</guid>
+      <pubDate>2022-10-07T07:56:10.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005512273.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  주문한 사실을 잊을 때쯤에야 제품이 도착한다는 우스갯소리가 있다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502892.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  홍준표 대구시장은 6일 과거 자유한국당 대표 시절 자신과 갈등을 빚은 일부 당내 중진 인사 3인을 겨냥해 강하게 비판했다.
         
-        중국 전자상거래 플랫폼 알리익스프레스의 배송을 두고 하는 말이다. 이제는 이런 불평도 옛말인 듯하다. 알리익스프레스가 5일 배송 등 서비스를 강화하며 한국 시장 침투에 적극적으로 나서고 있다.
+        홍 시장은 이날 페이스북에 “나는 문재인 대통령의 위장평화 쇼를 4년 전에 알았다. 그때는 국민들 80%가 문 정권에 속아 나를 비난하고 있었고 언론도 내 말을 하나같이 막말, 악담으로 매도했다”고 적었다.
         
-        빅데이터 전문기업 TDI(티디아이) 분석 플랫폼인 데이터드래곤을 통해 분석한 결과, 알리익스
+        이어 “심지어 우리
       </content:encoded>
     </item>
     <item>
-      <title>밥솥업계 ‘양대 산맥’ 쿠쿠 vs 쿠첸, 시작은 같았지만…</title>
-      <link>https://www.segye.com/newsView/20221005514392</link>
-      <guid>https://www.segye.com/newsView/20221005514392</guid>
-      <pubDate>2022-10-06T08:00:00.000Z</pubDate>
+      <title>“재결합 안해?” 전처 질질 끌고가 흉기로 찌른 현역 군인…CCTV ‘충격’</title>
+      <link>https://www.segye.com/newsView/20221007500091</link>
+      <guid>https://www.segye.com/newsView/20221007500091</guid>
+      <pubDate>2022-10-07T08:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005514406.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  기술력 기반 프리미엄 이미지 강화 vs 사업다각화 통한 영역 확장 / 시작은 ‘밥솥’이라는 주방가전으로 동일 / 추후 전략 다른 두 업체, 향후 어떻게 시장서 자리잡고 평가받을지 귀추 주목
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500073.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  재결합 요구를 거부했다는 이유로 현역 군인 전남편이 전부인을 흉기로 수차례 찔러 살해하려 한 혐의로 구속 돼 재판을 받고 있는 가운데, 당시 현장 상황이 담긴 CCTV와 녹취록 등이 5개월여 만에 공개됐다.
         
-        국내에서 밥솥 명가로 유명한 쿠첸과 쿠쿠가 각기 다른 전략으로 가전시장 공략에 속도를 내고 있다. 최근 비전선포식을 통해 제2의 도약을 선언한 쿠첸은 주력 제품 중심
+        4일 MBC 보도에 따르면 사건은 지난 5월 15일 새벽 경기도 파주의 한 군인아파트에서 발생했다. 당시 30대 여성 김모씨는 면접 교섭을 위해 자
       </content:encoded>
     </item>
     <item>
-      <title>“잊을때쯤 도착한다?” 이제 옛말…알리익스프레스 지속 성장</title>
-      <link>https://www.segye.com/newsView/20221005512271</link>
-      <guid>https://www.segye.com/newsView/20221005512271</guid>
-      <pubDate>2022-10-06T08:00:00.000Z</pubDate>
+      <title>네이버클라우드, 이노뎁과 클라우드 기반 지능형 CCTV 사업화 협력</title>
+      <link>https://www.segye.com/newsView/20221006512333</link>
+      <guid>https://www.segye.com/newsView/20221006512333</guid>
+      <pubDate>2022-10-07T08:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005512273.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  주문한 사실을 잊을 때쯤에야 제품이 도착한다는 우스갯소리가 있다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006512353.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  네이버클라우드가 스마트 시티 플랫폼 사업자 이노뎁과 공공 및 지자체를 위한 클라우드 기반 지능형 폐쇄회로(CC)TV 사업 활성화에 나선다고 6일 밝혔다.
         
-        중국 전자상거래 플랫폼 알리익스프레스의 배송을 두고 하는 말이다. 이제는 이런 불평도 옛말인 듯하다. 알리익스프레스가 5일 배송 등 서비스를 강화하며 한국 시장 침투에 적극적으로 나서고 있다.
-        
-        빅데이터 전문기업 TDI(티디아이) 분석 플랫폼인 데이터드래곤을 통해 분석한 결과, 알리익스
+        양사는 이날 ‘클라우드 기반 AI CCTV 영상 관제 및 데이터 통합 운영 모니터링 서비스 분야 전략적 협업’을 위한 업무협약(MOU)을 체결했다. 네이버 클라우드 플랫폼 기반 서비스형 영상관제 솔루션
       </content:encoded>
     </item>
     <item>
-      <title>거리두기 해제, 가을 정기세일…지난달 ‘백화점 빅3’ 찾은 발길은?</title>
-      <link>https://www.segye.com/newsView/20221005512322</link>
-      <guid>https://www.segye.com/newsView/20221005512322</guid>
-      <pubDate>2022-10-06T08:00:00.000Z</pubDate>
+      <title>“재결합 안해?” 전처 질질 끌고가 흉기로 찌른 현역 군인…CCTV ‘충격’</title>
+      <link>https://www.segye.com/newsView/20221007500091</link>
+      <guid>https://www.segye.com/newsView/20221007500091</guid>
+      <pubDate>2022-10-07T08:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005512327.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  백화점 빅3가 지난 30일부터 가을 정기세일을 시작했다. 거리두기에 이어 실외 마스크 착용 의무까지 해제된 후 열리는 행사인 만큼 결과가 성공적일지 귀추가 주목된다.
-        
-        빅데이터 전문기업 TDI(티디아이)의 분석 플랫폼인 데이터드래곤을 통해 분석한 결과 올 9월 Tmap 이용자가 많이 찾은 백화점은 ▲롯데백화점 ▲현대백화점 ▲신세계백화점 순이었다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007500073.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  재결합 요구를 거부했다는 이유로 현역 군인 전남편이 전부인을 흉기로 수차례 찔러 살해하려 한 혐의로 구속 돼 재판을 받고 있는 가운데, 당시 현장 상황이 담긴 CCTV와 녹취록 등이 5개월여 만에 공개됐다.
         
-        지난
+        4일 MBC 보도에 따르면 사건은 지난 5월 15일 새벽 경기도 파주의 한 군인아파트에서 발생했다. 당시 30대 여성 김모씨는 면접 교섭을 위해 자
       </content:encoded>
     </item>
     <item>
-      <title>밥솥업계 ‘양대 산맥’ 쿠쿠 vs 쿠첸, 시작은 같았지만…</title>
-      <link>https://www.segye.com/newsView/20221005514392</link>
-      <guid>https://www.segye.com/newsView/20221005514392</guid>
-      <pubDate>2022-10-06T08:00:00.000Z</pubDate>
+      <title>네이버클라우드, 이노뎁과 클라우드 기반 지능형 CCTV 사업화 협력</title>
+      <link>https://www.segye.com/newsView/20221006512333</link>
+      <guid>https://www.segye.com/newsView/20221006512333</guid>
+      <pubDate>2022-10-07T08:00:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005514406.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  기술력 기반 프리미엄 이미지 강화 vs 사업다각화 통한 영역 확장 / 시작은 ‘밥솥’이라는 주방가전으로 동일 / 추후 전략 다른 두 업체, 향후 어떻게 시장서 자리잡고 평가받을지 귀추 주목
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006512353.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  네이버클라우드가 스마트 시티 플랫폼 사업자 이노뎁과 공공 및 지자체를 위한 클라우드 기반 지능형 폐쇄회로(CC)TV 사업 활성화에 나선다고 6일 밝혔다.
         
-        국내에서 밥솥 명가로 유명한 쿠첸과 쿠쿠가 각기 다른 전략으로 가전시장 공략에 속도를 내고 있다. 최근 비전선포식을 통해 제2의 도약을 선언한 쿠첸은 주력 제품 중심
+        양사는 이날 ‘클라우드 기반 AI CCTV 영상 관제 및 데이터 통합 운영 모니터링 서비스 분야 전략적 협업’을 위한 업무협약(MOU)을 체결했다. 네이버 클라우드 플랫폼 기반 서비스형 영상관제 솔루션
       </content:encoded>
     </item>
     <item>
-      <title>이마트, 주가 다시 반등 움직임…PBR·PER 끌어올릴 수 있을까?</title>
-      <link>https://www.segye.com/newsView/20221005512204</link>
-      <guid>https://www.segye.com/newsView/20221005512204</guid>
-      <pubDate>2022-10-06T08:00:00.000Z</pubDate>
+      <title>정은경 전 질병청장, 분당서울대병원 취업승인 받아</title>
+      <link>https://www.segye.com/newsView/20221007502880</link>
+      <guid>https://www.segye.com/newsView/20221007502880</guid>
+      <pubDate>2022-10-07T08:03:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005512209.png&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  부동산 가치가 높은 이마트 주가가 최근 국내 주식 시장에서 하락세를 보여 투자자들의 관심을 집중시킨 가운데 이마트가 창고형 할인점 ‘트레이더스’의 새로운 도약을 공개해 화제다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502907.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  정은경 전 질병관리청장이 분당서울대학교병원에 재취업할 전망이다.
+        7일 정부공직자윤리위원회에 따르면 공직자윤리위는 지난달 30일 퇴직공직자가 취업 심사를 요청한 82건에 대해 취업심사를 실시했다.
         
-        지난 4일 이마트는 창고형 할인점 ‘트레이더스’를 ‘트레이더스 홀세일 클럽’으로 변경하고 유료 멤버십을 도입하겠다고 발표했다.
+        이번 심사에서 정 전 청장은 이달부터 분당서울대병원 단기간특수전문직에 취업이 가능한지 판단해달라고 요청했고, 공직자윤리위는 취업승인 결정을 했다.
         
-        홀세일의 도매, 대량의 의미를 담아 이마트만의
+        취업승인은
       </content:encoded>
     </item>
     <item>
-      <title>&quot;美 정보당국, 푸틴 측근 딸 폭사 사건 우크라 개입 판단&quot;</title>
-      <link>https://www.segye.com/newsView/20221006502699</link>
-      <guid>https://www.segye.com/newsView/20221006502699</guid>
-      <pubDate>2022-10-06T08:01:04.000Z</pubDate>
+      <title>정은경 전 질병청장, 분당서울대병원 취업승인 받아</title>
+      <link>https://www.segye.com/newsView/20221007502880</link>
+      <guid>https://www.segye.com/newsView/20221007502880</guid>
+      <pubDate>2022-10-07T08:03:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502700.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  우크라이나 침공을 극렬 지지한 러시아 사상가 딸의 폭사 사건에 우크라이나 정부가 개입한 것으로 미 정보당국이 보고 있다고 CNN이 소식통을 인용해 5일(현지시간) 보도했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502907.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  정은경 전 질병관리청장이 분당서울대학교병원에 재취업할 전망이다.
+        7일 정부공직자윤리위원회에 따르면 공직자윤리위는 지난달 30일 퇴직공직자가 취업 심사를 요청한 82건에 대해 취업심사를 실시했다.
         
-        이 소식통은 러시아의 저명한 사상가이자 정치인인 알렉산드르 두긴의 딸 다리야 두기나의 차량 폭발 사망 사건과 관련해 우크라이나 정부 내부 조직이 이를 승인한 것으로 미 정보당국이
+        이번 심사에서 정 전 청장은 이달부터 분당서울대병원 단기간특수전문직에 취업이 가능한지 판단해달라고 요청했고, 공직자윤리위는 취업승인 결정을 했다.
+        
+        취업승인은
       </content:encoded>
     </item>
     <item>
-      <title>&quot;美 정보당국, 푸틴 측근 딸 폭사 사건 우크라 개입 판단&quot;</title>
-      <link>https://www.segye.com/newsView/20221006502699</link>
-      <guid>https://www.segye.com/newsView/20221006502699</guid>
-      <pubDate>2022-10-06T08:01:04.000Z</pubDate>
+      <title>이준석 당원권 정지 1년 추가…당 대표직 사실상 상실</title>
+      <link>https://www.segye.com/newsView/20221007502876</link>
+      <guid>https://www.segye.com/newsView/20221007502876</guid>
+      <pubDate>2022-10-07T08:10:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006502700.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  우크라이나 침공을 극렬 지지한 러시아 사상가 딸의 폭사 사건에 우크라이나 정부가 개입한 것으로 미 정보당국이 보고 있다고 CNN이 소식통을 인용해 5일(현지시간) 보도했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502885.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국민의힘 윤리위원회는 7일 이준석 전 대표에 대한 ‘당원권 정지 1년’의 추가 중징계를 의결했다. 이 전 대표는 전날 법원에 낸 &apos;정진석 비대위&apos; 효력 정지 가처분 신청이 기각된 데 이어 당 윤리위로부터 당원권 정지 총 1년 6개월 처분을 받으면서 내년 6월까지 임기였던 당 대표직을 이날부로 사실상 잃게 됐다.
         
-        이 소식통은 러시아의 저명한 사상가이자 정치인인 알렉산드르 두긴의 딸 다리야 두기나의 차량 폭발 사망 사건과 관련해 우크라이나 정부 내부 조직이 이를 승인한 것으로 미 정보당국이
+        이양희 윤리위원장은 이날 5시간 넘게 진행
       </content:encoded>
     </item>
     <item>
-      <title>&apos;한반도 강대강&apos; 고조…북, 美전략자산 빌미 핵실험 수순 가나</title>
-      <link>https://www.segye.com/newsView/20221006502943</link>
-      <guid>https://www.segye.com/newsView/20221006502943</guid>
-      <pubDate>2022-10-06T08:32:47.000Z</pubDate>
+      <title>이준석 당원권 정지 1년 추가…당 대표직 사실상 상실</title>
+      <link>https://www.segye.com/newsView/20221007502876</link>
+      <guid>https://www.segye.com/newsView/20221007502876</guid>
+      <pubDate>2022-10-07T08:10:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503376.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 미국 전략자산 출동을 빌미로 연쇄 도발에 나서 한반도 정세가 긴장 국면으로 치닫고 있다.
-        
-        한미와 북한이 &apos;팃 포 탯&apos;(tit for tat·맞받아치기) 전략으로 맞서면서 대치가 가속하는 양상이고, 북한이 종국에는 7번째가 될 핵실험 버튼을 누르려는 수순 아니냐는 분석이 나온다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502885.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국민의힘 윤리위원회는 7일 이준석 전 대표에 대한 ‘당원권 정지 1년’의 추가 중징계를 의결했다. 이 전 대표는 전날 법원에 낸 &apos;정진석 비대위&apos; 효력 정지 가처분 신청이 기각된 데 이어 당 윤리위로부터 당원권 정지 총 1년 6개월 처분을 받으면서 내년 6월까지 임기였던 당 대표직을 이날부로 사실상 잃게 됐다.
         
-        북한은 미국 핵 추진 항공모함 로널드 레이건호가 연합훈련을 마
+        이양희 윤리위원장은 이날 5시간 넘게 진행
       </content:encoded>
     </item>
     <item>
-      <title>&apos;한반도 강대강&apos; 고조…북, 美전략자산 빌미 핵실험 수순 가나</title>
-      <link>https://www.segye.com/newsView/20221006502943</link>
-      <guid>https://www.segye.com/newsView/20221006502943</guid>
-      <pubDate>2022-10-06T08:32:47.000Z</pubDate>
+      <title>윤석열 정부 장차관 평균재산 33억…문재인 정부땐?</title>
+      <link>https://www.segye.com/newsView/20221007502928</link>
+      <guid>https://www.segye.com/newsView/20221007502928</guid>
+      <pubDate>2022-10-07T08:30:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503376.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  북한이 미국 전략자산 출동을 빌미로 연쇄 도발에 나서 한반도 정세가 긴장 국면으로 치닫고 있다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502986.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  윤석열 정부에서 임명된 장차관의 평균 재산이 일반 국민 평균의 8배에 달한다는 조사 결과가 나왔다. 장차관 41명 중 16명은 주택 2채 이상 또는 비주거용 건물·대지를 보유한 것으로 나타났다.
         
-        한미와 북한이 &apos;팃 포 탯&apos;(tit for tat·맞받아치기) 전략으로 맞서면서 대치가 가속하는 양상이고, 북한이 종국에는 7번째가 될 핵실험 버튼을 누르려는 수순 아니냐는 분석이 나온다.
-        
-        북한은 미국 핵 추진 항공모함 로널드 레이건호가 연합훈련을 마
+        경제정의실천시민연합(경실련)은 6일 기자회견을 열고 장차관 41명의 보유 재산 분석 결과를 발표했다. 장차관 평균 재산은 1인당 32억 6000만원으로 국민 평
       </content:encoded>
     </item>
     <item>
-      <title>익산 어린이공원서 예초작업하던 60대 말벌에 쏘여 숨져</title>
-      <link>https://www.segye.com/newsView/20221006503197</link>
-      <guid>https://www.segye.com/newsView/20221006503197</guid>
-      <pubDate>2022-10-06T08:39:25.000Z</pubDate>
+      <title>윤석열 정부 장차관 평균재산 33억…문재인 정부땐?</title>
+      <link>https://www.segye.com/newsView/20221007502928</link>
+      <guid>https://www.segye.com/newsView/20221007502928</guid>
+      <pubDate>2022-10-07T08:30:00.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503174.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  어린이공원에서 예초작업을 하던 60대가 벌에 쏘여 숨지는 사고가 발생했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007502986.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  윤석열 정부에서 임명된 장차관의 평균 재산이 일반 국민 평균의 8배에 달한다는 조사 결과가 나왔다. 장차관 41명 중 16명은 주택 2채 이상 또는 비주거용 건물·대지를 보유한 것으로 나타났다.
         
-        5일 전북소방본부에 따르면 이날 오후 4시3분 익산시 어양동 동초어린이공원에서 예초착업을 하던 A(63)씨가 벌에 쏘여 쓰러졌다.
+        경제정의실천시민연합(경실련)은 6일 기자회견을 열고 장차관 41명의 보유 재산 분석 결과를 발표했다. 장차관 평균 재산은 1인당 32억 6000만원으로 국민 평
+      </content:encoded>
+    </item>
+    <item>
+      <title>삼성전자 3분기 영업익 31.7% 급감한 10조8천억…매출 76조</title>
+      <link>https://www.segye.com/newsView/20221007503426</link>
+      <guid>https://www.segye.com/newsView/20221007503426</guid>
+      <pubDate>2022-10-07T08:52:22.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503521.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  삼성전자[005930]가 올해 3분기에 11조원을 밑도는 수준의 영업이익을 올리는 데 그쳐 약 3년 만에 전년 분기 대비 역성장을 기록했다.
         
-        신고를 받고 출동한 119대원들은 A씨를 인근 대학병원으로 옮겼으나 끝내 숨졌다.
+        글로벌 경기 침체에 따른 수요 위축과 메모리 반도체 가격 하락세로 반도체 업황이 악화된 것으로 분석된다.
         
-        소방당국은 A씨가 작업 중 말벌집을 건들이면서 말벌에 몸 수
+        삼성전자는 올해 3분기 연결 기준 잠정 실적을 집계한 결과 매출 76조원, 영업이익 10조8천억원을
       </content:encoded>
     </item>
     <item>
-      <title>산다라박 “재산 300억?…지금 300만원 있다”</title>
-      <link>https://www.segye.com/newsView/20221006503418</link>
-      <guid>https://www.segye.com/newsView/20221006503418</guid>
-      <pubDate>2022-10-06T08:55:29.000Z</pubDate>
+      <title>삼성전자 3분기 영업익 31.7% 급감한 10조8천억…매출 76조</title>
+      <link>https://www.segye.com/newsView/20221007503426</link>
+      <guid>https://www.segye.com/newsView/20221007503426</guid>
+      <pubDate>2022-10-07T08:52:22.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503382.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  그룹 2NE1 출신 가수 산다라박이 ‘300억 재산설’에 대해 해명했다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503521.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  삼성전자[005930]가 올해 3분기에 11조원을 밑도는 수준의 영업이익을 올리는 데 그쳐 약 3년 만에 전년 분기 대비 역성장을 기록했다.
         
-        산다라박은 지난 5일 방송한 KBS 2TV 예능 프로그램 ‘옥탑방의 문제아들’에 출연했다.
+        글로벌 경기 침체에 따른 수요 위축과 메모리 반도체 가격 하락세로 반도체 업황이 악화된 것으로 분석된다.
         
-        이날 진행자 김숙은 “얼마 전 K팝 여자 가수 재산 순위를 다룬 기사를 봤는데 산다라박이 3위더라”고 말했다.
-        
-        이에 산다라박은 “제가 300억원이 있다는 기사가 난 적이 있다”며 “실
+        삼성전자는 올해 3분기 연결 기준 잠정 실적을 집계한 결과 매출 76조원, 영업이익 10조8천억원을
       </content:encoded>
     </item>
     <item>
-      <title>3분기 고객경영 관심도…현대백화점 &gt; 롯데백화점 &gt; 신세계백화점</title>
-      <link>https://www.segye.com/newsView/20221006503706</link>
-      <guid>https://www.segye.com/newsView/20221006503706</guid>
-      <pubDate>2022-10-06T08:58:02.000Z</pubDate>
+      <title>한 달 째 잠행 北김정은, 푸틴 칠순 축하…“美 짓부순 탁월한 영도력”</title>
+      <link>https://www.segye.com/newsView/20221007503551</link>
+      <guid>https://www.segye.com/newsView/20221007503551</guid>
+      <pubDate>2022-10-07T08:57:48.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503727.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  지난 3분기 백화점업계에서 현대백화점의 &apos;고객 경영&apos; 관심도(포스팅 수=정보량)가 가장 높은 것으로 나타났다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503590.png&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  김정은 북한 국무위원장이 블라디미르 푸틴 러시아 대통령의 70세 생일을 축하하는 축전을 보냈다.
         
-        지난 2분기에 비해 3분기 고객 경영 정보량이 가장 많이 늘어난 곳은 &apos;AK플라자&apos;였다.
+        김 위원장은 7일 조선중앙통신에 공개된 축전에서 “나는 생일 70돌을 맞는 당신에게 진심으로 되는 따듯한 축하의 인사를 보낸다”고 밝혔다.
         
-        6일 데이터앤리서치는 뉴스·커뮤니티·블로그·카페·유튜브·트위터·인스타그램·페이스북·카카오스토리·지식인·기업/조직·정부/공공 등 12개 채널 23만개 사
+        그는 푸틴에게 “오늘 러시아가 미국과 그 추종 세력들의 도전과 위협을 짓부시고 국가의 존엄과 근본 이익을 굳건히 수
       </content:encoded>
     </item>
     <item>
-      <title>3분기 고객경영 관심도…현대백화점 &gt; 롯데백화점 &gt; 신세계백화점</title>
-      <link>https://www.segye.com/newsView/20221006503706</link>
-      <guid>https://www.segye.com/newsView/20221006503706</guid>
-      <pubDate>2022-10-06T08:58:02.000Z</pubDate>
+      <title>한 달 째 잠행 北김정은, 푸틴 칠순 축하…“美 짓부순 탁월한 영도력”</title>
+      <link>https://www.segye.com/newsView/20221007503551</link>
+      <guid>https://www.segye.com/newsView/20221007503551</guid>
+      <pubDate>2022-10-07T08:57:48.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503727.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  지난 3분기 백화점업계에서 현대백화점의 &apos;고객 경영&apos; 관심도(포스팅 수=정보량)가 가장 높은 것으로 나타났다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503590.png&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  김정은 북한 국무위원장이 블라디미르 푸틴 러시아 대통령의 70세 생일을 축하하는 축전을 보냈다.
         
-        지난 2분기에 비해 3분기 고객 경영 정보량이 가장 많이 늘어난 곳은 &apos;AK플라자&apos;였다.
+        김 위원장은 7일 조선중앙통신에 공개된 축전에서 “나는 생일 70돌을 맞는 당신에게 진심으로 되는 따듯한 축하의 인사를 보낸다”고 밝혔다.
         
-        6일 데이터앤리서치는 뉴스·커뮤니티·블로그·카페·유튜브·트위터·인스타그램·페이스북·카카오스토리·지식인·기업/조직·정부/공공 등 12개 채널 23만개 사
+        그는 푸틴에게 “오늘 러시아가 미국과 그 추종 세력들의 도전과 위협을 짓부시고 국가의 존엄과 근본 이익을 굳건히 수
       </content:encoded>
     </item>
     <item>
-      <title>[해커스톡 일대일 영어회화] 하루 1분 기초 영어회화 말하기 (10월 6일)</title>
-      <link>https://www.segye.com/newsView/20221005515811</link>
-      <guid>https://www.segye.com/newsView/20221005515811</guid>
-      <pubDate>2022-10-06T09:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/05/20221005518306.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;</content:encoded>
+      <title>[해커스톡 일대일 영어회화] 하루 1분 기초 영어회화 말하기 (10월 7일)</title>
+      <link>https://www.segye.com/newsView/20221006514518</link>
+      <guid>https://www.segye.com/newsView/20221006514518</guid>
+      <pubDate>2022-10-07T09:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519256.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;</content:encoded>
     </item>
     <item>
-      <title>애스턴마틴, 707마력 럭셔리 SUV ‘DBX707’ 한국서 인도 시작</title>
-      <link>https://www.segye.com/newsView/20221006503871</link>
-      <guid>https://www.segye.com/newsView/20221006503871</guid>
-      <pubDate>2022-10-06T09:02:37.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503806.PNG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  영국 럭셔리 스포츠카 브랜드 애스턴마틴의 현존하는 가장 빠르고 강력한 럭셔리 SUV ‘애스턴마틴 DBX707’이 고객별 맞춤 작업을 완료하고 국내에서 차량 인도가 시작되었다고 밝혔다.
-        
-        애스턴마틴 DBX707은 최고속도 310km/h, 최고출력 707마력, 최대토크 900Nm, 0에서 100km/h까지 도달하는 가속 성능 (제로백) 3.3초의 강력한 성능
-      </content:encoded>
+      <title>[해커스톡 일대일 영어회화] 하루 1분 기초 영어회화 말하기 (10월 7일)</title>
+      <link>https://www.segye.com/newsView/20221006514518</link>
+      <guid>https://www.segye.com/newsView/20221006514518</guid>
+      <pubDate>2022-10-07T09:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006519256.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;</content:encoded>
     </item>
     <item>
-      <title>여수 거문도 해상서 낚싯배 좌초…18명 무사 구조</title>
-      <link>https://www.segye.com/newsView/20221006503240</link>
-      <guid>https://www.segye.com/newsView/20221006503240</guid>
-      <pubDate>2022-10-06T09:03:51.000Z</pubDate>
+      <title>코로나19 확진자, 전 세계적으로 감소세…유럽만 늘어나</title>
+      <link>https://www.segye.com/newsView/20221007503531</link>
+      <guid>https://www.segye.com/newsView/20221007503531</guid>
+      <pubDate>2022-10-07T09:00:18.000Z</pubDate>
       <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503244.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  6일 오전 5시 52분께 전남 여수시 삼산면 거문도 동쪽 4.3㎞ 해상에서 9.77t급 낚싯배가 좌초됐다.
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503674.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  전 세계에서 신종 코로나바이러스 감염증(코로나19) 신규 확진자 수가 줄어드는 가운데 유럽 지역에서는 오히려 신규 확진자 수가 늘고 있는 것으로 나타났다.
         
-        신고를 받은 여수해경은 구조정 등을 급파, 오전 6시 50분께 선원·승객 등 18명을 무사히 구조했다.
+        이에 따라 방역규제를 완화한 국가들이 다시 관리를 강화해야 한다고 세계 보건당국은 당부했다.
         
-        해경은 &apos;입항 과정에서 암초에 걸린 것 같다&apos;는 선원의 진술을 토대로 정확한 사고 경위를 조사하고 있다.
+        5일(현지시간) 세계보건기구(WHO)가 발간한 코로나19 주간 현황 보고서에 따르면 지난달 26일부터
       </content:encoded>
     </item>
     <item>
-      <title>[속보] 尹, 유병호 문자에 &quot;무슨 문자인지 몰라…관여할 여유도 없어&quot;</title>
-      <link>https://www.segye.com/newsView/20221006503848</link>
-      <guid>https://www.segye.com/newsView/20221006503848</guid>
-      <pubDate>2022-10-06T09:04:55.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503932.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  尹, 유병호 문자에 &quot;무슨 문자인지 몰라…관여할 여유도 없어&quot;</content:encoded>
+      <title>김용태 “권력자에 충성하는 ‘윤핵관’, 지지율 낮다면 앞장서서 尹 버리려 할 것”</title>
+      <link>https://www.segye.com/newsView/20221007503162</link>
+      <guid>https://www.segye.com/newsView/20221007503162</guid>
+      <pubDate>2022-10-07T09:01:34.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503554.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  김용태 전 국민의힘 최고위원은 7일 “윤핵관이라고 하는 분들은 윤석열 대통령에게 충성하는 게 아니라, (그들의 행동은) 권력자에게 충성해 공천을 받기 위한 것”이라고 짚었다.
+        
+        친이준석계로 분류되는 김 전 최고위원은 이날 오전 MBC 라디오 ‘김종배의 시선집중’ 인터뷰에서 “총선 임박해 대통령의 국정 지지율이 낮다는 가정이라면 ‘윤핵관’이라는 분들이 앞장
+      </content:encoded>
     </item>
     <item>
-      <title>[속보] 尹, 유병호 문자에 &quot;무슨 문자인지 몰라…관여할 여유도 없어&quot;</title>
-      <link>https://www.segye.com/newsView/20221006503848</link>
-      <guid>https://www.segye.com/newsView/20221006503848</guid>
-      <pubDate>2022-10-06T09:04:55.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2022/10/06/20221006503932.JPG&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  尹, 유병호 문자에 &quot;무슨 문자인지 몰라…관여할 여유도 없어&quot;</content:encoded>
+      <title>김용태 “권력자에 충성하는 ‘윤핵관’, 지지율 낮다면 앞장서서 尹 버리려 할 것”</title>
+      <link>https://www.segye.com/newsView/20221007503162</link>
+      <guid>https://www.segye.com/newsView/20221007503162</guid>
+      <pubDate>2022-10-07T09:01:34.000Z</pubDate>
+      <content:encoded>
+        &lt;img src=&quot;//img.segye.com/content/image/2022/10/07/20221007503554.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  김용태 전 국민의힘 최고위원은 7일 “윤핵관이라고 하는 분들은 윤석열 대통령에게 충성하는 게 아니라, (그들의 행동은) 권력자에게 충성해 공천을 받기 위한 것”이라고 짚었다.
+        
+        친이준석계로 분류되는 김 전 최고위원은 이날 오전 MBC 라디오 ‘김종배의 시선집중’ 인터뷰에서 “총선 임박해 대통령의 국정 지지율이 낮다는 가정이라면 ‘윤핵관’이라는 분들이 앞장
+      </content:encoded>
     </item>
   </channel>
 </rss>
