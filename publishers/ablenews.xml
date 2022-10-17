@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>에이블뉴스 - 전체기사</title>
-    <link>http://www.ablenews.co.kr/ablerss/RssNews.aspx</link>
-    <description>에이블뉴스 - 전체기사</description>
-    <lastBuildDate>2022-10-16T00:11:22.798Z</lastBuildDate>
+    <title>에이블뉴스 - 정치/정책</title>
+    <link>http://www.ablenews.co.kr/ablerss/RssNews.aspx?CategoryCode=0042</link>
+    <description>에이블뉴스 - 정치/정책</description>
+    <lastBuildDate>2022-10-17T00:12:31.956Z</lastBuildDate>
     <item>
       <title>여성장애인 양육서비스 쟁취 서명운동 돌입</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0025&amp;NewsCode=002520190508170312520560</link>
@@ -1223,13 +1223,6 @@
       <content:encoded>청와대 춘추관 장애예술인 특별전 ‘국민 속으로 어울림 속으로’(주최 한국장애인문화예술단체총연합회)에 개막 후 2주 동안 5만 명이 넘는 관람객이 다녀갔다.16일 문화체육관광부(장관 박보균, 이하 문체부)에 따르면 윤석열 대통령이 지난 12일 특별전을 깜짝 방문한 데 이어, 14일에는 김대진 한국예술종합학교 총장, 피아니스트 백건우 씨, 디자이너 이상봉 씨(홍익대학...</content:encoded>
     </item>
     <item>
-      <title>민정이에게 띄우는 스물세번째 편지</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620220919035256798191</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620220919035256798191</guid>
-      <pubDate>2022-09-19T09:19:56.000Z</pubDate>
-      <content:encoded>2022년 스물세번째 편지: 9월 19일&quot;제4회 강원도 장애인 생활수기 공모전 시상식&quot;세상에서 제일 소중한 보물 중의 보물! 나의 딸 민정아!낮과 밤의 온도 차이가 확연히 차이나는 계절의 가을,길가의 한들한들 춤을 추는 듯한 코스모스와들녘의 황금으로 물들어진 노란 벼들을 바라보고 있노라니풍성해지는 마음이 가득 차오르며, 오늘 하루도 활기찬 날이 시작되는구나!지난 9...</content:encoded>
-    </item>
-    <item>
       <title>한시련 제작 금주 신규 화면해설 프로그램 4종 안내</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0002&amp;NewsCode=000220220919111149823245</link>
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0002&amp;NewsCode=000220220919111149823245</guid>
@@ -2217,20 +2210,6 @@
       <content:encoded>밀알복지재단 헬렌켈러센터가 10월 13일 ‘세계 시력의 날’을 맞아 시청각장애인 새만금 갯벌체험을 다녀왔다고 밝혔다.세계 시력의 날은 세계보건기구(WHO)가 실명과 시각장애에 대한 국제적인 관심을 도모하고자 지정한 날이다.밀알복지재단 헬렌켈러센터는 외출이 어려운 시청각장애인에게 새로운 문화체험의 기회를 제공하여 일상 속 스트레스를 해소하고 정서적 안정을 ...</content:encoded>
     </item>
     <item>
-      <title>밀알복지재단, 세계 시력의 날 맞아 시청각장애인과 갯벌체험</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221013093020193223</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221013093020193223</guid>
-      <pubDate>2022-10-13T09:19:20.000Z</pubDate>
-      <content:encoded>밀알복지재단 헬렌켈러센터가 10월 13일 ‘세계 시력의 날’을 맞아 시청각장애인 새만금 갯벌체험을 다녀왔다고 밝혔다.세계 시력의 날은 세계보건기구(WHO)가 실명과 시각장애에 대한 국제적인 관심을 도모하고자 지정한 날이다.밀알복지재단 헬렌켈러센터는 외출이 어려운 시청각장애인에게 새로운 문화체험의 기회를 제공하여 일상 속 스트레스를 해소하고 정서적 안정을 ...</content:encoded>
-    </item>
-    <item>
-      <title>익산 장애인 이동권 열악, ‘권리 보장하라’</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0037&amp;NewsCode=003720221012231522103614</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0037&amp;NewsCode=003720221012231522103614</guid>
-      <pubDate>2022-10-13T09:22:25.000Z</pubDate>
-      <content:encoded>전북장애인차별철폐연대는 지난 12일 익산시청에서 기자회견을 열고, 익산시에 장애인들의 이동권 보장을 요구했다.익산시는 전북의 제2대 도시이면서 전주 다음으로 장애인들이 많이 사는 도시이다. 하지만 장애인들의 이동권 보장은 전북도에서도 매우 형편없는 수준이다. 익산시의 특별교통수단인 장애인콜택시의 법정 대수는 40대이지만 지금 운행하은 고작 30대의 불과하...</content:encoded>
-    </item>
-    <item>
       <title>‘장애인 영화관람권 보장’ 내년도 깜깜하다</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0030&amp;NewsCode=003020221013091547418490</link>
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0030&amp;NewsCode=003020221013091547418490</guid>
@@ -2803,6 +2782,27 @@
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0036&amp;NewsCode=003620221014175932709439</guid>
       <pubDate>2022-10-14T17:58:52.000Z</pubDate>
       <content:encoded>한국장애인개발원 경기도발달장애인지원센터(센터장 김민영, 이하 경기발달센터)는 14일 행복모아에서 근무하는 발달장애인 20명을 대상으로 ‘연예 에티켓 교육’을 실시했다.이날 오전과 오후에 걸쳐 진행된 교육은 안산대학교 평생교육원 이수지 강사의 강의로 진행됐다.이번 교육은 다음 달까지 진행되며, 근로 발달장애인의 원활한 직장생활과 금전관리, 건전한 이성교제 ...</content:encoded>
+    </item>
+    <item>
+      <title>‘2022년 사동가을문화축제’ 성료…장애인친화마을 선포</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0036&amp;NewsCode=001420221016022158080540</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0036&amp;NewsCode=001420221016022158080540</guid>
+      <pubDate>2022-10-17T08:08:16.000Z</pubDate>
+      <content:encoded>안산시상록장애인복지관(관장 강기태), 사동주민자치회, 사동행정복지센터 등은 지난 15일 사동 어울림공원에서 누구나 편하게 어울려 사는 장애인친화마을 ‘마을이 예술이야’를 주제 아래 ‘2022년 사동가을문화축제’를 개최했다.상록장복은 매년 복지관 앞마당에서 행복 나눔 축제는 진행됐지만 올해에는 ‘2022년 사동가을문화축제’와 함께했다. 이날 축제에서는 장애인...</content:encoded>
+    </item>
+    <item>
+      <title>서울 교통약자 버스 승하차 안내 살펴보기</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620221015062020463507</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620221015062020463507</guid>
+      <pubDate>2022-10-17T08:47:59.000Z</pubDate>
+      <content:encoded>서울시 도시교통실 버스정책과는 지난 4일부터 교통약자를 위한 버스 승·하차 안내서비스를 국내 최초로 도입, 시범 운행을 시작했다.이번 사업은 지난해 가을부터 서울시의회 이승미 의원과 함께 국립서울맹학교 운영위원회 관계자, 한국시각장애인가족협회의 요청에 의해 최초 도입을 검토하기 시작해 지금에 이르게 되었다,교통약자를 위한 버스 승·하차 안내서비스는 시...</content:encoded>
+    </item>
+    <item>
+      <title>서울 교통약자 버스 승하차 안내 살펴보기</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620221015062020463507</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0006&amp;NewsCode=000620221015062020463507</guid>
+      <pubDate>2022-10-17T08:47:59.000Z</pubDate>
+      <content:encoded>서울시 도시교통실 버스정책과는 지난 4일부터 교통약자를 위한 버스 승·하차 안내서비스를 국내 최초로 도입, 시범 운행을 시작했다.이번 사업은 지난해 가을부터 서울시의회 이승미 의원과 함께 국립서울맹학교 운영위원회 관계자, 한국시각장애인가족협회의 요청에 의해 최초 도입을 검토하기 시작해 지금에 이르게 되었다,교통약자를 위한 버스 승·하차 안내서비스는 시...</content:encoded>
     </item>
   </channel>
 </rss>
