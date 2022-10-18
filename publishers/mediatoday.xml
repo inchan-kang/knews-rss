@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>미디어오늘 - IT</title>
-    <link>https://www.mediatoday.co.kr/rss/S1N7.xml</link>
-    <description>미디어오늘 - IT</description>
-    <lastBuildDate>2022-10-17T00:12:32.473Z</lastBuildDate>
+    <title>미디어오늘 - 오피니언</title>
+    <link>https://www.mediatoday.co.kr/rss/S1N8.xml</link>
+    <description>미디어오늘 - 오피니언</description>
+    <lastBuildDate>2022-10-18T00:13:12.970Z</lastBuildDate>
     <item>
       <title>한미정상회담 북한핵 대응 전략이 불안한 이유</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=304135</link>
@@ -208,13 +208,6 @@
       <content:encoded>자체등급분류제 도입을 골자로 한 ‘영화 및 비디오물의 진흥에 관한 법률’ 개정안이 7일 국회 본회의를 통과하자 한국OTT 사업자들이 환영의 입장을 밝혔다. 해당 법안과 관련, 잘못 분류된 콘텐츠가 청소년 등에 피해를 입힐 수 있다는 우려도 존재했지만 해외 OTT 기준과 비교되면서 OTT업계에서는 문제제기를 계속 해왔다. 앞서 이상헌 더불어민주당 의원은 지난 3월 ‘영화 및 비디오물의 진흥에 관한 법률 일부개정법률안’(이하 영비법 개정안)을 대표 발의했다. 영비법 개정안은 OTT사업자가 유통하는 콘텐츠에 대해 자체적으로 등급분류를 할</content:encoded>
     </item>
     <item>
-      <title>이준석 사태로 여의도식 정치적 풍토의 변화 가속화되나</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=305751</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=305751</guid>
-      <pubDate>2022-09-07T21:38:16.000Z</pubDate>
-      <content:encoded>이준석 사태가 전 국민적 관심사 속에 진행되고 있다. 한 때 당 대표로 두 번의 큰 선대를 치른 젊은 정치인이 대통령과 집권정당에 도전하는 정치 드라마가 점입가경이다. 국민의힘에서 이준석을 내치고 그 이후 비상한 조치를 취할 때 절차적 민주주의가 제대로 지켜졌는지의 논란에 대해서는 법원에서 이준석의 손을 들어주었다. 국민의힘은 총력전 형식으로 이준석 배제 조치를 취하고 있고 그 것은 윤석열 대통령의 의중이 반영된 것이란 해석이 분분하다. 이준석은 동원 가능한 모든 의사소통채널을 이용해 자신이 정당하다는 메시지를 발산하면서 당 체질의</content:encoded>
-    </item>
-    <item>
       <title>[이유진의 베를린 노트] 수신료 흥청망청 쓰다 해임된 공영방송 사장</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=305753</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=305753</guid>
@@ -304,20 +297,6 @@
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=305854</guid>
       <pubDate>2022-09-17T15:30:00.000Z</pubDate>
       <content:encoded>“한국인 K씨와 국정원 요원을 함께 만나 이야기를 들었다. 그때 만난 그 분(K)은 까무잡잡한 인상이었으며, 눈매가 매우 날카로웠다. 강인한 인상이었다. 한눈에 봐도 ‘이 분, 살면서 왠지 많은 일을 겪은 분 같네’ 이런 생각이 들 정도였다.”강갑생 중앙일보 기자가 떠올린 2011년 &apos;한국인 K&apos;에 대한 기억이다. 그는 2011년 중앙SUNDAY 기자로 재직할 당시 넷플릭스 ‘수리남’의 실제 사건인 ‘마약왕 조봉행 사건’ 검거의 조력자, 사업가 ‘한국인 K’(하정우 배역)를 단독 인터뷰한 기자다.1993년 중앙일보에 입사한 강갑생</content:encoded>
-    </item>
-    <item>
-      <title>네이버 ‘양질 뉴스’ 배열 위해 알고리즘 개선한다</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=305859</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=305859</guid>
-      <pubDate>2022-09-18T10:56:18.000Z</pubDate>
-      <content:encoded>특정 언론의 기사가 지나치게 많이 추천되고, 양질의 뉴스를 찾기 힘들다는 비판을 받은 네이버가 알고리즘 개선에 나선다. 네이버는 개선안을 통해 심층·기획 기사 추천 확률을 높이고 언론사별 뉴스 추천 편차를 줄이겠다고 발표했다.네이버는 지난 15일 네이버 검색 공식 블로그 ‘네이버 서치&amp;테크’에 뉴스 추천 서비스와 뉴스 검색 개선 계획을 공개했다. 이는 포털 뉴스 알고리즘 투명성 강화를 위해 만들어진 ‘제2차 뉴스 알고리즘 검토위원회(이하 위원회)’ 권고사항에 따른 결정이다. 위원회는 지난해 8월부터 올해 1월까지 뉴스 검색 및 추천</content:encoded>
-    </item>
-    <item>
-      <title>인터넷 불법·유해정보, 트위터에 가장 많았다</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=305862</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=305862</guid>
-      <pubDate>2022-09-18T15:23:51.000Z</pubDate>
-      <content:encoded>방송통신심의위원회의 시정요구 현황 분석 결과, 트위터가 국내에서 불법·유해정보의 주요 유통 통로로 악용된 것으로 나타났다. 국회 과학기술정보방송통신위원회 이정문 의원(더불어민주당, 충남 천안병)이 방통심의위로부터 받은 자료를 분석한 결과, 트위터는 최근 5년간(2017년~2022년 8월) 도박, 불법 식·의약품(마약 등), 음란·성매매, 디지털성범죄, 불법 명의거래, 불법 금융 등 각종 불법·유해정보 게시물 10만5132건을 삭제하거나 이용해지, 혹은 접속차단 하도록 시정요구를 받았다. 구글은 3만4017건, 네이버 2만1197건,</content:encoded>
     </item>
     <item>
       <title>[미오 사설] 엘리자베스 여왕 서거와 삼성전자 그리고 종합부동산세</title>
@@ -649,167 +628,6 @@
       <content:encoded>“본 개정안은 헌법상 죄형법정주의 명확성 원칙, 과잉금지원칙에 위반해 일반적 행동의 자유, 언론, 표현의 자유 및 알 권리를 침해할 소지가 높고 공익을 현저히 해하는 위헌적 법안으로 철회되어야 한다.”12일 사단법인 오픈넷이 윤상현 국민의힘 의원을 비롯해 같은 당 소속 의원들 총 14명이 지난달 발의한 ‘대화녹음금지법’(통신비밀보호법 일부개정법률안) 대해 반대하는 의견서를 국회에 제출했다. 이 법안이 통과되면 상대방의 동의 없이 대화를 녹음하지 못한다. 또 이 법을 어길 시 1년 이하의 징역 또는 300만원 이하의 벌금에 처한다.</content:encoded>
     </item>
     <item>
-      <title>[영상] “윤건영이 수령님께 충성한다 생각?” 김문수 “저런 점 있다” 파행</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306276</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306276</guid>
-      <pubDate>2022-10-12T18:32:34.000Z</pubDate>
-      <content:encoded>지난해 김문수 경제사회노동위원장이 윤건영 민주당 의원에게 종북 딱지를 붙이고, 수령님께 총성하고 있다고 쓴 글에 대한 생각이 변함없느냐는 질문에 “저런 점도 있는 측면이 있다”고 답해 환경노동위 국정감사가 파행에 이르렀다.12일 국회 환노위 경사노위 국정감사에서 윤건영 의원은 “저는 오늘 이 글을 처음 봤는데, 위원장님께서 작년에 이렇게 이야기했다”며 “윤건영이 종북 본성을 드러내고 있다. 생각과 말과 행동으로 반미 반일 민족의 수령님께 충성하고 있다. 생각에 변함이 없으신가?”라고 물었다.김문수 위원장은 “그 점은 그 맥락을 좀</content:encoded>
-    </item>
-    <item>
-      <title>“제가 누구처럼 ‘쇼하지마’ 했겠나” 윤 대통령 감찰 검사의 ‘작심’</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306275</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306275</guid>
-      <pubDate>2022-10-12T18:34:25.000Z</pubDate>
-      <content:encoded>2020년 윤석열 검찰총장을 감찰했던 박은정 광주지검 부장검사의 ‘작심’ 발언이 시작됐다. 2021년 6월 서울중앙지검은 윤석열 검찰총장 감찰 당시 불법 감찰을 했다며 보수성향 시민단체가 박 검사를 상대로 제기한 고발사건에 ‘혐의없음’ 불기소처분을 내렸으나 이후 징계대상자는 대통령이 되었고, 서울고검은 지난 6월 재수사 명령을 내렸다. 박 검사는 지난달 27일 자신의 페이스북을 통해 “9월 6일, 노부모님만 거주하시는 친정집까지 압수수색을 당했다. 이러한 모욕적 행태들에 깊은 유감”이라고 밝힌 뒤 “수사로 보복하는 것은 검사가 아니</content:encoded>
-    </item>
-    <item>
-      <title>‘오오타니 마사오’ 조부 친일경력에 정진석 입장 물어보니…</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306279</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306279</guid>
-      <pubDate>2022-10-13T09:39:07.000Z</pubDate>
-      <content:encoded>조선 패망 원인이 조선 정부에 있고, 일본이 조선과 전쟁한 적이 없다는 정진석 국민의힘 비상대책위원장의 식민사관 발언에 그의 조부 친일 행적까지 공개되는 등 파문이 되레 커졌다.거듭 사과하라는 더불어민주당의 요구에도 정 위원장은 자신의 말이 역사라며 공부 좀 하라고 맞서고 있다. 조선총독부가 공로자 공적 조사까지 써준 것으로 드러난 조부의 친일행적까지 소환되자 정 위원장은 미디어오늘에 자신이 태어나기 전에 작고하신 조부를 소환했다며 철지난 친일타령이라는 입장을 내놓았다.더불어민주당 최고위원인 임선숙 변호사는 12일 국회 당대표 회의</content:encoded>
-    </item>
-    <item>
-      <title>김문수, 생방송 중 김현정 진행자에 “질문 올바르지 않아” 신경질</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306282</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306282</guid>
-      <pubDate>2022-10-13T11:21:58.000Z</pubDate>
-      <content:encoded>‘문재인은 김일성주의자’라는 막말을 거듭해 국정감사장에서 퇴장 당했던 김문수 경제사회노동위원회 위원장이 라디오 생방송에 출연해 진행자에 “그걸 왜 묻냐”, “일방적 진행” 운운하며 신경질적인 반응을 드러냈다.김 위원장은 13일 오전 CBS 라디오 ‘김현정의 뉴스쇼’와 전화연결에서 ‘김 위원장이 과거 노조는 머리부터 세탁해야 한다. 민주노총은 김정은의 기쁨조, 전교조도 김정은의 기쁨조라는 발언한 것에 대해 전날 국정감사에서 사과요청을 하자 무조건적으로 사과할 수는 없다고 했는데, 이 생각이 여전하냐’는 진행자 질문에 이같이 답했다.</content:encoded>
-    </item>
-    <item>
-      <title>김문수, 생방송 중 김현정 진행자에 “질문 올바르지 않아” 신경질</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306282</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306282</guid>
-      <pubDate>2022-10-13T11:21:58.000Z</pubDate>
-      <content:encoded>‘문재인은 김일성주의자’라는 막말을 거듭해 국정감사장에서 퇴장 당했던 김문수 경제사회노동위원회 위원장이 라디오 생방송에 출연해 진행자에 “그걸 왜 묻냐”, “일방적 진행” 운운하며 신경질적인 반응을 드러냈다.김 위원장은 13일 오전 CBS 라디오 ‘김현정의 뉴스쇼’와 전화연결에서 ‘김 위원장이 과거 노조는 머리부터 세탁해야 한다. 민주노총은 김정은의 기쁨조, 전교조도 김정은의 기쁨조라는 발언한 것에 대해 전날 국정감사에서 사과요청을 하자 무조건적으로 사과할 수는 없다고 했는데, 이 생각이 여전하냐’는 진행자 질문에 이같이 답했다.</content:encoded>
-    </item>
-    <item>
-      <title>EBS 부당해고 아나운서 계약서 살펴보니 ‘불공정’ 조항 다수</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306284</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306284</guid>
-      <pubDate>2022-10-13T13:21:20.000Z</pubDate>
-      <content:encoded>EBS(한국교육방송공사, 대표 김유열)가 아나운서를 부당하게 해고했다는 노동위원회의 판정이 나온 가운데 뒤늦게 작성한 계약서에 불공정한 조항이 있던 것으로 나타났다. 아나운서 A씨가 2012년 4월 EBS에 입사했는데 2020년 3월까지 약 8년간 아예 계약서를 작성하지 않았고, 2020년 3월말부터 지난해 8월말까지 ‘출연계약서’를 세차례 작성했다. 세 번째 작성했던 계약서에 일부 특약사항을 추가했을 뿐 모두 내용은 같았다. EBS는 2020년 3월 이후 계약서를 작성한 이유에 대해 “2020. 실태조사를 했을 때 그간 계약서 작</content:encoded>
-    </item>
-    <item>
-      <title>EBS, 두차례 아나운서 부당해고 판정에도 불복하고 소송</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306283</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306283</guid>
-      <pubDate>2022-10-13T13:22:13.000Z</pubDate>
-      <content:encoded>EBS(한국교육방송공사, 대표 김유열)가 아나운서를 부당하게 해고했다는 결정을 받은 뒤 이에 불복해 소송까지 진행하는 것으로 확인됐다. EBS는 아나운서를 프리랜서로 뽑아 약 8년간 계약서를 작성하지 않은 채 일을 시켰지만 4대보험 등 노동자에게 지급하는 혜택은 제공하지 않았다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원실은 EBS에서 아나운서 A씨에 대한 지방노동위원회(지노위) 판정서와 중앙노동위원회(중노위) 재심판정서를 받았다. 두 판정서를 종합하면 지난해 8월27일 EBS는 A씨를 해고했는데 지노위와 중노위에</content:encoded>
-    </item>
-    <item>
-      <title>“닉슨 대통령도 거짓말하다 언론 세무조사했는데, 윤석열 대통령도…”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306286</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306286</guid>
-      <pubDate>2022-10-13T13:22:46.000Z</pubDate>
-      <content:encoded>“YTN 민영화는 재벌에 특혜를 주려는 시도다” (신호 언론노조 YTN지부장)한전KDN의 지분 매각 등 YTN 민영화 흐름에 정부 비판 목소리가 이어지고 있다.13일 더불어민주당 당대표회의실에서 ‘언론자유 방송독립을 위한 언론인 간담회’가 열렸다. 현업언론단체가 지난 5일 제안한 공개 간담회에 민주당이 응하면서 성사됐다. 이재명 민주당 대표를 비롯한 당 관계자들과 전국언론노동조합, 한국기자협회 등 언론단체가 참석했다.이날 간담회엔 정부가 YTN 민영화를 압박하고 있다는 비판이 나왔다. YTN 주식 보유를 이어가려던 한전KDN 입장을</content:encoded>
-    </item>
-    <item>
-      <title>“닉슨 대통령도 거짓말하다 언론 세무조사했는데, 윤석열 대통령도…”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306286</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306286</guid>
-      <pubDate>2022-10-13T13:22:46.000Z</pubDate>
-      <content:encoded>“YTN 민영화는 재벌에 특혜를 주려는 시도다” (신호 언론노조 YTN지부장)한전KDN의 지분 매각 등 YTN 민영화 흐름에 정부 비판 목소리가 이어지고 있다.13일 더불어민주당 당대표회의실에서 ‘언론자유 방송독립을 위한 언론인 간담회’가 열렸다. 현업언론단체가 지난 5일 제안한 공개 간담회에 민주당이 응하면서 성사됐다. 이재명 민주당 대표를 비롯한 당 관계자들과 전국언론노동조합, 한국기자협회 등 언론단체가 참석했다.이날 간담회엔 정부가 YTN 민영화를 압박하고 있다는 비판이 나왔다. YTN 주식 보유를 이어가려던 한전KDN 입장을</content:encoded>
-    </item>
-    <item>
-      <title>언론자유 간담회 참석하면서도 기자 질의 받지 않은 이재명</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306287</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306287</guid>
-      <pubDate>2022-10-13T13:24:51.000Z</pubDate>
-      <content:encoded>이재명 더불어민주당 대표가 방산 주식투자 논란에 대해 침묵을 지켰다. 13일 언론단체와 함께한 간담회에서도 기자들의 질의를 받지 않고 황급히 떠났다. 지난 12일 기자들의 관련 질의에 답을 하지 않은 가운데 이번에 아예 기자들을 피해 달아난 것이다. ‘언론자유’를 위한 간담회 성격과 괴리된다는 지적이 가능하다.13일 국회 본청 더불어민주당 당대표회의실에서 ‘언론자유 방송독립을 위한 언론인 간담회’가 열렸다. 현업언론단체가 지난 5일 제안한 공개 간담회에 민주당이 응하면서 성사됐다. 비속어 논란을 둘러싼 여권의 태도가 ‘언론탄압’이라</content:encoded>
-    </item>
-    <item>
-      <title>언론자유 간담회 참석하면서도 기자 질의 받지 않은 이재명</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306287</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306287</guid>
-      <pubDate>2022-10-13T13:24:51.000Z</pubDate>
-      <content:encoded>이재명 더불어민주당 대표가 방산 주식투자 논란에 대해 침묵을 지켰다. 13일 언론단체와 함께한 간담회에서도 기자들의 질의를 받지 않고 황급히 떠났다. 지난 12일 기자들의 관련 질의에 답을 하지 않은 가운데 이번에 아예 기자들을 피해 달아난 것이다. ‘언론자유’를 위한 간담회 성격과 괴리된다는 지적이 가능하다.13일 국회 본청 더불어민주당 당대표회의실에서 ‘언론자유 방송독립을 위한 언론인 간담회’가 열렸다. 현업언론단체가 지난 5일 제안한 공개 간담회에 민주당이 응하면서 성사됐다. 비속어 논란을 둘러싼 여권의 태도가 ‘언론탄압’이라</content:encoded>
-    </item>
-    <item>
-      <title>정치가 활용되지 않은 카툰도 있다? 문체부 국장의 ‘신박한’ 답변</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306288</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306288</guid>
-      <pubDate>2022-10-13T14:09:05.000Z</pubDate>
-      <content:encoded>정부가 윤석열 대통령 풍자 카툰 ‘윤석열차’를 문제 삼아 불거진 검열 논란에 대해 “고등학생 그림 하나에 정부가 난리법석을 떨어야 하는가”라는 비판이 제기된다. 정부가 풍자를 받아들이지 못하고 대응에 나서면서 표현·창작의 자유가 위축됐다는 지적이다. 문화체육관광부 측은 ‘표현의 자유를 위축시키려는 것은 아니다’는 입장을 고수했다. 문체부는 ‘자유로운 창작환경 조성’을 조직 목표로 삼고 있다.임종성 더불어민주당 의원은 13일 열린 국회 문화체육관광위원회 국정감사에서 “한국의 문화콘텐츠가 전 세계를 휩쓸고 있는데, 표현의 자유·창작의</content:encoded>
-    </item>
-    <item>
-      <title>‘정부광고 바꿔치기’ 관리 책임에 맹질타 받은 언론재단</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306290</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306290</guid>
-      <pubDate>2022-10-13T15:37:50.000Z</pubDate>
-      <content:encoded>국회 문화체육관광위원회 국정감사에서 ‘정부광고 바꿔치기 논란’에 대한 질타가 나왔다. 광고비 10%를 수수료로 가져가고 광고 대행을 도맡는 한국언론진흥재단(이하 언론재단)이 관리 책임을 다하지 못했다는 것이다. 논란이 제기된 지 9개월이 지났지만 언론재단은 사건 경위 파악도 완료하지 못한 상태다. 표완수 언론재단 이사장은 “살펴보고 조사하고 있는 중”이라고 밝혔다.정부광고 바꿔치기 논란은 조선일보, 동아일보, 경향신문 등 일부 신문사가 정부광고를 수주한 뒤 지면에 싣지 않고 일반 기업광고를 실었다는 의혹을 말한다. 일례로 조선일보는</content:encoded>
-    </item>
-    <item>
-      <title>대통령 비속어 보도 거센 공방 오고간 MBC 관리감독 기구 방문진 국감</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306292</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306292</guid>
-      <pubDate>2022-10-13T15:38:15.000Z</pubDate>
-      <content:encoded>13일 열린 국회 과학기술정보방송통신위원회(과방위)의 방송문화진흥회(방문진) 국정감사에서 여전히 대통령의 비속어 논란 관련 MBC 보도에 대한 공방이 오갔다. 방문진은 MBC의 대주주이며 MBC 경영 등을 관리 감독하는 기구다.국민의힘 의원들을 중심으로 MBC 보도가 편향적이었으며 ‘날조’를 했다는 주장이 계속됐다. 권태선 방문진 이사장은 “입에 쓴 약이 몸이 좋다, 언론의 비판 활동은 궁극적으로 우리 사회를 위한 것”, “왜곡보도가 아니므로 (국민의힘의 항의방문 등은) 언론탄압”등의 발언을 하며 맞섰다.권태선 “입에 쓴 약이 몸에</content:encoded>
-    </item>
-    <item>
-      <title>대통령 비속어 보도 거센 공방 오고간 MBC 관리감독 기구 방문진 국감</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306292</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306292</guid>
-      <pubDate>2022-10-13T15:38:15.000Z</pubDate>
-      <content:encoded>13일 열린 국회 과학기술정보방송통신위원회(과방위)의 방송문화진흥회(방문진) 국정감사에서 여전히 대통령의 비속어 논란 관련 MBC 보도에 대한 공방이 오갔다. 방문진은 MBC의 대주주이며 MBC 경영 등을 관리 감독하는 기구다.국민의힘 의원들을 중심으로 MBC 보도가 편향적이었으며 ‘날조’를 했다는 주장이 계속됐다. 권태선 방문진 이사장은 “입에 쓴 약이 몸이 좋다, 언론의 비판 활동은 궁극적으로 우리 사회를 위한 것”, “왜곡보도가 아니므로 (국민의힘의 항의방문 등은) 언론탄압”등의 발언을 하며 맞섰다.권태선 “입에 쓴 약이 몸에</content:encoded>
-    </item>
-    <item>
-      <title>[영상] 김문수 “문 대통령 김일성주의자” 막말 후 퇴장까지</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306294</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306294</guid>
-      <pubDate>2022-10-13T15:39:53.000Z</pubDate>
-      <content:encoded>지난 12일 국회 환경노동위원회 경제사회노동위원회 국정감사 도중 김문수 경사노위 위원장이 한 ‘문재인 대통령 김일성주의자’ 발언을 두고 국회 모욕죄로 고발 요구가 쏟아졌다. 이날 국정감사에서 전용기 민주당 의원이 “김문수 위원장님 본인 SNS에 ‘문재인 586 주사파 운동권들은 대한민국 정통성을 부정하는 종북 김일성주의자들’이라고 쓰셨다”며 “저희가 대한민국 정통성을 부정하는 종북 김일성주의자들입니까? 지금도 그렇게 생각하시나?”라고 묻자 김문수 위원장은 “문재인 대통령은 본인이 신영복 선생을 가장 존경하는 한국의 사상가다. 굉장히</content:encoded>
-    </item>
-    <item>
-      <title>[영상] 김문수 “문 대통령 김일성주의자” 막말 후 퇴장까지</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306294</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306294</guid>
-      <pubDate>2022-10-13T15:39:53.000Z</pubDate>
-      <content:encoded>지난 12일 국회 환경노동위원회 경제사회노동위원회 국정감사 도중 김문수 경사노위 위원장이 한 ‘문재인 대통령 김일성주의자’ 발언을 두고 국회 모욕죄로 고발 요구가 쏟아졌다. 이날 국정감사에서 전용기 민주당 의원이 “김문수 위원장님 본인 SNS에 ‘문재인 586 주사파 운동권들은 대한민국 정통성을 부정하는 종북 김일성주의자들’이라고 쓰셨다”며 “저희가 대한민국 정통성을 부정하는 종북 김일성주의자들입니까? 지금도 그렇게 생각하시나?”라고 묻자 김문수 위원장은 “문재인 대통령은 본인이 신영복 선생을 가장 존경하는 한국의 사상가다. 굉장히</content:encoded>
-    </item>
-    <item>
-      <title>아리랑TV, 비정규직 법정다툼에 수천만원</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306291</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306291</guid>
-      <pubDate>2022-10-13T15:41:23.000Z</pubDate>
-      <content:encoded>문화체육관광부 산하 국제방송교류재단 아리랑국제방송(이하 ‘아리랑TV’)이 최근 9년간 수천만 원을 들여 비정규직 노동자들과 다툼을 이어온 것으로 나타났다.류호정 정의당 의원실(국회 문화체육관광위원회)이 제출 받은 아리랑TV의 법적분쟁 현황에 따르면, 아리랑TV는 지난 2012년부터 올해 8월까지 약 10년간 3건의 부당해고 구제신청을 처리했다. 노동자가 제기한 고용노동부 민원, 노동청 진정 등은 해당 내역에서 제외됐다.3건 중 2건은 아리랑TV 시사보도제작센터에서 일했던 비정규직 노동자들이 제기한 사건들이다. 지난 2015년 1월부</content:encoded>
-    </item>
-    <item>
-      <title>“지역신문발전기금은 지역언론 생명줄, 축소·폐지 절대 안돼”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306296</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306296</guid>
-      <pubDate>2022-10-13T15:41:52.000Z</pubDate>
-      <content:encoded>정부가 예산을 축소하겠다고 밝힌 지역신문발전기금(지발기금)의 필요성을 강조하는 주장이 국회에서 나왔다. 국회 문화체육관광위원회 야당 간사인 김윤덕 더불어민주당 의원은 13일 지발기금의 축소와 통합 문제에 대해 문체부가 적극적이고 진보적인 전면대응에 나설 것을 주문했다. 지발기금은 지난 2004년 ‘지역신문법’에 근거해 ‘경영여건이 어려운 지역신문(일간지, 주간지, 인터넷 언론 등)의 건전한 발전기반 조성․여론 다원화를 목적으로 설치했다. 올해 114억7000만 원에서 내년도 95억2500만 원으로 약 10% 축소돼 지역신문에 대한</content:encoded>
-    </item>
-    <item>
-      <title>“지역신문발전기금은 지역언론 생명줄, 축소·폐지 절대 안돼”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306296</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306296</guid>
-      <pubDate>2022-10-13T15:41:52.000Z</pubDate>
-      <content:encoded>정부가 예산을 축소하겠다고 밝힌 지역신문발전기금(지발기금)의 필요성을 강조하는 주장이 국회에서 나왔다. 국회 문화체육관광위원회 야당 간사인 김윤덕 더불어민주당 의원은 13일 지발기금의 축소와 통합 문제에 대해 문체부가 적극적이고 진보적인 전면대응에 나설 것을 주문했다. 지발기금은 지난 2004년 ‘지역신문법’에 근거해 ‘경영여건이 어려운 지역신문(일간지, 주간지, 인터넷 언론 등)의 건전한 발전기반 조성․여론 다원화를 목적으로 설치했다. 올해 114억7000만 원에서 내년도 95억2500만 원으로 약 10% 축소돼 지역신문에 대한</content:encoded>
-    </item>
-    <item>
-      <title>이재명 이해충돌 비판 쏟아지자 직접 해명도 없이 방산 주식 매각</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306293</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306293</guid>
-      <pubDate>2022-10-13T15:42:47.000Z</pubDate>
-      <content:encoded>이재명 더불어민주당 대표가 대선 이후 방위산업체 주식 2억3000만원 어치를 매입했다가 언론 보도로 드러나면서 ‘이해충돌 소지가 있다’는 비판이 쏟아지자 뒤늦게 팔아치웠다.이 대표는 이 사실이 드러난 12일과 13일 기자들의 수차 질의에도 아무런 해명을 하지 않은채 민주당을 통해 슬그머니 주식을 처분했다고만 밝혔다.더불어민주당 공보국은 13일 오후 출입기자들에 보낸 ‘알려드립니다’(공지)를 통해 “이재명 대표는 방위산업 관련주로 거론되는 주식을 오늘 오전 전량 매각하였다”며 “국회 등에 청구한 백지신탁 심사 절차와 무관하게, 상임위</content:encoded>
-    </item>
-    <item>
-      <title>이재명 이해충돌 비판 쏟아지자 직접 해명도 없이 방산 주식 매각</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306293</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306293</guid>
-      <pubDate>2022-10-13T15:42:47.000Z</pubDate>
-      <content:encoded>이재명 더불어민주당 대표가 대선 이후 방위산업체 주식 2억3000만원 어치를 매입했다가 언론 보도로 드러나면서 ‘이해충돌 소지가 있다’는 비판이 쏟아지자 뒤늦게 팔아치웠다.이 대표는 이 사실이 드러난 12일과 13일 기자들의 수차 질의에도 아무런 해명을 하지 않은채 민주당을 통해 슬그머니 주식을 처분했다고만 밝혔다.더불어민주당 공보국은 13일 오후 출입기자들에 보낸 ‘알려드립니다’(공지)를 통해 “이재명 대표는 방위산업 관련주로 거론되는 주식을 오늘 오전 전량 매각하였다”며 “국회 등에 청구한 백지신탁 심사 절차와 무관하게, 상임위</content:encoded>
-    </item>
-    <item>
-      <title>언론단체 “공영방송 지배구조 개선 법안 꼭 통과돼야”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306299</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306299</guid>
-      <pubDate>2022-10-13T19:43:00.000Z</pubDate>
-      <content:encoded>전국언론노동조합(언론노조), 한국기자협회 등 언론단체가 더불어민주당에 공영방송 지배구조 개선 법안 처리를 강하게 촉구했다.13일 국회 본청 더불어민주당 당대표회의실에서 ‘언론자유 방송독립을 위한 언론인 간담회’가 열렸다. 현업언론단체가 지난 5일 제안한 공개 간담회에 민주당이 응하면서 성사됐다. 정의당은 추후에 간담회를 진행하겠다고 밝혔지만 국민의힘은 아직 답변하지 않고 있다.이날 언론단체는 윤석열 대통령의 비속어 논란을 둘러싼 여권의 대응을 언론탄압으로 규정하고, ‘반복적’으로 나타난다고 말했다. 언론자유가 위협받는 지금의 상황이</content:encoded>
-    </item>
-    <item>
       <title>언론단체 “공영방송 지배구조 개선 법안 꼭 통과돼야”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306299</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306299</guid>
@@ -824,27 +642,6 @@
       <content:encoded>윤석열 퇴진 촛불집회 참석해 시민들에게 ‘윤석열 대통령의 5년 임기를 못 채우게 해야 하며, 빨리 퇴진시켜야 한다’고 독려한 김용민 더불어민주당 의원에 대한 당 내부 비판이 잇달아 나왔다.‘대통령을 뽑은 것도 국민이지만 탄핵 또는 끌어내리는 것도 국민이 판단할 일이지, 국회의원이 이래라 저래라 할 일이 아니다’, ‘탄핵 사유는 대통령의 무지와 무능에 있는 것이 아니라 명백한 헌법과 법률에 있다’는 지적이다.김용민 의원은 지난 8일 청계광장에서 열린 제9차 ‘김건희 특검! 윤석열 퇴진! 촛불대행진’에 참석해 “자격이 없었던 사람이 대</content:encoded>
     </item>
     <item>
-      <title>조응천·박수현, ‘윤석열 조기퇴진’ 김용민에 잇단 내부비판</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306297</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306297</guid>
-      <pubDate>2022-10-13T19:43:58.000Z</pubDate>
-      <content:encoded>윤석열 퇴진 촛불집회 참석해 시민들에게 ‘윤석열 대통령의 5년 임기를 못 채우게 해야 하며, 빨리 퇴진시켜야 한다’고 독려한 김용민 더불어민주당 의원에 대한 당 내부 비판이 잇달아 나왔다.‘대통령을 뽑은 것도 국민이지만 탄핵 또는 끌어내리는 것도 국민이 판단할 일이지, 국회의원이 이래라 저래라 할 일이 아니다’, ‘탄핵 사유는 대통령의 무지와 무능에 있는 것이 아니라 명백한 헌법과 법률에 있다’는 지적이다.김용민 의원은 지난 8일 청계광장에서 열린 제9차 ‘김건희 특검! 윤석열 퇴진! 촛불대행진’에 참석해 “자격이 없었던 사람이 대</content:encoded>
-    </item>
-    <item>
-      <title>박은정 ‘성남FC 수사무마 의혹’ 고소에 기자들 “봉쇄소송”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306298</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306298</guid>
-      <pubDate>2022-10-13T19:46:24.000Z</pubDate>
-      <content:encoded>‘성남FC 후원금 사건’ 수사 무마 의혹을 사고 있는 박은정 광주지검 중요경제범죄조사단 부장검사가 기자들을 상대로 한 명예훼손 고소 사실을 외부에 알리며 반박에 나섰다.언론인을 상대로 한 현직 부장검사의 형사 고소에 법조 기자들 사이에선 ‘전략적 봉쇄 소송’을 우려하는 목소리가 나온다. 그러나 박 부장검사는 “허위기사에 대해 고소인으로서 권리를 행사한 것”이라고 했다. 피소된 기자는 “본질은 박은정 전 성남지청장의 사건 무마 여부”라며 기존 의혹에 힘을 실었다.박 부장검사는 지난 11일 자신의 페이스북에 전주혜 국민의힘 의원 발언을</content:encoded>
-    </item>
-    <item>
-      <title>박은정 ‘성남FC 수사무마 의혹’ 고소에 기자들 “봉쇄소송”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306298</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306298</guid>
-      <pubDate>2022-10-13T19:46:24.000Z</pubDate>
-      <content:encoded>‘성남FC 후원금 사건’ 수사 무마 의혹을 사고 있는 박은정 광주지검 중요경제범죄조사단 부장검사가 기자들을 상대로 한 명예훼손 고소 사실을 외부에 알리며 반박에 나섰다.언론인을 상대로 한 현직 부장검사의 형사 고소에 법조 기자들 사이에선 ‘전략적 봉쇄 소송’을 우려하는 목소리가 나온다. 그러나 박 부장검사는 “허위기사에 대해 고소인으로서 권리를 행사한 것”이라고 했다. 피소된 기자는 “본질은 박은정 전 성남지청장의 사건 무마 여부”라며 기존 의혹에 힘을 실었다.박 부장검사는 지난 11일 자신의 페이스북에 전주혜 국민의힘 의원 발언을</content:encoded>
-    </item>
-    <item>
       <title>국감에서 방송작가 고용 전환 ‘꼼수’ 지적받은 MBC</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306301</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306301</guid>
@@ -852,81 +649,11 @@
       <content:encoded>13일 열린 국회 과학기술정보방송통신위원회(과방위)의 방송문화진흥회(방문진) 국정감사에서, MBC가 노동자성이 인정된 방송작가를 기존 정규직으로 채용하지 않고 ‘방송지원직’이라는 직군을 신설해 채용한 것을 두고 지적이 나왔다. 방문진은 MBC의 대주주이며 MBC 경영 등을 관리 감독하는 기구다.이날 국정감사에서 이인영 더불어민주당 의원이 MBC의 이러한 행태를 두고 ‘무늬만 정규직’으로 바꾼 ‘꼼수’라고 지적하자, 정청래 과방위 위원장은 권태선 방문진 이사장에게 MBC의 방송작가 처우에 대해 조사해달라고 당부했다.이인영 의원은 “한</content:encoded>
     </item>
     <item>
-      <title>국감에서 방송작가 고용 전환 ‘꼼수’ 지적받은 MBC</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306301</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306301</guid>
-      <pubDate>2022-10-13T19:46:54.000Z</pubDate>
-      <content:encoded>13일 열린 국회 과학기술정보방송통신위원회(과방위)의 방송문화진흥회(방문진) 국정감사에서, MBC가 노동자성이 인정된 방송작가를 기존 정규직으로 채용하지 않고 ‘방송지원직’이라는 직군을 신설해 채용한 것을 두고 지적이 나왔다. 방문진은 MBC의 대주주이며 MBC 경영 등을 관리 감독하는 기구다.이날 국정감사에서 이인영 더불어민주당 의원이 MBC의 이러한 행태를 두고 ‘무늬만 정규직’으로 바꾼 ‘꼼수’라고 지적하자, 정청래 과방위 위원장은 권태선 방문진 이사장에게 MBC의 방송작가 처우에 대해 조사해달라고 당부했다.이인영 의원은 “한</content:encoded>
-    </item>
-    <item>
-      <title>커피를 ‘대낮 술판’이라 쓴 신문사들 “언중위 적극적 역할 필요”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306300</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306300</guid>
-      <pubDate>2022-10-13T19:48:24.000Z</pubDate>
-      <content:encoded>‘쿠팡 노조가 술판을 벌였다’는 한국경제와 중앙일보 등의 보도에 대한 비판이 국정감사장에서 나왔다. 13일 오후 국회 문화체육관광위원회 언론중재위원회(이하 언중위) 국정감사에서 류호정 정의당 의원은 쿠팡 보도에 대한 보수 매체 노조 혐오 보도의 문제와 언중위 조정과정에서의 적극적인 조정 역할 수행을 촉구했다. 지난 6월30일 한국경제는 흐릿하게 찍힌 농성장 사진을 인용하며 쿠팡 본사를 점거한 노조원들이 대낮부터 술판을 벌이고 있다고 보도했다. 이어 조선일보·중앙일보·뉴스1·문화일보·세계비즈가 ‘일부 노조원들이 농성장에서 술을 마셨다</content:encoded>
-    </item>
-    <item>
-      <title>커피를 ‘대낮 술판’이라 쓴 신문사들 “언중위 적극적 역할 필요”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306300</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306300</guid>
-      <pubDate>2022-10-13T19:48:24.000Z</pubDate>
-      <content:encoded>‘쿠팡 노조가 술판을 벌였다’는 한국경제와 중앙일보 등의 보도에 대한 비판이 국정감사장에서 나왔다. 13일 오후 국회 문화체육관광위원회 언론중재위원회(이하 언중위) 국정감사에서 류호정 정의당 의원은 쿠팡 보도에 대한 보수 매체 노조 혐오 보도의 문제와 언중위 조정과정에서의 적극적인 조정 역할 수행을 촉구했다. 지난 6월30일 한국경제는 흐릿하게 찍힌 농성장 사진을 인용하며 쿠팡 본사를 점거한 노조원들이 대낮부터 술판을 벌이고 있다고 보도했다. 이어 조선일보·중앙일보·뉴스1·문화일보·세계비즈가 ‘일부 노조원들이 농성장에서 술을 마셨다</content:encoded>
-    </item>
-    <item>
       <title>[영상] 정청래-권성동 설전 “혀 깨물고… 잘 된 발언?” “잘 된 발언! 왜?”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306302</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306302</guid>
       <pubDate>2022-10-14T07:45:03.000Z</pubDate>
       <content:encoded>13일 MBC 대주주인 방송문화진흥회(방문진) 국정감사에서 정청래 과학기술정보방송통신위원회 위원장과 권성동 국민의힘 의원 사이에 설전이 벌어졌다. 발단은 박성중 국민의힘 의원이 MBC가 언론노조 방송임을 강조하다 ‘동종교배’라는 단어를 사용하면서다.박성중 의원은 권태선 방문진 이사장에게 “지난 9월에 박성제 사장 해임 결의안이 방문진 이사회에 제출된 바 있는데 부결됐다. 초록이 동색이라고 동종교배라고 그렇게 해서는 안 된다”고 지적했다. 또 “MBC 인사를 자기편끼리 다 해 먹었다. 부장급 이상 인사들을 체킹해 보니 한 명 빼고 전</content:encoded>
-    </item>
-    <item>
-      <title>[영상] 정청래-권성동 설전 “혀 깨물고… 잘 된 발언?” “잘 된 발언! 왜?”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306302</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306302</guid>
-      <pubDate>2022-10-14T07:45:03.000Z</pubDate>
-      <content:encoded>13일 MBC 대주주인 방송문화진흥회(방문진) 국정감사에서 정청래 과학기술정보방송통신위원회 위원장과 권성동 국민의힘 의원 사이에 설전이 벌어졌다. 발단은 박성중 국민의힘 의원이 MBC가 언론노조 방송임을 강조하다 ‘동종교배’라는 단어를 사용하면서다.박성중 의원은 권태선 방문진 이사장에게 “지난 9월에 박성제 사장 해임 결의안이 방문진 이사회에 제출된 바 있는데 부결됐다. 초록이 동색이라고 동종교배라고 그렇게 해서는 안 된다”고 지적했다. 또 “MBC 인사를 자기편끼리 다 해 먹었다. 부장급 이상 인사들을 체킹해 보니 한 명 빼고 전</content:encoded>
-    </item>
-    <item>
-      <title>[아침신문 솎아보기] “사회적 대화기구 수장 자격 있나” 김문수에 통탄한 언론</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306305</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306305</guid>
-      <pubDate>2022-10-14T07:48:24.000Z</pubDate>
-      <content:encoded>김문수 경제사회노동위원장이 지난 12일 국회 환경노동위원회 국정감사에서 색깔론을 꺼내 들어 비판이 이어지고 있다. 김 위원장이 문재인 전 대통령을 “김일성주의자”라고 지칭해 국정감사장에서 퇴장당했는데, 이는 사회적 대화기구 수장으로 적절하지 않은 발언이라는 것이다. 윤석열 대통령이 결단해야 한다는 지적이 나온다.김문수 위원장은 국정감사에서 “문재인 대통령이 신영복 선생을 가장 존경하는 사상가라고 한다면 확실하게 김일성주의자”라고 말했다. 김 위원장 발언 때문에 환경노동위 국정감사는 정상적으로 운영되지 못했다. 더불어민주당은 김 위원</content:encoded>
-    </item>
-    <item>
-      <title>[아침신문 솎아보기] “사회적 대화기구 수장 자격 있나” 김문수에 통탄한 언론</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306305</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306305</guid>
-      <pubDate>2022-10-14T07:48:24.000Z</pubDate>
-      <content:encoded>김문수 경제사회노동위원장이 지난 12일 국회 환경노동위원회 국정감사에서 색깔론을 꺼내 들어 비판이 이어지고 있다. 김 위원장이 문재인 전 대통령을 “김일성주의자”라고 지칭해 국정감사장에서 퇴장당했는데, 이는 사회적 대화기구 수장으로 적절하지 않은 발언이라는 것이다. 윤석열 대통령이 결단해야 한다는 지적이 나온다.김문수 위원장은 국정감사에서 “문재인 대통령이 신영복 선생을 가장 존경하는 사상가라고 한다면 확실하게 김일성주의자”라고 말했다. 김 위원장 발언 때문에 환경노동위 국정감사는 정상적으로 운영되지 못했다. 더불어민주당은 김 위원</content:encoded>
-    </item>
-    <item>
-      <title>KBS 방송작가특별협의체, 회의 6번 만에 사실상 중단</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306306</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306306</guid>
-      <pubDate>2022-10-14T10:35:06.000Z</pubDate>
-      <content:encoded>지역 방송작가의 불평등․원고료 불공정 관행 개선을 논의하겠다며 출범한 방송작가특별협의체가 6차례 회의 이후 사실상 중단된 것으로 나타났다. 전국언론노동조합과 언론노조 방송작가지부(방송작가유니온)가 지난해 KBS에 산별교섭을 요구했지만 대신 특별협의체를 개최한 가운데 이마저도 흐지부지되는 셈이다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원실이 KBS에서 받은 방송작가특별협의체 회의 현황 자료를 보면 KBS와 방송작가유니온은 지난 3월부터 8월까지 총 여섯차례 회의를 열었고 논의 안건은 △원고료 기준 마련 △현행법 준</content:encoded>
-    </item>
-    <item>
-      <title>KBS 방송작가특별협의체, 회의 6번 만에 사실상 중단</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306306</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306306</guid>
-      <pubDate>2022-10-14T10:35:06.000Z</pubDate>
-      <content:encoded>지역 방송작가의 불평등․원고료 불공정 관행 개선을 논의하겠다며 출범한 방송작가특별협의체가 6차례 회의 이후 사실상 중단된 것으로 나타났다. 전국언론노동조합과 언론노조 방송작가지부(방송작가유니온)가 지난해 KBS에 산별교섭을 요구했지만 대신 특별협의체를 개최한 가운데 이마저도 흐지부지되는 셈이다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원실이 KBS에서 받은 방송작가특별협의체 회의 현황 자료를 보면 KBS와 방송작가유니온은 지난 3월부터 8월까지 총 여섯차례 회의를 열었고 논의 안건은 △원고료 기준 마련 △현행법 준</content:encoded>
-    </item>
-    <item>
-      <title>국힘 의원과 맞닥뜨린 MBC 노조 “언론탄압 하지 말고 욕한 사람 수사하라”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306307</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306307</guid>
-      <pubDate>2022-10-14T11:43:15.000Z</pubDate>
-      <content:encoded>국정감사의 일환으로 진행되는 MBC 비공개 업무보고를 받기 위해 14일 오전 서울 상암동 MBC를 찾은 국민의힘 의원들에 MBC 내부 직원들이 규탄 피케팅을 진행했다.전국언론노동조합 MBC 본부 대의원, 조합원들은 국민의힘 의원들이 이날 오전 국민의힘 의원들이 MBC 경영센터 로비에 방문하자 준비한 규탄 구호를 외치고 피케팅 시위를 했다. 국회 과방위 소속 국민의힘 의원들은 이날 비공개 업무보고를 받기 위해 MBC에 방문했다. MBC 대주주이자 관리감독기구인 방송문화진흥회는 13일 국정감사를 받았고 MBC는 국정감사 대상이 아니며</content:encoded>
-    </item>
-    <item>
-      <title>국힘 의원과 맞닥뜨린 MBC 노조 “언론탄압 하지 말고 욕한 사람 수사하라”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306307</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306307</guid>
-      <pubDate>2022-10-14T11:43:15.000Z</pubDate>
-      <content:encoded>국정감사의 일환으로 진행되는 MBC 비공개 업무보고를 받기 위해 14일 오전 서울 상암동 MBC를 찾은 국민의힘 의원들에 MBC 내부 직원들이 규탄 피케팅을 진행했다.전국언론노동조합 MBC 본부 대의원, 조합원들은 국민의힘 의원들이 이날 오전 국민의힘 의원들이 MBC 경영센터 로비에 방문하자 준비한 규탄 구호를 외치고 피케팅 시위를 했다. 국회 과방위 소속 국민의힘 의원들은 이날 비공개 업무보고를 받기 위해 MBC에 방문했다. MBC 대주주이자 관리감독기구인 방송문화진흥회는 13일 국정감사를 받았고 MBC는 국정감사 대상이 아니며</content:encoded>
     </item>
     <item>
       <title>넷플릭스의 ‘광고 있는 요금제’, 국내 방송사의 또 다른 위기?</title>
@@ -962,20 +689,6 @@
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306311</guid>
       <pubDate>2022-10-14T14:13:04.000Z</pubDate>
       <content:encoded>“(장애가 있다는 표현보다) 장애를 앓는 게 맞는 것 아닌가?”이석형 언론중재위원회 위원장이 13일 열린 국회 문화체육관광위원회 국정감사에서 장애를 ‘앓다’고 표현하는 게 맞다고 말해 질타를 받았다. ‘앓다’는 질병에 걸려 고통을 겪는다는 뜻으로, ‘장애를 앓다’는 장애를 질병으로 보는 차별적 표현이다. 김예지 국민의힘 의원은 “(언론중재)위원장이 이러니까 (잘못된) 보도들이”라고 탄식하면서 언론인 교육·심의 강화를 주문했다.김예지 의원은 13일 국정감사에서 이석형 위원장에게 “장애를 앓다고 하는 게 맞나, 아니면 장애가 있다고 하</content:encoded>
-    </item>
-    <item>
-      <title>장애 차별 표현, 언론중재위원장도 차별인지 몰랐다</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306311</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306311</guid>
-      <pubDate>2022-10-14T14:13:04.000Z</pubDate>
-      <content:encoded>“(장애가 있다는 표현보다) 장애를 앓는 게 맞는 것 아닌가?”이석형 언론중재위원회 위원장이 13일 열린 국회 문화체육관광위원회 국정감사에서 장애를 ‘앓다’고 표현하는 게 맞다고 말해 질타를 받았다. ‘앓다’는 질병에 걸려 고통을 겪는다는 뜻으로, ‘장애를 앓다’는 장애를 질병으로 보는 차별적 표현이다. 김예지 국민의힘 의원은 “(언론중재)위원장이 이러니까 (잘못된) 보도들이”라고 탄식하면서 언론인 교육·심의 강화를 주문했다.김예지 의원은 13일 국정감사에서 이석형 위원장에게 “장애를 앓다고 하는 게 맞나, 아니면 장애가 있다고 하</content:encoded>
-    </item>
-    <item>
-      <title>불붙은 망사용료 논쟁, 메신저 공격은 왜 문제인가</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306313</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306313</guid>
-      <pubDate>2022-10-14T15:47:51.000Z</pubDate>
-      <content:encoded>지난달 7일 사단법인 오픈넷이 망사용료 입법 반대 서명을 시작했다. 이를 전하는 언론보도를 살펴볼 필요가 있다. 지난달 27일, 아이뉴스24는 “구글 韓 생태계 키운다더니…유튜버 볼모 ‘권력화’”란 기사에서 “21일이 경과된 상태에서 불과 2만2000여 명 정도가 서명했다는 것은 그 호응도가 낮다는 점을 의미한다. 구글의 일방적이고 사실이 왜곡된 주장을 유튜브와 크리에이터분들도 인지하고 있음을 보여주는 결과”라는 안정상 더불어민주당 수석전문위원의 평가를 기사 첫머리에 배치했다. 그러면서 아이뉴스24는 “반대서명운동이 개시된 지 21</content:encoded>
     </item>
     <item>
       <title>불붙은 망사용료 논쟁, 메신저 공격은 왜 문제인가</title>
@@ -1039,13 +752,6 @@
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306318</guid>
       <pubDate>2022-10-14T17:26:28.000Z</pubDate>
       <content:encoded>권성동 국민의힘 의원은 MBC PD수첩 ‘논문저자 김건희’ 편을 언제부터 준비했는지 알기위해 PD수첩 제작 일지를 MBC에 요구했지만 박성제 사장이 거부했다고 밝혔다. 이를두고 조승래 민주당 의원은 방송 탄압이라고 비판했다. 14일 오전 상암동 MBC 사옥에서 열린 국회 과학기술정보방송통신위원회 국정감사 MBC 비공개 업무보고 회의에서 퇴장한 국민의힘 의원들은 국회로 돌아와 기자회견을 열고 MBC 경영진 총사퇴를 요구했다.기자회견에서 권성동 의원은 “MBC PD수첩은 김건희 여사 대역 이외에도 국민대 관계자를 연기한 대역배우를 6명</content:encoded>
-    </item>
-    <item>
-      <title>방통위 제출용 지역민방 ‘대주주 보도 보고서’ 믿을 수 있나</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306319</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306319</guid>
-      <pubDate>2022-10-14T18:06:04.000Z</pubDate>
-      <content:encoded>일부 지역 민영방송사(민방)들이 대주주 보도를 지속하는 가운데 일부 민방은 이를 방송통신위원회(방통위)에 제대로 보고조차 하지 않은 것으로 확인됐다. 대주주의 민방 사유화에 대해 관리감독 업무를 맡은 방통위는 보고 내용에 대해 점검하겠다는 입장이다.방통위는 지난 2020년부터 지역 민방에게 대주주 관련 보도 현황 보고서를 받고 있다. 대주주 관련 보도를 해당 민방이 얼마나 했는지 내역을 점검하는 것이다. 지역 민방의 중립성과 독립성을 대주주로부터 지키기 위해서다.국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원실이 방통위</content:encoded>
     </item>
     <item>
       <title>방통위 제출용 지역민방 ‘대주주 보도 보고서’ 믿을 수 있나</title>
@@ -1237,14 +943,14 @@
       <content:encoded>국민대가 김건희 여사 학위논문에 대한 MBC ‘PD수첩’ 관련해 일부 대학 관계자 발언들이 사실과 다르다며 정정보도를 요청하고 법적대응을 예고했다.지난 11일 방영된 ‘PD수첩-논문저자 김건희’ 편은 김 여사의 논문 표절 의혹, 해당 논문에 문제가 없다던 국민대 검증 결과에 대한 의문을 다뤘다. 김 여사가 박사학위를 받은 국민대 테크노디자인대학원 관계자들은 방송에서 김 여사 논문 심사 당시 논문의 수준이나 통과에 대한 지적이 있었다고 전했다.국민대는 14일 테크노디자인전문대학원장 명의 보도자료를 내어 “논문계획서 예비심사, 학위청구</content:encoded>
     </item>
     <item>
-      <title>모두에게 ‘문화적 권리, 문화권’을 보장하라</title>
+      <title>[김지학의 미리미리] 모두에게 ‘문화적 권리, 문화권’을 보장하라</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306312</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306312</guid>
       <pubDate>2022-10-16T11:52:48.000Z</pubDate>
       <content:encoded>문화체육관광부는 ‘세계 문화다양성의 날’에 맞춰 문화다양성주간을 운영한다. 작년(2021년) 7회를 맞이한 이 행사 제목은 ‘취향존중, 취향저격’이었다. 문화다양성은 ‘취향’이 아니라 ‘권력’과 권력의 격차로 인한 ‘불평등’의 문제가 핵심이다. 취향이나 취향존중을 이야기 할 수 있지만 그 자체 보다 ‘우리가 살고 있는 사회는 왜 모든 사람의 취향을 존중하지 못하고 있는가’ 또는 ‘왜 누군가는 “취향”이라는 것을 아예 가질 수 없는가’ 그리고 그것이 ‘권력’과 ‘불평등’의 문제라는 것이 중심이 돼야한다.전통, 생활양식, 음식, 건축</content:encoded>
     </item>
     <item>
-      <title>모두에게 ‘문화적 권리, 문화권’을 보장하라</title>
+      <title>[김지학의 미리미리] 모두에게 ‘문화적 권리, 문화권’을 보장하라</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306312</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306312</guid>
       <pubDate>2022-10-16T11:52:48.000Z</pubDate>
@@ -1321,18 +1027,312 @@
       <content:encoded>21대 국회 후반기 상임위원회 배정을 두고 더불어민주당에서 환경노동위원회(이하 환노위)를 ‘1지망 희망 상임위’로 지원한 국회의원이 한 명도 없었다는 사실이 알려졌다. 경향신문은 지난 7월 이 소식을 전하며 “민주당은 대선과 지방선거 패배 이후 ‘유능한 민생정당’을 주창하고 나섰지만 의원들이 노동과 관련한 민생 현안이 산적한 환노위보다는 지역구 현안과 연관된 국토교통위 등에 몰렸다”고 보도했다. 국민 다수가 노동자이며 그들이 노동 현장에서 많은 시간을 보내고 있어 노동 이슈가 중요하다고 말하지만 실제로 노동문제가 자신들 표에 도움되</content:encoded>
     </item>
     <item>
-      <title>카카오톡 먹통 사태에 조선일보 1면 “카카오 뚝”</title>
+      <title>[아침신문 솎아보기] 카카오톡 먹통 사태에 조선일보 1면 “카카오 뚝”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306335</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306335</guid>
       <pubDate>2022-10-17T07:42:54.000Z</pubDate>
       <content:encoded>지난 15일부터 오후 3시30분쯤 경기도 성남 판교의 SK C&amp;C 데이터센터에서 불이 났다. 이 데이터센터에는 카카오, 네이버, SKT, SK브로드밴드 등이 입주해 있다. 이에 카카오톡 등 카카오 계열 플랫폼 서비스가 먹통이 되면서 약 5000만명의 국민이 가입한 카카오톡을 비롯해 우리 생활 곳곳에 스며든 카카오 계열 서비스 사용에 어려움을 겪었다. 반면 네이버의 경우 이번 화재로 검색·쇼핑·뉴스 등 일부 서비스가 문제였는데 데이터센터를 이원화해 운영해 장애를 신속히 복구했다. 그러나 카카오 계열 서비스는 완전히 복구되지 않은 상황</content:encoded>
     </item>
     <item>
-      <title>카카오톡 먹통 사태에 조선일보 1면 “카카오 뚝”</title>
+      <title>[아침신문 솎아보기] 카카오톡 먹통 사태에 조선일보 1면 “카카오 뚝”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306335</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306335</guid>
       <pubDate>2022-10-17T07:42:54.000Z</pubDate>
       <content:encoded>지난 15일부터 오후 3시30분쯤 경기도 성남 판교의 SK C&amp;C 데이터센터에서 불이 났다. 이 데이터센터에는 카카오, 네이버, SKT, SK브로드밴드 등이 입주해 있다. 이에 카카오톡 등 카카오 계열 플랫폼 서비스가 먹통이 되면서 약 5000만명의 국민이 가입한 카카오톡을 비롯해 우리 생활 곳곳에 스며든 카카오 계열 서비스 사용에 어려움을 겪었다. 반면 네이버의 경우 이번 화재로 검색·쇼핑·뉴스 등 일부 서비스가 문제였는데 데이터센터를 이원화해 운영해 장애를 신속히 복구했다. 그러나 카카오 계열 서비스는 완전히 복구되지 않은 상황</content:encoded>
+    </item>
+    <item>
+      <title>재방송만 92% 예산 낭비 논란 ‘한국선거방송’ 결국 폐지</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306336</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306336</guid>
+      <pubDate>2022-10-17T09:35:11.000Z</pubDate>
+      <content:encoded>중앙선거관리위원회(중선관위)가 운영하는 방송채널인 한국선거방송이 재방송만 92%로 예산만 낭비한다는 국회 지적 이후 해당 TV채널 폐지를 결정했다. 중선관위는 내년부터 TV채널 운영을 중단하고 온라인채널로 전환해 운영하겠다는 방침이다. 국회 행정안전위원회 소속 용혜인 기본소득당 의원은 중선관위가 매년 한국선거방송 운영에 평균 19억 원을 사용하지만 2017년 출범 이후 지난 8월까지 방송프로그램 7만8050건 중 7만1937건(92.2%)을 재방송으로 구성했다는 사실을 국정감사에서 지적했다. 용 의원에 따르면 중선관위는 2017년부</content:encoded>
+    </item>
+    <item>
+      <title>재방송만 92% 예산 낭비 논란 ‘한국선거방송’ 결국 폐지</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306336</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306336</guid>
+      <pubDate>2022-10-17T09:35:11.000Z</pubDate>
+      <content:encoded>중앙선거관리위원회(중선관위)가 운영하는 방송채널인 한국선거방송이 재방송만 92%로 예산만 낭비한다는 국회 지적 이후 해당 TV채널 폐지를 결정했다. 중선관위는 내년부터 TV채널 운영을 중단하고 온라인채널로 전환해 운영하겠다는 방침이다. 국회 행정안전위원회 소속 용혜인 기본소득당 의원은 중선관위가 매년 한국선거방송 운영에 평균 19억 원을 사용하지만 2017년 출범 이후 지난 8월까지 방송프로그램 7만8050건 중 7만1937건(92.2%)을 재방송으로 구성했다는 사실을 국정감사에서 지적했다. 용 의원에 따르면 중선관위는 2017년부</content:encoded>
+    </item>
+    <item>
+      <title>과방위 국감 ‘SK 최태원·카카오 김범수·네이버 이해진’ 증인 채택</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306339</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306339</guid>
+      <pubDate>2022-10-17T12:01:52.000Z</pubDate>
+      <content:encoded>국회 과학기술정보방송통신위원회가 17일 이른바 ‘카카오 대란’과 관련해 카카오, 네이버, SK 관계자들을 국정감사 증인으로 채택했다.과방위는 오는 24일 과학기술정보통신부 종합감사 증인으로 최태원 SK 회장, 김범수 카카오 의장, 이해진 네이버 글로벌투자책임자(GIO), 박성하 SK C&amp;C 대표이사, 홍은택 카카오 대표이사, 최수연 네이버 대표이사 등을 채택했다. 지난 15일 SK C&amp;C 판교 데이터센터 화재로 카카오의 주요 서비스, 네이버 일부 서비스가 먹통이 된 사안과 관련해서다.다만 네이버 부사장 출신의 윤영찬 더불어민주당 의</content:encoded>
+    </item>
+    <item>
+      <title>과방위 국감 ‘SK 최태원·카카오 김범수·네이버 이해진’ 증인 채택</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306339</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306339</guid>
+      <pubDate>2022-10-17T12:01:52.000Z</pubDate>
+      <content:encoded>국회 과학기술정보방송통신위원회가 17일 이른바 ‘카카오 대란’과 관련해 카카오, 네이버, SK 관계자들을 국정감사 증인으로 채택했다.과방위는 오는 24일 과학기술정보통신부 종합감사 증인으로 최태원 SK 회장, 김범수 카카오 의장, 이해진 네이버 글로벌투자책임자(GIO), 박성하 SK C&amp;C 대표이사, 홍은택 카카오 대표이사, 최수연 네이버 대표이사 등을 채택했다. 지난 15일 SK C&amp;C 판교 데이터센터 화재로 카카오의 주요 서비스, 네이버 일부 서비스가 먹통이 된 사안과 관련해서다.다만 네이버 부사장 출신의 윤영찬 더불어민주당 의</content:encoded>
+    </item>
+    <item>
+      <title>‘근로기준법 위반’ 양승동 전 KBS 사장 유죄 확정</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306338</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306338</guid>
+      <pubDate>2022-10-17T12:02:17.000Z</pubDate>
+      <content:encoded>문재인 정부 들어 KBS 정상화를 목적으로 설립한 ‘진실과미래위원회’(진미위)와 관련, 근로기준법을 위반한 혐의로 재판에 넘겨진 양승동 전 KBS 사장의 유죄가 확정됐다. 대법원 2부(주심 조재연 대법관)는 14일 양 전 사장의 상고를 기각하고 벌금 300만 원을 확정했다. 대법원은 “원심(2심) 판단에 논리와 경험의 법칙을 위반해 자유심증주의 한계를 벗어나거나 근로기준법 제94조 제1항의 ‘취업규칙을 근로자에게 불리하게 변경하는 경우’, 근로기준법위반의 고의 등에 관한 법리를 오해한 잘못이 없다”면서 양 전 사장의 상고를 기각했다</content:encoded>
+    </item>
+    <item>
+      <title>‘근로기준법 위반’ 양승동 전 KBS 사장 유죄 확정</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306338</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306338</guid>
+      <pubDate>2022-10-17T12:02:17.000Z</pubDate>
+      <content:encoded>문재인 정부 들어 KBS 정상화를 목적으로 설립한 ‘진실과미래위원회’(진미위)와 관련, 근로기준법을 위반한 혐의로 재판에 넘겨진 양승동 전 KBS 사장의 유죄가 확정됐다. 대법원 2부(주심 조재연 대법관)는 14일 양 전 사장의 상고를 기각하고 벌금 300만 원을 확정했다. 대법원은 “원심(2심) 판단에 논리와 경험의 법칙을 위반해 자유심증주의 한계를 벗어나거나 근로기준법 제94조 제1항의 ‘취업규칙을 근로자에게 불리하게 변경하는 경우’, 근로기준법위반의 고의 등에 관한 법리를 오해한 잘못이 없다”면서 양 전 사장의 상고를 기각했다</content:encoded>
+    </item>
+    <item>
+      <title>18개 신문사, 인천국제공항공사 정부광고 14억 바꿔치기</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306337</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306337</guid>
+      <pubDate>2022-10-17T12:25:13.000Z</pubDate>
+      <content:encoded>국내 주요 신문사들이 인천국제공항공사(이하 인천공항)의 정부광고를 지면에 싣지 않고, 기업·부동산·타 공공기관 광고를 게재한 사실이 적발됐다. 광고를 지면에 게재하지 않고 광고비만 챙기는 ‘정부광고 바꿔치기’ 논란이 사실로 드러난 것이다.광고 바꿔치기가 확인된 신문사는 18곳에 달한다. 조선일보·중앙일보·동아일보·경향신문 등 종합일간지는 물론 경제신문·영자신문도 포함된다. 광고비는 14억 1212만 원(한국언론진흥재단 수수료 10% 포함)에 달한다. 2016년부터 올해까지 이들 신문사에 집행된 광고가 100억여 원 수준인 것을 감안</content:encoded>
+    </item>
+    <item>
+      <title>18개 신문사, 인천국제공항공사 정부광고 14억 바꿔치기</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306337</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306337</guid>
+      <pubDate>2022-10-17T12:25:13.000Z</pubDate>
+      <content:encoded>국내 주요 신문사들이 인천국제공항공사(이하 인천공항)의 정부광고를 지면에 싣지 않고, 기업·부동산·타 공공기관 광고를 게재한 사실이 적발됐다. 광고를 지면에 게재하지 않고 광고비만 챙기는 ‘정부광고 바꿔치기’ 논란이 사실로 드러난 것이다.광고 바꿔치기가 확인된 신문사는 18곳에 달한다. 조선일보·중앙일보·동아일보·경향신문 등 종합일간지는 물론 경제신문·영자신문도 포함된다. 광고비는 14억 1212만 원(한국언론진흥재단 수수료 10% 포함)에 달한다. 2016년부터 올해까지 이들 신문사에 집행된 광고가 100억여 원 수준인 것을 감안</content:encoded>
+    </item>
+    <item>
+      <title>윤 대통령 “카톡, 시장왜곡 있으면 국가 대응” 공정위 “독과점 분명”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306340</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306340</guid>
+      <pubDate>2022-10-17T13:40:34.000Z</pubDate>
+      <content:encoded>윤석열 대통령이 지난 15일 발생한 SK C&amp;C 건물 화재로 데이터 복구가 지연된 카카오를 두고 국가 인프라 역할을 하면서도 독과점이 심한 상태에서 시장 왜곡을 할 경우 국가에서 대응을 해야 한다며 공정거래위원회에서 검토하고 있다고 밝혔다.사실상 시장지배적 사업자로 보고 시장지배남용행위를 했는지를 알아보고 있다는 얘기인데, 공정거래위원회는 카카오톡 서비스의 경우 독과점이 분명하지만, 시장남용행위 조사 여부는 답변할 수 없다는 입장을 내놓았다.윤 대통령은 17일 오전 서울 용산 대통령 집무실 1층에서 실시한 출근길 약식 문답(도어스테</content:encoded>
+    </item>
+    <item>
+      <title>윤 대통령 “카톡, 시장왜곡 있으면 국가 대응” 공정위 “독과점 분명”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306340</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306340</guid>
+      <pubDate>2022-10-17T13:40:34.000Z</pubDate>
+      <content:encoded>윤석열 대통령이 지난 15일 발생한 SK C&amp;C 건물 화재로 데이터 복구가 지연된 카카오를 두고 국가 인프라 역할을 하면서도 독과점이 심한 상태에서 시장 왜곡을 할 경우 국가에서 대응을 해야 한다며 공정거래위원회에서 검토하고 있다고 밝혔다.사실상 시장지배적 사업자로 보고 시장지배남용행위를 했는지를 알아보고 있다는 얘기인데, 공정거래위원회는 카카오톡 서비스의 경우 독과점이 분명하지만, 시장남용행위 조사 여부는 답변할 수 없다는 입장을 내놓았다.윤 대통령은 17일 오전 서울 용산 대통령 집무실 1층에서 실시한 출근길 약식 문답(도어스테</content:encoded>
+    </item>
+    <item>
+      <title>EBS 뉴스는 있는데 아나운서는 한 명도 없다?</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306342</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306342</guid>
+      <pubDate>2022-10-17T13:43:10.000Z</pubDate>
+      <content:encoded>EBS가 방송통신위원회에 자사 아나운서가 한 명도 없다고 보고해 온 것으로 나타났다. EBS 뉴스를 진행하는 아나운서와 형식상 프리랜서 계약을 맺었기 때문에 자사 직원이 아니라는 해명인데 최근 지방노동위원회과 중앙노동위원회는 모두 EBS 아나운서가 노동법상 노동자라고 판단했다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원이 방통위에서 받은 EBS 인력 현황을 보면 지난 8월31일자 기준 EBS는 자사 아나운서를 0명으로 보고했다. 지난해 8월27일 EBS에서 부당하게 해고를 당한 아나운서 A씨가 경기지노위와 중노위에</content:encoded>
+    </item>
+    <item>
+      <title>EBS 뉴스는 있는데 아나운서는 한 명도 없다?</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306342</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306342</guid>
+      <pubDate>2022-10-17T13:43:10.000Z</pubDate>
+      <content:encoded>EBS가 방송통신위원회에 자사 아나운서가 한 명도 없다고 보고해 온 것으로 나타났다. EBS 뉴스를 진행하는 아나운서와 형식상 프리랜서 계약을 맺었기 때문에 자사 직원이 아니라는 해명인데 최근 지방노동위원회과 중앙노동위원회는 모두 EBS 아나운서가 노동법상 노동자라고 판단했다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원이 방통위에서 받은 EBS 인력 현황을 보면 지난 8월31일자 기준 EBS는 자사 아나운서를 0명으로 보고했다. 지난해 8월27일 EBS에서 부당하게 해고를 당한 아나운서 A씨가 경기지노위와 중노위에</content:encoded>
+    </item>
+    <item>
+      <title>EBS, 임신 중 프리랜서 아나운서 계약해지</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306341</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306341</guid>
+      <pubDate>2022-10-17T14:02:21.000Z</pubDate>
+      <content:encoded>EBS가 임신 중이던 프리랜서 여성 아나운서들에게 계약해지를 통보하고, 이후 계약하는 아나운서들에게 불리한 ‘EBS에 소송하지 말 것’ 등 불리한 조건을 요구했다는 지적이 나왔다.이정문 더불어민주당 의원은 17일 국회 과학기술정보방송통신위원회의 EBS 국정감사에서 김유열 EBS 사장 상대로 관련 질의를 했다.이정문 의원은 “EBS는 매년 방송통신위원에 비정규직 처우 개선 계획을 제출하기로 했고, 2021년에는 프리랜서 계약 체결률 제고를 비롯한 비정규직 인력의 정규직 전환 방안 등을 보고했다. 그런데 보고 내용과는 달리 2021년도</content:encoded>
+    </item>
+    <item>
+      <title>EBS, 임신 중 프리랜서 아나운서 계약해지</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306341</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306341</guid>
+      <pubDate>2022-10-17T14:02:21.000Z</pubDate>
+      <content:encoded>EBS가 임신 중이던 프리랜서 여성 아나운서들에게 계약해지를 통보하고, 이후 계약하는 아나운서들에게 불리한 ‘EBS에 소송하지 말 것’ 등 불리한 조건을 요구했다는 지적이 나왔다.이정문 더불어민주당 의원은 17일 국회 과학기술정보방송통신위원회의 EBS 국정감사에서 김유열 EBS 사장 상대로 관련 질의를 했다.이정문 의원은 “EBS는 매년 방송통신위원에 비정규직 처우 개선 계획을 제출하기로 했고, 2021년에는 프리랜서 계약 체결률 제고를 비롯한 비정규직 인력의 정규직 전환 방안 등을 보고했다. 그런데 보고 내용과는 달리 2021년도</content:encoded>
+    </item>
+    <item>
+      <title>&apos;대북 코인 대가설&apos; 의혹에 KBS사장 &quot;명예훼손 부분 법률적 검토&quot;</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306343</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306343</guid>
+      <pubDate>2022-10-17T14:06:16.000Z</pubDate>
+      <content:encoded>국회 과학기술정보방송통신위원회의 KBS 국정감사에서 여당 의원들이 이른바 ‘대북 코인’ 의혹을 집중 질의했다. 김의철 KBS 사장은 회사와의 연관성을 부인하며 명예훼손에 대한 법적 검토 중이라고 밝혔다.윤두현 국민의힘 의원은 이날 국정감사에서 “이화영 전 경기도 부지사가 관여됐다고 의혹을 받는 아태평화교류협회(아태협)에서 2020년 북한 관련 코인을 발행했고 KBS 남북협력단 간부 진아무개 국장이 ‘대북 코인’ 가상화폐를 받았다는 보도가 있었다”면서 “(KBS 간부가) 2019년 10월 아태협의 안아무개 회장 요청으로 1000만 원</content:encoded>
+    </item>
+    <item>
+      <title>&apos;대북 코인 대가설&apos; 의혹에 KBS사장 &quot;명예훼손 부분 법률적 검토&quot;</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306343</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306343</guid>
+      <pubDate>2022-10-17T14:06:16.000Z</pubDate>
+      <content:encoded>국회 과학기술정보방송통신위원회의 KBS 국정감사에서 여당 의원들이 이른바 ‘대북 코인’ 의혹을 집중 질의했다. 김의철 KBS 사장은 회사와의 연관성을 부인하며 명예훼손에 대한 법적 검토 중이라고 밝혔다.윤두현 국민의힘 의원은 이날 국정감사에서 “이화영 전 경기도 부지사가 관여됐다고 의혹을 받는 아태평화교류협회(아태협)에서 2020년 북한 관련 코인을 발행했고 KBS 남북협력단 간부 진아무개 국장이 ‘대북 코인’ 가상화폐를 받았다는 보도가 있었다”면서 “(KBS 간부가) 2019년 10월 아태협의 안아무개 회장 요청으로 1000만 원</content:encoded>
+    </item>
+    <item>
+      <title>시각장애인용 EBS 수능교재·영상 준비 미흡 지적</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306345</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306345</guid>
+      <pubDate>2022-10-17T14:59:26.000Z</pubDate>
+      <content:encoded>시각장애인용 EBS 수능교재인 점역(점자번역)교재나 화면해설 동영상 강좌 등의 개선 요구가 이어지는 가운데 올해 국회 국정감사에서도 관련 내용이 다뤄졌다. 여전히 장애인들을 위한 학습서비스에 미흡한 점이 있기 때문이다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원이 EBS에서 받은 최근 5년간 수능 연계 점역교재 제공 현황 자료를 보면 교재발행일과 점역교재 제공 시차가 최근 다소 줄었다. 지난 2019년 이전 점역교재는 100일 이상 뒤늦게 제공됐다. 2017년 수능특강 109일, 수능완성 132일, 2018년 수능</content:encoded>
+    </item>
+    <item>
+      <title>시각장애인용 EBS 수능교재·영상 준비 미흡 지적</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306345</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306345</guid>
+      <pubDate>2022-10-17T14:59:26.000Z</pubDate>
+      <content:encoded>시각장애인용 EBS 수능교재인 점역(점자번역)교재나 화면해설 동영상 강좌 등의 개선 요구가 이어지는 가운데 올해 국회 국정감사에서도 관련 내용이 다뤄졌다. 여전히 장애인들을 위한 학습서비스에 미흡한 점이 있기 때문이다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원이 EBS에서 받은 최근 5년간 수능 연계 점역교재 제공 현황 자료를 보면 교재발행일과 점역교재 제공 시차가 최근 다소 줄었다. 지난 2019년 이전 점역교재는 100일 이상 뒤늦게 제공됐다. 2017년 수능특강 109일, 수능완성 132일, 2018년 수능</content:encoded>
+    </item>
+    <item>
+      <title>정진석, 김문수 막말 동조했지만 여권에서조차 &quot;김문수 무리수&quot;</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306346</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306346</guid>
+      <pubDate>2022-10-17T15:29:00.000Z</pubDate>
+      <content:encoded>김문수 경제사회노동위원회 위원장의 ‘문재인은 김일성주의자, 총살감, 민주노총 등은 김정은의 기쁨조’ 등의 막말을 두고 친일 망언으로 파문을 낳은 정진석 국민의힘 비상대책위원장이 편들고 나서 논란이다.윤석열 대통령도 발언 파문을 낳은 김문수 위원장을 ‘현장을 잘 아는 분이이서 인선하게 됐다’고 두둔했다. 하지만 이 같은 기류와 달리 김문수 위원장의 임명에 대해서는 여권 내에서도 부적절한 인물이라는 목소리가 나온다. 특히 김문수 위원장이나 정진석 위원장, 권성동 원내대표 등 여권 내에서 터져나오는 온갖 막말과 폭언의 근본적 책임은 이를</content:encoded>
+    </item>
+    <item>
+      <title>정진석, 김문수 막말 동조했지만 여권에서조차 &quot;김문수 무리수&quot;</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306346</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306346</guid>
+      <pubDate>2022-10-17T15:29:00.000Z</pubDate>
+      <content:encoded>김문수 경제사회노동위원회 위원장의 ‘문재인은 김일성주의자, 총살감, 민주노총 등은 김정은의 기쁨조’ 등의 막말을 두고 친일 망언으로 파문을 낳은 정진석 국민의힘 비상대책위원장이 편들고 나서 논란이다.윤석열 대통령도 발언 파문을 낳은 김문수 위원장을 ‘현장을 잘 아는 분이이서 인선하게 됐다’고 두둔했다. 하지만 이 같은 기류와 달리 김문수 위원장의 임명에 대해서는 여권 내에서도 부적절한 인물이라는 목소리가 나온다. 특히 김문수 위원장이나 정진석 위원장, 권성동 원내대표 등 여권 내에서 터져나오는 온갖 막말과 폭언의 근본적 책임은 이를</content:encoded>
+    </item>
+    <item>
+      <title>카카오톡 먹통에 네이버 라인 사용자 ‘85만 명’ 급증</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306347</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306347</guid>
+      <pubDate>2022-10-17T15:42:59.000Z</pubDate>
+      <content:encoded>카카오톡 먹통 사태에 이용자들이 네이버 메신저 서비스 ‘라인’과 ‘텔레그램’으로 이동해간 것으로 나타났다.17일 앱·리테일 분석 서비스 ‘와이즈앱·리테일·굿즈’가 지난 15일 오후 3시30분쯤 발생한 경기도 성남 판교의 SK C&amp;C 데이터센터에서 불이나 카카오 계열 플랫폼 서비스가 먹통이 되면서 사용자들이 네이버 메신저인 ‘라인’과 ‘텔레그램’으로 이동했다고 밝혔다.‘와이즈앱·리테일·굿즈’에 따르면 한국인 만 10세 이상 스마트폰 사용자를 표본 조사한 결과 지난 15일 화재가 일어나기 전날인 14일 카카오톡 사용자 수는 4112만</content:encoded>
+    </item>
+    <item>
+      <title>카카오톡 먹통에 네이버 라인 사용자 ‘85만 명’ 급증</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306347</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306347</guid>
+      <pubDate>2022-10-17T15:42:59.000Z</pubDate>
+      <content:encoded>카카오톡 먹통 사태에 이용자들이 네이버 메신저 서비스 ‘라인’과 ‘텔레그램’으로 이동해간 것으로 나타났다.17일 앱·리테일 분석 서비스 ‘와이즈앱·리테일·굿즈’가 지난 15일 오후 3시30분쯤 발생한 경기도 성남 판교의 SK C&amp;C 데이터센터에서 불이나 카카오 계열 플랫폼 서비스가 먹통이 되면서 사용자들이 네이버 메신저인 ‘라인’과 ‘텔레그램’으로 이동했다고 밝혔다.‘와이즈앱·리테일·굿즈’에 따르면 한국인 만 10세 이상 스마트폰 사용자를 표본 조사한 결과 지난 15일 화재가 일어나기 전날인 14일 카카오톡 사용자 수는 4112만</content:encoded>
+    </item>
+    <item>
+      <title>매출 하락 EBS 수능교재 돌파구는 문해력 교재사업?</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306348</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306348</guid>
+      <pubDate>2022-10-17T16:06:42.000Z</pubDate>
+      <content:encoded>EBS의 주요 수입원인 수능교재 출판 매출이 10% 이상 감소할 것으로 예상되고 EBS 교재의 수능 연계 정책 이후에 총 44%의 매출이 감소한 것으로 나타났다. 올해부터 EBS 수능 연계율이 기존 70%에서 50%로 떨어졌고, 학령인구가 감소하는 가운데 EBS가 어떤 대책을 마련하고 있는지도 살펴봤다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원실이 EBS에서 받은 수능교재 매출 현황을 보면 올해(추정) 수능교재(총 53권) 매출은 전년 대비 13% 감소할 것으로 예상했다. 수능교재 매출은 꾸준히 감소하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>매출 하락 EBS 수능교재 돌파구는 문해력 교재사업?</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306348</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306348</guid>
+      <pubDate>2022-10-17T16:06:42.000Z</pubDate>
+      <content:encoded>EBS의 주요 수입원인 수능교재 출판 매출이 10% 이상 감소할 것으로 예상되고 EBS 교재의 수능 연계 정책 이후에 총 44%의 매출이 감소한 것으로 나타났다. 올해부터 EBS 수능 연계율이 기존 70%에서 50%로 떨어졌고, 학령인구가 감소하는 가운데 EBS가 어떤 대책을 마련하고 있는지도 살펴봤다. 국회 과학기술정보방송통신위원회 소속 이정문 더불어민주당 의원실이 EBS에서 받은 수능교재 매출 현황을 보면 올해(추정) 수능교재(총 53권) 매출은 전년 대비 13% 감소할 것으로 예상했다. 수능교재 매출은 꾸준히 감소하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>윤영찬 “공영방송 탄압, 2008년과 2022년 평행이론”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306349</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306349</guid>
+      <pubDate>2022-10-17T16:27:47.000Z</pubDate>
+      <content:encoded>윤영찬 더불어민주당 의원이 최근 KBS에 대한 감사 등을 두고 과거 이명박 정부의 언론탄압과 “평행이론”이라고 주장했다.윤영찬 의원은 17일 국회 과학기술정보방송통신위원회의 KBS 국정감사에서 KBS 국민감사청구에 대한 여러 의문을 제기했다. 감사원은 KBS의 소수노조(KBS노동조합·KBS공영노조)와 보수성향 시민단체들의 국민감사청구를 받아들여 지난달 14일부터 감사를 진행 중이다.윤 의원은 “공교롭게도 국민감사청구 1차가 6월22일, 2차가 7월5일이다. 이 사이에 감사원이 조직개편안을 발표한다. ‘국민감사본부’라는 걸 만든다”며</content:encoded>
+    </item>
+    <item>
+      <title>윤영찬 “공영방송 탄압, 2008년과 2022년 평행이론”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306349</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306349</guid>
+      <pubDate>2022-10-17T16:27:47.000Z</pubDate>
+      <content:encoded>윤영찬 더불어민주당 의원이 최근 KBS에 대한 감사 등을 두고 과거 이명박 정부의 언론탄압과 “평행이론”이라고 주장했다.윤영찬 의원은 17일 국회 과학기술정보방송통신위원회의 KBS 국정감사에서 KBS 국민감사청구에 대한 여러 의문을 제기했다. 감사원은 KBS의 소수노조(KBS노동조합·KBS공영노조)와 보수성향 시민단체들의 국민감사청구를 받아들여 지난달 14일부터 감사를 진행 중이다.윤 의원은 “공교롭게도 국민감사청구 1차가 6월22일, 2차가 7월5일이다. 이 사이에 감사원이 조직개편안을 발표한다. ‘국민감사본부’라는 걸 만든다”며</content:encoded>
+    </item>
+    <item>
+      <title>[영상] 이은주 의원 “안전 센서 떼어놨다가 사망 사고 후 부랴부랴 부착”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306351</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306351</guid>
+      <pubDate>2022-10-17T16:31:35.000Z</pubDate>
+      <content:encoded>지난 15일 파리바게뜨 계열사 SPL 평택 제빵공장에서 샌드위치 소스를 만들던 20대 여성 노동자 끼임 사망 사고 현장 안전 센서가 작업 시간을 줄이기 위해 떼어냈다가 사고 후 부착했다는 의혹이 제기됐다. 이 같은 의혹은 산업안전보건공단도 인정했다.17일 국회 환경노동위 산업안전보건공단 국정감사에서 이은주 정의당 의원은 “어제 교반기 회전축이 돌아 반죽하는 기계 좌측에 노동자가 끼임으로 사망한 사고 현장에 가봤더니 다른 교반기는 뚜껑이 있어서, 뚜껑이 열리면 센서가 반응해서 작동이 중단된다”며 “하지만 중대재해가 발생한 기계는 센서</content:encoded>
+    </item>
+    <item>
+      <title>[영상] 이은주 의원 “안전 센서 떼어놨다가 사망 사고 후 부랴부랴 부착”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306351</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306351</guid>
+      <pubDate>2022-10-17T16:31:35.000Z</pubDate>
+      <content:encoded>지난 15일 파리바게뜨 계열사 SPL 평택 제빵공장에서 샌드위치 소스를 만들던 20대 여성 노동자 끼임 사망 사고 현장 안전 센서가 작업 시간을 줄이기 위해 떼어냈다가 사고 후 부착했다는 의혹이 제기됐다. 이 같은 의혹은 산업안전보건공단도 인정했다.17일 국회 환경노동위 산업안전보건공단 국정감사에서 이은주 정의당 의원은 “어제 교반기 회전축이 돌아 반죽하는 기계 좌측에 노동자가 끼임으로 사망한 사고 현장에 가봤더니 다른 교반기는 뚜껑이 있어서, 뚜껑이 열리면 센서가 반응해서 작동이 중단된다”며 “하지만 중대재해가 발생한 기계는 센서</content:encoded>
+    </item>
+    <item>
+      <title>전재수 “지지자 널브러져 있는데 사익 해당 주식거래? 이재명에 실망”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306350</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306350</guid>
+      <pubDate>2022-10-17T16:59:57.000Z</pubDate>
+      <content:encoded>이재명 더불어민주당 대표가 대선 직후 방위산업체 주식 2억3000여만원 어치를 샀다가 비판이 쏟아지자 매각 처분한 사건을 두고 당 내부에서도 “실망스럽다”는 호된 비판의 목소리가 터져나왔다. 대선 패배후 지지자들이 널브러져 있는데, 사적인 주식거래를 한 것은 지지자들에게 실망스러운 일이라는 지적이다.부산의 친문(친문재인) 의원이면서 지난해 9월 이재명 후보를 지지 선언했던 전재수 더불어민주당 의원(부산 북구‧강서구갑)은 17일 오전 BBS 라디오 ‘전영신의 아침저널’과 전화연결에서 이같이 밝혔다. ‘이재명 대표가 대선 끝나고 보궐</content:encoded>
+    </item>
+    <item>
+      <title>전재수 “지지자 널브러져 있는데 사익 해당 주식거래? 이재명에 실망”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306350</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306350</guid>
+      <pubDate>2022-10-17T16:59:57.000Z</pubDate>
+      <content:encoded>이재명 더불어민주당 대표가 대선 직후 방위산업체 주식 2억3000여만원 어치를 샀다가 비판이 쏟아지자 매각 처분한 사건을 두고 당 내부에서도 “실망스럽다”는 호된 비판의 목소리가 터져나왔다. 대선 패배후 지지자들이 널브러져 있는데, 사적인 주식거래를 한 것은 지지자들에게 실망스러운 일이라는 지적이다.부산의 친문(친문재인) 의원이면서 지난해 9월 이재명 후보를 지지 선언했던 전재수 더불어민주당 의원(부산 북구‧강서구갑)은 17일 오전 BBS 라디오 ‘전영신의 아침저널’과 전화연결에서 이같이 밝혔다. ‘이재명 대표가 대선 끝나고 보궐</content:encoded>
+    </item>
+    <item>
+      <title>카카오 먹통 사태에 정통부 방통위가 제시한 대책은</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306352</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306352</guid>
+      <pubDate>2022-10-17T17:03:10.000Z</pubDate>
+      <content:encoded>지난 15일 경기도 성남 판교의 SK C&amp;C 카카오톡 계열 플랫폼 서비스가 먹통이 되면서 이용자들이 피해를 호소하자, 과학기술정보통신부가 방송통신위원회와 행정안전부 등과 협력해 카카오 등 서비스 장애의 신속한 복구를 지원하고 나섰다.과기정통부는 17일 오전 ‘방송통신재난대책본부 점검회의(3차)’를 열고 행정안전부와 방통위, SK C&amp;C, 카카오, 네이버 등과 함께 주요 복구상황 및 향후 개선 방향 등을 논의했다. 이날 방통위도 신속한 피해 접수를 위한 ‘카카오 신고 채널 개설’을 하고 기존에 있던 ‘온라인피해 365센터’를 피해 접</content:encoded>
+    </item>
+    <item>
+      <title>카카오 먹통 사태에 정통부 방통위가 제시한 대책은</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306352</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306352</guid>
+      <pubDate>2022-10-17T17:03:10.000Z</pubDate>
+      <content:encoded>지난 15일 경기도 성남 판교의 SK C&amp;C 카카오톡 계열 플랫폼 서비스가 먹통이 되면서 이용자들이 피해를 호소하자, 과학기술정보통신부가 방송통신위원회와 행정안전부 등과 협력해 카카오 등 서비스 장애의 신속한 복구를 지원하고 나섰다.과기정통부는 17일 오전 ‘방송통신재난대책본부 점검회의(3차)’를 열고 행정안전부와 방통위, SK C&amp;C, 카카오, 네이버 등과 함께 주요 복구상황 및 향후 개선 방향 등을 논의했다. 이날 방통위도 신속한 피해 접수를 위한 ‘카카오 신고 채널 개설’을 하고 기존에 있던 ‘온라인피해 365센터’를 피해 접</content:encoded>
+    </item>
+    <item>
+      <title>KBS 해외특파원 ‘비위행위’ 의혹 여야 모두 비판</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306353</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306353</guid>
+      <pubDate>2022-10-17T17:34:53.000Z</pubDate>
+      <content:encoded>KBS가 일부 해외 특파원의 비위행위 의혹에 대한 내부 감사를 진행 중인 것으로 확인됐다. KBS는 감사가 진행 중인 사안이라며 구체적인 자료를 공개하지 않았다.홍석준 국민의힘 의원은 17일 국회 과학기술정보방송통신위원회의 KBS 국정감사에서 KBS 해외특파원 5명에 대한 내부 감사가 진행 중이라고 지적했다.홍 의원실에 따르면 뉴욕지국 L기자와 P기자는 코디 겸 촬영 계약직 직원의 특별일당을 부풀려 2000만 원의 배임·횡령을 저질렀다는 혐의로 감사를 받고 있다. 파리지국 Y기자는 배우자(아내)를 해당 지국의 직원으로 고용해 인건비</content:encoded>
+    </item>
+    <item>
+      <title>KBS 해외특파원 ‘비위행위’ 의혹 여야 모두 비판</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306353</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306353</guid>
+      <pubDate>2022-10-17T17:34:53.000Z</pubDate>
+      <content:encoded>KBS가 일부 해외 특파원의 비위행위 의혹에 대한 내부 감사를 진행 중인 것으로 확인됐다. KBS는 감사가 진행 중인 사안이라며 구체적인 자료를 공개하지 않았다.홍석준 국민의힘 의원은 17일 국회 과학기술정보방송통신위원회의 KBS 국정감사에서 KBS 해외특파원 5명에 대한 내부 감사가 진행 중이라고 지적했다.홍 의원실에 따르면 뉴욕지국 L기자와 P기자는 코디 겸 촬영 계약직 직원의 특별일당을 부풀려 2000만 원의 배임·횡령을 저질렀다는 혐의로 감사를 받고 있다. 파리지국 Y기자는 배우자(아내)를 해당 지국의 직원으로 고용해 인건비</content:encoded>
+    </item>
+    <item>
+      <title>“하나만 먹어도 배가 차” 광고를 위한 방송에 ‘주의’ 법정제재</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306354</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306354</guid>
+      <pubDate>2022-10-17T18:22:18.000Z</pubDate>
+      <content:encoded>인터뷰 자막 왜곡부터 광고모델을 주인공으로 설정한 드라마까지. 방송사들의 과도한 간접광고 방식이 점점 노골적이고 교묘해지고 있다. 방송통신심의위원회는 17일 전체회의에서 과도한 광고효과를 줄 수 있는 상업적 표현을 노출하거나 특정 상품·상표 등을 부각한 방송을 내보낸 KBS-2TV, SBS-TV, TV조선, JTBC, tvN 등 5개 방송사들에 전부 법정제재 ‘주의’를 결정했다. 이날 안건으로 올라온 방송사들의 과도한 간접광고 방식은 노골적이고도 다양했다. KBS-2TV ‘사장님 귀는 당나귀 귀’는 6월12일 방송분에서 햄버거 매장</content:encoded>
+    </item>
+    <item>
+      <title>“하나만 먹어도 배가 차” 광고를 위한 방송에 ‘주의’ 법정제재</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306354</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306354</guid>
+      <pubDate>2022-10-17T18:22:18.000Z</pubDate>
+      <content:encoded>인터뷰 자막 왜곡부터 광고모델을 주인공으로 설정한 드라마까지. 방송사들의 과도한 간접광고 방식이 점점 노골적이고 교묘해지고 있다. 방송통신심의위원회는 17일 전체회의에서 과도한 광고효과를 줄 수 있는 상업적 표현을 노출하거나 특정 상품·상표 등을 부각한 방송을 내보낸 KBS-2TV, SBS-TV, TV조선, JTBC, tvN 등 5개 방송사들에 전부 법정제재 ‘주의’를 결정했다. 이날 안건으로 올라온 방송사들의 과도한 간접광고 방식은 노골적이고도 다양했다. KBS-2TV ‘사장님 귀는 당나귀 귀’는 6월12일 방송분에서 햄버거 매장</content:encoded>
+    </item>
+    <item>
+      <title>노란봉투법 비판하려 ‘엉뚱한’ 사진 게재한 조선일보의 언중위 조정 결과는</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306355</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306355</guid>
+      <pubDate>2022-10-17T18:35:37.000Z</pubDate>
+      <content:encoded>조선일보가 노란봉투법을 ‘불법파업 면죄부’라 규정한 보도에서 금속노조 현대제철지회의 ‘특별공로금 요구 파업’을 언급하면서 이와 무관한 비정규직지회 파업 사진과 손배소 현황 표를 게재했다. 비정규직지회는 언론중재위원회를 통해 정정을 요구했으나 조선일보는 문제의 사진과 캡션, 표를 지우기로 한 데 그쳤다.조선일보는 지난 13일 금속노조 현대제철 비정규직지회가 신청한 언론중재위 조정회의 결과 조정 대상 기사에서 비정규직지회를 언급한 사진과 캡션, 손배소 현황 표를 오는 20일 삭제하기로 합의서를 작성했다. 그러나 노조가 함께 요구했던 정</content:encoded>
+    </item>
+    <item>
+      <title>노란봉투법 비판하려 ‘엉뚱한’ 사진 게재한 조선일보의 언중위 조정 결과는</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306355</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306355</guid>
+      <pubDate>2022-10-17T18:35:37.000Z</pubDate>
+      <content:encoded>조선일보가 노란봉투법을 ‘불법파업 면죄부’라 규정한 보도에서 금속노조 현대제철지회의 ‘특별공로금 요구 파업’을 언급하면서 이와 무관한 비정규직지회 파업 사진과 손배소 현황 표를 게재했다. 비정규직지회는 언론중재위원회를 통해 정정을 요구했으나 조선일보는 문제의 사진과 캡션, 표를 지우기로 한 데 그쳤다.조선일보는 지난 13일 금속노조 현대제철 비정규직지회가 신청한 언론중재위 조정회의 결과 조정 대상 기사에서 비정규직지회를 언급한 사진과 캡션, 손배소 현황 표를 오는 20일 삭제하기로 합의서를 작성했다. 그러나 노조가 함께 요구했던 정</content:encoded>
+    </item>
+    <item>
+      <title>‘윤석열차’ 논란이 할퀴고 간 상처</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306344</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306344</guid>
+      <pubDate>2022-10-18T00:05:00.000Z</pubDate>
+      <content:encoded>부천국제만화축제 전국학생만화공모전 금상 수상작 ‘윤석열차’ 논란은 표현의자유 문제에 얼마나 퇴행적인 모습을 보여줄 수 있는지 마치 경쟁하는 것처럼 한국사회 바닥을 보여줬다는 평가를 받는다. 작품을 그린 학생을 정쟁의 한복판에 먹잇감마냥 던져놓고 물어뜯는 행태까지 보이면서 정파적 이해관계 속 개인의 인권까지 희생되는 일을 낳았다. 왜 이런 일이 벌어졌는지 짚어보자.문화체육관광부는 관련 그림에 ‘엄중 경고’를 하고 나서자 여권에서조차 부적절하다는 반응이 나왔다. 문체부는 이런 비판을 예상하지 못했을까. 문체부가 작성한 보도자료에 답이</content:encoded>
+    </item>
+    <item>
+      <title>‘윤석열차’ 논란이 할퀴고 간 상처</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306344</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306344</guid>
+      <pubDate>2022-10-18T00:05:00.000Z</pubDate>
+      <content:encoded>부천국제만화축제 전국학생만화공모전 금상 수상작 ‘윤석열차’ 논란은 표현의자유 문제에 얼마나 퇴행적인 모습을 보여줄 수 있는지 마치 경쟁하는 것처럼 한국사회 바닥을 보여줬다는 평가를 받는다. 작품을 그린 학생을 정쟁의 한복판에 먹잇감마냥 던져놓고 물어뜯는 행태까지 보이면서 정파적 이해관계 속 개인의 인권까지 희생되는 일을 낳았다. 왜 이런 일이 벌어졌는지 짚어보자.문화체육관광부는 관련 그림에 ‘엄중 경고’를 하고 나서자 여권에서조차 부적절하다는 반응이 나왔다. 문체부는 이런 비판을 예상하지 못했을까. 문체부가 작성한 보도자료에 답이</content:encoded>
+    </item>
+    <item>
+      <title>&apos;파리바게뜨 참사&apos; 진정성 있는 대응은 중대재해법 무력화 시도 중단</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306362</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306362</guid>
+      <pubDate>2022-10-18T07:49:03.000Z</pubDate>
+      <content:encoded>‘카카오 오류’가 사흘간 이어지면서 카카오의 독과점 문제가 지적되고 있다. 공정거래위원회와 금융감독원 당국이 조사에 나서고, 국정감사에서도 주요 문제로 떠올랐다. 윤석열 대통령도 17일 카카오 서비스 장애를 계기로 부상한 카카오의 독점과점 문제에 국가가 제도적으로 대응해야 한다고 밝혔다.SPC 계열사 제빵공장인 SPL에서 20대 여성 노동자 끼임 사망사고로 인해 SPC에 대한 비난 여론이 높아지고 있다. 현장 노동자들이 안전 문제를 제기했으나 회사에서 받아들여지지 않았다는 비판이 나왔기 때문이다. 2인1조 규칙도 지켜지지 않았다.</content:encoded>
+    </item>
+    <item>
+      <title>&apos;파리바게뜨 참사&apos; 진정성 있는 대응은 중대재해법 무력화 시도 중단</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306362</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306362</guid>
+      <pubDate>2022-10-18T07:49:03.000Z</pubDate>
+      <content:encoded>‘카카오 오류’가 사흘간 이어지면서 카카오의 독과점 문제가 지적되고 있다. 공정거래위원회와 금융감독원 당국이 조사에 나서고, 국정감사에서도 주요 문제로 떠올랐다. 윤석열 대통령도 17일 카카오 서비스 장애를 계기로 부상한 카카오의 독점과점 문제에 국가가 제도적으로 대응해야 한다고 밝혔다.SPC 계열사 제빵공장인 SPL에서 20대 여성 노동자 끼임 사망사고로 인해 SPC에 대한 비난 여론이 높아지고 있다. 현장 노동자들이 안전 문제를 제기했으나 회사에서 받아들여지지 않았다는 비판이 나왔기 때문이다. 2인1조 규칙도 지켜지지 않았다.</content:encoded>
     </item>
   </channel>
 </rss>
