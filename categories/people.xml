@@ -1,58 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>경향신문 - 인물</title>
-    <link>https://www.khan.co.kr/rss/rssdata/people_news.xml</link>
-    <description>경향신문 - 인물</description>
-    <lastBuildDate>2022-11-24T00:08:41.892Z</lastBuildDate>
-    <item>
-      <title>장애인공단·장애인체육회, 인사교류 업무협약 체결</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109113224604647</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109113224604647</guid>
-      <pubDate>2022-11-09T11:32:24.000Z</pubDate>
-      <content:encoded>한국장애인고용공단과 대한장애인체육회는 9일 대한장애인체육회 대회의실에서 양 기관 간 인사교류를 위한 업무협약(MOU)을 체결했다.이날 협약식에는 한국장애인고용공단 조향현 이사장, 대한장애인체육회 정진완 회장 등 주요 관계자들이 참석했다. 이번 협약은 양 기관의 업무 지식을 활용해 상승효과를 거두고자 마련된 것으로 대한장애인체육회에서는 장애인선수들의 일...</content:encoded>
-    </item>
-    <item>
-      <title>개발원·GKL, 2022년 발달장애 예술인 그림 공모전 시상식 성료</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109143013400986</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109143013400986</guid>
-      <pubDate>2022-11-09T14:30:13.000Z</pubDate>
-      <content:encoded>한국장애인개발원, 그랜드코리아레저(이GKL), ㈜디스에이블드(THISABLED)가 공동 주최한 2022년 발달장애 예술인 그림 공모전 ‘당신의 재능이 일자리가 됩니다’ 시상식이 9일 수상작가와 가족, 국민의힘 김예지 국회의원 등 50여 명이 참석한 가운데 t서울 여의도 켄싱턴호텔에서 열렸다.이번 공모전은 발달장애인 문화예술일자리 창출을 위해 공공과 민간기업이 협업해 발달...</content:encoded>
-    </item>
-    <item>
-      <title>중랑구발달장애인평생교육센터, ‘자.유.투’ 농구대회 개최</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109150322030079</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109150322030079</guid>
-      <pubDate>2022-11-09T15:03:22.000Z</pubDate>
-      <content:encoded>중랑구발달장애인평생교육센터가 오는 25일 정오부터 순복음노원교회 비전센터 내 강당에서 성인 발달장애인의 문화·여가선용을 위한 “자.유.투”(나(自)와 함께하는 너(you), With Together) 농구대회를 개최한다.이번 농구대회는 중랑구청의 2022년도 장애인 체육프로그램 지원 공모사업에 선정되어 사업비를 지원받았으며, 노원·동대문구발달장애인평생교육센터와 연합으...</content:encoded>
-    </item>
-    <item>
-      <title>‘2022 서울시 장애인정보화제전’ 시상식…15명 수상 영예</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109161706572250</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109161706572250</guid>
-      <pubDate>2022-11-09T16:16:31.000Z</pubDate>
-      <content:encoded>서울특별시 장애인정보화협회(협회장 백병수, 이하 협회)는 지난 5일 서울 강동구청 5층 강당에서 이수희 강동구청장, 조동탁 강동구의회 의장, 진선미·이해식 국회의원, 장태용 서울시의회의원, 최웅선 장애인개발원장직무대리, 최종길 경기도컬링경기연맹회장 등 참석한 가운데 ‘2022 서울특별시 장애인정보화제전’ 시상식을 개최했다. 협회는 매년 장애기능인 저변확대와...</content:encoded>
-    </item>
-    <item>
-      <title>경기지역 장애인 권익옹호·자립지원 맞손</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109174742666998</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221109174742666998</guid>
-      <pubDate>2022-11-09T17:47:20.000Z</pubDate>
-      <content:encoded>경기도장애인권익옹호기관(관장 송남영, 이하 경기옹호기관)이 9일 경기도장애인자립생활센터총연합회(연합회장 김용주)와 장애인의 권익옹호 및 자립지원을 위한 업무협약을 체결했다.협약 내용은 지역 내 장애인에 대한 학대 예방과 권익옹호 활동, 피해 장애인의 자립 지원 등을 위한 업무 협력이다.경기옹호기관은 “이번 협약을 통해 학대피해장애인의 사후 지원 활동에 ...</content:encoded>
-    </item>
-    <item>
-      <title>장애인식개선 ‘하트 투 하트 콘서트’ 16일 개최</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221110101255788425</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221110101255788425</guid>
-      <pubDate>2022-11-10T10:12:23.000Z</pubDate>
-      <content:encoded>하트-하트재단(회장 오지철)과 예술의전당(사장 장형준)이 공동 주최하는 &apos;하트 투 하트 콘서트(HEART to HEART CONCERT)가 오는 16일 예술의전당 콘서트홀에서 열린다.이번 콘서트에서는 20C 초 영국 작곡가 구스타보 홀스트 ‘모음곡 2번’과 차이코프스키 ‘현을 위한 세레나데’, 생상스 ‘서주와 론도 카프리치오소’, 푸치니오페라 잔니스키키 중 ‘오 사랑하는 나의 아...</content:encoded>
-    </item>
-    <item>
-      <title>서울 장애인 자립지원 역행, 약자 동행 어불성설</title>
-      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221110173902175037</link>
-      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221110173902175037</guid>
-      <pubDate>2022-11-10T17:48:46.000Z</pubDate>
-      <content:encoded>서울시장애인자립생활센터총연합회(이하 서자연)가 서울시가 앞으로는 ‘약자와의 동행’이라는 슬로건을 내세우고, 뒤로는 장애인 자립생활 복지 예산 삭감하고 사업 규모를 축소했다고 규탄했다.10일 오후 2시 서울특별시의회 앞에서 개최된 결의대회에 참여한 300여 명의 활동가는 서울시의 장애인 자립지원 예산 동결과 사업 규모 축소 방침을 규탄하며, 서울특별시의회에 ...</content:encoded>
-    </item>
+    <title>에이블뉴스 - 인물/단체</title>
+    <link>http://www.ablenews.co.kr/ablerss/RssNews.aspx?CategoryCode=0032</link>
+    <description>에이블뉴스 - 인물/단체</description>
+    <lastBuildDate>2022-11-25T00:09:56.084Z</lastBuildDate>
     <item>
       <title>장애인체육회, ‘KPC 국제청소년스포츠캠프’ 진행</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221111094315032651</link>
@@ -201,41 +152,6 @@
       <content:encoded>한국장애인단체총연맹(한국장총)은 16일 서울 이룸센터 회의실에서 국세청, 한국장애인단체총연합회와 ‘홈택스 업무협약’을 체결했다. 이번 업무협약은 장애인이 홈택스를 활용해 편리하게 세무 업무를 처리할 수 있도록 지원하기 위해 장애인단체와 처음으로 체결한 것으로, 실질적인 소통·협력 체계 구축으로 장애인의 어려움을 듣고 필요한 서비스를 적극 발굴하기 위해 ...</content:encoded>
     </item>
     <item>
-      <title>“월드컵은 세계평화의 장… 우크라戰 멈춰달라”</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116515492/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116515492/1</guid>
-      <pubDate>2022-11-17T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116515491.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“월드컵 기간만이라도 전쟁을 멈춰 달라.”   잔니 인판티노 국제축구연맹(FIFA) 회장(사진)이 세계 주요 20개국(G20) 정상회의에 참석해 이렇게 말했다.   인판티노 회장은 2022 카타르 월드컵 개막을 5일 앞둔 15일 인도네시아 발리에서 열린 G20 정상회의 첫날 오찬 회의에 참석해 “각국 정상인 여러분에게는 역사의 흐름을 바꿀 수 있는 힘이 있다”면서 이렇게 강조했다.   인판티노 회장은 “축구와 월드컵은 세계 평화와 통합의 장(플랫폼)이다. 그러니 이 기회를 활용해 갈등 종식에 도움이 될 수 있는 모든 시도를 하자”며 “축구가 세계의 어려운 문제를 해결해 줄 것이라 믿을 만큼 순진하지는 않다. 우리 기관의 주된 관심사가 스포츠라는 것도 안다. 다만 축구는 세계를 하나로 묶는다. 또 전 세계 50억 명이 보는 월드컵은 긍정적인 행동을 이끌어낼 계기가 될 수 있다”고 강조했다.   2018 월드컵 개최국인 러시아는 당시 대회에서 8강까지 진출했다. 그러나 우크라이나 침공 이후 FIFA가 개최하</content:encoded>
-    </item>
-    <item>
-      <title>‘서울트레일온런’ 성금 1억1000만원 푸르메재단에 기부</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116515487/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116515487/1</guid>
-      <pubDate>2022-11-17T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116515482.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;9월에 열린 2022 서울트레일온런(溫Run) 대회로 모은 성금 1억1000만 원이 푸르메재단에 기부됐다.   대회를 주최한 한국도시가스협회와 동아일보사는 16일 서울 종로구 푸르메재단 대회의실에서 열린 기부금 전달식에서 시민과 도시가스 회사 임직원 등 2500여 명의 대회 참가비로 모은 전액을 푸르메재단에 전달했다. 기부금은 발달장애 청년의 자립 사업에 쓰인다.    서울트레일온런은 전국 34개 도시가스 회사가 사회공헌기금을 조성해 만든 기부금 모금 대회로 지난해 시작돼 2년째 열렸다. 송재호 한국도시가스협회장은 “이 대회는 대한민국의 따뜻한 에너지를 나누는 출발점이 될 것이다. 발달장애 청년뿐 아니라 우리 주변의 소외된 이웃을 위해 협회와 도시가스 회원사가 시민 참여형 나눔 사업을 확대할 수 있도록 노력하겠다”고 말했다.임보미 기자 bom@donga.com</content:encoded>
-    </item>
-    <item>
-      <title>안영균 국제회계사연맹 이사 재선임</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116515465/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116515465/1</guid>
-      <pubDate>2022-11-17T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116515462.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국공인회계사회는 안영균 전 상근부회장(63·사진)이 15일(현지 시간) 인도 뭄바이에서 열린 국제회계사연맹(IFAC) 대표자 회의에서 국제회계사연맹 이사로 재선임됐다고 16일 밝혔다.</content:encoded>
-    </item>
-    <item>
-      <title>[인사]법무법인 대륙아주</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116515456/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116515456/1</guid>
-      <pubDate>2022-11-17T03:00:00.000Z</pubDate>
-      <content:encoded>◇법무법인 대륙아주 △전략홍보실장 정성윤</content:encoded>
-    </item>
-    <item>
-      <title>[부고]이종은 外</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116515450/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116515450/1</guid>
-      <pubDate>2022-11-17T03:00:00.000Z</pubDate>
-      <content:encoded>◇이종은 씨 별세·도영 KBS 제주방송총국장 관영 세경상사 대표 경자 씨 부친상·팽종술 두영상사 대표 장인상·김영진 씨 김영주 능인중 교사 시부상=16일 서울 여의도성모병원, 발인 18일 오전 11시 02-3779-1526   ◇서찬석 씨 별세·손학자 씨 남편상·정민 중앙SUNDAY 문화부장 정원 씨 부친상·임준택 전 무비위크 편집장 장인상=16일 서울대병원, 발인 18일 오전 11시 02-2072-2028</content:encoded>
-    </item>
-    <item>
       <title>DHL, 장애아동 위해 ‘재활 치료용 장난감’ 기증</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221117090647864131</link>
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221117090647864131</guid>
@@ -248,20 +164,6 @@
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221117114129802433</guid>
       <pubDate>2022-11-17T11:22:29.000Z</pubDate>
       <content:encoded>서울시장애인직업재활시설협회가 지난 15일 서울 용산구 동자아트홀에서 “2022년 제1회 서울특별시 1030 장애인직업재활의 날 기념식 및 비전선포식”을 개최했다.장애인직업재활의 날은 “일이 없으면 삶도 없다”는 “1030”의 슬로건을 기반으로 2009년부터 매년 10월 30일을 지정해 기념하고 있다.이번 행사에는 서울시장애인직업재활시설협회 김영환 회장의 개회사를 시...</content:encoded>
-    </item>
-    <item>
-      <title>마라도나 ‘신의 손’ 축구공 31억 원에 낙찰</title>
-      <link>https://www.donga.com/news/Sports/article/all/20221117/116525844/1</link>
-      <guid>https://www.donga.com/news/Sports/article/all/20221117/116525844/1</guid>
-      <pubDate>2022-11-17T13:45:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116525841.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;1986년 멕시코 월드컵  때 디에고 마라도나(아르헨티나)가 손으로 공을 쳐 골으며 ‘신의 손’  논란을 일으켰던 축구공이 경매에서 수십억 원에 낙찰됐다.17일 AFP에 따르면 이날 영국 런던의 그레이엄 버드 옥션 하우스에서 진행된 경매에서 ‘신의 손’ 축구공이 200만 파운드(약 31억8000만 원)에 팔렸다.  이 공은 당시 월드컵의 공인구인 아디다스 ‘아즈테카’다. 1986년 멕시코 월드컵의 아르헨티나와 잉글랜드의 8강전에서 마라도나는 손으로 골을 넣었지만 주심이 이를 보지 못했고, 득점으로 인정됐다. 당시는 공을 여러 개 사용하지 않고 한 개만이 90분 경기 내내 쓰였다.  이 축구공은 당시 8강 전 주심을 맡았던 튀니지의 알리 빈 나세르 전 심판이 36년간 소유하고 있다가 경매에 내놓았다. 빈 나세르 전 심판은 “이 공을 세계인과 공유할 적절한 시기가 왔다고 생각했다. 구매자가 대중을 위해 전시하기를 바란다”고</content:encoded>
-    </item>
-    <item>
-      <title>[전합니다]보성언론인상에 이재환 KBS 기자… 전진우 성하운 前 동아일보 기자 공로상</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116527155/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116527155/1</guid>
-      <pubDate>2022-11-17T14:16:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116527153.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;보성고등학교교우회(회장 한상대)와 보성언론인회(회장 배영대)는 16일 오후 한국프레스센터에서 보성언론인회 정기총회를 열고 이재환 KBS 기자에게 제6회 보성언론인상을 수여했다고 17일 밝혔다.  또 전진우 전 동아일보 대기자와 성하운 전 동아일보 부장에게 공로상을 수여했다.</content:encoded>
     </item>
     <item>
       <title>SOK, ‘2022 유아체육교실’ 운영기관 7개소 선정</title>
@@ -297,27 +199,6 @@
       <guid>https://www.donga.com/news/People/article/all/20221117/116537226/1</guid>
       <pubDate>2022-11-18T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116537222.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한문화재단과 스포츠동아가 주최한 ‘2022 태권도 영상 공모전’ 시상식이 17일 서울 성북구 고려대 백주년기념삼성관에서 열렸다.   ‘생활 속 살아 숨쉬는 국기(國技) 태권도’를 주제로 한 이번 공모전에서는 ‘JUST KICK IT-아직 끝나지 않은 이야기’를 제작한 김광수 씨(가온태권도)가 대상을 받았다. 작품은 북한산, 광화문 등 국내 명소를 배경으로 태권도 동작을 담았다.  이날 시상식에서는 선정작 20편에 총상금 3050만 원이 수여됐다. 베트남, 인도, 인도네시아, 캄보디아 등 4개국 참가자도 수상했다.</content:encoded>
-    </item>
-    <item>
-      <title>희소질환 수험생, 수액 꽂고 병실서 ‘응시 투혼’</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116537216/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116537216/1</guid>
-      <pubDate>2022-11-18T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116537214.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“많이 긴장했지만 그럭저럭 시험을 치른 것 같아 다행이에요.” 17일 부산 서구 고신대병원 병실에서 2023학년도 대학수학능력시험을 치른 김태연 양(18)은 동아일보 기자와의 통화에서 “앞으로도 꿈을 향해 최선을 다할 것”이라며 이같이 말했다. 김 양은 세 살 때 ‘장쇄 수산화 아실코에이 탈수소효소 결핍증(LCHADD)’ 진단을 받고 15년 동안 투병 중이다. LCHADD 환자는 지방산 분해 효소가 없어 적은 활동만으로도 근육이 쉽게 망가질 수 있다. 국내 환자가 10명 미만인 희소 질병인데, 치료제는 아직 개발되지 않았다. 김 양은 현재 치료제 개발을 위한 임상시험에 참여 중이다. 병 때문에 김 양은 어린 시절부터 외부 활동을 거의 하지 못했다. 걷다가 쓰러져 응급실에 실려가 1주일 넘게 입원한 횟수만 100번 이상이었다. 초등학교 5학년 때부터는 아예 휠체어를 타고 등교했다. 중학생 때 2시간여 동안 소묘 실습을 하다 쓰러진 뒤로는 미술학도의 꿈을 접었다. 어머니 김인영 씨(45</content:encoded>
-    </item>
-    <item>
-      <title>마라도나 ‘신의 손’ 축구공 32억원 낙찰</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116537211/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116537211/1</guid>
-      <pubDate>2022-11-18T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116530021.9.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;디에고 마라도나(1960∼2020·아르헨티나)에게 ‘신의 손’이라는 별명을 붙여준 축구공이 32억 원에 팔렸다. 17일 영국 런던에 있는 ‘그레이엄 버드 옥션 하우스’에 따르면 ‘국제축구연맹(FIFA) 월드컵 스페셜’로 진행한 이날 경매에서 1986년 멕시코 월드컵 8강 아르헨티나-잉글랜드 경기 때 사용한 대회 공인구 ‘아즈테카’가 200만 파운드(약 32억 원)에 새 주인을 찾았다. 지금과 달리 당시에는 공 하나로만 경기를 진행했다. 마라도나는 0-0으로 맞서던 이 경기 후반 6분 잉글랜드 골키퍼 피터 실턴(73)과 공중볼 경합을 벌이는 과정에서 왼쪽 주먹으로 공을 쳐서 골대에 넣었다. 경기 후 ‘핸드볼 반칙이 아니냐’는 지적이 이어지자 마라도나는 “‘신의 손’의 도움을 일부 받아 마라도나가 머리로 넣은 골”이라고 말했다. 아르헨티나는 이 경기에서 잉글랜드를 2-1로 물리치고 4강에 오른 뒤 결국 정상까지 밟았다. 아디다스에서 만든 이 공은 당시 주심을 맡았던 알리 빈 나세르 심판</content:encoded>
-    </item>
-    <item>
-      <title>머스크 “고강도 업무 싫다면 트위터 떠나라”</title>
-      <link>https://www.donga.com/news/People/article/all/20221117/116537204/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20221117/116537204/1</guid>
-      <pubDate>2022-11-18T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/17/116537202.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“돌이킬 수 없는 선택의 갈림길(A fork in the road).” 16일(현지 시간) 오전 소셜네트워크서비스(SNS) 트위터 직원들은 이런 제목의 사내 이메일 한 통을 받았다. 발신인은 지난달 27일 트위터 인수를 마친 일론 머스크 테슬라 최고경영자(CEO). 이날 머스크는 직원들에게 “고강도 업무를 받아들이지 않을 거면 회사를 나가라”고 일방 통보했다고 미국 뉴욕타임스(NYT) 등이 전했다. NYT 등이 입수한 해당 이메일에 따르면 머스크는 “점점 더 경쟁이 치열해지는 사회에서 우리는 극도로 강해져야 한다. 이는 높은 강도로 장기간 일하는 것을 의미한다”고 밝혔다. 이어 “오직 뛰어난 업무 실적을 내는 사람만이 합격점을 받게 될 것”이라며 직원들을 압박했다.  머스크는 직원들에게 혹독한 조건을 감수하면서 회사에 남을 것인지를 묻는 이메일을 보내면서 답신 기한을 다음 날인 17일 오후 5시로 정한 것으로 알려졌다. ‘새로운 트위터의 일원이 되고 싶다’는 내용의 링크를 열어보지</content:encoded>
     </item>
     <item>
       <title>청각장애학생 체계적인 해양환경 교육 지원 맞손</title>
@@ -635,28 +516,6 @@
       <content:encoded>한국뇌전증협회(회장 김흥동)는 지난 21일 대전광역시 소재 행복한우리복지관(관장 김지희) 종사자들을 대상으로 ‘뇌전증 약물 부작용 및 위급상황 발생 시 대처방안 교육’을 진행했다.행복한우리복지관은 기독교 정신을 바탕으로 장애인들의 욕구충족과 사회적 기능회복을 통한 삶의 질 향상을 목표로 상담, 치료, 평생교육 등 다양한 활동을 하고 있는 장애인복지 전문기관...</content:encoded>
     </item>
     <item>
-      <title>필리핀 선생님에게 전통춤 배우고, 말레이시아 아이들과 원격토론···다문화 교육교류사업 10년</title>
-      <link>https://www.khan.co.kr/people/people-general/article/202211231453001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
-      <guid>https://www.khan.co.kr/people/people-general/article/202211231453001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
-      <pubDate>2022-11-23T14:53:00.000Z</pubDate>
-      <content:encoded>
-        다문화가정 국가와의 교육 교류사업 교류현황. 유네스코 아시아태평양 국제이해교육원 제공&lt;br /&gt;
-        &lt;br /&gt;
-        “다문화 학생 비율이 많은 학교에 근무하면서 자연스럽게 다문화 교육에 관심을 두게 되었고 필리핀 파견에 지원했죠. 그···
-      </content:encoded>
-    </item>
-    <item>
-      <title>스티븐스 전 주미대사 ‘제1회 백범상’ 수상···“김구 정신 확산토록 노력해야”</title>
-      <link>https://www.khan.co.kr/people/people-general/article/202211231502001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
-      <guid>https://www.khan.co.kr/people/people-general/article/202211231502001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
-      <pubDate>2022-11-23T15:02:00.000Z</pubDate>
-      <content:encoded>
-        캐슬린 스티븐스 전 주한미국대사가 23일 오전 서울 용산구 백범김구기념관에서 열린 제1회 백범상 시상식에서 수상 소감을 밝히고 있다. |연합뉴스&lt;br /&gt;
-        &lt;br /&gt;
-        백범김구선생기념사업회와 백범김구기념관은 23일 오전 서울 용산···
-      </content:encoded>
-    </item>
-    <item>
       <title>베리어프리네트워크 팀, ‘장애인 인식개선 공모전’ 대상</title>
       <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221123155918960665</link>
       <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221123155918960665</guid>
@@ -678,64 +537,7 @@
       <content:encoded>한국장애인개발원 임원추천위원회가 내달 7일까지 ‘한국장애인개발원 원장 후보자’를 공개모집한다.응모자격은 석사학위 이하인 경우 공무원 또는 민간 근무·연구경력이 13년 이상이며 관련 분야 근무·연구경력이 6년 이상인 사람이다.박사학위 소지자는 공무원 또는 민간 근무·연구경력이 10년 이상이며 관련분야의 근무·연구경력 6년 이상을 충족해야 한다.지원자 중 ...</content:encoded>
     </item>
     <item>
-      <title>광주 송정동초 안봉선 교사 “다문화가정 국가와 교육 교류로 새로운 눈을 떠”</title>
-      <link>https://www.khan.co.kr/people/people-general/article/202211232155015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
-      <guid>https://www.khan.co.kr/people/people-general/article/202211232155015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
-      <pubDate>2022-11-23T21:55:01.000Z</pubDate>
-      <content:encoded>
-        필리핀·캄보디아에서 파견 근무&lt;br /&gt;
-        사업 시행 10년, 상호 이해 넓혀&lt;br /&gt;
-        짧은 시간이었지만 다양한 경험&lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        “다문화 학생 비율이 많은 학교에 근무하면서 자연스럽게 다문화 교육에 관심을 두게 되었고 필리핀 파견···
-      </content:encoded>
-    </item>
-    <item>
-      <title>스티븐스 전 주미대사 ‘제1회 백범상’ 수상</title>
-      <link>https://www.khan.co.kr/people/news/article/202211232155025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
-      <guid>https://www.khan.co.kr/people/news/article/202211232155025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
-      <pubDate>2022-11-23T21:55:02.000Z</pubDate>
-      <content:encoded>
-        “김구 정신 확산되도록 노력을”&lt;br /&gt;
-        &lt;br /&gt;
-        캐슬린 스티븐스 전 주한 미국대사가 23일 백범김구기념관에서 열린 제1회 백범상 시상식에서 수상한 뒤 소감을 밝히고 있다. 연합뉴스&lt;br /&gt;
-        &lt;br /&gt;
-        백범김구선생기념사업회와 백범김구기···
-      </content:encoded>
-    </item>
-    <item>
-      <title>‘올해의 여성과학기술인’에 최희정·임석희·조은정</title>
-      <link>https://www.khan.co.kr/people/news/article/202211232155035/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
-      <guid>https://www.khan.co.kr/people/news/article/202211232155035/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
-      <pubDate>2022-11-23T21:55:03.000Z</pubDate>
-      <content:encoded>
-        최희정, 임석희, 조은정&lt;br /&gt;
-        &lt;br /&gt;
-        한국여성과학기술인육성재단과 과학기술정보통신부는 23일 한국과학기술회관에서 ‘2022 여성과학기술인연차대회’를 열고 과학기술 발전에 공헌한 여성과학기술인에게 포상했다고 23일 밝···
-      </content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사 - 2022년 11월 24일</title>
-      <link>https://www.khan.co.kr/people/personnel_shift/article/202211232155045/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
-      <guid>https://www.khan.co.kr/people/personnel_shift/article/202211232155045/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
-      <pubDate>2022-11-23T21:55:04.000Z</pubDate>
-      <content:encoded>
-        ■환경부 ◇개방형직위 임용(국장급) △국립환경과학원 환경건강연구부장 신선경&lt;br /&gt;
-        &lt;br /&gt;
-        ■LG화학 ◇사장 승진 △차동석 ◇부사장 승진 △이향목 ◇전무 승진 △선우지홍 송병근 이화영 김동춘 최영민 박희술 ◇상무 신규···
-      </content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고 - 2022년 11월 24일</title>
-      <link>https://www.khan.co.kr/people/obituary/article/202211232155055/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
-      <guid>https://www.khan.co.kr/people/obituary/article/202211232155055/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
-      <pubDate>2022-11-23T21:55:05.000Z</pubDate>
-      <content:encoded>■김부선씨 별세, 김태우 TBC 기자·주철 KOTRA 중국 광저우무역관장 모친상, 최기연 전 경북도 농업기술원장 장모상=23일 오전 3시18분 경북대병원. 발인 25일 오전 10시 (053)200-6141</content:encoded>
-    </item>
-    <item>
-      <title>노숙-학대받던 한국계 여성, 美네바다주 대법관 됐다</title>
+      <title>美 네바다주 대법관에 첫 한국계 퍼트리샤 리 임명 “노숙-학대 역경이 날 단단하게 만들었다”</title>
       <link>https://www.donga.com/news/People/article/all/20221124/116654174/1</link>
       <guid>https://www.donga.com/news/People/article/all/20221124/116654174/1</guid>
       <pubDate>2022-11-24T03:00:00.000Z</pubDate>
@@ -810,6 +612,165 @@
         &lt;br /&gt;
         전북대 총장임용추천위원회는 24일 전날 열린 전북대 총장···
       </content:encoded>
+    </item>
+    <item>
+      <title>[부고]정초뢰 별세…구본선 전 대검찰청 차장검사 장모상</title>
+      <link>https://www.donga.com/news/People/article/all/20221124/116660776/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221124/116660776/1</guid>
+      <pubDate>2022-11-24T10:41:00.000Z</pubDate>
+      <content:encoded>◇정초뢰 씨 별세·김수연 씨 정아 YTN 앵커팀 부국장대우 모친상·한상철 국원 법무법인 대표변호사 구본선 전 대검찰청 차장검사 장모상=24일 7시 서울삼성병원, 발인 26일 02-3410-3151</content:encoded>
+    </item>
+    <item>
+      <title>[전합니다]‘경기도 ODA 성과공유회’ 이달 29일 개최</title>
+      <link>https://www.donga.com/news/People/article/all/20221124/116671773/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221124/116671773/1</guid>
+      <pubDate>2022-11-24T17:45:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/24/116671748.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국유엔체제학회(회장 이신화)와 숙명여자대학교 글로벌거버넌스연구소(소장 최동주)는 경기도 ODA(공적개발원조) 역량강화 사업의 일환으로 ‘경기도 ODA 성과공유회’ 오는 29일 14시 경기 콘텐츠코리아 랩 별똥별에서 공동 개최한다.   이 행사는 올 한 해 동안 수행된 경기도형 평화 ODA 사업의 성과를 확산하고 국제개발협력 노력에 대한 도내외의 인식을 제고하기 위해 마련되었다. 총 4부로 진행되는 행사는 현장과 함께 유튜브로도 생중계할 예정이다.   행사 세부 일정과 참가 신청은 한국유엔체제학회 및 숙명여대 글로벌거버넌스연구소 홈페이지와 경기도 국제협력 얼라이언스 페이스북 그룹 등을 통해 확인할 수 있다.</content:encoded>
+    </item>
+    <item>
+      <title>미국 캘리포니아주 계관시인에 한국계 입양아 출신 헤릭 리 지명</title>
+      <link>https://www.khan.co.kr/people/people-general/article/202211242237005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
+      <guid>https://www.khan.co.kr/people/people-general/article/202211242237005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
+      <pubDate>2022-11-24T22:37:00.000Z</pubDate>
+      <content:encoded>
+        헤릭 리 프레즈노 시티칼리지 교수(52·사진)가 한국인 최초로 미국 캘리포니아주 제10대 계관시인에 지명됐다. &lt;br /&gt;
+        &lt;br /&gt;
+        주를 대표하는 계관시인은 2년간 시 관련 교육 활동과 주 정부 행사를 위해 시를 짓는 역할을 한다···
+      </content:encoded>
+    </item>
+    <item>
+      <title>BTS 진, 내달 13일 멤버 중 첫 입대</title>
+      <link>https://www.khan.co.kr/people/people-general/article/202211242237025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
+      <guid>https://www.khan.co.kr/people/people-general/article/202211242237025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
+      <pubDate>2022-11-24T22:37:02.000Z</pubDate>
+      <content:encoded>
+        아이돌그룹 방탄소년단(BTS)의 맏형 진(김석진·사진)이 전방 육군 사단 신병교육대로 입영한다.&lt;br /&gt;
+        &lt;br /&gt;
+        군 관계자에 따르면 진은 내달 13일 경기 연천 모 부대의 신병교육대에 입대할 예정이다. 5주 훈련을 받은 뒤 일선···
+      </content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사 - 2022년 11월 25일</title>
+      <link>https://www.khan.co.kr/people/personnel_shift/article/202211242237045/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
+      <guid>https://www.khan.co.kr/people/personnel_shift/article/202211242237045/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
+      <pubDate>2022-11-24T22:37:04.000Z</pubDate>
+      <content:encoded>■LG그룹 &amp;lt;㈜LG&amp;gt; ◇전무 승진 △재경팀장 이남준 △비서팀장 최호진 ◇이동 △통신서비스팀장(상무) 윤창병 &amp;lt;D&amp;amp;O&amp;gt; ◇상무 선임 △손현수 이영호 &amp;lt;지투알&amp;gt; ◇CEO 선임 및 부사장 승진 △박애리···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고 - 2022년 11월 25일</title>
+      <link>https://www.khan.co.kr/people/obituary/article/202211242237055/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</link>
+      <guid>https://www.khan.co.kr/people/obituary/article/202211242237055/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=people_news</guid>
+      <pubDate>2022-11-24T22:37:05.000Z</pubDate>
+      <content:encoded>
+        ■서진석씨 별세, 동욱 넥스트엔터테인먼트월드 부사장·동일 프린팅프로 대표 부친상=24일 이대서울병원. 발인 26일 오전 6시30분 (02)6986-4440&lt;br /&gt;
+        &lt;br /&gt;
+        ■강우석씨 별세, 구태 희망정형외과 병원장·구영 KAI 대표이사···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[부고]김춘자 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20221125/116677735/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221125/116677735/1</guid>
+      <pubDate>2022-11-25T03:00:00.000Z</pubDate>
+      <content:encoded>◇김춘자 씨 별세·이희영 씨(전 농협중앙회 근무) 부인상·정근 건국대병원 영상의학과 교수 상근 오피스디포 코리아 이사 주미 씨 모친상·전승근 AXA손해보험 상무 장모상·서현령 최소연 씨 시모상=23일 서울 건국대병원, 발인 26일 오전 6시 02-2030-7901   ◇나금자 씨 별세·전성철 SK케미칼 커뮤니케이션 담당 성준 준디앤피 대표 모친상·이주영 전 로제타시네마 마케팅팀장 이지연 푸른숲어린이집 원장 시모상=24일 서울 세브란스병원, 발인 26일 오전 7시 20분 02-2227-7547   ◇정초뢰 씨 별세·김수연 씨 정아 YTN 앵커팀 부국장대우 모친상·한상철 국원 법무법인 대표 변호사 구본선 전 대검 차장검사 장모상=24일 서울삼성병원, 발인 26일 오전 11시 30분 02-3410-3151</content:encoded>
+    </item>
+    <item>
+      <title>[부고]‘태극기 전문가’ 한철호 교수</title>
+      <link>https://www.donga.com/news/People/article/all/20221125/116677723/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221125/116677723/1</guid>
+      <pubDate>2022-11-25T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/25/116677721.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;태극기 연구 전문가로 꼽히는 한철호 동국대 역사교육과 교수(사진)가 췌장암으로 투병하다 24일 별세했다. 향년 63세. 고려대 사학과를 졸업하고 한림대에서 박사학위를 받은 고인은 2008년 논문을 통해 이른바 ‘박영효 태극기’가 가장 오래된 태극기라고 주장했다. 이 태극기는 박영효(1861∼1939)가 1882년 9월 수신사(修信使)로 일본에 가던 도중 선상에서 그린 태극기다. 한국근현대사학회장, 역사학회 편집이사를 지냈다. 유족으로 부인 황예순 씨와 아들 창우 씨, 며느리 감수란 씨가 있다. 빈소는 경기 고양시 동국대일산병원, 발인은 26일 오전 5시 반. 031-961-9401</content:encoded>
+    </item>
+    <item>
+      <title>[인사]문화체육관광부</title>
+      <link>https://www.donga.com/news/People/article/all/20221125/116677715/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221125/116677715/1</guid>
+      <pubDate>2022-11-25T03:00:00.000Z</pubDate>
+      <content:encoded>◇문화체육관광부 ▽과장급 △국립중앙극장 서기관 김진희 △국립아시아문화전당 〃 최학수</content:encoded>
+    </item>
+    <item>
+      <title>숭실대 이사장 오정현 목사</title>
+      <link>https://www.donga.com/news/People/article/all/20221125/116677709/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221125/116677709/1</guid>
+      <pubDate>2022-11-25T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/25/116677699.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;학교법인 숭실대의 제24대 이사장에 오정현 사랑의교회 담임목사(66·사진)가 24일 선임됐다. 오 신임 이사장은 한국교회봉사단 이사장과 국제제자훈련원 원장, 한중국제교류재단 대표회장 등도 맡고 있다. 취임식은 다음 달 21일 서울 동작구 숭실대에서 열린다.</content:encoded>
+    </item>
+    <item>
+      <title>BTS 진 내달 13일 입대… 연천 신병교육대서 훈련</title>
+      <link>https://www.donga.com/news/People/article/all/20221125/116677694/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221125/116677694/1</guid>
+      <pubDate>2022-11-25T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/25/116677691.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 방탄소년단(BTS) 멤버 중 맏형인 진(30·본명 김석진·사진)이 다음 달 13일 경기 연천의 육군 모 사단 신병교육대로 입대한다. 진은 신교대에서 5주간 기초 군사훈련을 받은 뒤 일선 부대로 배치될 예정이다. 앞서 13일 팬 커뮤니티 위버스를 통해 최전방 부대 입영 계획을 공개한 진은 24일에도 위버스를 통해 “우리 아미(방탄소년단 팬) 여러분들 훈련소 오면 안 된다”며 “저 외에 많은 사람도 오니 혼잡해서 위험할 수도 있다”는 글을 올렸다. 진은 지난달 부산 단독 콘서트 이후 입대 계획을 밝힌 뒤 아르헨티나 부에노스아이레스에서 영국 밴드 콜드플레이와 싱글 ‘The Astronaut’ 공연 무대를 갖고 귀국해 입영 연기 취소원을 제출한 바 있다.</content:encoded>
+    </item>
+    <item>
+      <title>박찬욱 감독-故강수연 배우 은관문화훈장</title>
+      <link>https://www.donga.com/news/People/article/all/20221125/116677673/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221125/116677673/1</guid>
+      <pubDate>2022-11-25T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/25/116677671.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;영화감독 박찬욱(59)과 배우 강수연(1966∼2022)이 은관문화훈장을 받았다. 문화체육관광부는 24일 서울 중구 국립극장에서 ‘2022 대한민국 대중문화예술상’ 시상식을 열고 훈장을 수여했다. 보관문화훈장은 배우 송강호, 드라마 ‘아들과 딸’ 등을 집필한 작가 박진숙, 작가 허영만이 받았다.  성우 홍승옥, 연주자 변성용, 배우 김윤석, 가수 김현철, 작가 박해영, 음악감독 고(故) 방준석 등 6명이 대통령 표창을 받았다. 국무총리 표창은 배우 이성민, 가수 장필순, 희극인 박명수, 그룹 자우림, 감독 연상호, 제작자 김지연, 가수 지코, 작가 김보통에게 돌아갔다. 성우 김영선, 뮤지컬 배우 김선영, 제작자 한승원, 배우 전미도, 희극인 홍현희, 안무가 아이키, 가수 폴킴, 그룹 투모로우바이투게더, 에스파는 문체부 장관 표창을 받았다.</content:encoded>
+    </item>
+    <item>
+      <title>기상청 퇴직 직원, 기상청에 5억 장학금 기부</title>
+      <link>https://www.donga.com/news/People/article/all/20221125/116677665/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221125/116677665/1</guid>
+      <pubDate>2022-11-25T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/25/116673245.7.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기상청에서 32년 동안 근무하면서 ‘첫 여성 사무관’과 ‘첫 여성 과장’을 역임했던 퇴직 직원 김혜정 씨(75)가 평생 모은 돈을 후배 직원들의 자녀 장학금으로 쾌척했다. 퇴직 직원이 기상청에 장학기금을 기부한 것은 이번이 처음이다. 기상청은 1998년 퇴직한 김 씨가 기상청 직원 자녀들의 장학 기금으로 5억 원을 기부했다고 24일 밝혔다. 1947년생인 김 씨는 기상청 내 ‘여성 1호’ 타이틀을 여럿 지니고 있는 인물이다. 김 씨는 명지대를 다니다가 1966년 기상청의 전신인 중앙관상대에 입사했다. 이후 중앙관상대 기상연구소 종관기상연구부, 중앙기상대 응용기상국 기후자료과, 기상청 예보국 예보관리과를 거쳤다. 1996년 강릉지방기상청으로 파견돼 기후과장을 맡았다. 1998년 32년간의 기상청 근무를 마치고 명예 퇴직했다. 현재는 한국기상전문인협회 이사를 맡고 있다. 1998년 근정포장, 1989년 국무총리 표창을 수상했다. 김 씨는 “지금의 내가 있는 것은 기상청 덕분”이라며 “퇴</content:encoded>
+    </item>
+    <item>
+      <title>‘이순신의 최후’ 담긴 류성룡 일기 日서 귀환</title>
+      <link>https://www.donga.com/news/People/article/all/20221125/116677649/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20221125/116677649/1</guid>
+      <pubDate>2022-11-25T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2022/11/25/116665497.9.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“전쟁하는 날에 직접 시석(矢石·화살과 돌)을 무릅쓰자, 부장(副將)들이 진두지휘하는 것을 만류하며 말하기를 ‘대장께서 스스로 가벼이 하시면 안 됩니다.…’라고 하였다. (그러나 듣지 않고) 직접 출전해 전쟁을 독려하다가 이윽고 날아온 탄환을 맞고 전사하였다. 아아!” 서애 류성룡(1542∼1607)이 1600년 쓴 것으로 추정되는 ‘조선시대 다이어리’ 격인 류성룡비망기입대통력―경자(柳成龍備忘記入大統曆―庚子)가 일본에서 고국으로 돌아왔다. 국내에선 전해지지 않았던 사료인 데다 충무공 이순신 장군(1545∼1598)이 노량해전에서 순국한 순간을 묘사한 기록까지 있어 국가지정문화재 보물급 이상의 가치를 지녔다는 평가도 나온다.  문화재청은 24일 서울 종로구 국립고궁박물관에서 “영의정까지 올랐던 문신 류성룡의 소장품으로 보이는 경자년(1600년) 대통력을 9월 일본에서 환수했다”며 유물을 처음 공개했다. 대통력이란 날짜와 절기 등에 따라 일정이나 감상을 정리한 책으로 오늘날로 치면 다이</content:encoded>
+    </item>
+    <item>
+      <title>‘2023년 민간위탁훈련기관 제과제빵’ 교육생 모집</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125084158880562</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125084158880562</guid>
+      <pubDate>2022-11-25T08:00:31.000Z</pubDate>
+      <content:encoded>한국제과직업전문학교가 오는 12월 26일까지 ‘2023년 민간위탁훈련기관 제과제빵 교육’ 교육생을 모집한다.이번 교육은 한국장애인고용공단 지원 직업능력개발훈련과정으로, 장애인을 대상으로 장애 유형과 특성을 고려한 전문적인 제과제빵 교육을 실시해 외식분야 취업을 목표로 한다.지원자격은 만 18세 이상 만 69세 미만의 복지카드를 소지한 등록 장애인으로, 교육수료...</content:encoded>
+    </item>
+    <item>
+      <title>‘서울시보건소 CBR 담당자 역량 강화’ 교육 실시</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125083641108004</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125083641108004</guid>
+      <pubDate>2022-11-25T08:00:43.000Z</pubDate>
+      <content:encoded>서울특별시북부지역장애인보건의료센터는 지난 23일 서울특별시(시민건강국)와 서울특별시남부지역장애인보건의료센터와 함께 ‘서울특별시 보건소 CBR 담당자 역량 강화 교육’을 개최했다.이날 교육은 서울시 관내 24개 구 보건소 지역사회중심재활사업(CBR) 담당자 70여 명을 대상으로 ‘퇴원 장애인의 건강지원’을 교육했다.보건소 지역사회중심재활사업은 ‘장애인 건강...</content:encoded>
+    </item>
+    <item>
+      <title>2022년 자립생활페스티벌 ‘스무살의 자립일기’ 개최</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125084157648160</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125084157648160</guid>
+      <pubDate>2022-11-25T08:00:57.000Z</pubDate>
+      <content:encoded>사단법인 장애와사회가 오는 12월 2일 오후 2시 제30회 세계장애인의날을 기념해 2022년 자립생활페스티벌 ‘스무살의 자립일기’를 개최한다.장애와사회를 비롯해 사람중심장애인자립생활센터, 사람사랑양천장애인자립생활센터, 양천구장애인권교육센터가 함께 공동 주관하는 이번 행사는 양천구 지역사회 장애운동 20주년을 맞이해 자립생활 성과를 나누고 이념을 확산하고자...</content:encoded>
+    </item>
+    <item>
+      <title>실로암시각장복, 네팔 장애인 위한 ‘경제적 자립지원사업’ 실시</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125085026599054</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125085026599054</guid>
+      <pubDate>2022-11-25T08:07:48.000Z</pubDate>
+      <content:encoded>실로암시각장애인복지관(관장 김미경)은 서울시 지원을 받아 개발도상국 내 장애인자립지원을 위한 노력의 일환으로 네팔 장애인 경제적 자립사업과 라오스 안 보건 역량강화사업을 실시했다고 25일 밝혔다.네팔 장애인 축산창업지원사업은 2017년 시작돼 카트만두, 포카라, 자파 등 다양한 지역에 네팔 장애인들의 경제활동과 소득증가를 목표로 진행되고 있으며, 축산기술을 ...</content:encoded>
+    </item>
+    <item>
+      <title>‘유니버설디자인 아이디어 공모전’ 25개 작품 수상</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125081521952557</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125081521952557</guid>
+      <pubDate>2022-11-25T08:15:21.000Z</pubDate>
+      <content:encoded>한국장애인개발원이 지난 23일 오후 서울 양재 aT 센터 5층 그랜드홀에서 ‘제4회 유니버설디자인 아이디어 대전 시상식’을 개최했다. 사회적 거리두기 해제 후 처음으로 대면 진행된 이날 시상식에서는 건축 분야, 관광 분야, 제품 분야의 각 대상 수상작 등 입상작 총 25개 작품에 대해 상장과 부상을 전달했다. 이에 앞서 개발원은 성별, 연령, 국적, 문화적 배경, 장애 등...</content:encoded>
+    </item>
+    <item>
+      <title>대한장애인체육회, ‘기관상징’ 리뉴얼 발표</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125083424654564</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125083424654564</guid>
+      <pubDate>2022-11-25T08:33:39.000Z</pubDate>
+      <content:encoded>대한장애인체육회(회장 정진완)가 지난 24일 창립 17주년을 맞아 리뉴얼 된 기관상징(Committee Identity, 이하 CI)을 발표했다.이번 리뉴얼된 CI는 장애인스포츠 문화의 중심이라는 비전과 핵심가치를 담아 시대 감각에 맞게 이미지를 개선했고, 변경된 국제패럴림픽위원회(IPC) 엠블럼 아지토스를 적용했다.또한 CI 상단의 태극디자인은 시‧도지회 및 시‧군‧구 장애인체육...</content:encoded>
+    </item>
+    <item>
+      <title>발달장애인 5명, 신직무 ‘진로 코디네이터’ 첫발</title>
+      <link>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125083524106268</link>
+      <guid>http://www.ablenews.co.kr/News/NewsContent.aspx?CategoryCode=0034&amp;NewsCode=003420221125083524106268</guid>
+      <pubDate>2022-11-25T08:47:20.000Z</pubDate>
+      <content:encoded>꿈앤컴퍼니는 발달장애인 신직무 개발을 위해 진행된 ‘진로 코디네이터’ 과정에 참여한 5명의 발달장애인이 새로운 도전의 첫발을 내디뎠다고 25일 밝혔다.대학생활, 직장생활, 바리스타, 제과제빵, 환경미화, 사무직종, 아이돌보미, 미술분야 쪽의 다양한 경험을 가진 발달장애인들이 진로 코디네이터 양성과정에 참여했으며, 이들은 다양한 경험을 바탕으로 발달장애인과 ...</content:encoded>
     </item>
   </channel>
 </rss>
