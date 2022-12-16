@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>미디어오늘 - 문화</title>
-    <link>https://www.mediatoday.co.kr/rss/S1N5.xml</link>
-    <description>미디어오늘 - 문화</description>
-    <lastBuildDate>2022-12-15T00:09:07.877Z</lastBuildDate>
+    <title>미디어오늘 - 전체기사</title>
+    <link>https://www.mediatoday.co.kr/rss/allArticle.xml</link>
+    <description>미디어오늘 - 전체기사</description>
+    <lastBuildDate>2022-12-16T00:08:40.814Z</lastBuildDate>
     <item>
       <title>[이유진의 베를린 노트] 재난 현장에서 웃었던 독일 총리 후보자의 결말</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=305384</link>
@@ -208,20 +208,6 @@
       <content:encoded>서울시 ‘안전 예산’ 관련 논쟁이 벌어지고 있다. 필자가 일하는 나라살림연구소가 서울시 실질 안전예산은 2020년부터 2022년 사이에 6.2% 감액되었다는 11월2일 보고서가 시작이다. 서울시는 당일(11월2일) 해명자료를 통해 서울시 안전 예산은 오히려 5.6% 증가했다는 해명자료를 내놨다.나라살림연구소는 11월 3일 안전 예산이 5.6% 증가했다는 서울시의 해명은 통계적 착시와 오기에 따른 잘못된 해명이라고 반박했다. 서울시는 11월 3일 재해명 자료를 통해 나라살림연구소는 지출이 완료되지 않은 자료로 분석했기에 부적절한 데이</content:encoded>
     </item>
     <item>
-      <title>이태원 참사 후 공권력의 기이한 행태</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306805</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306805</guid>
-      <pubDate>2022-11-09T11:27:48.000Z</pubDate>
-      <content:encoded>정부가 적극 육성하는 관광특구에서 무정부 상태와 같은 무질서가 공권력에 의해 방치되어 3백 여 명이 죽고 다쳤다. 상식이 통하는 나라라면 피해자에 대한 애도와 재발 방지를 위한 조치, 피해자 유가족 등에 대한 심심한 위로를 포함한 적극적인 사회적 배려, 사고 원인 규명, 법적, 정치적 책임을 지는 일 등이 동시다발적으로 진행되었을 터이다. 그러나 이태원 참사의 경우 기이하다.참사 발생 직후 행안부 장관은 행사 주최자가 없었고 사전 예방이 불가능한 사고라고 했고 대통령도 장관의 말이 정해준 틀 안에서 발언을 했을 뿐이다. 멀쩡한 젊은</content:encoded>
-    </item>
-    <item>
-      <title>‘뒤늦은 5·18 무죄 선고’ 기사에도 폄훼 댓글 달려</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306811</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306811</guid>
-      <pubDate>2022-11-09T14:36:24.000Z</pubDate>
-      <content:encoded>민주언론시민연합은 5·18기념재단과 함께 5·18민주화운동 관련 보도를 지속적으로 감시해왔습니다. 2013년 TV조선과 채널A가 5·18 관련 대표적인 허위조작정보인 ‘북한군 침투설’을 방송한 것을 비롯해 일부 언론에서 5·18정신을 훼손하는 보도를 반복해왔기 때문입니다. 2022년에도 언론이 5·18민주화운동 정신을 올바르게 알리고, 광주항쟁 진실을 왜곡하지 않도록 관련 보도 모니터링을 진행합니다. 국가인권위원회가 지난해 9월 발표한 ‘온라인 혐오표현 인식조사 2021’에 따르면 국민 10명 중 7명은 뉴스 기사와 악성 댓글에서,</content:encoded>
-    </item>
-    <item>
       <title>‘MBC 전용기 배제’ 침묵하거나 정쟁화하거나 받아쓰거나</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306887</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306887</guid>
@@ -255,13 +241,6 @@
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306940</guid>
       <pubDate>2022-11-16T09:03:29.000Z</pubDate>
       <content:encoded>바쁘고 거친 일상을 살아가며 대부분의 시민들은 단순히 눈에 보이는 현상들만 보고 상황을 쉽사리 판단하곤 한다.지난달 초, 한국철도공사 구로승무사업소가 기관사의 인력부족으로 연차를 마음 편히 사용할 수 없게 되자 안전운행 투쟁을 하며 집단행동에 나섰을 때다. 대부분의 언론들은 기관사들이 자신들의 요구사항을 관철시키기 위해 시민들의 발목을 잡고 있다는 식의 겉으로 드러난 현상들을 보도했다.시민들도 이런 보도 행태에 익숙해지고 길들여져 있는지 몰라도 기관사들이 부득이하게 안전운행 투쟁을 하기까지의 과정은 외면한 채 자신들의 이익을 위해</content:encoded>
-    </item>
-    <item>
-      <title>네이버 카카오 서비스 혐오표현 심의위원회 만들었다</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=306992</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=306992</guid>
-      <pubDate>2022-11-17T11:12:25.000Z</pubDate>
-      <content:encoded>네이버와 카카오 등 국내 주요 인터넷 사업자들의 자율규제기구인 한국인터넷자율정책기구(KISO)는 1가 ‘혐오표현 심의위원회’를 만들었다. 1대 심의위원장은 이승선 충남대 언론정보학과 교수다. 한국인터넷자율정책기구는 17일 보도자료를 통해 ‘혐오표현심의위원회’를 발족하고, ‘혐오표현의 판단과 처리를 위한 가이드라인’을 마련하고 있다고 밝혔다.한국인터넷자율정책기구는 “KISO는 혐오표현심의위를 통해 혐오표현 관련 내용을 집중적으로 연구하고, 향후 혐오표현에 대한 다양한 심의를 진행할 예정”이라고 밝혔다.혐오표현심의위는 심의규정에 해당하</content:encoded>
     </item>
     <item>
       <title>네이버도 언론사 선택에 따른 ‘아웃링크’제 도입한다</title>
@@ -614,13 +593,6 @@
       <content:encoded>방송통신위원회(위원장 한상혁)가 지상파와 종합편성채널 등 방송사업자들을 대상으로 하는 방송평가에 ‘ESG경영’ 항목을 가점 사항으로 신설했다. ‘ESG’란 기업의 비재무적 요소로 환경(Environment)·사회(Social)·지배구조(Governance) 등의 앞글자를 딴 단어로, 친환경·사회적 책임 경영 등 투명 경영을 한다는 의미다.7일 오후 방통위는 과천정부청사에서 전체회의를 열고 방송사의 사회적 책무를 강화하기 위해 ‘방송평가에 관한 규칙’에 ‘환경 경영 노력 및 ESG 관련 이사회 보고 평가 항목’을 신설하기는 개정안에</content:encoded>
     </item>
     <item>
-      <title>[영상] 심상정 “화물연대 두들겨 지지율 오르니 파업 철회 아쉽나?”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307380</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307380</guid>
-      <pubDate>2022-12-09T18:16:03.000Z</pubDate>
-      <content:encoded>심상정 정의당 의원이 정부에서 나오는 안전운임제 3년 연장안 무효 주장을 두고 “화물연대 두들겨서 지지율이 오른다고 하니 파업 철회가 아쉽냐?”고 비판했다.9일 국회 국토교통위에서 안전운임제 3년 연장안을 국민의힘 의원들이 불참한 채 야당 단독 처리를 앞두고 심상정 의원은 윤석열 정부의 화물연대 퇴로 차단 협상 태도를 강하게 비판했다.심상정 의원은 “오늘 새벽부터 화물 노동자들은 눈물을 머금고 파업 종료와 현장 복귀 투표를 진행을 하고 있는데, 원희룡 국토부 장관은 파업 철회를 하겠다는 노동자들 등에 대고 ‘22일 정부 여당이 제안</content:encoded>
-    </item>
-    <item>
       <title>[이상민의 경제기사비평] “당신은 ‘부자’인가요?”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307305</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307305</guid>
@@ -656,130 +628,11 @@
       <content:encoded>국제앰네스티는 지난 8일 “한국의 온라인 성폭력 생존자들이 구글의 느리고 복잡한 콘텐츠 삭제 요청 시스템으로 인해 더욱 큰 고통을 겪고 있다”고 밝혔다. 국제앰네스티는 보도자료를 내고 “디지털 성범죄 피해를 경험한 한국의 여성 및 소녀들은 구글의 비동의 성적촬영물 신고 절차를 찾기가 지나치게 어렵고, 그 결과 성착취 영상이 온라인에서 확산하고 있다”고 우려했다. 윤지현 국제앰네스티 한국지부 사무처장은 “빅테크 기업들은 한국뿐만 아니라 어디에서나 온라인 젠더기반 폭력 확산을 막기 위해 더욱 노력해야 한다”고 강조했다. 국제앰네스티는</content:encoded>
     </item>
     <item>
-      <title>‘노동시장 이중구조’ 개선한다면서 편 가르는 대통령실</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307392</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307392</guid>
-      <pubDate>2022-12-11T19:56:49.000Z</pubDate>
-      <content:encoded>민주노총 전국공공운수사회서비스노조 화물연대본부(화물연대)가 파업 종료를 결정한 가운데 대통령실은 “노동시장의 이중구조 개선”을 위해 최선을 다하겠다고 밝혔다. 그러나 노동시장에서 취약한 위치에 있는 화물차 기사들을 압박하면서 이 같은 구호를 반복하는 것은 모순이자 노동자 편가르기라는 우려를 부르고 있다.김은혜 대통령실 홍보수석은 9일 용산 대통령실 브리핑에서 “화물연대 집단 운송거부는 우리 경제와 민생에 천문학적인 피해를 줬다. 그렇지만 다른 한편으로는 우리 모두 화물 업계의 제도 개선을 모색하는 계기로 삼아야 할 것”이라며 “정부</content:encoded>
-    </item>
-    <item>
-      <title>연합뉴스 포함 통신사 서비스 이용률 떨어지는 국회 구독 예산은 증액</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307397</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307397</guid>
-      <pubDate>2022-12-12T13:15:22.000Z</pubDate>
-      <content:encoded>국회가 연합뉴스 등 뉴스통신사 구독료 서비스 이용률이 떨어지는데도 해당 언론사에게 지급하는 구독료 명목 예산 증액을 요구한 것으로 나타났다. 지난 7월 홍준표 대구시장이 연합뉴스에 지급하는 불필요한 예산이라는 취지라 삭감하겠다고 발언해 주목을 받은 가운데 국회는 뉴스통신사 4곳에 총 18억 원 이상을 지급하고 있고 최근 일부 의원들이 1억2000만 원 증액을 요청했다.당시 홍 시장은 대구시가 ‘단말기 구독료’ 명목으로 1억 원 가까이 연합뉴스에 세금을 쓰고 있는데 “공무원들이 이를 컴퓨터로 찾아보는 사람이 아무도 없어서 구독료 납부</content:encoded>
-    </item>
-    <item>
-      <title>연합뉴스 포함 통신사 서비스 이용률 떨어지는 국회 구독 예산은 증액</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307397</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307397</guid>
-      <pubDate>2022-12-12T13:15:22.000Z</pubDate>
-      <content:encoded>국회가 연합뉴스 등 뉴스통신사 구독료 서비스 이용률이 떨어지는데도 해당 언론사에게 지급하는 구독료 명목 예산 증액을 요구한 것으로 나타났다. 지난 7월 홍준표 대구시장이 연합뉴스에 지급하는 불필요한 예산이라는 취지라 삭감하겠다고 발언해 주목을 받은 가운데 국회는 뉴스통신사 4곳에 총 18억 원 이상을 지급하고 있고 최근 일부 의원들이 1억2000만 원 증액을 요청했다.당시 홍 시장은 대구시가 ‘단말기 구독료’ 명목으로 1억 원 가까이 연합뉴스에 세금을 쓰고 있는데 “공무원들이 이를 컴퓨터로 찾아보는 사람이 아무도 없어서 구독료 납부</content:encoded>
-    </item>
-    <item>
-      <title>‘괴롭히고, 속이고, 해고’ 5인 미만 사업장에서 강씨가 겪은 일</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307395</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307395</guid>
-      <pubDate>2022-12-12T14:49:53.000Z</pubDate>
-      <content:encoded>선명그룹 계열사 화인파트너스의 건물을 관리하던 노동자가 ‘가짜 5인미만 사업장’ 수법으로 해고된 뒤 복직했다가 괴롭힘 끝에 또다시 해고됐다. 사측은 이 과정에서 ‘실업급여 용도’라는 이유로 기간제 계약서를 쓰도록 했고 계약종료 방식으로 강씨를 해고했다.권리찾기유니온은 지난 9일 화인파트너스가 입주한 서울 종로구 영풍빌딩 앞에서 기자회견을 열고 “화인파트너스는 근로기준법을 피해가기 위한 수법을 포기하고 강씨를 조속히 복직시키라”고 요구했다.강씨는 지난 6월 2015년부터 일한 회사에서 ‘계약만료’를 이유로 잘렸다. 화인파트너스는 소유</content:encoded>
-    </item>
-    <item>
-      <title>위기의 지역방송, 탈출구는 어디에</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307396</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307396</guid>
-      <pubDate>2022-12-12T14:50:52.000Z</pubDate>
-      <content:encoded>‘지역방송의 위기’는 해묵은 과제다. 2014년 지역방송발전지원 특별법이 제정됐지만 관련 지원 예산은 연 40억 원에 불과하다. 지역방송에 대한 별도 기금도 마련되지 않았다.지역방송의 위기는 지역민의 위기와도 연결된다. 기초자치단체 관련 뉴스가 적어지면 지역성 구현에 차질이 생기고, 지역민의 권리가 약화될 수밖에 없기 때문이다. KBS·MBC는 지역 방송사·총국을 통폐합하는</content:encoded>
-    </item>
-    <item>
       <title>5·18 포털 뉴스 가장 많은 악플은 ‘가짜유공자설’</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307399</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307399</guid>
       <pubDate>2022-12-12T16:07:09.000Z</pubDate>
       <content:encoded>5·18 민주화운동에 대한 혐오·왜곡 등을 담은 댓글 문제 영상에 대한 플랫폼의 조치율이 낮게 나타났다.민주언론시민연합이 ‘2022년 5·18 민주화운동 모니터링 결과 발표 및 토론회’에서 발표한 자료에 따르면 지난 4월부터 10월까지 모니터한 결과 유튜브 영상 82개, 네이버 뉴스 댓글 1761개가 5·18 민주화운동에 대한 왜곡·폄훼를 담은 내용으로 나타났다. 문제 댓글과 영상의 유형을 보면 ‘가짜유공자설’이 836건으로 가장 많았다. 이어 5·18 민주화운동을 폭동으로 규정하는 폭동설이 459건, 기타가 394건, 지역 비하가</content:encoded>
-    </item>
-    <item>
-      <title>5·18 포털 뉴스 가장 많은 악플은 ‘가짜유공자설’</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307399</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307399</guid>
-      <pubDate>2022-12-12T16:07:09.000Z</pubDate>
-      <content:encoded>5·18 민주화운동에 대한 혐오·왜곡 등을 담은 댓글 문제 영상에 대한 플랫폼의 조치율이 낮게 나타났다.민주언론시민연합이 ‘2022년 5·18 민주화운동 모니터링 결과 발표 및 토론회’에서 발표한 자료에 따르면 지난 4월부터 10월까지 모니터한 결과 유튜브 영상 82개, 네이버 뉴스 댓글 1761개가 5·18 민주화운동에 대한 왜곡·폄훼를 담은 내용으로 나타났다. 문제 댓글과 영상의 유형을 보면 ‘가짜유공자설’이 836건으로 가장 많았다. 이어 5·18 민주화운동을 폭동으로 규정하는 폭동설이 459건, 기타가 394건, 지역 비하가</content:encoded>
-    </item>
-    <item>
-      <title>국힘 지도부 대거 참석 “공영방송 없애야” 성토한 언론인단체 발족식</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307401</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307401</guid>
-      <pubDate>2022-12-12T16:42:53.000Z</pubDate>
-      <content:encoded>기존의 언론계의 대안 역할을 하겠다며 기자와 PD, 경영, 기술, 프리랜서 등 현업 언론인들이 참여한 ‘대한민국언론인총연합회(총연합회‧준비위원장 김현우)’의 창립 준비위원회가 12일 발족식을 열었다.이밖에도 고대영 전 KBS 사장, 김장겸 전 MBC 사장 등 이명박 박근혜 정부 당시 불공정 방송 파업을 낳은 대표적인 인물과 함께, 정치권에서는 국민의힘 지도부들만 줄줄이 참석해 축사해 친여적 정치성향을 띠는 것 아니냐는 의심이 나온다. 이에 이들은 정파성을 띠지 않는다고 거듭 밝혔다.이들은 창립을 위한 발기 취지문에서 “편파와 불공정</content:encoded>
-    </item>
-    <item>
-      <title>국힘 지도부 대거 참석 “공영방송 없애야” 성토한 언론인단체 발족식</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307401</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307401</guid>
-      <pubDate>2022-12-12T16:42:53.000Z</pubDate>
-      <content:encoded>기존의 언론계의 대안 역할을 하겠다며 기자와 PD, 경영, 기술, 프리랜서 등 현업 언론인들이 참여한 ‘대한민국언론인총연합회(총연합회‧준비위원장 김현우)’의 창립 준비위원회가 12일 발족식을 열었다.이밖에도 고대영 전 KBS 사장, 김장겸 전 MBC 사장 등 이명박 박근혜 정부 당시 불공정 방송 파업을 낳은 대표적인 인물과 함께, 정치권에서는 국민의힘 지도부들만 줄줄이 참석해 축사해 친여적 정치성향을 띠는 것 아니냐는 의심이 나온다. 이에 이들은 정파성을 띠지 않는다고 거듭 밝혔다.이들은 창립을 위한 발기 취지문에서 “편파와 불공정</content:encoded>
-    </item>
-    <item>
-      <title>종편 재승인 심사위원 수사에 “文정부 비우호적 언론사 탄압 프레임”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307400</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307400</guid>
-      <pubDate>2022-12-12T17:27:21.000Z</pubDate>
-      <content:encoded>검찰의 TV조선·채널A 재승인 심사위원 수사에 속도가 붙고 있다. 검찰은 지난 9월23일 심사위원 자택과 사무실을, 이달 6일에는 6개월 치 이메일을 압수수색했다. 방송통신위원회(이하 방통위)도 압수수색을 피할 수 없었다. 9월19일 서울북부지방검찰청이 사건을 배당받은 지 2달 사이 벌어진 일이다.9일 선문대학교에서 열린 한국지역언론학회 겨울철 정기학술대회에서 검찰의 재승인 심사위원 수사에 대한 학자들의 규탄이 이어졌다. 검찰이 재승인 심사위원 수사를 통해 방통위에 대한 정치적 공격을 하고 있다는 지적이다.발제자로 나선 김동원 전국</content:encoded>
-    </item>
-    <item>
-      <title>김어준 하차와 2월 TBS이사진 교체… 인적개편 신호탄?</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307403</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307403</guid>
-      <pubDate>2022-12-12T18:03:35.000Z</pubDate>
-      <content:encoded>김어준씨가 TBS라디오 ‘김어준의 뉴스공장’에서 하차하겠다고 밝히면서 TBS 인적 개편이 본격화되는 것 아니냐는 우려가 나온다. 내년 2월 서울시장이 임명하는 새 대표가 취임하고 이사회 구성도 대폭 바뀔 것으로 나타나 TBS 내 큰 변화가 예상된다. TBS 노조는 제작·편성권이 침해되지 않도록 균형감을 가진 임원이 와야 한다고 강조했다.12일 ‘김어준의 뉴스공장’에서 김어준씨는 “오늘까지 6년 두 달 보름, 324주 동안 (방송을) 해왔는데 3주 더하면 올해 말이다. 올해 말까지 하겠다&quot;며 &quot;사정이 있다. 그 이야기는 추후에 하겠다</content:encoded>
-    </item>
-    <item>
-      <title>방심위, 이태원 참사 초기 민원제기된 KBS 뉴스에 ‘문제없음’</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307406</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307406</guid>
-      <pubDate>2022-12-12T18:24:49.000Z</pubDate>
-      <content:encoded>방송통신심의위원회가 이태원 참사와 괸련해 참사 초기 사실관계가 틀린 내용을 내보낸 ‘KBS 뉴스9’과 ‘주진우 라이브’에 모두 ‘문제없음’을 결정했다. 12일 열린 전체회의에서 정연주 방송통신심의위원장은 “이태원 참사와 관련한 특히 참사 초기 방송에서 몇 가지 미세한 숫자를 가지고 방심위가 규제한다는 것에 대해서는 동의 하지 않는다”며 “이는 과잉규제”라는 입장을 명확히 했다. 지난달 2일 방송된 KBS-1TV ‘특집 KBS 뉴스9’는 ‘1시간 21분 지나서 ‘늑장 보고’’ 제하의 보도에서, 이태원 참사 사고 당일 초저녁부터 112</content:encoded>
-    </item>
-    <item>
-      <title>방심위, 이태원 참사 초기 민원제기된 KBS 뉴스에 ‘문제없음’</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307406</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307406</guid>
-      <pubDate>2022-12-12T18:24:49.000Z</pubDate>
-      <content:encoded>방송통신심의위원회가 이태원 참사와 괸련해 참사 초기 사실관계가 틀린 내용을 내보낸 ‘KBS 뉴스9’과 ‘주진우 라이브’에 모두 ‘문제없음’을 결정했다. 12일 열린 전체회의에서 정연주 방송통신심의위원장은 “이태원 참사와 관련한 특히 참사 초기 방송에서 몇 가지 미세한 숫자를 가지고 방심위가 규제한다는 것에 대해서는 동의 하지 않는다”며 “이는 과잉규제”라는 입장을 명확히 했다. 지난달 2일 방송된 KBS-1TV ‘특집 KBS 뉴스9’는 ‘1시간 21분 지나서 ‘늑장 보고’’ 제하의 보도에서, 이태원 참사 사고 당일 초저녁부터 112</content:encoded>
-    </item>
-    <item>
-      <title>서민 “MBC 기자들 尹을 대통령 아닌 반대파 수장 정도로 생각”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307407</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307407</guid>
-      <pubDate>2022-12-12T18:31:25.000Z</pubDate>
-      <content:encoded>대한민국언론인총연합회 준비위원회(위원장 김현우)라는 새 언론인단체 발족식에 참석한 주요 인사들은 하나같이 MBC와 KBS 등에 거친 표현과 적대감을 표출했다.서민 교수(대안채널 공동대표)는 12일 오전 여의도 국회 앞 한 카페에서 연 ‘대한민국언론인총연합회’ 창립준비위원회 발족식에 참석해 대뜸 이기주 MBC 기자의 윤석열 대통령에 대한 이른바 ‘뭐가 악의적이냐’는 질의를 사례로 들었다. 서 교수는 “뭐가 악의적입니까라고 한 게 이게 충격적이었던 게 두가지”라며 “(하나는) 대통령 앞에서 그런 말을 했다는 것이고, (다른 하나는) 슬</content:encoded>
-    </item>
-    <item>
-      <title>서민 “MBC 기자들 尹을 대통령 아닌 반대파 수장 정도로 생각”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307407</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307407</guid>
-      <pubDate>2022-12-12T18:31:25.000Z</pubDate>
-      <content:encoded>대한민국언론인총연합회 준비위원회(위원장 김현우)라는 새 언론인단체 발족식에 참석한 주요 인사들은 하나같이 MBC와 KBS 등에 거친 표현과 적대감을 표출했다.서민 교수(대안채널 공동대표)는 12일 오전 여의도 국회 앞 한 카페에서 연 ‘대한민국언론인총연합회’ 창립준비위원회 발족식에 참석해 대뜸 이기주 MBC 기자의 윤석열 대통령에 대한 이른바 ‘뭐가 악의적이냐’는 질의를 사례로 들었다. 서 교수는 “뭐가 악의적입니까라고 한 게 이게 충격적이었던 게 두가지”라며 “(하나는) 대통령 앞에서 그런 말을 했다는 것이고, (다른 하나는) 슬</content:encoded>
-    </item>
-    <item>
-      <title>&quot;저널리즘 품격 높이는 지원책 마련하는게 네이버와 다음이 할 일&quot;</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307405</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307405</guid>
-      <pubDate>2022-12-12T18:37:48.000Z</pubDate>
-      <content:encoded>“대한변호사협회는 ‘로톡’ 관련해서 반대 입장을 발표했다. 20년 전엔 대한변협도 잘 몰랐다. 플랫폼이 이렇게 문제인걸. 20년 전 뉴스가 플랫폼인 네이버와 다음에 종속될 때 미처 몰랐다. 정말 죄송하다. 제가 어렸을 땐 언론사들이 하나하나 다 개성이 있었다. 동아일보는 정치, 조선일보는 문학, 한국일보는 사회 부분에서 개성이 느껴졌다. 그러나 포털에서 기사를 읽게 되면서 언론사들이 똑같아졌다. 극단적인 노조로 기사를 쓴다. 그게 지금 우리 사회를 만들었다. 20년간 플랫폼이 우리 사회를 지배해 온 세상이 됐다. 개별적인 독립성이</content:encoded>
-    </item>
-    <item>
-      <title>&quot;저널리즘 품격 높이는 지원책 마련하는게 네이버와 다음이 할 일&quot;</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307405</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307405</guid>
-      <pubDate>2022-12-12T18:37:48.000Z</pubDate>
-      <content:encoded>“대한변호사협회는 ‘로톡’ 관련해서 반대 입장을 발표했다. 20년 전엔 대한변협도 잘 몰랐다. 플랫폼이 이렇게 문제인걸. 20년 전 뉴스가 플랫폼인 네이버와 다음에 종속될 때 미처 몰랐다. 정말 죄송하다. 제가 어렸을 땐 언론사들이 하나하나 다 개성이 있었다. 동아일보는 정치, 조선일보는 문학, 한국일보는 사회 부분에서 개성이 느껴졌다. 그러나 포털에서 기사를 읽게 되면서 언론사들이 똑같아졌다. 극단적인 노조로 기사를 쓴다. 그게 지금 우리 사회를 만들었다. 20년간 플랫폼이 우리 사회를 지배해 온 세상이 됐다. 개별적인 독립성이</content:encoded>
-    </item>
-    <item>
-      <title>더중앙플러스·롱블랙의 구독 전략 “기사읽기도 습관”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307404</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307404</guid>
-      <pubDate>2022-12-12T20:42:58.000Z</pubDate>
-      <content:encoded>콘텐츠 기사 시장에도 구독 경제의 범위가 확장되고 있는 추세다. 중앙일보가 운영하는 ‘더중앙플러스’나 하루에 1개의 콘텐츠를 제공하는 ‘롱블랙’ 등이 독자 확대를 위해 다양한 전략을 펼치고 있다. ‘더중앙플러스’와 ‘롱블랙’은 매일 기사를 읽는 습관을 가진 구독자들을 확장하는 전략을 펼치고 있다. 한 예로 습관 형성 어플 ‘챌린저스’를 통해 사용자들에게 콘텐츠 구독을 사전에 체험하게 했다.‘챌린저스’ 어플은 달성하고자 하는 목표에 이용자 스스로 돈을 건 후, 달성률에 따라 환급받고 100% 성공하면 추가 상금까지 획득할 수 있는 방</content:encoded>
     </item>
     <item>
       <title>더중앙플러스·롱블랙의 구독 전략 “기사읽기도 습관”</title>
@@ -796,13 +649,6 @@
       <content:encoded>국민의힘 지도부와 과방위원들이 대거 참석한 ‘대한민국언론인총연합회’ 창립준비위 발족식에서 “언론인총연합회도 방송법 개정안의 공영방송 이사 추천권을 받아야 한다고 생각하느냐?“는 질문을 놓고 설전이 벌어졌다. 언론인총연합회 집행위원들은 이 질문이 악의적이라고 질문한 기자에게 목소리를 높였다.12일 오전 여의도 국민의힘 당사 인근 한 카페에서 열린 ‘대한민국언론인총연합회’ 창립준비위 발족식 공식 행사가 끝난 직후 조현호 미디어오늘 기자는 김현우 언론인총연합회 준비위원장(YTN 방송노조위원장)에게 “방송법 개정안의 방송 직능단체나 여러</content:encoded>
     </item>
     <item>
-      <title>[영상] 언론인총연합회 발족식서 설전 벌인 끼닭</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307410</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307410</guid>
-      <pubDate>2022-12-12T20:44:21.000Z</pubDate>
-      <content:encoded>국민의힘 지도부와 과방위원들이 대거 참석한 ‘대한민국언론인총연합회’ 창립준비위 발족식에서 “언론인총연합회도 방송법 개정안의 공영방송 이사 추천권을 받아야 한다고 생각하느냐?“는 질문을 놓고 설전이 벌어졌다. 언론인총연합회 집행위원들은 이 질문이 악의적이라고 질문한 기자에게 목소리를 높였다.12일 오전 여의도 국민의힘 당사 인근 한 카페에서 열린 ‘대한민국언론인총연합회’ 창립준비위 발족식 공식 행사가 끝난 직후 조현호 미디어오늘 기자는 김현우 언론인총연합회 준비위원장(YTN 방송노조위원장)에게 “방송법 개정안의 방송 직능단체나 여러</content:encoded>
-    </item>
-    <item>
       <title>[미오 사설] 더탐사 보도 어떻게 볼 것인가</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307402</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307402</guid>
@@ -810,74 +656,11 @@
       <content:encoded>언론보도로 인해 명예가 훼손됐다고 해도 보도의 목적이 공익을 위한 것이고 진실한 사실 혹은 진실한 사실이라고 믿을만한 상당한 이유(상당성)가 있으면 위법하지 않다는 게 우리 대법원의 판례다. 언론보도 명예훼손 사건은 원고 즉 언론보도 피해자라고 주장하는 사람에게 피해 정도에 대한 입증을, 피고 언론매체 기자에게 &apos;믿을만한 상당한 이유&apos;에 대한 입증을 요구한다. 두가지 판결을 들어보자.2004년 당시 한나라당 의원이었던 전여옥은 오마이뉴스에 명예훼손을 당했다며 손해배상청구 소송을 제기했다. 오마이뉴스는 전여옥이 쓴 ‘일본은 없다’라는</content:encoded>
     </item>
     <item>
-      <title>[미오 사설] 더탐사 보도 어떻게 볼 것인가</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307402</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307402</guid>
-      <pubDate>2022-12-13T00:05:00.000Z</pubDate>
-      <content:encoded>언론보도로 인해 명예가 훼손됐다고 해도 보도의 목적이 공익을 위한 것이고 진실한 사실 혹은 진실한 사실이라고 믿을만한 상당한 이유(상당성)가 있으면 위법하지 않다는 게 우리 대법원의 판례다. 언론보도 명예훼손 사건은 원고 즉 언론보도 피해자라고 주장하는 사람에게 피해 정도에 대한 입증을, 피고 언론매체 기자에게 &apos;믿을만한 상당한 이유&apos;에 대한 입증을 요구한다. 두가지 판결을 들어보자.2004년 당시 한나라당 의원이었던 전여옥은 오마이뉴스에 명예훼손을 당했다며 손해배상청구 소송을 제기했다. 오마이뉴스는 전여옥이 쓴 ‘일본은 없다’라는</content:encoded>
-    </item>
-    <item>
-      <title>[아침신문 솎아보기] “주 52시간 사실상 해체 권고”에 ‘역주행’ vs ‘불가피’</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307411</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307411</guid>
-      <pubDate>2022-12-13T07:53:09.000Z</pubDate>
-      <content:encoded>고용노동부 의뢰로 노동시장 개편안을 준비해온 미래노동시장연구회가 초과근무 관리 단위를 현행 ‘주 단위’에서 ‘연 단위’로 바꾸는 방안을 권고했다. 현행 52시간에서 최대 69시간까지 노동시간이 늘어날 수 있을 것으로 전망된다. 또한 호봉제 임금체계를 직무와 성과 중심의 임금체계로 바꿀 것 등을 권고했다. 노동계는 “임금과 노동시간 결정권을 사용자에 맡기는 것”이라며 반발하고 있다.해당 권고안에 경향신문은 ‘주 69시간’, 한겨레는 ‘최대 주 80시간’까지 언급하면서 한국의 노사관계 상황을 따져볼 때 노사 합의로 노동시간이나 임금체계</content:encoded>
-    </item>
-    <item>
-      <title>[아침신문 솎아보기] “주 52시간 사실상 해체 권고”에 ‘역주행’ vs ‘불가피’</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307411</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307411</guid>
-      <pubDate>2022-12-13T07:53:09.000Z</pubDate>
-      <content:encoded>고용노동부 의뢰로 노동시장 개편안을 준비해온 미래노동시장연구회가 초과근무 관리 단위를 현행 ‘주 단위’에서 ‘연 단위’로 바꾸는 방안을 권고했다. 현행 52시간에서 최대 69시간까지 노동시간이 늘어날 수 있을 것으로 전망된다. 또한 호봉제 임금체계를 직무와 성과 중심의 임금체계로 바꿀 것 등을 권고했다. 노동계는 “임금과 노동시간 결정권을 사용자에 맡기는 것”이라며 반발하고 있다.해당 권고안에 경향신문은 ‘주 69시간’, 한겨레는 ‘최대 주 80시간’까지 언급하면서 한국의 노사관계 상황을 따져볼 때 노사 합의로 노동시간이나 임금체계</content:encoded>
-    </item>
-    <item>
-      <title>골프채, 포르쉐, 독도 새우, 유흥접대까지… 가짜수산업자의 언론인 ‘관리’</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307408</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307408</guid>
-      <pubDate>2022-12-13T10:09:13.000Z</pubDate>
-      <content:encoded>서울중앙지방검찰청이 일명 ‘가짜 수산업자 사건’에 연루된 언론인 3명을 청탁금지법 위반 혐의로 지난달 불구속 기소했다. 미디어오늘은 검찰 공소장에서 엄성섭 전 TV조선 앵커, 이동훈 전 조선일보 논설위원, 이가영 전 중앙일보 논설위원의 혐의를 구체적으로 확인했다.가짜수산업자 김아무개씨는 2018년 6월 ‘선동오징어’(배에서 급랭한 오징어) 사업 투자 명목으로 7명으로부터 약 116억 원을 편취해 징역 7년을 선고받고 복역 중이다. 검찰은 공소장에서 “김씨는 편취한 돈을 바탕으로 다수의 법조인, 언론인에게 고가 외제차를 무상으로 이용</content:encoded>
-    </item>
-    <item>
-      <title>골프채, 포르쉐, 독도 새우, 유흥접대까지… 가짜수산업자의 언론인 ‘관리’</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307408</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307408</guid>
-      <pubDate>2022-12-13T10:09:13.000Z</pubDate>
-      <content:encoded>서울중앙지방검찰청이 일명 ‘가짜 수산업자 사건’에 연루된 언론인 3명을 청탁금지법 위반 혐의로 지난달 불구속 기소했다. 미디어오늘은 검찰 공소장에서 엄성섭 전 TV조선 앵커, 이동훈 전 조선일보 논설위원, 이가영 전 중앙일보 논설위원의 혐의를 구체적으로 확인했다.가짜수산업자 김아무개씨는 2018년 6월 ‘선동오징어’(배에서 급랭한 오징어) 사업 투자 명목으로 7명으로부터 약 116억 원을 편취해 징역 7년을 선고받고 복역 중이다. 검찰은 공소장에서 “김씨는 편취한 돈을 바탕으로 다수의 법조인, 언론인에게 고가 외제차를 무상으로 이용</content:encoded>
-    </item>
-    <item>
       <title>올해 빛낸 예능인 10위에 ‘전국노래자랑’ 김신영</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307412</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307412</guid>
       <pubDate>2022-12-13T10:19:29.000Z</pubDate>
       <content:encoded>방송인 유재석이 11년 연속 올해의 예능인 1위를 차지했다. 전국노래자랑 사회를 맡으며 주목을 받은 김신영은 공동 10위에 올랐다. 한국갤럽이 지난달 7일부터 24일까지 전국(제주 제외) 만 13세 이상 1771명에게 올 한 해 가장 활약한 예능방송인·코미디언을 두 명까지 물은 결과(자유응답), 유재석이 52.0%의 지지를 얻었다. 유재석은 ‘해피투게더’(KBS2, 2001-2020), ‘무한도전’(MBC, 2006-2018), ‘런닝맨’(SBS, 2010-) 등 지상파 장수 예능 프로그램 간판스타로, 2015년 ‘투유 프로젝트-슈</content:encoded>
-    </item>
-    <item>
-      <title>올해 빛낸 예능인 10위에 ‘전국노래자랑’ 김신영</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307412</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307412</guid>
-      <pubDate>2022-12-13T10:19:29.000Z</pubDate>
-      <content:encoded>방송인 유재석이 11년 연속 올해의 예능인 1위를 차지했다. 전국노래자랑 사회를 맡으며 주목을 받은 김신영은 공동 10위에 올랐다. 한국갤럽이 지난달 7일부터 24일까지 전국(제주 제외) 만 13세 이상 1771명에게 올 한 해 가장 활약한 예능방송인·코미디언을 두 명까지 물은 결과(자유응답), 유재석이 52.0%의 지지를 얻었다. 유재석은 ‘해피투게더’(KBS2, 2001-2020), ‘무한도전’(MBC, 2006-2018), ‘런닝맨’(SBS, 2010-) 등 지상파 장수 예능 프로그램 간판스타로, 2015년 ‘투유 프로젝트-슈</content:encoded>
-    </item>
-    <item>
-      <title>김어준 이어 신장식, 주진우 하차… “조직 밥줄 끊는 최악의 언론탄압”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307413</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307413</guid>
-      <pubDate>2022-12-13T10:48:55.000Z</pubDate>
-      <content:encoded>연말을 끝으로 하차 입장을 밝힌 김어준씨에 이어 신장식 변호사, 주진우 전 기자도 각각 TBS라디오에서 하차한다. 16일 본회의 의결을 앞둔 TBS 예산삭감안의 여파다.김어준씨는 지난 12일 TBS라디오 ‘김어준의 뉴스공장’에서 “오늘까지 6년 두 달 보름, 324주 동안 (방송을) 해왔는데 3주 더하면 올해 말이다. 올해 말까지 하겠다”며 연말 하차를 공식화했다. 이어 “신장식 변호사와 주진우씨도 어떤 말을 할 것”이라고 했다.이후 신장식 변호사와 주진우 전 기자가 차례로 하차 소식을 전했다. 신 변호사는 ‘신장식의 신장개업’에서</content:encoded>
-    </item>
-    <item>
-      <title>김어준 이어 신장식, 주진우 하차… “조직 밥줄 끊는 최악의 언론탄압”</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307413</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307413</guid>
-      <pubDate>2022-12-13T10:48:55.000Z</pubDate>
-      <content:encoded>연말을 끝으로 하차 입장을 밝힌 김어준씨에 이어 신장식 변호사, 주진우 전 기자도 각각 TBS라디오에서 하차한다. 16일 본회의 의결을 앞둔 TBS 예산삭감안의 여파다.김어준씨는 지난 12일 TBS라디오 ‘김어준의 뉴스공장’에서 “오늘까지 6년 두 달 보름, 324주 동안 (방송을) 해왔는데 3주 더하면 올해 말이다. 올해 말까지 하겠다”며 연말 하차를 공식화했다. 이어 “신장식 변호사와 주진우씨도 어떤 말을 할 것”이라고 했다.이후 신장식 변호사와 주진우 전 기자가 차례로 하차 소식을 전했다. 신 변호사는 ‘신장식의 신장개업’에서</content:encoded>
-    </item>
-    <item>
-      <title>[영상] &quot;뭐가 악의적이냐고 대통령 앞에서 말하고 쓰레빠 차림 MBC기자 충격&quot;</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307415</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307415</guid>
-      <pubDate>2022-12-13T11:06:24.000Z</pubDate>
-      <content:encoded>서민 대안연대 대표(기생충학 교수)가 지난 12일 대한민국언론인총연합회 창립준비위 발족식에서 MBC 이기주 기자의 대통령에 대한 질문을 두고 두 가지가 충격적이었다고 말해 눈길을 끌었다. 서민 대표는 “‘뭐가 악의적입니까?’ 이 말 기억나시죠?”라며 “이게 충격적이었던 게 두 가지다. 대통령 앞에서 이런 말을 했다는 것 하고, 쓰레빠(슬리퍼) 차림으로 했다는 것”이라고 말했다. 서민 대표는 “지금 MBC 기자 분들은 대통령을 대통령으로 인정하지 않고 그냥 반대파의 수장 정도로 생각하는 것”이라며 “그렇게 할 수 있는 자신감이 근거는</content:encoded>
     </item>
     <item>
       <title>[영상] &quot;뭐가 악의적이냐고 대통령 앞에서 말하고 쓰레빠 차림 MBC기자 충격&quot;</title>
@@ -908,32 +691,11 @@
       <content:encoded>지난달 23일 한전KDN 이사회에선 한전KDN이 보유한 YTN 지분 매각을 두고 다수 이사의 다각적인 반대 의견이 나왔다. 이사들은 YTN 지분을 매각할 시급성이나 필요를 찾기 어렵다며 신중하고 면밀한 숙의 과정을 거칠 것을 요구했다. 매각 논의가 급작스러운 데다 매각대금이 모회사 한국전력 적자에 도움 되기 어렵다는 것이다. 특히 공영언론에 대한 출자 철회는 다른 공공기관에 민영화 신호탄으로 작용할 수 있다는 의견도 나왔다.그러나 한전KDN 이사회는 만장일치 의결 관행을 처음으로 깨고 이날 표결로 ‘출자회사 지분 정리방향’ 안건을</content:encoded>
     </item>
     <item>
-      <title>11월23일 YTN지분 매각 결정한 그날, 한전KDN이사회에서 무슨 말 오갔나</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307416</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307416</guid>
-      <pubDate>2022-12-13T13:25:52.000Z</pubDate>
-      <content:encoded>지난달 23일 한전KDN 이사회에선 한전KDN이 보유한 YTN 지분 매각을 두고 다수 이사의 다각적인 반대 의견이 나왔다. 이사들은 YTN 지분을 매각할 시급성이나 필요를 찾기 어렵다며 신중하고 면밀한 숙의 과정을 거칠 것을 요구했다. 매각 논의가 급작스러운 데다 매각대금이 모회사 한국전력 적자에 도움 되기 어렵다는 것이다. 특히 공영언론에 대한 출자 철회는 다른 공공기관에 민영화 신호탄으로 작용할 수 있다는 의견도 나왔다.그러나 한전KDN 이사회는 만장일치 의결 관행을 처음으로 깨고 이날 표결로 ‘출자회사 지분 정리방향’ 안건을</content:encoded>
-    </item>
-    <item>
       <title>TBS 출연금 88억 삭감 초읽기…“재난방송도 못할지경” 고사 위기 코앞</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307420</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307420</guid>
       <pubDate>2022-12-13T16:20:25.000Z</pubDate>
       <content:encoded>88억 원 삭감된 내년도 TBS 출연금 본회의 의결을 앞두고 TBS와 더불어민주당은 50억 원 증액을 요구하고 있다. 지금 예산으로는 재난, 시의회 홍보 등 기본적인 공익방송조차 불가하다는 주장이다. 서울시의회 국민의힘 측은 당장의 예산안 조정 계획은 없지만 추후 추경 가능성은 열려 있다고 말했다.서울시의회 문화체육관광위원회는 지난달 22일 올해 출연금보다 88억 원 삭감된 &apos;서울시 미디어재단 TBS 출연 동의안&apos;을 가결했다. 오세훈 서울시장이 취임한 2021년 출연금이 전년 대비 55억 원 줄어든 데 이어 2년 연속 대폭 삭감됐다</content:encoded>
-    </item>
-    <item>
-      <title>TBS 출연금 88억 삭감 초읽기…“재난방송도 못할지경” 고사 위기 코앞</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307420</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307420</guid>
-      <pubDate>2022-12-13T16:20:25.000Z</pubDate>
-      <content:encoded>88억 원 삭감된 내년도 TBS 출연금 본회의 의결을 앞두고 TBS와 더불어민주당은 50억 원 증액을 요구하고 있다. 지금 예산으로는 재난, 시의회 홍보 등 기본적인 공익방송조차 불가하다는 주장이다. 서울시의회 국민의힘 측은 당장의 예산안 조정 계획은 없지만 추후 추경 가능성은 열려 있다고 말했다.서울시의회 문화체육관광위원회는 지난달 22일 올해 출연금보다 88억 원 삭감된 &apos;서울시 미디어재단 TBS 출연 동의안&apos;을 가결했다. 오세훈 서울시장이 취임한 2021년 출연금이 전년 대비 55억 원 줄어든 데 이어 2년 연속 대폭 삭감됐다</content:encoded>
-    </item>
-    <item>
-      <title>비혼모들 “예능으로 포장한 가십거리” ‘고딩엄빠’ 폐지 요구</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307418</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307418</guid>
-      <pubDate>2022-12-13T16:45:40.000Z</pubDate>
-      <content:encoded>“고딩엄빠의 가장 큰 문제점은 시청자들을 자극할 만한 플롯을 구성하여 아직 사회에 나갈 준비가 충분히 되지 않은 아이들에게 되려 상처를 입힌다는 점이다.”미성년 여성과 성인 남성 간 연애를 미화하며 그 사이 기울어진 권력관계에 대한 지적은 외면하고 있다는 지적을 받고 있는 MBN ‘고딩엄빠’에 대해 비혼모 단체가 직접 프로그램 폐지를 요구했다. ‘변화된미래를만드는미혼모협회 인트리’는 모니터링 결과를 통해 “고딩엄빠가 예능이라는 가벼운 포맷으로 각자의 삶을 자극적으로 다루면서 사회적 편견과 차별이 미디어를 통해 재생산되고 있다”고 비</content:encoded>
     </item>
     <item>
       <title>비혼모들 “예능으로 포장한 가십거리” ‘고딩엄빠’ 폐지 요구</title>
@@ -978,13 +740,6 @@
       <content:encoded>“A씨는 2019년 9월 휴대폰 약정이 끝나서 최신 휴대폰으로 바꿀 수 있으니 오라는 내용의 전화를 받았다. 이후 판매자는 쓰던 휴대폰을 팔아주겠다고 계속 연락하며 새 휴대폰을 사도록 종용했고 결국 7개의 휴대폰을 만들었다. 통신요금이 700만 원에 달했고 A씨는 불어난 요금을 내지 못해 금융채무불이행자가 됐다. 장애인 단체 도움으로 검찰과 법원에 진술해 준사기로 판결을 받았지만 700만 원 요금에 대해서는 보상받지 못했다. A씨는 공공일자리로 일하며 현재도 매달 10만 원씩 변제해 나가고 있다. A씨는 여전히 휴대폰 없이 생활하고</content:encoded>
     </item>
     <item>
-      <title>7개 스마트폰 개통 통신요금 700만원 발달장애인 사기 피해 막으려면</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307423</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307423</guid>
-      <pubDate>2022-12-13T17:23:01.000Z</pubDate>
-      <content:encoded>“A씨는 2019년 9월 휴대폰 약정이 끝나서 최신 휴대폰으로 바꿀 수 있으니 오라는 내용의 전화를 받았다. 이후 판매자는 쓰던 휴대폰을 팔아주겠다고 계속 연락하며 새 휴대폰을 사도록 종용했고 결국 7개의 휴대폰을 만들었다. 통신요금이 700만 원에 달했고 A씨는 불어난 요금을 내지 못해 금융채무불이행자가 됐다. 장애인 단체 도움으로 검찰과 법원에 진술해 준사기로 판결을 받았지만 700만 원 요금에 대해서는 보상받지 못했다. A씨는 공공일자리로 일하며 현재도 매달 10만 원씩 변제해 나가고 있다. A씨는 여전히 휴대폰 없이 생활하고</content:encoded>
-    </item>
-    <item>
       <title>[영상] 주호영 “김대중·노무현 법인세 낮췄다” 김성환 “낙수이론 이명박·박근혜 때 실패 판명”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307428</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307428</guid>
@@ -1011,13 +766,6 @@
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307425</guid>
       <pubDate>2022-12-13T18:03:19.000Z</pubDate>
       <content:encoded>뉴욕타임스(NYT)가 지난 8일(현지시간) 임금인상을 요구하며 40여 년만에 파업에 돌입했다. 코로나19 이후 물가가 급등하면서 “언론인도 노동자”라는 사실이 부각되고 있다. 조선일보, 매일경제 등 국내언론 노동조합도 한 해동안 임금인상을 줄곧 요구했다.뉴욕 &apos;뉴스길드&apos; 노동조합원 약 1400명 중 1100여명이 8일 자정 24시간 파업에 동참했다. 2017년 잠깐 업무를 중단한 적은 있지만 지면이 나오지 않을 정도로 NYT 기자들이 파업에 나선 것은 1981년 이후 처음이다.주요 갈등은 역시 ‘임금’이다. 사측과 언론의 갈등은 일</content:encoded>
-    </item>
-    <item>
-      <title>예능 편성 상한 규제 폐지에 &quot;교양·시사 명맥만 유지되고 있는데&quot;</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307430</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307430</guid>
-      <pubDate>2022-12-13T18:30:00.000Z</pubDate>
-      <content:encoded>방송통신위원회가 “낡은 규제를 혁신한다”며 주요 방송사의 예능 프로그램 편성 비율 상한을 완화한지 1년 만에 100%로 완화하는 규제완화방안을 논의하고 있다.방통위는 이달 초 방송편성규제 완화를 위해 이해관계자 의견수렴을 했다. 방통위 자료에 따르면 방통위는 △ 현행 60%인 지상파와 종편의 오락프로그램 편성비율 상한 규제를 폐지하는 방안 △ 순수외주제작 프로그램 의무편성비율을 주시청시간대에 폐지하고 △ 지역방송은 관련 규제를 제외하고 △ 장기적으로 현행보다 편성 규제 비율을 5%포인트 낮추는 바안을 제시하고 있다. 현재 순수 외주</content:encoded>
     </item>
     <item>
       <title>예능 편성 상한 규제 폐지에 &quot;교양·시사 명맥만 유지되고 있는데&quot;</title>
@@ -1293,14 +1041,14 @@
       <content:encoded>세계일보 창립 이래 처음으로 임금인상 관련 사전 노사협의가 이뤄졌다. 임금피크제를 폐지하고 평균 13.2%의 인상률에 합의했다. 지난 4월부터 이어진 기자들의 성명 릴레이의 결과다.12월 초에 열린 세계일보 노사협의회 결과로 내년도 임금안이 확정됐다. 지급이 일정치 않고 최근 몇 년간 받지 못했던 연 2회 상여가 기본급과 연동해 받는 것으로 정해졌고 기본급 인상 외 고과별 차등 인상분이 따로 적용된다. 설과 추석이 있는 달 기본급 20%가 고정 지급되고 임금피크제도 내년 3월부로 폐지된다. 임금피크제 폐지로 인한 인상분을 제외하면</content:encoded>
     </item>
     <item>
-      <title>이태원 참사 생존자의 죽음 경향·한국·한겨레 “정치의 책임”</title>
+      <title>[아침신문 솎아보기] 이태원 참사 생존자의 죽음 경향·한국·한겨레 “정치의 책임”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307459</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307459</guid>
       <pubDate>2022-12-15T08:14:43.000Z</pubDate>
       <content:encoded>10·29 이태원 참사 희생자들의 영정이 놓인 합동분향소가 14일 서울 녹사평역 앞 광장에 차려졌다. 참사 47일 만이다. 이태원 참사 생존자인 청소년이 숨진 채 발견되면서 피해자 중심의 참사 수습과 심리적 지원이 이뤄지지 않고 있다는 지적이 나온다. 15일 일부 아침신문은 이들 사건을 중점적으로 다뤘다.10·29 이태원 참사 유가족협의회와 이들을 지원하는 시민대책회의는 14일 서울지하철 녹사평역 3번출구 앞 광장에 시민분향소를 마련했다. 분향소에는 유족이 동의 뜻을 밝힌 희생자 70여명의 영정과 위패가 안치됐다. 숨진 158명 중</content:encoded>
     </item>
     <item>
-      <title>이태원 참사 생존자의 죽음 경향·한국·한겨레 “정치의 책임”</title>
+      <title>[아침신문 솎아보기] 이태원 참사 생존자의 죽음 경향·한국·한겨레 “정치의 책임”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307459</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307459</guid>
       <pubDate>2022-12-15T08:14:43.000Z</pubDate>
@@ -1333,6 +1081,258 @@
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307458</guid>
       <pubDate>2022-12-15T08:19:23.000Z</pubDate>
       <content:encoded>2023년 KBS의 설날 대기획은 ‘송골매 콘서트 – 40년 만의 비행’ 공연 실황을 공개하기로 했다. 해당 공연 실황은 1월21일 9시20분 공개된다.앞서 KBS는 추석과 설날 명절을 맞아 대형 공연을 기획해왔다. 특히 2020년 한가위 대기획 ‘대한민국 어게인 나훈아’와 같은 프로그램은 닐슨코리아 기준 29%의 시청률을 기록한 바 있다.그 외에도 KBS는 명절마다 대기획으로 ‘피어나라 대한민국 심수봉’, ‘We’re HERO 임영웅’, ‘여러분 고맙습니다 송해’ 등을 선보여왔다. KBS는 시청자에게 희망과 위로를 선사하기위해 명</content:encoded>
+    </item>
+    <item>
+      <title>법원, 검언유착 의혹 채널A 이동재 기자 “해고 정당”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307463</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307463</guid>
+      <pubDate>2022-12-15T10:34:51.000Z</pubDate>
+      <content:encoded>서울중앙지방법원 제41민사부(정봉기 부장판사)가 이동재 전 채널A 기자가 제기한 해고무효 확인소송에서 원고 패소 판결을 내렸다. 이 전 기자가 취재 과정에서 취재윤리를 위반한 것이 명백한 만큼 해고 처분은 정당했다는 것이다.정봉기 부장판사는 15일 열린 선고에서 “이동재 전 기자가 취재대상자와 가족의 형사처벌 가능성을 거론하고 검찰 고위관계자 친분을 내세워 검찰에 영향력을 취재 활용한 행위, 녹취록을 가공한 행위가 취재윤리 위반했는지가 쟁점”이라면서 “형사재판에선 구체적인 해악의 고지가 인정되지 않아서 무죄를 선고받았지만, 신라젠과</content:encoded>
+    </item>
+    <item>
+      <title>법원, 검언유착 의혹 채널A 이동재 기자 “해고 정당”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307463</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307463</guid>
+      <pubDate>2022-12-15T10:34:51.000Z</pubDate>
+      <content:encoded>서울중앙지방법원 제41민사부(정봉기 부장판사)가 이동재 전 채널A 기자가 제기한 해고무효 확인소송에서 원고 패소 판결을 내렸다. 이 전 기자가 취재 과정에서 취재윤리를 위반한 것이 명백한 만큼 해고 처분은 정당했다는 것이다.정봉기 부장판사는 15일 열린 선고에서 “이동재 전 기자가 취재대상자와 가족의 형사처벌 가능성을 거론하고 검찰 고위관계자 친분을 내세워 검찰에 영향력을 취재 활용한 행위, 녹취록을 가공한 행위가 취재윤리 위반했는지가 쟁점”이라면서 “형사재판에선 구체적인 해악의 고지가 인정되지 않아서 무죄를 선고받았지만, 신라젠과</content:encoded>
+    </item>
+    <item>
+      <title>TV조선 재승인 심사 수사 이후 방송 재허가 점수 ‘급등’</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307462</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307462</guid>
+      <pubDate>2022-12-15T10:38:11.000Z</pubDate>
+      <content:encoded>검찰이 TV조선 재승인 심사위원들의 점수조작 의혹을 수사하는 가운데 치러진 방송사 재허가 심사에서 방송사들이 기존 대비 100점 이상 높은 점수를 기록했다.방송통신위원회는 14일 도로교통공단이 운영하는 교통방송들과 OBS의 5년 재허가를 결정했다. 이들 방송사는 모두 합격선인 1000점 만점에 650점 이상 점수를 기록했다.주목할만한 대목은 방송사들의 점수가 급등했다는 점이다. OBS는 지난 재허가 심사 때는 652점을 기록했으나 이번 재허가 심사에선 779점을 기록했다. 지난 심사 대비 도로교통공단 산하 교통방송들의 재허가 점수는</content:encoded>
+    </item>
+    <item>
+      <title>TV조선 재승인 심사 수사 이후 방송 재허가 점수 ‘급등’</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307462</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307462</guid>
+      <pubDate>2022-12-15T10:38:11.000Z</pubDate>
+      <content:encoded>검찰이 TV조선 재승인 심사위원들의 점수조작 의혹을 수사하는 가운데 치러진 방송사 재허가 심사에서 방송사들이 기존 대비 100점 이상 높은 점수를 기록했다.방송통신위원회는 14일 도로교통공단이 운영하는 교통방송들과 OBS의 5년 재허가를 결정했다. 이들 방송사는 모두 합격선인 1000점 만점에 650점 이상 점수를 기록했다.주목할만한 대목은 방송사들의 점수가 급등했다는 점이다. OBS는 지난 재허가 심사 때는 652점을 기록했으나 이번 재허가 심사에선 779점을 기록했다. 지난 심사 대비 도로교통공단 산하 교통방송들의 재허가 점수는</content:encoded>
+    </item>
+    <item>
+      <title>‘물류대란’ 대서특필하더니 안전운임제 연장 뒤집은 정부 모르쇠</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307455</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307455</guid>
+      <pubDate>2022-12-15T10:39:59.000Z</pubDate>
+      <content:encoded>민주노총 공공운수노조 화물연대본부(화물연대)가 12월 9일 파업 철회 후 현장으로 복귀했습니다. 정부가 두 차례 업무개시명령을 내리며 강경 대응에 나서자 화물연대는 ‘안전운임제 폐지’라는 최악의 상황을 막기 위해 파업 종료 조합원 총투표를 통해 파업을 철회했습니다. 그러나 파업 종료 사흘 만인 12월 12일 이봉주 화물연대 위원장이 무기한 단식에 들어갔습니다. 정부의 ‘안전운임제 3년 연장’ 약속이 파기될 상황에 놓였기 때문입니다.정부는 지난 6월 화물연대 파업 당시 ‘안전운임제 지속 추진’을 합의했고, 화물연대 파업을 앞둔 11월</content:encoded>
+    </item>
+    <item>
+      <title>‘물류대란’ 대서특필하더니 안전운임제 연장 뒤집은 정부 모르쇠</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307455</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307455</guid>
+      <pubDate>2022-12-15T10:39:59.000Z</pubDate>
+      <content:encoded>민주노총 공공운수노조 화물연대본부(화물연대)가 12월 9일 파업 철회 후 현장으로 복귀했습니다. 정부가 두 차례 업무개시명령을 내리며 강경 대응에 나서자 화물연대는 ‘안전운임제 폐지’라는 최악의 상황을 막기 위해 파업 종료 조합원 총투표를 통해 파업을 철회했습니다. 그러나 파업 종료 사흘 만인 12월 12일 이봉주 화물연대 위원장이 무기한 단식에 들어갔습니다. 정부의 ‘안전운임제 3년 연장’ 약속이 파기될 상황에 놓였기 때문입니다.정부는 지난 6월 화물연대 파업 당시 ‘안전운임제 지속 추진’을 합의했고, 화물연대 파업을 앞둔 11월</content:encoded>
+    </item>
+    <item>
+      <title>尹 “‘자유’ 제거 세력과 함께 못해”, 민주당 “골목대장 연상”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307465</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307465</guid>
+      <pubDate>2022-12-15T13:01:50.000Z</pubDate>
+      <content:encoded>윤석열 대통령이 화물연대 파업 중단 이후 이번엔 거짓 선동 세력, 특히 ‘자유민주주의에서 자유를 제거하려는 세력’과는 함께 할 수 없다고 밝혀 논란이다. 이미 민주주의 안에 ‘자유’라는 개념이 포함돼 있는데 ‘자유민주주의’만 진짜 민주주의라고 인식하는 것 자체가 편협한 인식이라는 비판이 나온다. 또한 그 자유 역시 가진 자와 자신에 대한 지지자들만의 자유가 진정한 자유인지 되묻지 않을 수 없다는 지적도 제기됐다.이재명 대통령실 부대변인은 지난 13일 브리핑에서 윤석열 대통령이 이날 열린 국무회의에서 불법과 타협이 없고, 파업기간 중</content:encoded>
+    </item>
+    <item>
+      <title>尹 “‘자유’ 제거 세력과 함께 못해”, 민주당 “골목대장 연상”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307465</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307465</guid>
+      <pubDate>2022-12-15T13:01:50.000Z</pubDate>
+      <content:encoded>윤석열 대통령이 화물연대 파업 중단 이후 이번엔 거짓 선동 세력, 특히 ‘자유민주주의에서 자유를 제거하려는 세력’과는 함께 할 수 없다고 밝혀 논란이다. 이미 민주주의 안에 ‘자유’라는 개념이 포함돼 있는데 ‘자유민주주의’만 진짜 민주주의라고 인식하는 것 자체가 편협한 인식이라는 비판이 나온다. 또한 그 자유 역시 가진 자와 자신에 대한 지지자들만의 자유가 진정한 자유인지 되묻지 않을 수 없다는 지적도 제기됐다.이재명 대통령실 부대변인은 지난 13일 브리핑에서 윤석열 대통령이 이날 열린 국무회의에서 불법과 타협이 없고, 파업기간 중</content:encoded>
+    </item>
+    <item>
+      <title>[영상] 정진석, 한 달 전만 해도 당원투표 비율 늘리는 데 부정적이었는데...</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307467</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307467</guid>
+      <pubDate>2022-12-15T13:02:38.000Z</pubDate>
+      <content:encoded>정진석 국민의힘 비대위원장이 당대표 선출 전당대회 룰을 두고 ‘한 달 전엔 당원 투표 비율을 늘리는 방안에 부정적이었다가 100% 당원 투표로 분위기가 바뀐 이유’를 묻자 “그때는 (책임당원 인원 증가를) 잘 몰랐다”고 답하며 책임당원 수 증가를 근거로 댔다.정진석 위원장은 또 지난 1년 6개월 사이 책임당원이 28만명에서 79만명으로 늘어난 데 대해 “민노총-586세대-기득권 카르텔에 대항하는 법과 원칙을 세우려는 국민들이 우리 당에 대거 모여들었다”고 평가했다. 특히 이렇게 늘어난 책임당원 수에 따라 100% 당원 투표로만 당대</content:encoded>
+    </item>
+    <item>
+      <title>[영상] 정진석, 한 달 전만 해도 당원투표 비율 늘리는 데 부정적이었는데...</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307467</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307467</guid>
+      <pubDate>2022-12-15T13:02:38.000Z</pubDate>
+      <content:encoded>정진석 국민의힘 비대위원장이 당대표 선출 전당대회 룰을 두고 ‘한 달 전엔 당원 투표 비율을 늘리는 방안에 부정적이었다가 100% 당원 투표로 분위기가 바뀐 이유’를 묻자 “그때는 (책임당원 인원 증가를) 잘 몰랐다”고 답하며 책임당원 수 증가를 근거로 댔다.정진석 위원장은 또 지난 1년 6개월 사이 책임당원이 28만명에서 79만명으로 늘어난 데 대해 “민노총-586세대-기득권 카르텔에 대항하는 법과 원칙을 세우려는 국민들이 우리 당에 대거 모여들었다”고 평가했다. 특히 이렇게 늘어난 책임당원 수에 따라 100% 당원 투표로만 당대</content:encoded>
+    </item>
+    <item>
+      <title>채널A 황순욱 앵커, 갑자기 뉴스 진행 하차한 이유는</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307466</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307466</guid>
+      <pubDate>2022-12-15T13:09:55.000Z</pubDate>
+      <content:encoded>황순욱 채널A 앵커가 지난 10월27일을 끝으로 ‘뉴스A 라이브’에서 하차했다. 채널A는 명확한 하차 이유를 밝히지 않은 채 진행자만 교체했다. 지난해 1월4일 뉴스A 라이브 진행을 맡은 지 1년 663일 만의 하차다.지난 10월 황순욱 앵커가 음주운전 단속에 적발돼 방송에서 하차했다는 제보를 입수했다. 취재 결과 황 앵커가 종로구에서 음주운전 단속에 걸렸다는 정황을 확보할 수 있었다.이에 미디어오늘은 채널A에 공문을 보내 △음주운전 단속 적발 사실여부 확인 △징계 여부 △뉴스A 라이브 진행자 교체 사유를 공개하지 않은 이유 등을</content:encoded>
+    </item>
+    <item>
+      <title>채널A 황순욱 앵커, 갑자기 뉴스 진행 하차한 이유는</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307466</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307466</guid>
+      <pubDate>2022-12-15T13:09:55.000Z</pubDate>
+      <content:encoded>황순욱 채널A 앵커가 지난 10월27일을 끝으로 ‘뉴스A 라이브’에서 하차했다. 채널A는 명확한 하차 이유를 밝히지 않은 채 진행자만 교체했다. 지난해 1월4일 뉴스A 라이브 진행을 맡은 지 1년 663일 만의 하차다.지난 10월 황순욱 앵커가 음주운전 단속에 적발돼 방송에서 하차했다는 제보를 입수했다. 취재 결과 황 앵커가 종로구에서 음주운전 단속에 걸렸다는 정황을 확보할 수 있었다.이에 미디어오늘은 채널A에 공문을 보내 △음주운전 단속 적발 사실여부 확인 △징계 여부 △뉴스A 라이브 진행자 교체 사유를 공개하지 않은 이유 등을</content:encoded>
+    </item>
+    <item>
+      <title>“브래드버리 만들자” 전 쇼트트랙 코치 징계무효 패소</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307469</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307469</guid>
+      <pubDate>2022-12-15T15:14:18.000Z</pubDate>
+      <content:encoded>쇼트트랙 심석희 선수와 함께 동료 욕설 및 비하 행위로 물의를 빚은 조항민 전 국가대표 코치가 빙상연맹을 상대로 징계처분 무효확인 소송을 제기했으나 지난 10월 패소한 것으로 확인됐다. 조 전 코치가 항소하지 않아 판결은 1심에서 원고 패소로 확정됐다.조 전 코치는 대한빙상경기연맹(빙상연맹)이 자신에게 내린 자격정지 6개월 처분은 무효라며 지난 1월 소송을 제기했으나 서울동부지법 제15민사부(재판장 정완)는 지난 10월13일 원고의 청구를 기각했다.디스패치는 지난해 10월 여자 쇼트트랙 국가대표 심석희 선수와 조 전 코치가 2018</content:encoded>
+    </item>
+    <item>
+      <title>“브래드버리 만들자” 전 쇼트트랙 코치 징계무효 패소</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307469</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307469</guid>
+      <pubDate>2022-12-15T15:14:18.000Z</pubDate>
+      <content:encoded>쇼트트랙 심석희 선수와 함께 동료 욕설 및 비하 행위로 물의를 빚은 조항민 전 국가대표 코치가 빙상연맹을 상대로 징계처분 무효확인 소송을 제기했으나 지난 10월 패소한 것으로 확인됐다. 조 전 코치가 항소하지 않아 판결은 1심에서 원고 패소로 확정됐다.조 전 코치는 대한빙상경기연맹(빙상연맹)이 자신에게 내린 자격정지 6개월 처분은 무효라며 지난 1월 소송을 제기했으나 서울동부지법 제15민사부(재판장 정완)는 지난 10월13일 원고의 청구를 기각했다.디스패치는 지난해 10월 여자 쇼트트랙 국가대표 심석희 선수와 조 전 코치가 2018</content:encoded>
+    </item>
+    <item>
+      <title>윤석열 정부 정책주간지, 조선뉴스프레스가 만든다</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307470</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307470</guid>
+      <pubDate>2022-12-15T16:15:43.000Z</pubDate>
+      <content:encoded>월간조선·주간조선 등을 발행하는 조선뉴스프레스가 문화체육관광부가 발행하는 정책주간지 공감 외주제작 우선협상대상자로 선정됐다. 문재인 정부에선 한겨레신문이 제작을 맡아왔는데, 윤석열 정부가 들어서자 보수신문 자회사가 외주제작을 맡는 모양새다.나라장터에 따르면 조선뉴스프레스는 평점 96.1343점(100점 만점)을 받아 우선협상대상자가 됐다. 조선일보는 조선뉴스프레스 지분 98.25%를 보유하고 있다. 조선뉴스프레스는 박근혜 정부 때인 2016년 공감 외주제작 입찰을 따내 2017년~2018년 제작을 맡은 바 있다.조달청 관계자는 미디</content:encoded>
+    </item>
+    <item>
+      <title>윤석열 정부 정책주간지, 조선뉴스프레스가 만든다</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307470</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307470</guid>
+      <pubDate>2022-12-15T16:15:43.000Z</pubDate>
+      <content:encoded>월간조선·주간조선 등을 발행하는 조선뉴스프레스가 문화체육관광부가 발행하는 정책주간지 공감 외주제작 우선협상대상자로 선정됐다. 문재인 정부에선 한겨레신문이 제작을 맡아왔는데, 윤석열 정부가 들어서자 보수신문 자회사가 외주제작을 맡는 모양새다.나라장터에 따르면 조선뉴스프레스는 평점 96.1343점(100점 만점)을 받아 우선협상대상자가 됐다. 조선일보는 조선뉴스프레스 지분 98.25%를 보유하고 있다. 조선뉴스프레스는 박근혜 정부 때인 2016년 공감 외주제작 입찰을 따내 2017년~2018년 제작을 맡은 바 있다.조달청 관계자는 미디</content:encoded>
+    </item>
+    <item>
+      <title>대전시 “허위 내용 유포 엄중 대응” 보도지침 논란</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307471</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307471</guid>
+      <pubDate>2022-12-15T16:17:43.000Z</pubDate>
+      <content:encoded>대전시가 때아닌 ‘보도지침’ 논란에 휩싸였다. 대전시 홍보담당관은 지난 14일 오후 4시57분 대전시청 출입기자단 단톡방에 “대전시와 5개 구 체육회장 선거를 앞두고, 대전시와 관련된 허위 내용을 유포하는 경우, 대전시는 엄중대응할 방침”이라고 공지했다. 그러면서 형법상 명예훼손죄를 근거로 언급했다. 그리고 약 2시간 뒤, KBS는 7시 뉴스에서 “체육계를 정치권으로부터 독립시키자는 취지로 선거가 도입됐는데 여전히 정치권 입김이 거세다”며 “대전에선 현직 구청장이 후보에게 출마를 포기하면 다른 자리를 주겠다고 권유했다는 주장이 제기</content:encoded>
+    </item>
+    <item>
+      <title>대전시 “허위 내용 유포 엄중 대응” 보도지침 논란</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307471</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307471</guid>
+      <pubDate>2022-12-15T16:17:43.000Z</pubDate>
+      <content:encoded>대전시가 때아닌 ‘보도지침’ 논란에 휩싸였다. 대전시 홍보담당관은 지난 14일 오후 4시57분 대전시청 출입기자단 단톡방에 “대전시와 5개 구 체육회장 선거를 앞두고, 대전시와 관련된 허위 내용을 유포하는 경우, 대전시는 엄중대응할 방침”이라고 공지했다. 그러면서 형법상 명예훼손죄를 근거로 언급했다. 그리고 약 2시간 뒤, KBS는 7시 뉴스에서 “체육계를 정치권으로부터 독립시키자는 취지로 선거가 도입됐는데 여전히 정치권 입김이 거세다”며 “대전에선 현직 구청장이 후보에게 출마를 포기하면 다른 자리를 주겠다고 권유했다는 주장이 제기</content:encoded>
+    </item>
+    <item>
+      <title>김만배 자해 이유 “檢 ‘알거지 만들겠다’ 압박수사” 탓?</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307473</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307473</guid>
+      <pubDate>2022-12-15T16:54:37.000Z</pubDate>
+      <content:encoded>대장동 사건의 가장 핵심인물로 꼽히는 화천대유 대주주 김만배씨(전 머니투데이 부국장)가 극단적 선택을 시도한 것으로 확인돼 그 배경이 주목된다.김씨가 대장동 사업 특혜 의혹과 이재명 더불어민주당 대표의 연관성을 설명할 수 있는 진술을 끌어내기 위해 검찰이 김씨의 대장동 사업수익마저 모두 환수하기 위해 그의 주변 인사에 대대적 수사에 나선 데 따른 압박으로 보는 시각과, 뭔가 꼬리를 잡힌 것 아니냐는 해석도 나온다. 민주당은 검찰 수사 자체에 인권침해 요소가 있다며 반발하는 목소리도 나왔다.경기도 수원 중부경찰서의 이 사건 관계자는</content:encoded>
+    </item>
+    <item>
+      <title>김만배 자해 이유 “檢 ‘알거지 만들겠다’ 압박수사” 탓?</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307473</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307473</guid>
+      <pubDate>2022-12-15T16:54:37.000Z</pubDate>
+      <content:encoded>대장동 사건의 가장 핵심인물로 꼽히는 화천대유 대주주 김만배씨(전 머니투데이 부국장)가 극단적 선택을 시도한 것으로 확인돼 그 배경이 주목된다.김씨가 대장동 사업 특혜 의혹과 이재명 더불어민주당 대표의 연관성을 설명할 수 있는 진술을 끌어내기 위해 검찰이 김씨의 대장동 사업수익마저 모두 환수하기 위해 그의 주변 인사에 대대적 수사에 나선 데 따른 압박으로 보는 시각과, 뭔가 꼬리를 잡힌 것 아니냐는 해석도 나온다. 민주당은 검찰 수사 자체에 인권침해 요소가 있다며 반발하는 목소리도 나왔다.경기도 수원 중부경찰서의 이 사건 관계자는</content:encoded>
+    </item>
+    <item>
+      <title>기사 삭제로 돈 뜯어내는 언론계, ‘6대4 분배’ 계약서도 있었다</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307474</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307474</guid>
+      <pubDate>2022-12-15T18:00:21.000Z</pubDate>
+      <content:encoded>풍문성 기사를 게재한 후 기사 삭제를 대가로 뜯어낸 협찬·광고 수익을 분배한 업체들의 계약은 무효라는 판결이 나왔다. 풍문성 기사를 생산한 후 기사 삭제를 대가로 기사 대상자에게 돈을 뜯어내는 행위가 하나의 계약 형태로 자리 잡았음을 시사하는 사례다. 서울남부지법 제4-2민사부(재판장 권순호)가 지난 10월14일 피고 손을 들어준 위약벌청구소송 항소심을 보면, 원고인 주식회사 A사는 방송 및 정보통신사업, 뉴미디어 사업, 모바일 콘텐츠 제작 등을 하는 업체다. 피고인 B사는 인터넷 매체를 발행하는 업체다.A사와 B사는 2020년 8</content:encoded>
+    </item>
+    <item>
+      <title>기사 삭제로 돈 뜯어내는 언론계, ‘6대4 분배’ 계약서도 있었다</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307474</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307474</guid>
+      <pubDate>2022-12-15T18:00:21.000Z</pubDate>
+      <content:encoded>풍문성 기사를 게재한 후 기사 삭제를 대가로 뜯어낸 협찬·광고 수익을 분배한 업체들의 계약은 무효라는 판결이 나왔다. 풍문성 기사를 생산한 후 기사 삭제를 대가로 기사 대상자에게 돈을 뜯어내는 행위가 하나의 계약 형태로 자리 잡았음을 시사하는 사례다. 서울남부지법 제4-2민사부(재판장 권순호)가 지난 10월14일 피고 손을 들어준 위약벌청구소송 항소심을 보면, 원고인 주식회사 A사는 방송 및 정보통신사업, 뉴미디어 사업, 모바일 콘텐츠 제작 등을 하는 업체다. 피고인 B사는 인터넷 매체를 발행하는 업체다.A사와 B사는 2020년 8</content:encoded>
+    </item>
+    <item>
+      <title>조선일보 ‘청춘 떼죽음·망국 좌파의 몽상’, 2차 가해와 뭐가 다른가</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307472</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307472</guid>
+      <pubDate>2022-12-15T18:05:33.000Z</pubDate>
+      <content:encoded>10‧29 이태원 참사 유가족협의회가 12월10일 출범했습니다. 권성동 국민의힘 의원은 유가족협의회 출범 소식에 소셜미디어를 통해 “이태원이 세월호와 같은 길을 가서는 안 된다”, “시민단체가 조직적으로 결합해서 정부를 압박하는 방식은 지양해야 한다”, “세월호처럼 정쟁으로 소비되다가 시민단체의 횡령수단으로 악용될 가능성이 있기 때문”이라고 주장해 많은 비판을 받았습니다. 유가족협의회 출범에 대한 언론 보도는 어떠했을까요?중앙일보‧한국경제, 유가족협의회 출범 무보도민주언론시민연합은 12월12일부터 15일까지 경향신문, 동아일보, 조</content:encoded>
+    </item>
+    <item>
+      <title>조선일보 ‘청춘 떼죽음·망국 좌파의 몽상’, 2차 가해와 뭐가 다른가</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307472</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307472</guid>
+      <pubDate>2022-12-15T18:05:33.000Z</pubDate>
+      <content:encoded>10‧29 이태원 참사 유가족협의회가 12월10일 출범했습니다. 권성동 국민의힘 의원은 유가족협의회 출범 소식에 소셜미디어를 통해 “이태원이 세월호와 같은 길을 가서는 안 된다”, “시민단체가 조직적으로 결합해서 정부를 압박하는 방식은 지양해야 한다”, “세월호처럼 정쟁으로 소비되다가 시민단체의 횡령수단으로 악용될 가능성이 있기 때문”이라고 주장해 많은 비판을 받았습니다. 유가족협의회 출범에 대한 언론 보도는 어떠했을까요?중앙일보‧한국경제, 유가족협의회 출범 무보도민주언론시민연합은 12월12일부터 15일까지 경향신문, 동아일보, 조</content:encoded>
+    </item>
+    <item>
+      <title>[영상] 윤 대통령 “10여 년 전엔 마약 청정국... 어느 때부터 검찰 손 놔”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307476</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307476</guid>
+      <pubDate>2022-12-15T18:19:34.000Z</pubDate>
+      <content:encoded>윤석열 대통령이 10여 년 전엔 마약 청정국이었다며 자신이 검사 시절엔 검경이 밤잠 안 자고 휴일도 없이 마약 단속을 했는데 언제부터인지 검찰이 손을 놨다고 말했다.윤석열 대통령은 15일 1차 국정과제 점검회의에서 마약 관련 질문이 나오자 “약 10여 년 전에는 우리나라가 마약 청정국이라고 했다”며 “제가 검사 시절에 검경에서 엄청나게 마약 제조 유통 밀수 조직들을 단속을 했고, 이를테면 서울중앙지검에 강력부 검사가 8이다 그러면 조직폭력 1234, 마약 1234 이렇게 했다. 또 많은 경찰과 보건복지부에 사법경찰들 해가지고 한 팀</content:encoded>
+    </item>
+    <item>
+      <title>[영상] 윤 대통령 “10여 년 전엔 마약 청정국... 어느 때부터 검찰 손 놔”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307476</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307476</guid>
+      <pubDate>2022-12-15T18:19:34.000Z</pubDate>
+      <content:encoded>윤석열 대통령이 10여 년 전엔 마약 청정국이었다며 자신이 검사 시절엔 검경이 밤잠 안 자고 휴일도 없이 마약 단속을 했는데 언제부터인지 검찰이 손을 놨다고 말했다.윤석열 대통령은 15일 1차 국정과제 점검회의에서 마약 관련 질문이 나오자 “약 10여 년 전에는 우리나라가 마약 청정국이라고 했다”며 “제가 검사 시절에 검경에서 엄청나게 마약 제조 유통 밀수 조직들을 단속을 했고, 이를테면 서울중앙지검에 강력부 검사가 8이다 그러면 조직폭력 1234, 마약 1234 이렇게 했다. 또 많은 경찰과 보건복지부에 사법경찰들 해가지고 한 팀</content:encoded>
+    </item>
+    <item>
+      <title>우리가 IP 가져오면 넷플릭스 투자 안 한다? “프랑스 사례 보라”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307475</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307475</guid>
+      <pubDate>2022-12-15T18:24:34.000Z</pubDate>
+      <content:encoded>콘텐츠 산업의 핵심이 콘텐츠를 둘러싼 IP(지식재산권) 확보임은 이제 상식이 됐다. 넷플릭스가 제작한 한국 콘텐츠 ‘오징어게임’이 글로벌적인 성공을 거뒀지만 IP가 넷플릭스에 있었기에 한국 창작자들은 추가 이익을 얻지 못한 반면, ‘이상한 나라의 우영우’의 경우 제작사가 IP를 가져왔기에 리메이크나 시즌2, 웹툰 등을 통한 추가 수익을 낼 수 있었다는 게 대표적 사례다.반면 IP를 글로벌 OTT가 아닌, 제작사에 넘기는 계약 등이 확대된다면 글로벌 OTT의 한국 콘텐츠 투자가 위축될 것이라는 반론도 있다. 그러나 프랑스의 경우 넷플</content:encoded>
+    </item>
+    <item>
+      <title>우리가 IP 가져오면 넷플릭스 투자 안 한다? “프랑스 사례 보라”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307475</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307475</guid>
+      <pubDate>2022-12-15T18:24:34.000Z</pubDate>
+      <content:encoded>콘텐츠 산업의 핵심이 콘텐츠를 둘러싼 IP(지식재산권) 확보임은 이제 상식이 됐다. 넷플릭스가 제작한 한국 콘텐츠 ‘오징어게임’이 글로벌적인 성공을 거뒀지만 IP가 넷플릭스에 있었기에 한국 창작자들은 추가 이익을 얻지 못한 반면, ‘이상한 나라의 우영우’의 경우 제작사가 IP를 가져왔기에 리메이크나 시즌2, 웹툰 등을 통한 추가 수익을 낼 수 있었다는 게 대표적 사례다.반면 IP를 글로벌 OTT가 아닌, 제작사에 넘기는 계약 등이 확대된다면 글로벌 OTT의 한국 콘텐츠 투자가 위축될 것이라는 반론도 있다. 그러나 프랑스의 경우 넷플</content:encoded>
+    </item>
+    <item>
+      <title>마사회, 21일 YTN 지분매각 결정 “정부 전화 한 통에…정권 눈치보기”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307477</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307477</guid>
+      <pubDate>2022-12-15T18:46:17.000Z</pubDate>
+      <content:encoded>한국마사회가 오는 21일 이사회를 열고 보유한 YTN 주식 9.52% 매각 추진을 결정할 예정이다. 마사회 내부에선 지난주부터 소관 부처인 농림축산식품부가 전화와 면담 등으로 연내 지분 매각을 지시한 뒤 마사회가 매각 결정 시점을 급히 앞당긴 것으로 알려졌다. 구성원들은 ‘정권 눈치보기이자 경영간섭’이라며 반대 목소리를 냈다. 전국언론노동조합 YTN지부도 “강제 매각을 반드시 막아내겠다”고 밝혔다.마사회 등에 따르면 마사회는 오는 12일 이사회를 열고 YTN 지분 매각 안건을 상정해 논의할 예정이다. 한국노총 공공노련 한국마사회노조</content:encoded>
+    </item>
+    <item>
+      <title>마사회, 21일 YTN 지분매각 결정 “정부 전화 한 통에…정권 눈치보기”</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307477</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307477</guid>
+      <pubDate>2022-12-15T18:46:17.000Z</pubDate>
+      <content:encoded>한국마사회가 오는 21일 이사회를 열고 보유한 YTN 주식 9.52% 매각 추진을 결정할 예정이다. 마사회 내부에선 지난주부터 소관 부처인 농림축산식품부가 전화와 면담 등으로 연내 지분 매각을 지시한 뒤 마사회가 매각 결정 시점을 급히 앞당긴 것으로 알려졌다. 구성원들은 ‘정권 눈치보기이자 경영간섭’이라며 반대 목소리를 냈다. 전국언론노동조합 YTN지부도 “강제 매각을 반드시 막아내겠다”고 밝혔다.마사회 등에 따르면 마사회는 오는 12일 이사회를 열고 YTN 지분 매각 안건을 상정해 논의할 예정이다. 한국노총 공공노련 한국마사회노조</content:encoded>
+    </item>
+    <item>
+      <title>여론조사꽃 윤석열 지지도 41%…김어준에 반색한 국민의힘</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307479</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307479</guid>
+      <pubDate>2022-12-15T20:04:38.000Z</pubDate>
+      <content:encoded>TBS 라디오 김어준의 뉴스공장을 진행하는 방송인 김어준씨가 운영하는 여론조사기관 ‘여론조사 꽃’의 조사결과 윤석열 대통령의 최근 국정지지도가 41%를 상회하자 국민의힘이 반색하고 나섰다.불과 이틀 전까지만 해도 제2, 제3의 김어준이 나오지 않도록 발본색원하고 김씨를 철저히 수사하라던 국민의힘은 윤 대통령 지지도가 높게 나오자 “화물연대 파업을 법과 원칙에 따라 단호히 대응한 데 대해 국민이 높이 평가했다”고 자평했다.여론조사 꽃이 지난 14일 공표한 정례여론조사결과에 따르면, 이 기관은 지난 11일부터 12일까지 이틀간 전국 만</content:encoded>
+    </item>
+    <item>
+      <title>여론조사꽃 윤석열 지지도 41%…김어준에 반색한 국민의힘</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307479</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307479</guid>
+      <pubDate>2022-12-15T20:04:38.000Z</pubDate>
+      <content:encoded>TBS 라디오 김어준의 뉴스공장을 진행하는 방송인 김어준씨가 운영하는 여론조사기관 ‘여론조사 꽃’의 조사결과 윤석열 대통령의 최근 국정지지도가 41%를 상회하자 국민의힘이 반색하고 나섰다.불과 이틀 전까지만 해도 제2, 제3의 김어준이 나오지 않도록 발본색원하고 김씨를 철저히 수사하라던 국민의힘은 윤 대통령 지지도가 높게 나오자 “화물연대 파업을 법과 원칙에 따라 단호히 대응한 데 대해 국민이 높이 평가했다”고 자평했다.여론조사 꽃이 지난 14일 공표한 정례여론조사결과에 따르면, 이 기관은 지난 11일부터 12일까지 이틀간 전국 만</content:encoded>
+    </item>
+    <item>
+      <title>언론사들이 ‘물로 보는’ 시정권고, 실효성 높일 수 없나</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307480</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307480</guid>
+      <pubDate>2022-12-15T23:48:21.000Z</pubDate>
+      <content:encoded>언론중재위원회는 언론중재법에 따라 시정권고 소위원회를 두고 언론보도에 의한 국가적 법익이나 사회적 법익, 개인적 법익 침해사항을 심의해 위반이 인정되는 경우 해당 언론사에 시정을 권고하고 있다. 1981년부터 2022년(9월 기준)까지 이뤄진 시정권고는 모두 1만5438건. 매체 환경 변화에 따라 시정권고 대상 매체는 일간신문 170곳, 인터넷신문 2380곳 등 2682곳으로 늘어났고, 시정권고 건수도 증가세다. 하지만 시정권고가 ‘권고를 위한 권고’에 그치며 실효성이 부족하다는 지적이 반복되고 있다. 15일 ‘언론중재위원회 시정권</content:encoded>
+    </item>
+    <item>
+      <title>언론사들이 ‘물로 보는’ 시정권고, 실효성 높일 수 없나</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307480</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307480</guid>
+      <pubDate>2022-12-15T23:48:21.000Z</pubDate>
+      <content:encoded>언론중재위원회는 언론중재법에 따라 시정권고 소위원회를 두고 언론보도에 의한 국가적 법익이나 사회적 법익, 개인적 법익 침해사항을 심의해 위반이 인정되는 경우 해당 언론사에 시정을 권고하고 있다. 1981년부터 2022년(9월 기준)까지 이뤄진 시정권고는 모두 1만5438건. 매체 환경 변화에 따라 시정권고 대상 매체는 일간신문 170곳, 인터넷신문 2380곳 등 2682곳으로 늘어났고, 시정권고 건수도 증가세다. 하지만 시정권고가 ‘권고를 위한 권고’에 그치며 실효성이 부족하다는 지적이 반복되고 있다. 15일 ‘언론중재위원회 시정권</content:encoded>
+    </item>
+    <item>
+      <title>경향, 국정점검회의에 &quot;대통령 하고 싶은 얘기 전달 일방적 소통&quot;</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307481</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307481</guid>
+      <pubDate>2022-12-16T07:52:11.000Z</pubDate>
+      <content:encoded>지난 15일 윤석열 대통령 취임 7개월 만에 제1차 국정과제점검회의가 열렸다. 이날 회의는 윤 정부 120개 국정과제 중 경제·민생, 지방시대, 3대 개혁(노동·교육·연금)에 대한 계획을 설명하는 시간으로 이뤄졌다. 윤 대통령은 이날 연금·노동·교육 등 3대 개혁과제에 대해 “개혁은 인기 없는 일이지만 회피하지 않고 반드시 우리가 해내야 한다”며 “지속가능성을 위해 필수”라고 말했다. 특히 “노동개혁을 이뤄내지 못한다면, 노동문제가 정쟁과 정치적 문제로 흘러가면 정치도 망하고 경제도 망하게 된다”고 강조했다. 16일 아침신문들은 모</content:encoded>
+    </item>
+    <item>
+      <title>경향, 국정점검회의에 &quot;대통령 하고 싶은 얘기 전달 일방적 소통&quot;</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=307481</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=307481</guid>
+      <pubDate>2022-12-16T07:52:11.000Z</pubDate>
+      <content:encoded>지난 15일 윤석열 대통령 취임 7개월 만에 제1차 국정과제점검회의가 열렸다. 이날 회의는 윤 정부 120개 국정과제 중 경제·민생, 지방시대, 3대 개혁(노동·교육·연금)에 대한 계획을 설명하는 시간으로 이뤄졌다. 윤 대통령은 이날 연금·노동·교육 등 3대 개혁과제에 대해 “개혁은 인기 없는 일이지만 회피하지 않고 반드시 우리가 해내야 한다”며 “지속가능성을 위해 필수”라고 말했다. 특히 “노동개혁을 이뤄내지 못한다면, 노동문제가 정쟁과 정치적 문제로 흘러가면 정치도 망하고 경제도 망하게 된다”고 강조했다. 16일 아침신문들은 모</content:encoded>
     </item>
   </channel>
 </rss>
