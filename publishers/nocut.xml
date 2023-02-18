@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>노컷뉴스 - 전체</title>
-    <link>http://rss.nocutnews.co.kr/news/news.xml</link>
-    <description>노컷뉴스 - 전체</description>
-    <lastBuildDate>2023-02-17T00:08:37.790Z</lastBuildDate>
+    <title>노컷뉴스 - 연예</title>
+    <link>http://rss.nocutnews.co.kr/category/entertainment.xml</link>
+    <description>노컷뉴스 - 연예</description>
+    <lastBuildDate>2023-02-18T00:07:36.193Z</lastBuildDate>
     <item>
       <title>대우건설 &apos;푸르지오&apos;, 한국서비스대상 2년 연속 아파트부문 종합대상</title>
       <link>https://www.nocutnews.co.kr/news/5584531</link>
@@ -480,27 +480,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>[칼럼]&apos;UAE의 적이 이란&apos;이라는 대통령의 견해에 대하여</title>
-      <link>https://www.nocutnews.co.kr/news/5881794</link>
-      <guid>https://www.nocutnews.co.kr/news/5881794</guid>
-      <pubDate>2023-01-18T11:40:32.000Z</pubDate>
-      <content:encoded>
-        생전 처음 듣는 생소하기 짝이 없는 견해였다. &quot;우리의 형제 국가인 UAE의 안보는 바로 우리의 안보&quot;라는 윤석열 대통령의 발언 말이다. 윤 대통령은 &quot;UAE의 적은, 가장 위협적인 국가는 이란이고 우리 적은 북한&quot;이라고 덧붙였다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>[뒤끝작렬]검사출신 처장님, 분란은 누가 일으켰나요?</title>
-      <link>https://www.nocutnews.co.kr/news/5881789</link>
-      <guid>https://www.nocutnews.co.kr/news/5881789</guid>
-      <pubDate>2023-01-18T11:43:09.000Z</pubDate>
-      <content:encoded>
-        본말전도(本末顚倒).
-        ?
-        17일 열린 국회 외교통일위원회 현안질의를 보면서 든 생각이다.
-      </content:encoded>
-    </item>
-    <item>
       <title>[뒤끝작렬]尹 &apos;외교 설화&apos; 부채질하는 여당 의원들</title>
       <link>https://www.nocutnews.co.kr/news/5882312</link>
       <guid>https://www.nocutnews.co.kr/news/5882312</guid>
@@ -593,133 +572,11 @@
       </content:encoded>
     </item>
     <item>
-      <title>&quot;성경은 2천 년 동안 바뀌지 않았다&quot; 신천지 탈퇴자 위한 무료 세미나</title>
-      <link>https://www.nocutnews.co.kr/news/5893547</link>
-      <guid>https://www.nocutnews.co.kr/news/5893547</guid>
-      <pubDate>2023-02-10T22:37:31.000Z</pubDate>
-      <content:encoded>상록교회 이단상담소가 10일 &apos;신천지 성경 해석의 오류를 밝힌다&apos;는 주제로 세미나를 열고 신천지 교리의 허구성을 비판했습니다.</content:encoded>
-    </item>
-    <item>
-      <title>[CBS논평] 지진 피해를 입은 튀르키예를 도웁시다! - 지형은 목사</title>
-      <link>https://www.nocutnews.co.kr/news/5893550</link>
-      <guid>https://www.nocutnews.co.kr/news/5893550</guid>
-      <pubDate>2023-02-10T23:19:13.000Z</pubDate>
-      <content:encoded>지난 6일 새벽에 튀르키예 남부에서 규모 7.8의 강진이 발생했습니다. 히로시마 원폭보다 몇 십 배 강한 에너지가 터키 남부와 시리아 북부를 강타했습니다. 시간이 지나면서 사망자가 폭증하고 있습니다.</content:encoded>
-    </item>
-    <item>
       <title>[기고]김주애 앞세우고 도발 예고하는 김정은: 극장정치 가족오락관 수준</title>
       <link>https://www.nocutnews.co.kr/news/5893481</link>
       <guid>https://www.nocutnews.co.kr/news/5893481</guid>
       <pubDate>2023-02-11T06:00:00.000Z</pubDate>
       <content:encoded>37일간 잠행 끝에 김정은 북한 국무위원장이 전격 등장했다. 김 위원장이 한 달 정도 북한 언론에 등장하지 않으면 자연스럽게 건강이상설이 흘러나온다. 새해 첫날 금수산기념궁전 참배와 소년단 만남 이후 공개활동이 없어 혹시 코로나에 감염되어서 두문불출했나 혹은 신변 이상이 발생했나 해서 궁금증이 고조될 찰나에 전격 등판했다. 코로나 등 내부 동향은 파악이 어</content:encoded>
-    </item>
-    <item>
-      <title>[파고들기]하이브, &apos;라이벌&apos; SM 인수 시작…지분 싸움 가열</title>
-      <link>https://www.nocutnews.co.kr/news/5893558</link>
-      <guid>https://www.nocutnews.co.kr/news/5893558</guid>
-      <pubDate>2023-02-11T08:00:00.000Z</pubDate>
-      <content:encoded>&apos;이수만 단일 총괄 프로듀서 체제&apos; 아닌 &apos;멀티 제작센터/레이블 체계&apos; 도입을 핵심으로 한 &apos;SM 3.0&apos; 발표(2월 3일)→SM과 카카오의 전략적 파트너십 체결 및 카카오의 SM 지분 9.05% 확보 계획(2월 7일)→이수만 대주주의 SM 상대 신주 및 전환사채 발행금지 가처분 신청(2월 8일)→SM 지분 공개 매수 등을 지속 검토하고 있으나 확정된 사항</content:encoded>
-    </item>
-    <item>
-      <title>&apos;주기자&apos; 주현영, 튀르키예·시리아 위해 3천만원 기탁</title>
-      <link>https://www.nocutnews.co.kr/news/5893583</link>
-      <guid>https://www.nocutnews.co.kr/news/5893583</guid>
-      <pubDate>2023-02-11T14:18:20.000Z</pubDate>
-      <content:encoded>
-        배우 주현영이 튀르키예·시리아 강진 피해 복구를 위해 마음을 보탰다.
-        ?
-        희망브리지 전국재해구호협회는 배우 주현영이 튀르키예와 시리아에서 발생한 강진으로 피해를 본 이재민들을 위해 써달라며 성금 3천만원을 전해왔다고 11일 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>2막 앞둔 &apos;일타 스캔들&apos;, 업그레이드된 관전 포인트</title>
-      <link>https://www.nocutnews.co.kr/news/5893597</link>
-      <guid>https://www.nocutnews.co.kr/news/5893597</guid>
-      <pubDate>2023-02-11T15:48:44.000Z</pubDate>
-      <content:encoded>
-        본격적인 2막의 시작을 앞둔 &apos;일타 스캔들&apos;이 더욱더 뜨겁게 불타오를 로맨스 등 업그레이드된 관전 포인트를 전했다.
-        ?
-        tvN 토일드라마 &apos;일타 스캔들&apos;은 사교육 전쟁터에서 펼쳐지는 국가대표 반찬가게 열혈 사장과 대한민국 수학 일타 강사의 달콤 쌉싸름한 로맨스를 그린 작품이다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;분노의 질주: 라이드 오어 다이&apos; 공식 예고편 글로벌 동시 공개</title>
-      <link>https://www.nocutnews.co.kr/news/5893607</link>
-      <guid>https://www.nocutnews.co.kr/news/5893607</guid>
-      <pubDate>2023-02-11T16:46:05.000Z</pubDate>
-      <content:encoded>
-        전 세계가 열광하는 액션 프랜차이즈 &apos;분노의 질주&apos; 시리즈의 화려한 컴백을 알릴 &apos;분노의 질주: 라이드 오어 다이&apos;가 오는 5월 17일 국내 개봉을 확정 지은 데 이어 공식 예고편을 글로벌 동시 공개했다.
-        ?
-        오늘(11일) 공개된 &apos;분노의 질주: 라이드 오어 다이&apos; 공식 예고편과 런칭 스틸은 시리즈의 마지막을 향해 달려가는 짜릿한 질주를 담고 있다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>배우 천우희, 튀르키예·시리아 지진 성금 2천만원 기탁</title>
-      <link>https://www.nocutnews.co.kr/news/5893608</link>
-      <guid>https://www.nocutnews.co.kr/news/5893608</guid>
-      <pubDate>2023-02-11T17:12:45.000Z</pubDate>
-      <content:encoded>
-        배우 천우희가 튀르키예·시리아 지진 피해 이웃을 돕기 위해 손길을 보탰다.
-        ?
-        희망브리지 전국재해구호협회는 배우 천우희가 튀르키예?시리아 지진피해 이웃돕기 성금으로 2천만원을 맡겨왔다고 11일 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>유아인 &apos;프로포폴·대마 의혹&apos;에 영화·OTT·광고계 &apos;진퇴양난&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5893615</link>
-      <guid>https://www.nocutnews.co.kr/news/5893615</guid>
-      <pubDate>2023-02-11T17:32:15.000Z</pubDate>
-      <content:encoded>
-        배우 유아인이 프로포폴 상습 투약 혐의로 경찰 조사를 받은 데 이어 조사 과정에서 &apos;대마&apos; 양성 반응을 보인 것으로 확인되며 영화계와 OTT(온라인동영상서비스)는 물론 광고계까지 난감한 상황에 처했다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>웹툰 작가 야옹이, 탈세 혐의 세무조사 인정…&quot;심려 끼쳐 죄송&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5893622</link>
-      <guid>https://www.nocutnews.co.kr/news/5893622</guid>
-      <pubDate>2023-02-11T18:04:06.000Z</pubDate>
-      <content:encoded>
-        &apos;탈세 의혹&apos;을 받았던 인기 웹툰 &apos;여신강림&apos;의 야옹이 작가(본명 김나영)가 국세청 세무조사 사실을 인정했다.
-        ?
-        야옹이 작가는 11일 자신의 인스타그램에 입장문을 올리고 &quot;제 작품을 즐겨 봐주시는 독자님들께 최근 언론 보도와 관련해 말씀드리고자 한다&quot;며 &quot;먼저 좋지 않은 소식으로 독자님들께 심려를 끼쳐 죄송하다&quot;고 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>[노컷 리뷰]음악·연기는 합격점이지만…뮤지컬 &apos;베토벤&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5893641</link>
-      <guid>https://www.nocutnews.co.kr/news/5893641</guid>
-      <pubDate>2023-02-12T08:00:00.000Z</pubDate>
-      <content:encoded>창작뮤지컬 &apos;베토벤&apos;은 올해 최고 기대작으로 꼽혔다. 베토벤의 감춰진 사랑 이야기라는 소재가 눈길을 잡아끌었다. 스테디셀러 뮤지컬 &apos;모차르트!&apos; &apos;엘리자벳&apos; &apos;레베카&apos; 등을 만든 작가 미하엘 쿤체 와 작곡가 실베스터 르베이 콤비가 7년에 걸친 담금질 끝에 내놓은 신작이라 더욱 기대가 컸다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;법쩐&apos; 사필귀정 해피엔딩…11.1% 유종의 미 거뒀다</title>
-      <link>https://www.nocutnews.co.kr/news/5893664</link>
-      <guid>https://www.nocutnews.co.kr/news/5893664</guid>
-      <pubDate>2023-02-12T10:01:38.000Z</pubDate>
-      <content:encoded>
-        이선균·문채원의 &apos;법쩐&apos;이 &apos;사필귀정 엔딩&apos;으로 유종의 미를 거뒀다.
-        
-        지난 11일 방송된 SBS 금토드라마 &apos;법쩐&apos; 최종회는 시청률 11.1%(닐슨코리아 전국 기준)를 기록하며 12부작 여정을 마무리했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;1박 2일&apos; 베스트 드라이버는? 김종민의 짠내 &apos;수난기&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5893671</link>
-      <guid>https://www.nocutnews.co.kr/news/5893671</guid>
-      <pubDate>2023-02-12T10:38:24.000Z</pubDate>
-      <content:encoded>
-        &apos;1박 2일&apos; 베테랑 김종민의 짠내 가득 수난기가 펼쳐진다.
-        
-        12일 방송되는 KBS 2TV &apos;1박 2일 시즌4&apos;(이하 &apos;1박 2일&apos;)에서는 여섯 남자의 &apos;몸개그&apos; 현장이 그려진다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>BTS 이어 블랙핑크도 &apos;고배&apos;…英 브릿 어워즈 수상 불발</title>
-      <link>https://www.nocutnews.co.kr/news/5893686</link>
-      <guid>https://www.nocutnews.co.kr/news/5893686</guid>
-      <pubDate>2023-02-12T11:18:54.000Z</pubDate>
-      <content:encoded>그룹 블랙핑크가 영국 최고 권위 대중음악상인 브릿 어워즈(BRIT Awards) 수상에 고배를 마셨다.</content:encoded>
     </item>
     <item>
       <title>&apos;신이 내린 목소리&apos; 7연승 도전 성공? &quot;선곡이 반칙&quot;</title>
@@ -751,45 +608,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>이랜드그룹, 튀르키예에 23억 상당 긴급구호물품 지원</title>
-      <link>https://www.nocutnews.co.kr/news/5893805</link>
-      <guid>https://www.nocutnews.co.kr/news/5893805</guid>
-      <pubDate>2023-02-12T18:15:42.000Z</pubDate>
-      <content:encoded>
-        이랜드그룹이 지진 피해를 입은 튀르키예에 23억원 상당의 긴급구호물품을 지원한다고 10일 밝혔다.
-        ?
-        긴급구호물품은 주한 튀르키예 대사관에서 필요하다고 공개한 품목들로, 코트와 점퍼 등 아우터류와 발열 내의, 웜부츠, 운동화, 패딩슬리퍼, 속옷 등으로 구성 됐다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;난지도의 성자&apos; 故 황광은 목사 탄생 100주년 기념예배</title>
-      <link>https://www.nocutnews.co.kr/news/5893806</link>
-      <guid>https://www.nocutnews.co.kr/news/5893806</guid>
-      <pubDate>2023-02-12T18:15:56.000Z</pubDate>
-      <content:encoded>
-        &apos;난지도의 성자&apos;로 불리는 황광은 목사(1923~1970)의 탄생 100주년 기념예배가 오는 19일, 서울 성북구 영암교회에서 열린다.
-        
-        1923년 평북 용천에서 태어난 고 황광은 목사는 1970년 지병으로 세상을 떠날 때까지 평생을 빈민과 고아, 어려운 환경의 청소년들을 위해 헌신한 목회자이다. ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>[2023년 희망을 말한다] 우리사회 노동문제, &apos;샬롬&apos;의 문제</title>
-      <link>https://www.nocutnews.co.kr/news/5893807</link>
-      <guid>https://www.nocutnews.co.kr/news/5893807</guid>
-      <pubDate>2023-02-12T18:22:40.000Z</pubDate>
-      <content:encoded>
-        [앵커]
-        CBS는 올 한해 각 분야 전문가들의 계획과 전망을 들어보고 있습니다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>튀르키예-시리아 위해 한마음으로 기도한 한국교회</title>
-      <link>https://www.nocutnews.co.kr/news/5893808</link>
-      <guid>https://www.nocutnews.co.kr/news/5893808</guid>
-      <pubDate>2023-02-12T18:22:52.000Z</pubDate>
-      <content:encoded>튀르키예-시리아 강진 발생 이후 첫 주일을 맞이한 한국교회가 지진 피해자들을 위해 한마음으로 기도했다. 각 교회들은 예배시간 튀르키예-시리아를 위한 특별기도와 헌금을 진행하는 등 희생자와 피해자들을 위로하고, 적극적인 피해 지원을 다짐했다.</content:encoded>
-    </item>
-    <item>
       <title>[뒤끝작렬]&quot;문재인은 확신범&quot; 아베 회고록 인용보도는 괜찮나요</title>
       <link>https://www.nocutnews.co.kr/news/5893764</link>
       <guid>https://www.nocutnews.co.kr/news/5893764</guid>
@@ -801,13 +619,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>[다시, 보기]성대결→약자 희화화…혐오 키우는 OTT 예능</title>
-      <link>https://www.nocutnews.co.kr/news/5893820</link>
-      <guid>https://www.nocutnews.co.kr/news/5893820</guid>
-      <pubDate>2023-02-13T06:00:00.000Z</pubDate>
-      <content:encoded>바야흐로 OTT 예능프로그램 전성기다. 넷플릭스 오리지널 &apos;피지컬: 100&apos;은 한국 예능 최초로 넷플릭스 전세계 1위에 올랐고, 쿠팡플레이 &apos;SNL 코리아 시즌3&apos;(이하 &apos;SNL 코리아&apos;)은 유튜브 숏츠(짧은 길이의 동영상 형식)에서 숱한 화제를 낳고 있다.</content:encoded>
-    </item>
-    <item>
       <title>배우 전종서, 12일 부친상</title>
       <link>https://www.nocutnews.co.kr/news/5893861</link>
       <guid>https://www.nocutnews.co.kr/news/5893861</guid>
@@ -816,17 +627,6 @@
         배우 전종서가 부친상을 당했다.
         ?
         소속사 등에 따르면 배우 전종서의 부친은 지난 12일 투병 끝에 별세했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>1원짜리 참기름병이 국보가 됐다고?…백자에 담긴 기막힌 사연</title>
-      <link>https://www.nocutnews.co.kr/news/5893935</link>
-      <guid>https://www.nocutnews.co.kr/news/5893935</guid>
-      <pubDate>2023-02-13T10:07:05.000Z</pubDate>
-      <content:encoded>
-        1920년대 경기도 팔당 인근에 살던 한 할머니가 나물을 캐다가 흰색 병을 발견했다. 목이 길어 참기름을 담기에 좋을만한 병이었다.
-        
-        할머니는 직접 짠 참기름을 병에 담아 상인에게 1원을 받고 팔았다.
       </content:encoded>
     </item>
     <item>
@@ -881,28 +681,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>물리학자가 빚은 자연의 황홀함…이기우 개인전</title>
-      <link>https://www.nocutnews.co.kr/news/5894228</link>
-      <guid>https://www.nocutnews.co.kr/news/5894228</guid>
-      <pubDate>2023-02-13T14:47:59.000Z</pubDate>
-      <content:encoded>
-        재미 사진작가 이기우 초대 개인전이 2월 13일부터 24일까지 서울 역삼동 벨라한 갤러리에서 열린다.
-        
-        이기우 작가는 50여 년 전 서울대학교 물리학과를 졸업하고 미국으로 건너가 물리학 박사 과정을 밟은 후 여러 대학교에서 후학을 양성했다. 1989년부터 나노(Nano) R&amp;D 분야에서 많은 성과를 거뒀고 미국 정부연구소에서 은퇴했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>이정식 노동장관 &quot;올해는 포괄임금 오·남용 근절 원년&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5894294</link>
-      <guid>https://www.nocutnews.co.kr/news/5894294</guid>
-      <pubDate>2023-02-13T15:46:14.000Z</pubDate>
-      <content:encoded>
-        고용노동부 이정식 장관이 13일 정보기술(IT) 기업 노조 지회장과 근로자들을 만나 소위 &apos;포괄임금&apos;(포괄임금·고정수당) 오·남용 근절 관련 현장 목소리를 들었다.
-        
-        이날 간담회에는 네이버를 비롯해 넥슨 및 웹젠 노조 지회장이 참석했으며 게임회사 등 소프트웨어 개발 및 공급업에 종사하는 청년 근로자 3명도 함께했다.
-      </content:encoded>
-    </item>
-    <item>
       <title>전현무 &apos;세치혀&apos; 28일 첫 방송…역대급 입담꾼 총출동</title>
       <link>https://www.nocutnews.co.kr/news/5894303</link>
       <guid>https://www.nocutnews.co.kr/news/5894303</guid>
@@ -913,40 +691,11 @@
       </content:encoded>
     </item>
     <item>
-      <title>박수근 &apos;노상&apos; 경매 나왔다…케이옥션 2월 경매</title>
-      <link>https://www.nocutnews.co.kr/news/5894307</link>
-      <guid>https://www.nocutnews.co.kr/news/5894307</guid>
-      <pubDate>2023-02-13T16:03:03.000Z</pubDate>
-      <content:encoded>오는 22일 열리는 케이옥션 2월 경매(서울 강남구 신사동 본사)에서는 총 78점, 45억 원어치 작품이 출품됐다. 박수근의 &apos;노상&apos;을 비롯 김환기, 정상화 등 거장의 종이 작품, 이성자, 천경자, 최욱경 등 주요 여성작가의 작품이 경매에 오른다.</content:encoded>
-    </item>
-    <item>
       <title>침울한 SM &quot;자부심 무너져&quot;…직원 투표도 &apos;방시혁 인수 반대&apos; 우세</title>
       <link>https://www.nocutnews.co.kr/news/5894328</link>
       <guid>https://www.nocutnews.co.kr/news/5894328</guid>
       <pubDate>2023-02-13T16:26:09.000Z</pubDate>
       <content:encoded>그룹 방탄소년단(BTS)의 소속사 빅히트 뮤직을 포함해 다수 레이블을 거느린 &apos;업계 1위&apos; 하이브가 &apos;업계 2위&apos; 에스엠(SM) 인수 작업을 개시했다. 하이브는 이수만 전 SM 총괄 프로듀서의 지분 14.8%(4228억 원)를 사들였고, 공개 매수를 통해 추가로 25%를 확보할 예정이다. 방시혁 하이브 의장과 이 전 총괄은 공동 입장문에서 &quot;SM과 하이브를</content:encoded>
-    </item>
-    <item>
-      <title>집주인 대신 HUG가 갚아준 전세금 1년새 3.2배 껑충</title>
-      <link>https://www.nocutnews.co.kr/news/5894340</link>
-      <guid>https://www.nocutnews.co.kr/news/5894340</guid>
-      <pubDate>2023-02-13T16:29:20.000Z</pubDate>
-      <content:encoded>
-        집주인 대신 주택도시보증공사(HUG)가 갚아준 전세보증금 규모가 1년 새 3배 이상 늘어난 것으로 나타났다.
-        ?
-        13일 HUG에 따르면 지난달 HUG가 집주인 대신 세입자에게 돌려준 전세금, 즉 대위변제액은 총 1692억원이었다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>美 1월 CPI 발표 앞두고 원달러 환율 급등…코스피 하락</title>
-      <link>https://www.nocutnews.co.kr/news/5894339</link>
-      <guid>https://www.nocutnews.co.kr/news/5894339</guid>
-      <pubDate>2023-02-13T16:30:37.000Z</pubDate>
-      <content:encoded>
-        미국의 1월 소비자물가지수(CPI)와 산업생산 등 주요 경제지표 발표를 앞두고 국내 금융시장이 크게 요동쳤다.
-        
-        미 연방준비제도(Fed·연준)의 통화긴축 정책이 장기화할 수 있다는 우려 속에 달러 강세가 도드라지면서 원달러 환율이 올해 최고 수준으로 치솟았다.
-      </content:encoded>
     </item>
     <item>
       <title>신임 국립오페라단 단장에 최상호 한예종 교수 선임</title>
@@ -964,17 +713,6 @@
       <guid>https://www.nocutnews.co.kr/news/5894395</guid>
       <pubDate>2023-02-13T17:01:03.000Z</pubDate>
       <content:encoded>여성 아이돌 그룹 트라이비가 6개월 만에 새 앨범 &apos;웨이&apos;(W.A.Y)로 돌아온다. 소속사 티알엔터테인먼트는 컴백을 하루 앞둔 13일 &apos;확 달라진&apos; 트라이비의 기대 포인트 세 가지를 전했다.</content:encoded>
-    </item>
-    <item>
-      <title>母子회사간 M&amp;A 신고 안해도 돼…&apos;기업결합 신고 면제대상 확대&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5894404</link>
-      <guid>https://www.nocutnews.co.kr/news/5894404</guid>
-      <pubDate>2023-02-13T17:01:49.000Z</pubDate>
-      <content:encoded>
-        앞으로 모자회사 간 인수·합병(M&amp;A), 사모집합투자기구(PEF) 설립에 대한 기업결합 신고가 면제된다. 기업결합 자진 시정방안 제출제도도 도입된다.
-        
-        공정위는 이 같은 내용의 공정거래법 개정안을 14일부터 다음달 27일까지 입법 예고한다고 13일 밝혔다.
-      </content:encoded>
     </item>
     <item>
       <title>CBS &apos;박승화의 가요속으로&apos; 라디오 음악 프로 1위 등극</title>
@@ -1066,67 +804,11 @@
       </content:encoded>
     </item>
     <item>
-      <title>지진 피해 지역이지만 단 1명도 죽지 않은 도시 있다니…</title>
-      <link>https://www.nocutnews.co.kr/news/5894550</link>
-      <guid>https://www.nocutnews.co.kr/news/5894550</guid>
-      <pubDate>2023-02-13T22:13:44.000Z</pubDate>
-      <content:encoded>지난 6일 발생한 튀르키예 강진으로 인한 사망자가 13일 현재 3만5천 명을 넘긴 가운데 지진 피해 영향권 안에 있었으면서도 단 1명의 사망자도 발생하지 않고 단 한 채의 건물도 붕괴되지 않은 도시가 있어 관심을 끌고 있다. ?</content:encoded>
-    </item>
-    <item>
-      <title>中 맞불 작전…&quot;美 풍선 작년 中 영공 10여차례 넘어와&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5894555</link>
-      <guid>https://www.nocutnews.co.kr/news/5894555</guid>
-      <pubDate>2023-02-13T23:23:35.000Z</pubDate>
-      <content:encoded>미국이 자국 상공에 출몰한 중국의 소위 &apos;정찰 풍선&apos; 사건으로 공세를 강화하고 있는 가운데 중국 정부도 13일 자국 상공에 미국산 풍선이 자주 출몰했다며 맞불 작전에 돌입했다.</content:encoded>
-    </item>
-    <item>
-      <title>3만7천명 넘긴 사망자…생존율 떨어지고 치안불안 등 2차피해</title>
-      <link>https://www.nocutnews.co.kr/news/5894564</link>
-      <guid>https://www.nocutnews.co.kr/news/5894564</guid>
-      <pubDate>2023-02-14T05:00:00.000Z</pubDate>
-      <content:encoded>튀르키예 동남부와 시리아 북서부를 덮친 강진의 공식 사망자가 3만7천명을 넘어섰다. 지진 발생 일주일이 지나면서 생존 확률은 떨어지고 치안까지 불안해지면서 생존자는 물론, 구조대원까지 위협받는 상황이다.</content:encoded>
-    </item>
-    <item>
-      <title>주택시장 경색에 커진 전세금 우려…HUG 어쩌나</title>
-      <link>https://www.nocutnews.co.kr/news/5894546</link>
-      <guid>https://www.nocutnews.co.kr/news/5894546</guid>
-      <pubDate>2023-02-14T05:25:00.000Z</pubDate>
-      <content:encoded>
-        국토연구원 연구 결과 집값 떨어지면 전세금 미반환 가능성 높아져. 작년 하반기부터 미반환 가능성 높아진 것으로 나타나. HUG 부담 이미 커질대로 커진 상황. 올해 1월 대신 갚아준 전세금이 작년 1월보다 3배 이상 높아져. 깡통전세 사기 막으려면 부동산 시장 연착륙 필요하다는 것 입증된 셈인데 대응방법은 없는지
-        ?
-      </content:encoded>
-    </item>
-    <item>
       <title>[파고들기]하이브가 SM 산다면…&quot;이 시장 다 먹는 게임&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5894551</link>
       <guid>https://www.nocutnews.co.kr/news/5894551</guid>
       <pubDate>2023-02-14T06:00:00.000Z</pubDate>
       <content:encoded>에스엠(SM)엔터테인먼트가 모든 &apos;적대적 M&amp;A&apos;를 반대한다는 의지를 표명했지만, 하이브는 과거 대주주였던 이수만씨의 지분을 14.8% 확보하는 방식으로 지난 10일 SM 인수 작업을 개시했다.</content:encoded>
-    </item>
-    <item>
-      <title>日, 과거사 문제를 韓 쿼드가입에 결부시켜</title>
-      <link>https://www.nocutnews.co.kr/news/5894569</link>
-      <guid>https://www.nocutnews.co.kr/news/5894569</guid>
-      <pubDate>2023-02-14T06:43:33.000Z</pubDate>
-      <content:encoded>미국과 일본 정부가 중국 견제를 위한 쿼드(미.일.호주.인도) 협력체에 한국의 가입 문제에 선을 긋고 나섰다.</content:encoded>
-    </item>
-    <item>
-      <title>미 전투기, 왜 캐나다 총리 명령을 따랐을까?</title>
-      <link>https://www.nocutnews.co.kr/news/5894575</link>
-      <guid>https://www.nocutnews.co.kr/news/5894575</guid>
-      <pubDate>2023-02-14T07:52:52.000Z</pubDate>
-      <content:encoded>
-        미국 전투기가 캐나다 상공에서 미확인 고고도 비행물체를 격추한 것을 놓고 미국과 캐나다에서도 궁금증이 커지고 있다.
-        ?
-        미국 전투기가 어떻게 캐나다 상공에서 캐나다 총리의 명령을 받고 작전을 펼 수 있었느냐는 것이다.?
-      </content:encoded>
-    </item>
-    <item>
-      <title>코로나 지원금도 &apos;꿀꺽&apos;…정부돈 5천만원 떼먹은 50대 논란</title>
-      <link>https://www.nocutnews.co.kr/news/5894598</link>
-      <guid>https://www.nocutnews.co.kr/news/5894598</guid>
-      <pubDate>2023-02-14T09:21:05.000Z</pubDate>
-      <content:encoded>총기 사망사건 피해자 30여 명의 신원을 도용해 허위로 세금 환급을 청구하고 코로나19 정부 지원금을 받아 챙긴 미국 50대 여성에게 징역 5년형이 선고됐다.</content:encoded>
     </item>
     <item>
       <title>&apos;영웅&apos; 정성화·배정남이 전하는 안중근 가문 독립운동史</title>
@@ -1160,17 +842,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>소액임차인 보호금액 높인 주택임대차보호법 국무회의 통과</title>
-      <link>https://www.nocutnews.co.kr/news/5894706</link>
-      <guid>https://www.nocutnews.co.kr/news/5894706</guid>
-      <pubDate>2023-02-14T10:35:14.000Z</pubDate>
-      <content:encoded>
-        전세 계약 전에 집주인의 세금 체납 여부와 선순위 임차인이 있는지 확인할 수 있고, 임차인에 대한 최우선 변제금액을 높인 주택임대차보호법 일부개정안이 14일 국무회의를 통과했다.
-        ?
-        개정 법률안은 임차인이 되려는 사람이 임대인에게 선순위보증금 등 정보제공에 대한 동의를 요구할 수 있도록 하고, 임대인이 이에 의무적으로 동의하도록 했다.
-      </content:encoded>
-    </item>
-    <item>
       <title>한국교회, 한마음으로 튀르키예-시리아 지진 피해 지원</title>
       <link>https://www.nocutnews.co.kr/news/5894720</link>
       <guid>https://www.nocutnews.co.kr/news/5894720</guid>
@@ -1186,28 +857,6 @@
       <guid>https://www.nocutnews.co.kr/news/5894722</guid>
       <pubDate>2023-02-14T10:55:14.000Z</pubDate>
       <content:encoded>그룹 샤이니 키가 하이브 인수 등이 얽힌 소속사 SM엔터테인먼트(이하 SM) 경영권 분쟁을 언급했다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;24년 신규 수소도시 조성사업 설명회 15일 개최</title>
-      <link>https://www.nocutnews.co.kr/news/5894728</link>
-      <guid>https://www.nocutnews.co.kr/news/5894728</guid>
-      <pubDate>2023-02-14T11:00:00.000Z</pubDate>
-      <content:encoded>
-        국토교통부는 2024년 신규 수소도시 조성사업을 위한 수소도시 조성사업 설명회를 15일 정부세종청사에서 개최한다고 14일 밝혔다.
-        ?
-        수소도시 조성사업은 지난달 윤석열 대통령의 아랍에미리트(UAE) 국빈방문 당시 양국이 &apos;도시 내 수소의 생산·유통·저장·활용에 관한 양해각서&apos;를 체결하면서 해외시장 개척이 기대되는 분야다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>日매체 &quot;튀르키예에 제발 &apos;종이학&apos;은 보내지 말자&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5894768</link>
-      <guid>https://www.nocutnews.co.kr/news/5894768</guid>
-      <pubDate>2023-02-14T11:37:35.000Z</pubDate>
-      <content:encoded>
-        강진으로 고통받고 있는 튀르키예에 각국의 온정이 쇄도하고 있는 가운데, 일본에서 &quot;우크라이나 전쟁 때처럼 &apos;종이학&apos;을 보내는 건 하지 말자&quot;는 자성의 목소리가 나와 눈길을 끌고 있다.
-        ?
-        지난 13일 일본 뉴스 프로그램 아베마 프라임은 패널을 초대해 강진이 할퀴고 간 튀르키예에 대한 지원 방안을 논의했다.
-      </content:encoded>
     </item>
     <item>
       <title>진태현, 뇌병변장애 아동 위해 &apos;기부 마라톤&apos; 뛴다</title>
@@ -1230,24 +879,6 @@
         ?
         지난 13일 기준 NCT 127이 지난해 9월 16일 발매한 정규 4집 &apos;질주 (2 Baddies)&apos; 및 지난달 30일 발표한 리패키지 앨범 &apos;Ay-Yo&apos;(에이요)의 누적 음반 판매량이 320만 장을 돌파했다.
       </content:encoded>
-    </item>
-    <item>
-      <title>노동부, 2022년 민간재해예방기관 평가 결과 공표</title>
-      <link>https://www.nocutnews.co.kr/news/5894717</link>
-      <guid>https://www.nocutnews.co.kr/news/5894717</guid>
-      <pubDate>2023-02-14T12:00:00.000Z</pubDate>
-      <content:encoded>
-        고용노동부와 한국산업안전보건공단은 14일 산업현장에서 안전보건관리, 기술지도, 기계 등의 안전 인증 및 검사, 교육 등을 시행하는 민간재해예방기관 평가 결과를 공개했다.
-        ?
-        이번 평가는 134개 안전관리전문기관을 포함한 11개 분야 924개 기관을 대상으로 이뤄졌다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>풍선으로 궁지 몰린 中, 뮌헨에서 돌파구 찾을까?</title>
-      <link>https://www.nocutnews.co.kr/news/5894814</link>
-      <guid>https://www.nocutnews.co.kr/news/5894814</guid>
-      <pubDate>2023-02-14T13:52:33.000Z</pubDate>
-      <content:encoded>미국 본토를 비롯해 전세계 곳곳에서 중국이 소위 &apos;정찰 풍선&apos;을 운용하고 있다는 의혹이 잇따르고 있는 가운데 중국은 이를 부인하며 오히려 &apos;미국이 스파이 제국&apos;이라고 역공에 나섰다. 하지만, 이미 국제 여론이 고고도 풍선을 이용한 중국의 정찰 활동에 부정적인 시선을 보내고 있는 만큼 전세 역전이 쉽지 않을 것으로 전망된다.</content:encoded>
     </item>
     <item>
       <title>CGV &apos;씨네 라이브러리&apos;, 다시 관객 품으로</title>
@@ -1341,39 +972,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>이란 반정부 시위 잦아들었지만…고향에 못가는 &apos;그녀&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5895086</link>
-      <guid>https://www.nocutnews.co.kr/news/5895086</guid>
-      <pubDate>2023-02-14T16:39:43.000Z</pubDate>
-      <content:encoded>
-        지난해 9월 이른바 &apos;히잡 의문사&apos;로 촉발된 이란 반정부 시위가 다소 소강상태를 보이고 있는 가운데, 히잡을 벗고 국제대회에 출전했던 유명 인사들은 여전히 불안한 삶을 이어가고 있다.
-        ?
-        지난해 연말 히잡을 착용하지 않고 국제 체스대회에 출전했던 이란인 체스 선수 사라 카뎀(25)은 현재 스페인에서 망명 생활을 하고 있다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;구단 비방?&apos; 흥행 요소를 억제하는 프로농구</title>
-      <link>https://www.nocutnews.co.kr/news/5895088</link>
-      <guid>https://www.nocutnews.co.kr/news/5895088</guid>
-      <pubDate>2023-02-14T16:45:09.000Z</pubDate>
-      <content:encoded>
-        스포츠의 흥행 요소 중 하나는 라이벌이다. 선의의 경쟁도 있는 반면 &apos;앙숙&apos;이라는 표현이 어울리는 라이벌도 있다.
-        
-        2022-2023시즌 프로농구에도 새 라이벌이 생겼다. &apos;김승기 더비&apos;라는 캐롯과 KGC의 경기다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>수원의 중앙수비 보강…재일교포 수비수 한호강 영입</title>
-      <link>https://www.nocutnews.co.kr/news/5895095</link>
-      <guid>https://www.nocutnews.co.kr/news/5895095</guid>
-      <pubDate>2023-02-14T16:56:06.000Z</pubDate>
-      <content:encoded>
-        수원 삼성이 재일교포 수비수 한호강을 영입했다.
-        
-        수원은 14일 &quot;중앙수비 강화를 위해 K리그2 전남 드래곤즈에서 재일교포(한국 국적) 수비수 한호강을 영입했다&quot;고 발표했다. 계약기간은 1+1년. 한호강 영입과 함께 황명현이 1년 동안 전남으로 임대됐다.
-      </content:encoded>
-    </item>
-    <item>
       <title>한국기독교교회협의회, &quot;노조법 2, 3조 개정은 시대 요구이자 국회 책무&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5895192</link>
       <guid>https://www.nocutnews.co.kr/news/5895192</guid>
@@ -1446,13 +1044,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>현대건설 구해야 할 새 外人 몬타뇨, 사령탑과 적장의 평가는?</title>
-      <link>https://www.nocutnews.co.kr/news/5895254</link>
-      <guid>https://www.nocutnews.co.kr/news/5895254</guid>
-      <pubDate>2023-02-14T19:03:26.000Z</pubDate>
-      <content:encoded>2022-2023시즌 도드람 V리그 여자부 현대건설과 한국도로공사의 5라운드 맞대결이 열릴 14일 경기도 수원체육관. 경기 전 양 팀 사령탑이 현대건설의 새 외국인 선수 몬타뇨(29·188cm)에 대해 이야기했다.</content:encoded>
-    </item>
-    <item>
       <title>주택시장 경색에 커진 전세금 미반환 우려…HUG 어쩌나</title>
       <link>https://www.nocutnews.co.kr/news/5895223</link>
       <guid>https://www.nocutnews.co.kr/news/5895223</guid>
@@ -1463,17 +1054,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>&apos;재활 매진&apos; 류현진, 토론토 스프링 캠프 첫날 출석 도장</title>
-      <link>https://www.nocutnews.co.kr/news/5895260</link>
-      <guid>https://www.nocutnews.co.kr/news/5895260</guid>
-      <pubDate>2023-02-14T20:05:18.000Z</pubDate>
-      <content:encoded>
-        류현진(35·토론토)이 팀의 스프링 캠프 첫날 출석 도장을 찍었다.
-        ?
-        토론토는 14일(한국 시각) 미국 플로리다주 더니든에서 2023시즌을 앞두고 스프링 캠프를 열었다. 류현진은 첫 훈련에 나타나 새 시즌 준비에 돌입했다.
-      </content:encoded>
-    </item>
-    <item>
       <title>&quot;전쟁을 끝내고 평화로&quot;…정전 70년 한반도 평화행동 출범</title>
       <link>https://www.nocutnews.co.kr/news/5895265</link>
       <guid>https://www.nocutnews.co.kr/news/5895265</guid>
@@ -1481,59 +1061,6 @@
       <content:encoded>
         [앵커]
         한반도 평화를 촉구하는 종교 시민 단체들이 오늘 &apos;정전 70년 한반도 평화행동&apos;을 출범하고 전쟁 위기 해소와 평화 협정 체결을 위해 힘을 모으기로 했습니다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;女 배구 사상 첫 준PO는 없다&apos; 도로공사, 3위 굳히기 성공</title>
-      <link>https://www.nocutnews.co.kr/news/5895266</link>
-      <guid>https://www.nocutnews.co.kr/news/5895266</guid>
-      <pubDate>2023-02-14T21:28:01.000Z</pubDate>
-      <content:encoded>
-        프로배구 여자부 한국도로공사가 플레이오프(PO) 직행에 한걸음 다가갔다.
-        
-        도로공사는 14일 경기도 수원체육관에서 열린 2022-2023시즌 도드람 V리그 여자부 5라운드 현대건설과 원정 경기에서 세트 스코어 3 대 1(21-25, 25-21, 25-20, 25-20)로 이겼다. 1세트를 먼저 내줬지만 내리 세 세트를 따내며 짜릿한 역전승을 거뒀다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;잔류왕도 생존왕도 아니다&apos; 인천 조성환 감독 &quot;목표는 톱3&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895268</link>
-      <guid>https://www.nocutnews.co.kr/news/5895268</guid>
-      <pubDate>2023-02-14T21:31:47.000Z</pubDate>
-      <content:encoded>
-        이제 &apos;잔류왕&apos;, &apos;생존왕&apos;은 인천 유나이티드의 수식어가 될 수 없다. 인천 조성환 감독은 2023시즌 리그 3위를 목표로 훈련을 소화 중이다.
-        ? ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;검빨→검파&apos; 인천 입성한 신진호 &quot;선수는 가슴이 뛰어야&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895270</link>
-      <guid>https://www.nocutnews.co.kr/news/5895270</guid>
-      <pubDate>2023-02-14T22:01:32.000Z</pubDate>
-      <content:encoded>
-        같은 검은 색이다. 그러나 줄무늬 색과 방향이 달라졌다. 포항 스틸러스를 떠나 인천 유나이티드에 입성한 미드필더 신진호(35)가 &apos;가슴이 뛰는 축구&apos; 이적 소감을 밝혔다.
-        ? ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>&quot;日, 영공서 확인된 기구 中 정찰풍선으로 판단…항의키로&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895273</link>
-      <guid>https://www.nocutnews.co.kr/news/5895273</guid>
-      <pubDate>2023-02-14T22:06:51.000Z</pubDate>
-      <content:encoded>
-        일본 정부가 과거 자국 영공에서 확인된 기구를 중국 무인 정찰기구로 보고 중국에 항의하기로 했다고 일본 민영방송 TBS 주도의 뉴스네크워크 JNN이 14일 보도했다.
-        
-        앞서 일본에서는 2020년 미야기현 센다이시에서, 2021년 아오모리현 하치노헤시에서, 지난해 1월 가고시마현 구치노에라부섬 서쪽 상공 등에서 기구가 발견됐다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;1위 적신호&apos; 현대건설 강성형 감독 &quot;조직적인 부분 무너졌다&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895277</link>
-      <guid>https://www.nocutnews.co.kr/news/5895277</guid>
-      <pubDate>2023-02-14T22:19:31.000Z</pubDate>
-      <content:encoded>
-        프로배구 여자부 1위 현대건설이 좀처럼 부진에서 벗어나지 못하고 있다.
-        
-        현대건설은 14일 경기도 수원체육관에서 열린 2022-2023시즌 도드람 V리그 여자부 5라운드 한국도로공사와 홈 경기에서 세트 스코어 1 대 3(25-21, 21-25, 20-25, 20-25)으로 졌다. 3연패의 수렁에 빠지며 선두가 위태로워졌다.
       </content:encoded>
     </item>
     <item>
@@ -1606,18 +1133,21 @@
       <content:encoded>농구에 골프, 이젠 격투기까지. 벌써 스포츠 예능 프로그램만 세편째인 SBS &apos;순정파이터&apos; 안재철 PD는 이제 &apos;베테랑&apos;이다.</content:encoded>
     </item>
     <item>
-      <title>[노컷 인터뷰]&quot;나폴리 김민재만 뜨겁다고? 영암에 더 큰 괴물이 있습니다&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895286</link>
-      <guid>https://www.nocutnews.co.kr/news/5895286</guid>
-      <pubDate>2023-02-15T06:00:00.000Z</pubDate>
-      <content:encoded>지난해 한국 스포츠계를 가장 뜨겁게 달궜던 선수 중 1명은 김민재(27·나폴리)였다. 엄청난 체구에도 스피드까지 갖춘 김민재는 한국 축구의 대들보였다. 피지컬이 좋은 상대 공격수를 힘과 스피드로 제압하는 김민재는 그야말로 괴물 수비수였다. 세계 4대 리그로 꼽히는 이탈리아 세리에A에 진출해 나폴리를 우승 0순위로 올려놓은 김민재는 카타르월드컵에서 12년 만</content:encoded>
-    </item>
-    <item>
       <title>튀르키예 지진 198시간 만에 3명 구조…곳곳 구조 종료</title>
       <link>https://www.nocutnews.co.kr/news/5895279</link>
       <guid>https://www.nocutnews.co.kr/news/5895279</guid>
       <pubDate>2023-02-15T06:00:00.000Z</pubDate>
       <content:encoded>튀르키예와 시리아에서 강진이 발생한지 9일째인 14일 기적 같은 구조 소식이 전해지고 있다. 일부 지역에서는 구조 작업이 종료돼 건물 철거 작업에 들어갔다.</content:encoded>
+    </item>
+    <item>
+      <title>&quot;튀르키예 봉사단, &apos;속옷과 천막&apos; 시급하다 외친 이유?&quot; [한판승부]</title>
+      <link>https://www.nocutnews.co.kr/news/5895271</link>
+      <guid>https://www.nocutnews.co.kr/news/5895271</guid>
+      <pubDate>2023-02-15T07:00:00.000Z</pubDate>
+      <content:encoded>
+        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
+        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
+      </content:encoded>
     </item>
     <item>
       <title>변협 &apos;로톡 이용 제한&apos; 문제 없나?…오늘 법위반 여부 가려져</title>
@@ -1631,34 +1161,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>&quot;튀르키예 봉사단, &apos;속옷과 천막&apos; 시급하다 외친 이유?&quot; [한판승부]</title>
-      <link>https://www.nocutnews.co.kr/news/5895271</link>
-      <guid>https://www.nocutnews.co.kr/news/5895271</guid>
-      <pubDate>2023-02-15T07:00:00.000Z</pubDate>
-      <content:encoded>
-        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
-        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;슈팅 0개&apos; 챔스에서도 침묵한 손흥민…토트넘도 패배</title>
-      <link>https://www.nocutnews.co.kr/news/5895290</link>
-      <guid>https://www.nocutnews.co.kr/news/5895290</guid>
-      <pubDate>2023-02-15T07:01:30.000Z</pubDate>
-      <content:encoded>
-        손흥민(31, 토트넘 홋스퍼)의 침묵이 길어지고 있다.
-        
-        손흥민은 15일(한국시간) 이탈리아 밀라노의 산시로 스타디움에서 열린 2022-2023시즌 유럽축구연맹(UEFA) 챔피언스리그 AC밀란(이탈리아)과 16강 원정 1차전에 선발 출전해 81분 동안 공격 포인트를 올리지 못했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;슈팅 없어도&apos; 손흥민, 토트넘 공격진 최고 평점</title>
-      <link>https://www.nocutnews.co.kr/news/5895291</link>
-      <guid>https://www.nocutnews.co.kr/news/5895291</guid>
-      <pubDate>2023-02-15T07:11:50.000Z</pubDate>
-      <content:encoded>슈팅은 없었다. 하지만 부지런히 움직이며 동료들의 찬스를 만들었다. 팀은 패했지만, 손흥민(31, 토트넘 홋스퍼)은 분전했다.</content:encoded>
-    </item>
-    <item>
       <title>노숙자 시설서 사망한 아역스타 출신 청년…사유 알고보니</title>
       <link>https://www.nocutnews.co.kr/news/5895293</link>
       <guid>https://www.nocutnews.co.kr/news/5895293</guid>
@@ -1667,17 +1169,6 @@
         미국 아역 스타 출신의 20대 청년이 로스앤젤레스(LA)의 한 노숙자 시설에서 사망했다고 14일(현지시간) 외신들이 보도했다.
         
         미국 연예매체 버라이어티와 TMZ 등에 따르면 전 아역배우 오스틴 메이저스(27)는 노숙자들을 위한 전용 주거 시설에서 지내다가 지난 11일 숨진 채 발견됐다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;16세가 선발?&apos; PSG, 뮌헨에 무릎…2023년에만 5패째</title>
-      <link>https://www.nocutnews.co.kr/news/5895294</link>
-      <guid>https://www.nocutnews.co.kr/news/5895294</guid>
-      <pubDate>2023-02-15T07:33:19.000Z</pubDate>
-      <content:encoded>
-        파리 생제르맹의 여유였을까.
-        
-        파리 생제르맹은 15일(한국시간) 프랑스 파리의 파르크 데 프랭스에서 열린 2022-2023시즌 유럽축구연맹(UEFA) 챔피언스리그 바이에른 뮌헨(독일)과 16강 홈 1차전에서 16세 워렌 자이르-에메리를 선발 출전시켰다.
       </content:encoded>
     </item>
     <item>
@@ -1708,23 +1199,6 @@
         ?
         로이드 오스틴 미국 국방장관과 마크 밀리 합참의장은 14일(현지시간) 벨기에 브뤼셀에서 열린 &apos;우크라이나 국방 연락그룹&apos;(UDCG) 회의 직후 열린 기자회견에서 앞으로 전황을 브리핑했다.
       </content:encoded>
-    </item>
-    <item>
-      <title>판정에 양 팀 감독 모두 한숨 &quot;배구는 흐름이 중요한데…&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895307</link>
-      <guid>https://www.nocutnews.co.kr/news/5895307</guid>
-      <pubDate>2023-02-15T08:34:25.000Z</pubDate>
-      <content:encoded>
-        2022-2023시즌 도드람 V리그 여자부 현대건설과 한국도로공사의 5라운드 맞대결이 열린 14일 경기도 수원체육관. 현대건설은 1위 수성, 도로공사은 3위 굳히기를 위해 치열하게 대립했다. ?
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>7개월 만에 컴백한 황제 &quot;홍보대사? 우승 위해 출전&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895319</link>
-      <guid>https://www.nocutnews.co.kr/news/5895319</guid>
-      <pubDate>2023-02-15T09:11:00.000Z</pubDate>
-      <content:encoded>&quot;이 선수들을 이길 수 있다고 생각하지 않았다면 출전하지 않았을 겁니다.&quot;</content:encoded>
     </item>
     <item>
       <title>올해 정부 &apos;직접일자리&apos; 96%인 100만 명 상반기 채용</title>
@@ -1792,33 +1266,11 @@
       </content:encoded>
     </item>
     <item>
-      <title>김종민 감독의 &apos;페르소나?&apos; 당근과 채찍으로 성장 중인 신인왕 세터</title>
-      <link>https://www.nocutnews.co.kr/news/5895351</link>
-      <guid>https://www.nocutnews.co.kr/news/5895351</guid>
-      <pubDate>2023-02-15T09:40:13.000Z</pubDate>
-      <content:encoded>
-        한국도로공사 김종민 감독이 유독 자주 언급하는 이름이다. 아쉬운 부분도 있겠지만 애정도 그만큼 각별하다.
-        ?
-        주전 세터 이윤정(26·172cm)에 대한 이야기다. 김 감독은 이윤정에게 당근과 채찍을 고루 주면서 성장을 이끌고 있다.
-      </content:encoded>
-    </item>
-    <item>
       <title>최종 빌런 정복자 캉과 돌아온 &apos;앤트맨 3&apos;, 오늘(15일) 개봉</title>
       <link>https://www.nocutnews.co.kr/news/5895357</link>
       <guid>https://www.nocutnews.co.kr/news/5895357</guid>
       <pubDate>2023-02-15T09:40:45.000Z</pubDate>
       <content:encoded>마블 페이즈 5의 시작을 열기 위해 &apos;앤트맨과 와스프: 퀀텀매니아&apos;가 최종 빌런인 정복자 캉과 함께 돌아왔다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;K리그2로 내려간&apos; 김천, 행정 전문가 이재하 단장 선임</title>
-      <link>https://www.nocutnews.co.kr/news/5895379</link>
-      <guid>https://www.nocutnews.co.kr/news/5895379</guid>
-      <pubDate>2023-02-15T09:55:11.000Z</pubDate>
-      <content:encoded>
-        K리그2 김천 상무가 새 단장을 선임했다.
-        
-        김천은 14일 &quot;이재하 신임 단장을 선임했다&quot;고 발표했다. 이재하 단장은 1991년 LG 스포츠단 입사 후 2012년부터 2018년까지 FC서울 단장을 역임했고, 2019년부터 2년 동안 성남FC 대표이사를 맡은 축구 행정 전문가다.
-      </content:encoded>
     </item>
     <item>
       <title>1월 취업자 41.1만 명↑…증가 폭, 22개월 만에 최소(종합)</title>
@@ -1957,37 +1409,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>&apos;尹 명예당대표&apos; 추대론…주호영 &quot;너무 일치되면 건강한 비판 없어져&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895564</link>
-      <guid>https://www.nocutnews.co.kr/news/5895564</guid>
-      <pubDate>2023-02-15T12:50:52.000Z</pubDate>
-      <content:encoded>최근 윤석열 대통령이 여당의 명예 당대표를 맡는 방안까지 거론된다는 이른바 &apos;명예대표설&apos;에 여권 내 온도차가 느껴지는 반응이 나왔다.</content:encoded>
-    </item>
-    <item>
-      <title>野, &apos;4·3 김일성 지시&apos; 발언 태영호 윤리위 제소…&quot;사퇴하라&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895626</link>
-      <guid>https://www.nocutnews.co.kr/news/5895626</guid>
-      <pubDate>2023-02-15T14:20:44.000Z</pubDate>
-      <content:encoded>더불어민주당이 15일 &quot;제주 4·3사건은 김일성 일가에 의해 자행됐다&quot;는 발언으로 논란이 된 국민의힘 태영호 의원을 국회 윤리특별위원회에 제소했다. ?</content:encoded>
-    </item>
-    <item>
-      <title>민주당, &apos;정성호 접견 유출&apos; 檢 관계자들 공수처 고발키로</title>
-      <link>https://www.nocutnews.co.kr/news/5895627</link>
-      <guid>https://www.nocutnews.co.kr/news/5895627</guid>
-      <pubDate>2023-02-15T14:22:17.000Z</pubDate>
-      <content:encoded>
-        더불어민주당이 친명계(親이재명계) 좌장 정성호 의원의 정진상 전 대표실 정무조정실장·김용 전 민주연구원 부원장 접견 내용이 외부로 알려진 것과 관련해 검찰 관계자들을 고위공직자범죄수사처(공수처)에 고발하기로 했다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>박진 &quot;강제징용 문제, 日 올바른 역사인식 하에 피해자 의견 존중해야&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895633</link>
-      <guid>https://www.nocutnews.co.kr/news/5895633</guid>
-      <pubDate>2023-02-15T14:23:25.000Z</pubDate>
-      <content:encoded>박진 외교부 장관은 초미의 관심사인 일본 강제징용 피해자 배상 문제에 대해 &quot;일본이 올바른 역사 인식을 가지고 피해자 의견을 충분히 존중하면서 풀어가야 한다고 생각한다&quot;고 15일 밝혔다.</content:encoded>
-    </item>
-    <item>
       <title>이성민, 송중기 결혼식 언급 &quot;초대해주면 가야죠&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5895683</link>
       <guid>https://www.nocutnews.co.kr/news/5895683</guid>
@@ -1996,16 +1417,6 @@
         배우 이성민이 JTBC &apos;재벌집 막내아들&apos;에서 호흡을 맞춘 송중기의 재혼을 언급했다.
         
         이성민은 15일 방송된 KBS 라디오 &apos;박명수의 라디오쇼&apos;에 출연해 &apos;(송중기의) 결혼식에 가느냐&apos;는 질문을 받고 &quot;초대해주면 가겠다&quot;라고 답했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>블랙이글스, 호주 에어쇼 참가…고난도 기동으로 K방산 홍보</title>
-      <link>https://www.nocutnews.co.kr/news/5895682</link>
-      <guid>https://www.nocutnews.co.kr/news/5895682</guid>
-      <pubDate>2023-02-15T14:47:11.000Z</pubDate>
-      <content:encoded>
-        공군 특수비행팀 블랙이글스가 오는 28일~내달 5일 호주 멜버른 남부 아발론 공항에서 열리는 &apos;2023 호주 아발론 국제에어쇼&apos;에 참가하기 위해 15일 원주기지를 출발했다.
-        ?
       </content:encoded>
     </item>
     <item>
@@ -2038,16 +1449,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>감사원, 유병호 사무총장 직무 관련성 취지 보도에 반박문</title>
-      <link>https://www.nocutnews.co.kr/news/5895724</link>
-      <guid>https://www.nocutnews.co.kr/news/5895724</guid>
-      <pubDate>2023-02-15T15:16:39.000Z</pubDate>
-      <content:encoded>
-        감사원은 유병호 사무총장의 배우자가 주식을 보유하고 있는 바이오 관련 회사의 모기업이 감사원 감사대상인 보건산업진흥원으로부터 심사·인증을 받는 만큼 직무 관련성이 있다는 언론 보도에 대해 반박하는 입장문을 15일 냈다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
       <title>&quot;힘과 높이 부족하다&quot; 새 外人 향한 냉정한 평가, 탈출구 못 찾는 현대건설</title>
       <link>https://www.nocutnews.co.kr/news/5895728</link>
       <guid>https://www.nocutnews.co.kr/news/5895728</guid>
@@ -2068,20 +1469,6 @@
         ?
         국토교통부는 15일 한덕수 국무총리 주재로 대한상공회의소에서 규제샌드박스 혁신기업 간담회가 진행됐다고 밝혔다.
       </content:encoded>
-    </item>
-    <item>
-      <title>[속보]尹대통령, &apos;과점&apos; 은행·통신 경쟁강화 특단조치 지시</title>
-      <link>https://www.nocutnews.co.kr/news/5895756</link>
-      <guid>https://www.nocutnews.co.kr/news/5895756</guid>
-      <pubDate>2023-02-15T15:37:53.000Z</pubDate>
-      <content:encoded>[속보]尹대통령, &apos;과점&apos; 은행·통신 경쟁강화 특단조치 지시</content:encoded>
-    </item>
-    <item>
-      <title>[속보]尹대통령 &quot;은행업 과점 폐해 커…예대마진 축소 필요&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895759</link>
-      <guid>https://www.nocutnews.co.kr/news/5895759</guid>
-      <pubDate>2023-02-15T15:39:52.000Z</pubDate>
-      <content:encoded>[속보] 尹대통령 &quot;은행업 과점 폐해 커…예대마진 축소 필요&quot;</content:encoded>
     </item>
     <item>
       <title>비비지·소유·이무진 소속사 &quot;악플러에 법적대응…선처 없어&quot;</title>
@@ -2120,13 +1507,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>尹대통령 &quot;은행업 폐해 크다…예대마진 축소, 경쟁시스템 강화해야&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895821</link>
-      <guid>https://www.nocutnews.co.kr/news/5895821</guid>
-      <pubDate>2023-02-15T16:17:32.000Z</pubDate>
-      <content:encoded>윤 대통령은 15일 금융소비자의 고금리 부담과 관련, &quot;우리 은행 산업의 과점 폐해가 크다&quot;며 &quot;실질적인 경쟁시스템 강화 방안을 마련하라&quot;고 관련 부처에 지시했다.</content:encoded>
-    </item>
-    <item>
       <title>박민영 측 &quot;검찰 조사 성실히…출국금지는 아냐&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5895826</link>
       <guid>https://www.nocutnews.co.kr/news/5895826</guid>
@@ -2149,61 +1529,11 @@
       </content:encoded>
     </item>
     <item>
-      <title>권영세, 北식량난 관련 &quot;WFP에 지원 요청…모니터링 이견으로 진전 無&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5895829</link>
-      <guid>https://www.nocutnews.co.kr/news/5895829</guid>
-      <pubDate>2023-02-15T16:26:46.000Z</pubDate>
-      <content:encoded>
-        권영세 통일부 장관은 &quot;북한이 유엔세계식량계획(WFP)에 (식량)지원을 요청한 것으로 안다&quot;고 15일 밝혔다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
       <title>中 저금리 기조에 꿈틀대는 부동산 투기 망령에 &apos;경고장&apos;</title>
       <link>https://www.nocutnews.co.kr/news/5895843</link>
       <guid>https://www.nocutnews.co.kr/news/5895843</guid>
       <pubDate>2023-02-15T16:42:34.000Z</pubDate>
       <content:encoded>연 2%대 안정적인 물가 상승률에 힘입어 저금리 기조를 유지하고 있는 중국에서 기업대출과 일반 가계대출을 부동산 투기자금으로 전용하는 편·불법 사례가 늘어나고 있어 당국이 고민에 빠졌다.</content:encoded>
-    </item>
-    <item>
-      <title>해군‧해병대, 코브라골드 훈련 참가차 태국으로 출항</title>
-      <link>https://www.nocutnews.co.kr/news/5895871</link>
-      <guid>https://www.nocutnews.co.kr/news/5895871</guid>
-      <pubDate>2023-02-15T17:02:51.000Z</pubDate>
-      <content:encoded>
-        해군 코브라골드 훈련전대가 15일 다국적 연합훈련인 &apos;2023년 코브라골드 훈련&apos; 참가를 위해 진해군항에서 출항했다고 해군이 밝혔다.
-        ?
-        훈련전대는 해군?해병대 장병 420여 명과 일출봉함(LST-Ⅱ, 4900톤급), 상륙돌격장갑차(KAAV) 6대, K-808 차륜형장갑차 2대, K-55 자주포 2문, K-77 사격지휘장갑차 1대로 이뤄졌다.?
-      </content:encoded>
-    </item>
-    <item>
-      <title>&apos;악성 임대인&apos; 신상 공개법, 국토위 통과…24일 본회의 처리</title>
-      <link>https://www.nocutnews.co.kr/news/5895877</link>
-      <guid>https://www.nocutnews.co.kr/news/5895877</guid>
-      <pubDate>2023-02-15T17:07:48.000Z</pubDate>
-      <content:encoded>
-        국회 국토교통위원회는 15일 전체회의를 열고 상습적으로 전세보증금을 돌려주지 않는 악성 임대인의 신상을 공개하는 내용의 주택도시기금법 개정안을 의결했다.
-        ?
-        개정안은 전세보증금 반환 의무를 이행하지 않아 주택도시보증공사(HUG)가 대신 내준 임차보증금을 상습적으로 갚지 않는 임대인의 신상을 공개할 수 있도록 했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>尹 &quot;통신은 필수재, 경쟁 촉진돼야…요금 구간 세분화&quot; 지시</title>
-      <link>https://www.nocutnews.co.kr/news/5895879</link>
-      <guid>https://www.nocutnews.co.kr/news/5895879</guid>
-      <pubDate>2023-02-15T17:08:16.000Z</pubDate>
-      <content:encoded>윤석열 대통령은 15일 &quot;필수재로서의 통신의 중요성을 고려할 때 시장에서 통신의 품질 요금 서비스 개선을 위한 건전한 경쟁이 촉진돼야 한다&quot;고 강조했다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;노동계 숙원&apos; 노란봉투법 환노위 통과…野강행, 與반발</title>
-      <link>https://www.nocutnews.co.kr/news/5895882</link>
-      <guid>https://www.nocutnews.co.kr/news/5895882</guid>
-      <pubDate>2023-02-15T17:13:25.000Z</pubDate>
-      <content:encoded>
-        노동계의 오랜 숙원이었던 이른바 &apos;노란봉투법&apos;(노동조합 및 노동관계 조정법)이 15일 국회 환경노동위원회 법안 소위에서 통과됐다. 여당의 반대 속 과반을 점한 야당이 강행 처리하자, 여당은 &quot;안건조정 요구서를 위원장에게 제출할 것&quot;이라며 불복 의사를 밝혔다.
-        
-        최종 법안 통과까지는 법제사법위원회 등 여러 문턱이 남아 있는 상황이다.
-      </content:encoded>
     </item>
     <item>
       <title>&quot;스타일 잘 아니까요&quot; 잉글랜드전 기다리는 이금민·박예은</title>
@@ -2249,16 +1579,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>김정은 &quot;국방 없이 강국건설 없다&quot;…민간 軍 지원 독려</title>
-      <link>https://www.nocutnews.co.kr/news/5895929</link>
-      <guid>https://www.nocutnews.co.kr/news/5895929</guid>
-      <pubDate>2023-02-15T17:38:52.000Z</pubDate>
-      <content:encoded>
-        북한 김정은 국무위원장이 군대와 군인지원에 공을 세운 &apos;원군미풍 열성자들&apos;을 8일 건군절 75주년 열병식에 초청한 데 이어 14일에는 직접 기념사진을 찍으며 격려했다. 오는 7월 27일 정전협정체결 70주년에도 초청할 것임을 밝혔다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
       <title>감리교시국대책연석회의, &quot;국정원 공안몰이 즉각 중단하라&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5895943</link>
       <guid>https://www.nocutnews.co.kr/news/5895943</guid>
@@ -2292,17 +1612,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>내일 튀르키예 긴급구호대 2진 출발…초점은 구조에서 &apos;구호&apos;로</title>
-      <link>https://www.nocutnews.co.kr/news/5895982</link>
-      <guid>https://www.nocutnews.co.kr/news/5895982</guid>
-      <pubDate>2023-02-15T18:15:36.000Z</pubDate>
-      <content:encoded>
-        정부는 강진으로 피해를 입은 튀르키예에 지진 피해 구호와 복구 지원을 위해 대한민국 긴급구호대(KDRT) 2진을 오는 16일 밤 파견하기로 했다.
-        
-        다만 2진의 도착은 강진이 일어난 지 이미 열흘이 지난 시점이기 때문에 구조보다는 구호와 복구 지원에 집중하기로 했다. 이에 따라 1진에서 파견됐던 육군 특수전사령부 재난구조부대는 파견되지 않는다.
-      </content:encoded>
-    </item>
-    <item>
       <title>[현장EN:]&quot;장엄한 교향곡 같은 일몰&quot;…정주영 개인전</title>
       <link>https://www.nocutnews.co.kr/news/5896009</link>
       <guid>https://www.nocutnews.co.kr/news/5896009</guid>
@@ -2316,16 +1625,6 @@
       <pubDate>2023-02-15T18:37:53.000Z</pubDate>
       <content:encoded>
         최근 예금금리와 은행채 금리가 하락하면서 코픽스(COFIX·자금조달비용지수)도 두 달 연속 떨어졌다. 이에 따라 코픽스를 기준으로 삼는 은행권 주택담보대출(주담대) 변동금리도 내려갈 예정이다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>권영세, 김주애 조명에 &quot;4대세습 미리 준비&quot;…장남 존재는 &apos;유보&apos;(종합)</title>
-      <link>https://www.nocutnews.co.kr/news/5896019</link>
-      <guid>https://www.nocutnews.co.kr/news/5896019</guid>
-      <pubDate>2023-02-15T18:55:49.000Z</pubDate>
-      <content:encoded>
-        권영세 통일부 장관은 북한 김정은 국무위원장의 딸 김주애가 최근 집중 부각되는 일련의 상황과 관련해 &quot;김주애로 불리는 딸이 실제 후계자로 지정됐다는 점에서는 조심스럽게 보고 있으나, 여러 상황을 볼 때 4대 세습을 미리부터 준비하는 조치로 보고 있다&quot;고 15일 밝혔다.
         ?
       </content:encoded>
     </item>
@@ -2349,33 +1648,6 @@
         [앵커]
         시중은행들이 거액의 직원 성과급이나 희망퇴직금 지급한 것을 두고 말들이 많습니다. 금리상승기 서민들의 경제적 고통 속에서 은행들이 이자장사로 최대 수익을 내고 이른바 돈잔치를 하고 있다는 지적들입니다. 은행권에 대한 곱지 않은 시선을 동력 삼아 금융당국도 제동을 걸고 나섰습니다. 윤지나 기자와 정리해보겠습니다.
       </content:encoded>
-    </item>
-    <item>
-      <title>강제철거 시한 넘겼지만…긴장감 도는 서울광장 분향소</title>
-      <link>https://www.nocutnews.co.kr/news/5895980</link>
-      <guid>https://www.nocutnews.co.kr/news/5895980</guid>
-      <pubDate>2023-02-15T19:04:41.000Z</pubDate>
-      <content:encoded>
-        [앵커]
-        서울시가 핼러윈 참사 유가족들에게 서울광장 분향소를 철거하라고 한 날이 오늘이었습니다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>조선일보와 尹대통령의 환상 조합[어텐션 뉴스]</title>
-      <link>https://www.nocutnews.co.kr/news/5896022</link>
-      <guid>https://www.nocutnews.co.kr/news/5896022</guid>
-      <pubDate>2023-02-15T19:05:09.000Z</pubDate>
-      <content:encoded>
-        [앵커]
-        오늘 하루 온라인에서 가장 주목 받은 뉴스만 콕콕 짚어봅니다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>서울광장 분향소 주변 차단벽 다시 해체…유족 1명 부상(종합)</title>
-      <link>https://www.nocutnews.co.kr/news/5896026</link>
-      <guid>https://www.nocutnews.co.kr/news/5896026</guid>
-      <pubDate>2023-02-15T19:11:49.000Z</pubDate>
-      <content:encoded>경찰이 &apos;핼러윈 참사&apos; 서울광장 분향소 주변에 차단벽을 설치했다가 유가족 등의 항의로 철거하면서 한 유가족과 기자가 부상을 입는 사고가 벌어졌다.</content:encoded>
     </item>
     <item>
       <title>튀르키예 지진 생존자 돌봄 현지 선교사들, &quot;텐트와 방한용품이 부족…독단적 구호는 안돼&quot;</title>
@@ -2421,13 +1693,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>김기현 &quot;윤핵관 당직 안 줘&quot; VS 안철수 &quot;총선 뒤 당대표 사퇴&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896036</link>
-      <guid>https://www.nocutnews.co.kr/news/5896036</guid>
-      <pubDate>2023-02-15T20:39:47.000Z</pubDate>
-      <content:encoded>국민의힘 3·8 전당대회 당 대표 주자인 김기현 후보가 자신이 대표가 되면 이른바 &apos;윤핵관&apos; 인사들에게 당직을 맡기지 않겠다고 밝혔다. 경쟁자인 안철수 후보는 자신의 목표가 내년 총선 승리란 점을 강조하며, 당 대표가 된다면 총선 승리를 이끈 뒤 직을 내려놓겠다는 입장을 밝혔다.</content:encoded>
-    </item>
-    <item>
       <title>튀르키예 지진 222시간 버틴 여성 구출…연이은 기적 같은 생환</title>
       <link>https://www.nocutnews.co.kr/news/5896051</link>
       <guid>https://www.nocutnews.co.kr/news/5896051</guid>
@@ -2446,20 +1711,6 @@
       <content:encoded>&apos;피겨 여왕&apos; 김연아가 대지진 피해를 입은 튀르키예와 시리아 지역에 추가 기부의 뜻을 밝혔다.</content:encoded>
     </item>
     <item>
-      <title>尹, 어용에르덴 몽골 총리 접견…&quot;다양한 분야에서 협력 확대&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896055</link>
-      <guid>https://www.nocutnews.co.kr/news/5896055</guid>
-      <pubDate>2023-02-15T23:32:11.000Z</pubDate>
-      <content:encoded>윤석열 대통령은 15일 오후 공식 방한 중인 롭상남스라이 어용에르덴(Luvsannamsrai Oyun-Erdene) 몽골 총리를 용산 대통령실에서 접견하고 양국 관계 발전 방안, 한반도 문제 등에 대한 의견을 교환했다.</content:encoded>
-    </item>
-    <item>
-      <title>尹, 통신비까지 압박…물가 잡아 지지율 끌어올린다</title>
-      <link>https://www.nocutnews.co.kr/news/5896056</link>
-      <guid>https://www.nocutnews.co.kr/news/5896056</guid>
-      <pubDate>2023-02-16T04:30:00.000Z</pubDate>
-      <content:encoded>윤석열 대통령이 15일 주재한 &apos;제13차 비상경제민생회의&apos;의 핵심 주제는 역시 &apos;민생 안정&apos;이었다. 특히 어려운 경제 상황에서 서민과 취약계층의 가계 부담 경감과 지원 방안이 구체적으로 테이블에 올랐다.</content:encoded>
-    </item>
-    <item>
       <title>미국 1월 소매판매 3% 폭증…&quot;경제 회복 증거&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5896066</link>
       <guid>https://www.nocutnews.co.kr/news/5896066</guid>
@@ -2476,35 +1727,6 @@
       <guid>https://www.nocutnews.co.kr/news/5896065</guid>
       <pubDate>2023-02-16T05:00:00.000Z</pubDate>
       <content:encoded>미군이 최근 격추한 미확인 비행체 3대가 군용이 아닐 가능성이 높다는 발표가 나오며 미국이 소위 &apos;정찰 풍선&apos; 사태와 관련해 잠시 숨고르기에 들어간 반면, 중국은 미국의 정찰 풍선 문제를 집중 제기하며 반격에 나섰다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;공공임대 비율&apos; OECD 상위권? 출산율은 왜 바닥일까</title>
-      <link>https://www.nocutnews.co.kr/news/5896023</link>
-      <guid>https://www.nocutnews.co.kr/news/5896023</guid>
-      <pubDate>2023-02-16T05:05:00.000Z</pubDate>
-      <content:encoded>
-        ▶ 글 싣는 순서   ①공공임대, 민간임대보다 출산율도 높다…이유는?
-        ②신혼부부 떠나는 &apos;신혼특구 단지&apos;…&quot;애 키우기엔 너무 좁아&quot;
-        ③공공임대 경쟁률 315대1…그 오피스텔서 &apos;전세 사기&apos;
-      </content:encoded>
-    </item>
-    <item>
-      <title>이르면 오늘 &apos;李 영장&apos;…민주당, &apos;체포 부결&apos; 단속 주력</title>
-      <link>https://www.nocutnews.co.kr/news/5896044</link>
-      <guid>https://www.nocutnews.co.kr/news/5896044</guid>
-      <pubDate>2023-02-16T05:10:00.000Z</pubDate>
-      <content:encoded>더불어민주당 이재명 대표에 대한 검찰의 구속영장 청구가 임박하면서, 민주당이 국회 체포동의안 표결에 대비한 내부단속에 신경이 곤두선 모양새다. 민주당 지도부가 연일 검찰 수사에 대한 비판 공세 수위를 높이는 가운데, 이 대표는 &apos;비명계(非이재명계) 달래기&apos; 행보에 나섰다.</content:encoded>
-    </item>
-    <item>
-      <title>與 첫 TV토론…金 &apos;정통성&apos;·安 &apos;수도권&apos;·千&apos;윤핵관&apos;·黃&apos;사퇴&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5896048</link>
-      <guid>https://www.nocutnews.co.kr/news/5896048</guid>
-      <pubDate>2023-02-16T05:10:00.000Z</pubDate>
-      <content:encoded>
-        국민의힘 전당대회에 출마한 당대표 후보들이 15일 열린 첫 TV토론회에서 공방을 주고받으며 정면으로 충돌했다. 김기현 후보는 자신의 보수 정체성을, 안철수 후보는 수도권 필승론을 중심으로 서로를 향한 질문에 대부분의 시간을 할애하며 맞부딪친 가운데, 천하람?황교안 후보의 공세 역시 양강 후보들에게 집중됐다.
-        
-        ?
-      </content:encoded>
     </item>
     <item>
       <title>배드민턴 女王·최고 스타, 韓 실업 리그 2연패 이끌까</title>
@@ -2539,6 +1761,17 @@
       </content:encoded>
     </item>
     <item>
+      <title>튀르키예 강진으로 470km &apos;단층 파열&apos;…기적 생환 속 &apos;PTSD&apos; 호소도</title>
+      <link>https://www.nocutnews.co.kr/news/5896057</link>
+      <guid>https://www.nocutnews.co.kr/news/5896057</guid>
+      <pubDate>2023-02-16T06:00:00.000Z</pubDate>
+      <content:encoded>
+        튀르키예와 시리아를 덮친 강진으로 길이 470km에 달하는 단층 파열이 발생했다는 분석이 나왔다. 특히 대지진 이후 농지나 도로였던 곳이 협곡으로 바뀐 모습도 관측됐다.
+        
+        미국 지질조사국, 단층 파열 분석…총 470km 규모
+      </content:encoded>
+    </item>
+    <item>
       <title>&apos;최강 실력에 예능·먹방까지&apos; 韓 씨름 제2의 열풍이 몰려온다</title>
       <link>https://www.nocutnews.co.kr/news/5896062</link>
       <guid>https://www.nocutnews.co.kr/news/5896062</guid>
@@ -2553,17 +1786,6 @@
       <content:encoded>
         &apos;배구 여제&apos; 김연경(35·흥국생명)이 결국 해냈다. 감독 및 단장 경질 사태 등 구단 내홍을 극복하고 팀을 1위에 올려놓는 데 성공했다.
         ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>튀르키예 강진으로 470km &apos;단층 파열&apos;…기적 생환 속 &apos;PTSD&apos; 호소도</title>
-      <link>https://www.nocutnews.co.kr/news/5896057</link>
-      <guid>https://www.nocutnews.co.kr/news/5896057</guid>
-      <pubDate>2023-02-16T06:00:00.000Z</pubDate>
-      <content:encoded>
-        튀르키예와 시리아를 덮친 강진으로 길이 470km에 달하는 단층 파열이 발생했다는 분석이 나왔다. 특히 대지진 이후 농지나 도로였던 곳이 협곡으로 바뀐 모습도 관측됐다.
-        
-        미국 지질조사국, 단층 파열 분석…총 470km 규모
       </content:encoded>
     </item>
     <item>
@@ -2600,54 +1822,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>김종민 &quot;정성호 면회 논란? 檢, 이런 것 까지 흘려야 되나&quot;[한판승부]</title>
-      <link>https://www.nocutnews.co.kr/news/5896061</link>
-      <guid>https://www.nocutnews.co.kr/news/5896061</guid>
-      <pubDate>2023-02-16T07:00:00.000Z</pubDate>
-      <content:encoded>
-        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
-        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>김행 &quot;尹 명예대표시 與 용산 출장소? 당원이 바보인가&quot;[한판승부]</title>
-      <link>https://www.nocutnews.co.kr/news/5896059</link>
-      <guid>https://www.nocutnews.co.kr/news/5896059</guid>
-      <pubDate>2023-02-16T07:30:00.000Z</pubDate>
-      <content:encoded>
-        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
-        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>어제보다는 따뜻…동해안 폭설은 그쳐</title>
-      <link>https://www.nocutnews.co.kr/news/5896073</link>
-      <guid>https://www.nocutnews.co.kr/news/5896073</guid>
-      <pubDate>2023-02-16T07:46:45.000Z</pubDate>
-      <content:encoded>
-        어제 동해안을 중심으로 최대 25cm 안팎에 엄청난 폭설이 쏟아졌는데요, 이제 이 지역의 눈은 대부분 그쳤습니다.
-        
-        다만, 오늘은 오후까지 수도권과 강원 영서, 충청 북부지역을 중심으로 한때 비나 눈이 조금 내리는 곳이 있겠고요,
-      </content:encoded>
-    </item>
-    <item>
-      <title>배종찬 &quot;與 지지율 상승 효과, 투표율 50% 넘을 듯&quot;[한판승부]</title>
-      <link>https://www.nocutnews.co.kr/news/5896058</link>
-      <guid>https://www.nocutnews.co.kr/news/5896058</guid>
-      <pubDate>2023-02-16T08:00:00.000Z</pubDate>
-      <content:encoded>
-        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
-        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>[뉴스쏙:속]지지율 하락에 비상 걸린 尹…민생 올인 작전</title>
-      <link>https://www.nocutnews.co.kr/news/5896074</link>
-      <guid>https://www.nocutnews.co.kr/news/5896074</guid>
-      <pubDate>2023-02-16T08:08:19.000Z</pubDate>
-      <content:encoded>1. 20만원→47만원 서민 목 죄어오는 가스비 고통</content:encoded>
-    </item>
-    <item>
       <title>시작된 고용한파…취업자 수 증가 둔화세 가속</title>
       <link>https://www.nocutnews.co.kr/news/5896078</link>
       <guid>https://www.nocutnews.co.kr/news/5896078</guid>
@@ -2681,28 +1855,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>고작 20만원 훔치려고…편의점주 살해한 30대 전자발찌男</title>
-      <link>https://www.nocutnews.co.kr/news/5896080</link>
-      <guid>https://www.nocutnews.co.kr/news/5896080</guid>
-      <pubDate>2023-02-16T08:57:01.000Z</pubDate>
-      <content:encoded>
-        고작 20만원을 빼앗으려고 편의점 업주를 살해한 30대 남성이 검찰에 넘겨졌다.
-        
-        인천 계양경찰서는 강도살인 혐의로 구속한 A(32)씨를 검찰에 송치했다고 16일 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>진실화해위 &apos;5.16 쿠데타에 억울한 총상&apos; 등 진실 규명</title>
-      <link>https://www.nocutnews.co.kr/news/5896045</link>
-      <guid>https://www.nocutnews.co.kr/news/5896045</guid>
-      <pubDate>2023-02-16T09:00:00.000Z</pubDate>
-      <content:encoded>
-        2기 진실·화해를위한과거사정리위원회(진실화해위)는 14일 제52차 전체위원회를 열어 &apos;중앙정보부 소 취하 강요 사건&apos; 등에 대해 51년 만에 진실규명 결정을 내렸다고 15일 밝혔다.
-        
-        우선 진실화해위는 &apos;5·16군사정변 중 민간인 총상 사건&apos;에 대해 진실규명 결정을 내렸다.
-      </content:encoded>
-    </item>
-    <item>
       <title>도르트문트, 첼시 격파…UEFA 챔피언스리그 8강 청신호</title>
       <link>https://www.nocutnews.co.kr/news/5896096</link>
       <guid>https://www.nocutnews.co.kr/news/5896096</guid>
@@ -2721,46 +1873,6 @@
       <content:encoded>
         올해 마블 첫 영화 &apos;앤트맨과 와스프: 퀀텀매니아&apos;가 흥행 돌풍의 주역 &apos;더 퍼스트 슬램덩크&apos;를 꺾고 박스오피스 정상에 올라섰다.
         ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>조응천 &quot;찬?반? 대부분 고민중… 이재명 체포동의안 가결도 가능&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896115</link>
-      <guid>https://www.nocutnews.co.kr/news/5896115</guid>
-      <pubDate>2023-02-16T09:30:57.000Z</pubDate>
-      <content:encoded>
-        ■ 방송 : CBS 라디오 &lt;김현정의 뉴스쇼&gt; FM 98.1 (07:20~09:00)
-        ■ 진행 : 김현정 앵커
-        ■ 대담 : 조응천 (민주당 의원)
-      </content:encoded>
-    </item>
-    <item>
-      <title>안철수 &quot;첫 토론 1등은 나…천하람이 역전? 껄껄껄&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896116</link>
-      <guid>https://www.nocutnews.co.kr/news/5896116</guid>
-      <pubDate>2023-02-16T09:31:57.000Z</pubDate>
-      <content:encoded>
-        ■ 방송 : CBS 라디오 &lt;김현정의 뉴스쇼&gt; FM 98.1 (07:20~09:00)
-        ■ 진행 : 김현정 앵커
-        ■ 대담 : 안철수 (국민의힘 대표 후보)
-      </content:encoded>
-    </item>
-    <item>
-      <title>[속보]검찰, 이재명 대표 구속영장 청구</title>
-      <link>https://www.nocutnews.co.kr/news/5896122</link>
-      <guid>https://www.nocutnews.co.kr/news/5896122</guid>
-      <pubDate>2023-02-16T09:35:26.000Z</pubDate>
-      <content:encoded>[속보]검찰, 이재명 대표 구속영장 청구</content:encoded>
-    </item>
-    <item>
-      <title>새 학기 맞아, 전국 초·중·고교 등 교육시설 8만여 곳 안전점검</title>
-      <link>https://www.nocutnews.co.kr/news/5896124</link>
-      <guid>https://www.nocutnews.co.kr/news/5896124</guid>
-      <pubDate>2023-02-16T09:38:34.000Z</pubDate>
-      <content:encoded>
-        교육부는 새 학기와 해빙기를 맞아 다음 달 24일까지 &apos;새 학기 대비 개교 예정학교 공사장 및 교육시설 안전점검&apos;을 벌인다고 16일 밝혔다.
-        ?
-        점검 대상은 신설 학교(43개) 공사장과 통학로, 초·중·고교와 대학, 평생교육시설 등 전체 교육시설 8만 4천여 곳이다.
       </content:encoded>
     </item>
     <item>
@@ -2804,23 +1916,6 @@
       <content:encoded>하이브가 이사회 전문성·투명성 확보를 통한 지배구조 선진화 방안을 골자로 한 SM엔터테인먼트 주주제안에 나선다. 주주제안은 SM엔터테인먼트 주주 권익을 제고하는 데 방점이 찍혀 있으며 이를 위해 정관 변경 및 이사·감사 선임도 추진할 방침이다.</content:encoded>
     </item>
     <item>
-      <title>檢, &apos;4895억원 배임&apos; 이재명 대표 구속영장 청구…헌정사 최초</title>
-      <link>https://www.nocutnews.co.kr/news/5896161</link>
-      <guid>https://www.nocutnews.co.kr/news/5896161</guid>
-      <pubDate>2023-02-16T10:01:02.000Z</pubDate>
-      <content:encoded>검찰이 더불어민주당 이재명 대표가 대장동 사업 과정에서 성남시와 성남도시개발공사에 약 4800억원의 손해를 끼친 혐의(배임)로 16일 구속영장을 청구했다. 제1야당 대표에 대한 검찰의 구속영장 청구는 헌정사상 처음이다.</content:encoded>
-    </item>
-    <item>
-      <title>與책임당원 김기현 43.0% 안철수 20.5%…천하람 민심서 1위</title>
-      <link>https://www.nocutnews.co.kr/news/5896163</link>
-      <guid>https://www.nocutnews.co.kr/news/5896163</guid>
-      <pubDate>2023-02-16T10:01:26.000Z</pubDate>
-      <content:encoded>
-        국민의힘 책임당원을 대상으로 한 차기 당대표 적합도 여론조사에서 김기현 후보가 43.0%로 2위인 안철수 후보와 두 배 넘게 격차를 벌렸다는 결과가 16일 나왔다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
       <title>&apos;역주행 신화&apos; 브레이브걸스 결국 해체 &quot;오늘(16일) 계약 종료&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5896179</link>
       <guid>https://www.nocutnews.co.kr/news/5896179</guid>
@@ -2850,17 +1945,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>검찰, &apos;TV조선 재승인 의혹&apos; 방통위원장실 등 압수수색</title>
-      <link>https://www.nocutnews.co.kr/news/5896183</link>
-      <guid>https://www.nocutnews.co.kr/news/5896183</guid>
-      <pubDate>2023-02-16T10:23:53.000Z</pubDate>
-      <content:encoded>
-        검찰이 16일 오전 방송통신위원장 사무실, 주거지 등을 압수수색 중이다.
-        ?
-        서울북부지검 형사제5부(부장검사 박경섭)은 이날 오전 방송통신위원회(방통위) 재승인 점수 조작 등 위계공무집행방해 사건과 관련, 방송통신위원장 사무실, 주거지 등을 압수수색하고 있다.?
-      </content:encoded>
-    </item>
-    <item>
       <title>코픽스, 3%대로 하락…두 달 연속 하락[그래픽뉴스]</title>
       <link>https://www.nocutnews.co.kr/news/5896182</link>
       <guid>https://www.nocutnews.co.kr/news/5896182</guid>
@@ -2868,32 +1952,11 @@
       <content:encoded>은행권 주택담보대출 변동금리의 기준이 되는 코픽스(COFIX·자금조달비용지수)가 두 달 연속 하락했다. 은행연합회에 따르면 1월 신규 취급액 기준 코픽스는 작년 12월 보다 0.47%포인트 낮은 3.82%로 집계됐다.</content:encoded>
     </item>
     <item>
-      <title>李 구속영장 청구에 검찰총장까지 나서 &quot;극히 중대한 사안&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896181</link>
-      <guid>https://www.nocutnews.co.kr/news/5896181</guid>
-      <pubDate>2023-02-16T10:25:26.000Z</pubDate>
-      <content:encoded>검찰이 더불어민주당 이재명 대표에 대해 구속영장을 청구한 직후 이원석 검찰총장이 &quot;지역토착 비리로서 극히 중대한 사안으로 본다&quot;라는 입장을 내놨다. 검찰이 개별 구속영장 청구 건에 대해 검찰총장 명의의 입장문까지 내놓은 것은 매우 이례적이다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;이재명 영장&apos; 민주당 &quot;이제부터 윤석열 검찰과의 전쟁&quot;[영상]</title>
-      <link>https://www.nocutnews.co.kr/news/5896197</link>
-      <guid>https://www.nocutnews.co.kr/news/5896197</guid>
-      <pubDate>2023-02-16T10:40:24.000Z</pubDate>
-      <content:encoded>더불어민주당은 16일 검찰이 이재명 대표에 대해 구속영장을 청구하자 격하게 반발하며 검찰을 향한 규탄 발언을 쏟아냈다.</content:encoded>
-    </item>
-    <item>
       <title>&apos;이재명 영장&apos;에 국힘 압박 &quot;민주당, 체포동의안 양심 표결해야&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5896190</link>
       <guid>https://www.nocutnews.co.kr/news/5896190</guid>
       <pubDate>2023-02-16T10:44:41.000Z</pubDate>
       <content:encoded>검찰이 16일 더불어민주당 이재명 대표에 대한 구속영장을 청구했다는 소식에 국민의힘 지도부는 조만간 국회에 송부될 체포동의안에 민주당 의원들이 양심적으로 투표해야 한다고 압박했다.</content:encoded>
-    </item>
-    <item>
-      <title>이재명 구속영장 청구, 향후 절차는?…국회, 이달 말 표결 유력</title>
-      <link>https://www.nocutnews.co.kr/news/5896212</link>
-      <guid>https://www.nocutnews.co.kr/news/5896212</guid>
-      <pubDate>2023-02-16T10:55:28.000Z</pubDate>
-      <content:encoded>검찰이 더불어민주당 이재명 대표에 대해 배임과 뇌물 등의 혐의를 적용해 16일 구속영장을 청구한 가운데 국회의 &apos;이재명 체포동의안 표결&apos;은 이달 말에 열릴 것으로 보인다.</content:encoded>
     </item>
     <item>
       <title>2025년 ITS 아태총회 유치 후보도시로 수원시 선정</title>
@@ -2950,34 +2013,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>학령인구 감소, 교전원 도입 소식에 교대 인기 시들</title>
-      <link>https://www.nocutnews.co.kr/news/5896243</link>
-      <guid>https://www.nocutnews.co.kr/news/5896243</guid>
-      <pubDate>2023-02-16T11:21:41.000Z</pubDate>
-      <content:encoded>
-        교육대학교와 대학 초등교육학과의 인기가 시든 것으로 나타났다. 16일 종로학원에 따르면, 2023학년도 전국 10개 교대와 이화여대·제주대·한국교원대 초등교육학과 등 총 13곳의 정시모집 평균 경쟁률은 2.0대 1로 최근 5년 사이 가장 낮았다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>김학의 &apos;불법 출국금지&apos; 논란 주요일지…핵심인물 1심 무죄[그래픽뉴스]</title>
-      <link>https://www.nocutnews.co.kr/news/5896250</link>
-      <guid>https://www.nocutnews.co.kr/news/5896250</guid>
-      <pubDate>2023-02-16T11:29:03.000Z</pubDate>
-      <content:encoded>지난 15일 &apos;별장 성접대&apos; 의혹을 받던 김학의 전 법무부 차관을 긴급 출국금지한 혐의로 기소된 핵심 인물들이 1심에서 각각 무죄와 징역형 선고유예를 선고받았다. 서울중앙지법 형사합의27부(부장판사 김옥곤)는 직권남용권리행사방해 등 혐의로 기소된 이규원 검사에게 징역 4개월에 선고유예, 이광철 전 청와대 민정비서관과 차규근 전 법무연수원 연구위원에게 무죄를</content:encoded>
-    </item>
-    <item>
-      <title>재산도 나눠줬는데…17층서 지인 밀어 살해한 배은망덕 60대</title>
-      <link>https://www.nocutnews.co.kr/news/5896256</link>
-      <guid>https://www.nocutnews.co.kr/news/5896256</guid>
-      <pubDate>2023-02-16T11:31:30.000Z</pubDate>
-      <content:encoded>
-        아파트 17층 거실에서 돈 문제로 말다툼을 하다가 80대 지인을 창밖으로 밀어 살해한 60대 남성이 사건 발생 4년 만에 중형을 선고받았다.
-        
-        인천지법 형사13부(호성호 부장판사)는 살인 혐의로 기소된 A(67)씨에게 징역 15년을 선고했다고 16일 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
       <title>與 선관위, &apos;4·3 망언&apos; 태영호에 &quot;국민 정서 위배되는 행위 말아달라&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5896270</link>
       <guid>https://www.nocutnews.co.kr/news/5896270</guid>
@@ -2994,27 +2029,6 @@
       <guid>https://www.nocutnews.co.kr/news/5896273</guid>
       <pubDate>2023-02-16T11:50:57.000Z</pubDate>
       <content:encoded>태국에서 동굴에 갇혔다가 17일 만에 기적적으로 생환해 전 세계인들에게 감동을 준 유소년 축구팀 주장 둥펫치 프롬텝이 17세로 영국에서 세상을 떠났다고 현지 일간지 가디언 등이 15일(현지시간) 보도했다.</content:encoded>
-    </item>
-    <item>
-      <title>전북 및 충남 당진, &apos;직업교육 혁신지구&apos; 선정…총 12곳으로 늘어</title>
-      <link>https://www.nocutnews.co.kr/news/5896268</link>
-      <guid>https://www.nocutnews.co.kr/news/5896268</guid>
-      <pubDate>2023-02-16T12:00:00.000Z</pubDate>
-      <content:encoded>
-        교육부는 16일 &quot;전북과 충남 당진시가 올해 직업교육 혁신지구로 선정됐다&quot;고 밝혔다.
-        ?
-        &apos;직업교육 혁신지구&apos;는 지역산업 발전을 선도하는 고졸 인재 양성을 위한 직업교육 지원체계로 2021년 5개 지구로 시작해 지난해까지 10개 지구가 운영됐다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>내달 6일부터 로타바이러스 무료접종…생후 2~6개월 대상</title>
-      <link>https://www.nocutnews.co.kr/news/5896275</link>
-      <guid>https://www.nocutnews.co.kr/news/5896275</guid>
-      <pubDate>2023-02-16T12:00:00.000Z</pubDate>
-      <content:encoded>
-        다음 달 6일부터 영유아를 대상으로 한 로타바이러스 백신의 무료 접종이 시작된다. 로타바이러스는 5세 이하 영유아의 장염을 유발하는 바이러스로, 심한 설사와 구토 등을 일으킨다.
-        ?
-      </content:encoded>
     </item>
     <item>
       <title>6년 만에 다시 &quot;北 정권은 적&quot;…尹 정부 첫 국방백서 나와</title>
@@ -3039,17 +2053,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>기습 철거 걱정 속 뜬 눈으로 밤새운 이태원 참사 유가족들</title>
-      <link>https://www.nocutnews.co.kr/news/5896277</link>
-      <guid>https://www.nocutnews.co.kr/news/5896277</guid>
-      <pubDate>2023-02-16T12:23:48.000Z</pubDate>
-      <content:encoded>
-        서울시의 이태원 참사 서울광장 분향소 행정대집행이 유가족들의 반발 끝에 무산됐지만 기습 철거를 우려한 유가족들은 밤새 뜬 눈으로 분향소를 지켰다.
-        
-        제대로 된 난방과 전기시설조차 없던 탓에 한겨울 추위와의 사투를 벌여야 했던 유가족들은 끝까지 분향소를 지키겠다는 의지를 거듭 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
       <title>국방백서, &apos;한반도 평화&apos; 줄이고 &apos;힘에 의한 평화&apos; 강조</title>
       <link>https://www.nocutnews.co.kr/news/5896042</link>
       <guid>https://www.nocutnews.co.kr/news/5896042</guid>
@@ -3059,13 +2062,6 @@
         ?
         국방부는 16일 공개한 &apos;2022 국방백서&apos;에서 &apos;한반도 평화정착을 위한 군사적 보장&apos;을 &apos;전방위 국방태세 확립, 대응역량 확충&apos;(제3장)의 1개 꼭지(제6절)로 축소했다.
       </content:encoded>
-    </item>
-    <item>
-      <title>&quot;정부, 열악한 건설 현장은 놔두고 &apos;노조 탄압&apos;만 앞장서&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896300</link>
-      <guid>https://www.nocutnews.co.kr/news/5896300</guid>
-      <pubDate>2023-02-16T12:46:01.000Z</pubDate>
-      <content:encoded>정부가 건설산업의 구조적 문제 해결은 외면하고 노조 혐오와 노노(勞勞)갈등 프레임으로 건설노조를 탄압하고 있다는 법률 전문가들의 비판이 제기됐다.</content:encoded>
     </item>
     <item>
       <title>금감원, IBK투자증권에 기관경고…사모펀드 불완전판매</title>
@@ -3773,69 +2769,6 @@
       <content:encoded>SM엔터테인먼트(에스엠) 주가가 16일에도 상승세를 이어가 13만 원선마저 돌파했다. 주당 12만 원에 에스엠 지분을 공개매수 해 경영권을 인수하려던 하이브로선 난감한 상황에 놓였다는 평가가 나온다.</content:encoded>
     </item>
     <item>
-      <title>정부, 튀르키예에 긴급구호대 2진 파견</title>
-      <link>https://www.nocutnews.co.kr/news/5896751</link>
-      <guid>https://www.nocutnews.co.kr/news/5896751</guid>
-      <pubDate>2023-02-16T21:40:20.000Z</pubDate>
-      <content:encoded>강진 피해를 본 튀르키예의 재건 수요 등을 파악하기 위한 한국 긴급구호대(KDRT) 2진이 16일 인천국제공항 제1터미널에서 출국하고 있다. 구호대 2진은 외교부 2명과 보건의료팀 10명, 코이카(한국국제협력단) 5명, 민간긴급구호단체 4명 등 총 21명으로 꾸려진다.</content:encoded>
-    </item>
-    <item>
-      <title>한국긴급구호대 2진, 튀르키예로 출발</title>
-      <link>https://www.nocutnews.co.kr/news/5896749</link>
-      <guid>https://www.nocutnews.co.kr/news/5896749</guid>
-      <pubDate>2023-02-16T21:40:36.000Z</pubDate>
-      <content:encoded>강진 피해를 본 튀르키예의 재건 수요 등을 파악하기 위한 한국 긴급구호대(KDRT) 2진이 16일 인천국제공항 제1터미널에서 출국하고 있다. 구호대 2진은 외교부 2명과 보건의료팀 10명, 코이카(한국국제협력단) 5명, 민간긴급구호단체 4명 등 총 21명으로 꾸려진다.</content:encoded>
-    </item>
-    <item>
-      <title>긴급구호대 2진, 튀르키예 재건 수요 등 파악 위해 출발</title>
-      <link>https://www.nocutnews.co.kr/news/5896750</link>
-      <guid>https://www.nocutnews.co.kr/news/5896750</guid>
-      <pubDate>2023-02-16T21:40:36.000Z</pubDate>
-      <content:encoded>강진 피해를 본 튀르키예의 재건 수요 등을 파악하기 위한 한국 긴급구호대(KDRT) 2진이 16일 인천국제공항 제1터미널에서 출국하고 있다. 구호대 2진은 외교부 2명과 보건의료팀 10명, 코이카(한국국제협력단) 5명, 민간긴급구호단체 4명 등 총 21명으로 꾸려진다.</content:encoded>
-    </item>
-    <item>
-      <title>출국장 향하는 긴급구호대 2진</title>
-      <link>https://www.nocutnews.co.kr/news/5896748</link>
-      <guid>https://www.nocutnews.co.kr/news/5896748</guid>
-      <pubDate>2023-02-16T21:40:36.000Z</pubDate>
-      <content:encoded>강진 피해를 본 튀르키예의 재건 수요 등을 파악하기 위한 한국 긴급구호대(KDRT) 2진이 16일 인천국제공항 제1터미널에서 출국하고 있다. 구호대 2진은 외교부 2명과 보건의료팀 10명, 코이카(한국국제협력단) 5명, 민간긴급구호단체 4명 등 총 21명으로 꾸려진다.</content:encoded>
-    </item>
-    <item>
-      <title>튀르키예로 출발하는 긴급구호대 2진</title>
-      <link>https://www.nocutnews.co.kr/news/5896747</link>
-      <guid>https://www.nocutnews.co.kr/news/5896747</guid>
-      <pubDate>2023-02-16T21:40:41.000Z</pubDate>
-      <content:encoded>강진 피해를 본 튀르키예의 재건 수요 등을 파악하기 위한 한국 긴급구호대(KDRT) 2진이 16일 인천국제공항 제1터미널에서 출국하고 있다. 구호대 2진은 외교부 2명과 보건의료팀 10명, 코이카(한국국제협력단) 5명, 민간긴급구호단체 4명 등 총 21명으로 꾸려진다.</content:encoded>
-    </item>
-    <item>
-      <title>긴급구호대 2진, 튀르키예로 출발</title>
-      <link>https://www.nocutnews.co.kr/news/5896746</link>
-      <guid>https://www.nocutnews.co.kr/news/5896746</guid>
-      <pubDate>2023-02-16T21:40:46.000Z</pubDate>
-      <content:encoded>강진 피해를 본 튀르키예의 재건 수요 등을 파악하기 위한 한국 긴급구호대(KDRT) 2진이 16일 인천국제공항 제1터미널에서 출국하고 있다. 구호대 2진은 외교부 2명과 보건의료팀 10명, 코이카(한국국제협력단) 5명, 민간긴급구호단체 4명 등 총 21명으로 꾸려진다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;긴급구호대 2진, 튀르키예로&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5896745</link>
-      <guid>https://www.nocutnews.co.kr/news/5896745</guid>
-      <pubDate>2023-02-16T21:40:51.000Z</pubDate>
-      <content:encoded>강진 피해를 본 튀르키예의 재건 수요 등을 파악하기 위한 한국 긴급구호대(KDRT) 2진이 16일 인천국제공항 제1터미널에서 출국하고 있다. 구호대 2진은 외교부 2명과 보건의료팀 10명, 코이카(한국국제협력단) 5명, 민간긴급구호단체 4명 등 총 21명으로 꾸려진다.</content:encoded>
-    </item>
-    <item>
-      <title>튀르키예 향하는 긴급구호대 2진</title>
-      <link>https://www.nocutnews.co.kr/news/5896744</link>
-      <guid>https://www.nocutnews.co.kr/news/5896744</guid>
-      <pubDate>2023-02-16T21:40:57.000Z</pubDate>
-      <content:encoded>강진 피해를 본 튀르키예의 재건 수요 등을 파악하기 위한 한국 긴급구호대(KDRT) 2진이 16일 인천국제공항 제1터미널에서 출국하고 있다. 구호대 2진은 외교부 2명과 보건의료팀 10명, 코이카(한국국제협력단) 5명, 민간긴급구호단체 4명 등 총 21명으로 꾸려진다.</content:encoded>
-    </item>
-    <item>
-      <title>레오의 강서브, 석진욱 감독의 &apos;정장&apos; 효과?…OK금융 값진 승리</title>
-      <link>https://www.nocutnews.co.kr/news/5896754</link>
-      <guid>https://www.nocutnews.co.kr/news/5896754</guid>
-      <pubDate>2023-02-16T21:41:04.000Z</pubDate>
-      <content:encoded>OK금융그룹의 외국인 선수 레오가 석진욱 감독이 모처럼 입고 나온 정장의 기운을 받고 강서브를 맘껏 뽐냈다.</content:encoded>
-    </item>
-    <item>
       <title>레오의 강서브, 석진욱 감독의 &apos;정장&apos; 효과?…OK금융 값진 승리</title>
       <link>https://www.nocutnews.co.kr/news/5896754</link>
       <guid>https://www.nocutnews.co.kr/news/5896754</guid>
@@ -3848,24 +2781,6 @@
       <guid>https://www.nocutnews.co.kr/news/5896756</guid>
       <pubDate>2023-02-16T22:31:10.000Z</pubDate>
       <content:encoded>평소 트레이닝 복을 즐겨 입는 OK금융그룹 석진욱 감독이 앞으로 정장을 입는 모습을 자주 볼 수 있을 것 같다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;정장 효과&apos; 톡톡히 본 OK 석진욱 감독 &quot;계속 입어야 할 것 같다&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896756</link>
-      <guid>https://www.nocutnews.co.kr/news/5896756</guid>
-      <pubDate>2023-02-16T22:31:10.000Z</pubDate>
-      <content:encoded>평소 트레이닝 복을 즐겨 입는 OK금융그룹 석진욱 감독이 앞으로 정장을 입는 모습을 자주 볼 수 있을 것 같다.</content:encoded>
-    </item>
-    <item>
-      <title>서울서 다시 열린 日王 &apos;생일잔치&apos;…&apos;기미가요&apos; 연주 논란</title>
-      <link>https://www.nocutnews.co.kr/news/5896757</link>
-      <guid>https://www.nocutnews.co.kr/news/5896757</guid>
-      <pubDate>2023-02-16T22:56:26.000Z</pubDate>
-      <content:encoded>
-        코로나19 사태로 중단됐던 나루히토(德仁) 일왕의 생일 기념 행사가 다시 서울에서 개최됐다.
-        
-        특히 이번 행사에는 윤석열 정부의 협조 아래 군국주의 일제 시절을 상징하는 일본 국가 &apos;기미가요&apos;(君が代)가 처음으로 연주된 것으로 알려졌다.
-      </content:encoded>
     </item>
     <item>
       <title>서울서 다시 열린 日王 &apos;생일잔치&apos;…&apos;기미가요&apos; 연주 논란</title>
@@ -3890,27 +2805,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>SK, 잠실 라이벌전서 연장 접전 끝 승리…현대모비스와 공동 3위</title>
-      <link>https://www.nocutnews.co.kr/news/5896759</link>
-      <guid>https://www.nocutnews.co.kr/news/5896759</guid>
-      <pubDate>2023-02-16T23:08:41.000Z</pubDate>
-      <content:encoded>
-        프로농구 서울 SK가 잠실 라이벌전인 S-더비에서 4연승을 이어갔다.
-        
-        SK는 16일 서울 잠실실내체육관에서 열린 2022-2023 SKT 에이닷 프로농구 정규리그 서울 삼성과 원정경기에서 연장 접전 끝에 115-113으로 승리했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>이주호 &quot;챗GPT, 그야말로 올 것이 왔다…답 아닌 질문법 가르쳐야&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896760</link>
-      <guid>https://www.nocutnews.co.kr/news/5896760</guid>
-      <pubDate>2023-02-16T23:14:49.000Z</pubDate>
-      <content:encoded>
-        이주호 부총리 겸 교육부 장관은 16일 &quot;학생들에게 답을 요구하는 교육으로는 &apos;챗GPT&apos;가 이끄는 세상을 준비하지 못한다&quot;며 &quot;학생들에게 답이 아닌 질문을 하는 방법을 교육해야 한다&quot;고 강조했다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
       <title>이주호 &quot;챗GPT, 그야말로 올 것이 왔다…답 아닌 질문법 가르쳐야&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5896760</link>
       <guid>https://www.nocutnews.co.kr/news/5896760</guid>
@@ -3932,24 +2826,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>이번엔 러시아 폭격기, 미국 영공 인근 출몰</title>
-      <link>https://www.nocutnews.co.kr/news/5896763</link>
-      <guid>https://www.nocutnews.co.kr/news/5896763</guid>
-      <pubDate>2023-02-17T04:17:06.000Z</pubDate>
-      <content:encoded>
-        미국 하늘에 괴 비행물체들이 출몰중인 가운데 이번에는 러시아 군용기 4대가 미국의 알래스카 방공식별구역(ADIZ)에 접근하는 일이 벌어졌다.
-        ?
-        미국 국방부는 북미항공우주방위사령부(NORAD)가 15일(현지시간) 알래스카 방공식별구역(ADIZ)에 접근하는 4대의 러시아 군용기를 탐지해 차단(intercept)했다고 16일 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>김기현 과반 여부에 천하람 변수…국민의힘 전대 판세 출렁</title>
-      <link>https://www.nocutnews.co.kr/news/5896736</link>
-      <guid>https://www.nocutnews.co.kr/news/5896736</guid>
-      <pubDate>2023-02-17T05:00:00.000Z</pubDate>
-      <content:encoded>국민의힘 전당대회 초반, 당 대표 선거에 나서는 김기현 후보와 안철수 후보의 &apos;양강 구도&apos;를 천하람 후보가 파고들며 판세에 균열을 내고 있다.</content:encoded>
-    </item>
-    <item>
       <title>김기현 과반 여부에 천하람 변수…국민의힘 전대 판세 출렁</title>
       <link>https://www.nocutnews.co.kr/news/5896736</link>
       <guid>https://www.nocutnews.co.kr/news/5896736</guid>
@@ -3962,46 +2838,6 @@
       <guid>https://www.nocutnews.co.kr/news/5896739</guid>
       <pubDate>2023-02-17T05:05:00.000Z</pubDate>
       <content:encoded>더불어민주당 이재명 대표에 대한 국회의 체포동의안 표결을 앞두고 당내에서는 부결이 우세하다는 전망이 조심스럽게 관측되고 있다. &apos;비명계(非이재명계)&apos;를 중심으로 &apos;방탄 국회&apos;에 대한 우려의 목소리가 나오고 있지만, 당분간은 단일대오 흐름에 동참할 것으로 예상된다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;李 체포동의안&apos; 부결 전망 속 &apos;방탄&apos; 우려…친명·비명 &apos;오월동주&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5896739</link>
-      <guid>https://www.nocutnews.co.kr/news/5896739</guid>
-      <pubDate>2023-02-17T05:05:00.000Z</pubDate>
-      <content:encoded>더불어민주당 이재명 대표에 대한 국회의 체포동의안 표결을 앞두고 당내에서는 부결이 우세하다는 전망이 조심스럽게 관측되고 있다. &apos;비명계(非이재명계)&apos;를 중심으로 &apos;방탄 국회&apos;에 대한 우려의 목소리가 나오고 있지만, 당분간은 단일대오 흐름에 동참할 것으로 예상된다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;부글부글&apos; 대한항공 마일리지 개편, 정부가 칼 빼드나</title>
-      <link>https://www.nocutnews.co.kr/news/5896717</link>
-      <guid>https://www.nocutnews.co.kr/news/5896717</guid>
-      <pubDate>2023-02-17T05:10:00.000Z</pubDate>
-      <content:encoded>
-        오는 4월 시행예정인 대한항공의 마일리지(보너스 항공권) 제도 개편안을 두고 논란이 커지고 있다.
-        
-        대한항공은 마일리지 역시 일반 항공권처럼 거리를 기준으로 제도를 개편했고 복합결제(마일리지+현금)와 사용처 확대 등 시장의 목소리를 반영해 개편안을 내놓았다는 입장이지만 일각에서는 &apos;개악(改惡)&apos;이라는 비판이 나온다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>간호사 처우 개선하자는 간호법, 왜 의사들이 반대할까?</title>
-      <link>https://www.nocutnews.co.kr/news/5896724</link>
-      <guid>https://www.nocutnews.co.kr/news/5896724</guid>
-      <pubDate>2023-02-17T05:15:00.000Z</pubDate>
-      <content:encoded>
-        지난 16일 서울 소공동 롯데호텔에 전국 대학병원장들이 총출동했다.
-        
-        연세의료원장인 윤동섭 대한병원협회장이 단상에 섰다. 그는 &quot;본회의에 직회부된 간호법은 보건의료체계 근간을 무너뜨릴 수 있는 사안&quot;이라며 간호법 제정안 철회를 강력히 촉구했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>대통령 만기친람에 경제정책 엇박자</title>
-      <link>https://www.nocutnews.co.kr/news/5896429</link>
-      <guid>https://www.nocutnews.co.kr/news/5896429</guid>
-      <pubDate>2023-02-17T05:15:00.000Z</pubDate>
-      <content:encoded>
-        윤석열 대통령은 지난 15일 &apos;비상경제민생회의&apos;에서 &apos;민생 안정&apos;을 강조하며 &quot;도로, 철도, 우편 등 중앙정부가 관리하는 공공요금은 최대한 상반기 동결 기조로 운영하라&quot;고 지시했다.
-        
-        특히 &apos;난방비 폭탄&apos; 원성과 관련해 &quot;전기, 가스 등 에너지 요금은 서민 부담이 최소화하도록 인상 폭과 속도를 조절하라&quot;고 주문했다.
-      </content:encoded>
     </item>
     <item>
       <title>대통령 만기친람에 경제정책 엇박자</title>
@@ -4037,27 +2873,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>세대별 &apos;동상이몽&apos;…연금개혁 먹구름</title>
-      <link>https://www.nocutnews.co.kr/news/5896735</link>
-      <guid>https://www.nocutnews.co.kr/news/5896735</guid>
-      <pubDate>2023-02-17T05:20:00.000Z</pubDate>
-      <content:encoded>
-        국회에 오른 국민연금 개혁 논의가 더디게만 흘러가는 가운데, 시민들은 연금 논란을 두고 세대마다 서로 다른 걱정과 우려를 쌓고 있었다.
-        
-        국회 연금개혁특별위원회 소속 민간자문위원회는 최근 국민연금에 대한 여러 개혁방안을 논의 중이지만, 이견을 좀처럼 좁히지 못하면서 현재까지 합의된 안(案)을 도출해내지 못하고 있다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>바이든 &quot;격추 비행체들 여가용 가능성도&quot;…사과는 안해</title>
-      <link>https://www.nocutnews.co.kr/news/5896764</link>
-      <guid>https://www.nocutnews.co.kr/news/5896764</guid>
-      <pubDate>2023-02-17T05:21:57.000Z</pubDate>
-      <content:encoded>
-        중국의 정찰 풍선 격추 이후 미확인 비행물체 3대를 격추토록 한 조 바이든 미국 대통령이 해당 비행물체가 중국과 무관하다고 설명했다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
       <title>바이든 &quot;격추 비행체들 여가용 가능성도&quot;…사과는 안해</title>
       <link>https://www.nocutnews.co.kr/news/5896764</link>
       <guid>https://www.nocutnews.co.kr/news/5896764</guid>
@@ -4078,13 +2893,14 @@
       </content:encoded>
     </item>
     <item>
-      <title>日오염수 영향 &quot;이게 맞아?&quot;…정부 시뮬레이션 &apos;논란&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5896742</link>
-      <guid>https://www.nocutnews.co.kr/news/5896742</guid>
-      <pubDate>2023-02-17T05:25:00.000Z</pubDate>
+      <title>[노컷 리뷰]&apos;스마트폰을 떨어뜨렸을 뿐인데&apos; 공포가 된 일상</title>
+      <link>https://www.nocutnews.co.kr/news/5896669</link>
+      <guid>https://www.nocutnews.co.kr/news/5896669</guid>
+      <pubDate>2023-02-17T06:00:00.000Z</pubDate>
       <content:encoded>
-        후쿠시마 오염수가 오는 3월부터 방류될 경우 삼중수소의 확산 과정을 추적한 국책 연구기관의 시뮬레이션을 두고 논란이 커지고 있다. 정부 차원의 첫 연구인 셈이지만 정부의 공식 발표가 아닌 민간 학회에서의 약식 발표로 대체됐고, 그 결과 값도 &apos;문제 없다&apos;는 기존 일본 정부의 입장과 동일했다.
-        ? ?
+        ※ 스포일러 주의
+        ?
+        평범한 일상이 무너져 내린 데 이어 공포 그 자체가 됐다. 단지, 스마트폰을 떨어뜨렸을 뿐인데 말이다. 넷플릭스 영화 &apos;스마트폰을 떨어뜨렸을 뿐인데&apos;는 손안에 든, 작지만 우리의 모든 삶이 담긴 스마트폰이라는 소재로 관객들의 틈을 파고들어 긴장과 공포를 자아내는 스릴러다.
       </content:encoded>
     </item>
     <item>
@@ -4095,56 +2911,6 @@
       <content:encoded>
         튀르키예 강진의 골든타임이 훌쩍 지난 사고 11일째에도 기적 같은 생존자 구출 소식이 전해지고 있다.
         ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>[노컷 리뷰]&apos;스마트폰을 떨어뜨렸을 뿐인데&apos; 공포가 된 일상</title>
-      <link>https://www.nocutnews.co.kr/news/5896669</link>
-      <guid>https://www.nocutnews.co.kr/news/5896669</guid>
-      <pubDate>2023-02-17T06:00:00.000Z</pubDate>
-      <content:encoded>
-        ※ 스포일러 주의
-        ?
-        평범한 일상이 무너져 내린 데 이어 공포 그 자체가 됐다. 단지, 스마트폰을 떨어뜨렸을 뿐인데 말이다. 넷플릭스 영화 &apos;스마트폰을 떨어뜨렸을 뿐인데&apos;는 손안에 든, 작지만 우리의 모든 삶이 담긴 스마트폰이라는 소재로 관객들의 틈을 파고들어 긴장과 공포를 자아내는 스릴러다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>서울대 등 &apos;고교교육 기여대학&apos; 91곳, 올해도 575억원 지원</title>
-      <link>https://www.nocutnews.co.kr/news/5896609</link>
-      <guid>https://www.nocutnews.co.kr/news/5896609</guid>
-      <pubDate>2023-02-17T06:00:00.000Z</pubDate>
-      <content:encoded>
-        지난해에 &apos;고교교육 기여대학&apos;으로 선정된 서울대 등 전국 91개 대학이 올해에도 총 575억의 정부 지원금을 받는다.
-        ?
-        교육부는 17일 &quot;대입전형과 고교교육과정 간 연계를 강화하고, 대입 전형(銓衡) 운영의 공정성과 책무성을 높이기 위해 이같은 내용의 &apos;2023년 고교교육 기여대학 지원사업&apos;을 추진한다&quot;고 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>지적공부 정비로 여의도 2배 면적 국민에게</title>
-      <link>https://www.nocutnews.co.kr/news/5896572</link>
-      <guid>https://www.nocutnews.co.kr/news/5896572</guid>
-      <pubDate>2023-02-17T06:00:00.000Z</pubDate>
-      <content:encoded>
-        국토교통부는 지난 3년 간 &apos;지적공부 미등록 정비사업&apos;을 시행한 결과 여의도 면적의 2배에 달하는 5.6㎢ 면적을 국유재산으로 신규 등록했다고 17일 밝혔다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>檢 &quot;4895억 배임&quot; vs 李 &quot;4583억 공익 환수&quot;…법정공방 예고</title>
-      <link>https://www.nocutnews.co.kr/news/5896570</link>
-      <guid>https://www.nocutnews.co.kr/news/5896570</guid>
-      <pubDate>2023-02-17T06:00:00.000Z</pubDate>
-      <content:encoded>검찰이 더불어민주당 이재명 대표에 대한 구속 영장을 청구한 가운데 &apos;대장동 개발 사업&apos;을 두고 양측의 해석이 정면으로 배치되고 있다.</content:encoded>
-    </item>
-    <item>
-      <title>[노컷 리뷰]&apos;스마트폰을 떨어뜨렸을 뿐인데&apos; 공포가 된 일상</title>
-      <link>https://www.nocutnews.co.kr/news/5896669</link>
-      <guid>https://www.nocutnews.co.kr/news/5896669</guid>
-      <pubDate>2023-02-17T06:00:00.000Z</pubDate>
-      <content:encoded>
-        ※ 스포일러 주의
-        ?
-        평범한 일상이 무너져 내린 데 이어 공포 그 자체가 됐다. 단지, 스마트폰을 떨어뜨렸을 뿐인데 말이다. 넷플릭스 영화 &apos;스마트폰을 떨어뜨렸을 뿐인데&apos;는 손안에 든, 작지만 우리의 모든 삶이 담긴 스마트폰이라는 소재로 관객들의 틈을 파고들어 긴장과 공포를 자아내는 스릴러다.
       </content:encoded>
     </item>
     <item>
@@ -4176,27 +2942,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>248시간 만에…&apos;튀르키예 지진&apos; 17세 소녀, 기적의 생환</title>
-      <link>https://www.nocutnews.co.kr/news/5896755</link>
-      <guid>https://www.nocutnews.co.kr/news/5896755</guid>
-      <pubDate>2023-02-17T06:00:00.000Z</pubDate>
-      <content:encoded>
-        튀르키예 강진의 골든타임이 훌쩍 지난 사고 11일째에도 기적 같은 생존자 구출 소식이 전해지고 있다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>멈추지 않는 공포…튀르키예 &apos;강력한 여진&apos; 또 발생</title>
-      <link>https://www.nocutnews.co.kr/news/5896765</link>
-      <guid>https://www.nocutnews.co.kr/news/5896765</guid>
-      <pubDate>2023-02-17T06:43:10.000Z</pubDate>
-      <content:encoded>
-        지진 피해가 심각한 튀르키예·시리아 국경지대에 또 다시 강력한 여진이 발생했다.
-        ?
-        미국 지질조사국(USGS)에 따르면 현지시간으로 16일 오후 9시47분(한국시간 17일 오전 3시 17분) 튀르키예 하타이주 우준바 서북서쪽 19㎞ 지점 연안에서 규모 5.2의 지진이 발생했다.
-      </content:encoded>
-    </item>
-    <item>
       <title>멈추지 않는 공포…튀르키예 &apos;강력한 여진&apos; 또 발생</title>
       <link>https://www.nocutnews.co.kr/news/5896765</link>
       <guid>https://www.nocutnews.co.kr/news/5896765</guid>
@@ -4215,13 +2960,6 @@
       <content:encoded>CNN 방송의 간판 아침뉴스 진행자 돈 레몬이 공화당 대선 경선 출마를 선언한 니키 헤일리 전 유엔 미국대사를 비판하다 여성과 관련한 실언으로 구설에 휘말렸다.</content:encoded>
     </item>
     <item>
-      <title>&quot;여성 전성기는 2·30대&quot;…아침뉴스 &apos;간판 앵커&apos;가 할말?</title>
-      <link>https://www.nocutnews.co.kr/news/5896767</link>
-      <guid>https://www.nocutnews.co.kr/news/5896767</guid>
-      <pubDate>2023-02-17T06:58:14.000Z</pubDate>
-      <content:encoded>CNN 방송의 간판 아침뉴스 진행자 돈 레몬이 공화당 대선 경선 출마를 선언한 니키 헤일리 전 유엔 미국대사를 비판하다 여성과 관련한 실언으로 구설에 휘말렸다.</content:encoded>
-    </item>
-    <item>
       <title>친구라 속이고 옛 연인 집 들어갔는데…주거침입 무죄, 왜?</title>
       <link>https://www.nocutnews.co.kr/news/5896766</link>
       <guid>https://www.nocutnews.co.kr/news/5896766</guid>
@@ -4230,39 +2968,6 @@
         서울북부지법 형사3단독 임민성 부장판사는 친구라고 속이고 옛 연인이 사는 다세대주택 공동현관을 출입한 혐의(주거침입)로 기소된 A(40)씨에게 무죄를 선고했다고 17일 밝혔다.
         
         재판부는 &quot;만남을 거부하는 전 연인에게 사전 연락 없이 찾아가 어머니의 출입 승낙을 받기 위해 친구라고 속였다고 하더라도 승낙의 유효성에 영향을 미치지 않는다&quot;고 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>친구라 속이고 옛 연인 집 들어갔는데…주거침입 무죄, 왜?</title>
-      <link>https://www.nocutnews.co.kr/news/5896766</link>
-      <guid>https://www.nocutnews.co.kr/news/5896766</guid>
-      <pubDate>2023-02-17T07:00:50.000Z</pubDate>
-      <content:encoded>
-        서울북부지법 형사3단독 임민성 부장판사는 친구라고 속이고 옛 연인이 사는 다세대주택 공동현관을 출입한 혐의(주거침입)로 기소된 A(40)씨에게 무죄를 선고했다고 17일 밝혔다.
-        
-        재판부는 &quot;만남을 거부하는 전 연인에게 사전 연락 없이 찾아가 어머니의 출입 승낙을 받기 위해 친구라고 속였다고 하더라도 승낙의 유효성에 영향을 미치지 않는다&quot;고 밝혔다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>홍준표 대구시장 지하철 참사 20주기 추모 헌화</title>
-      <link>https://www.nocutnews.co.kr/news/5896769</link>
-      <guid>https://www.nocutnews.co.kr/news/5896769</guid>
-      <pubDate>2023-02-17T07:05:15.000Z</pubDate>
-      <content:encoded>
-        홍준표 대구시장이 16일 오후 대구지하철 참사 현장인 중앙로역을 찾아 헌화하고 희생자들의 넋을 기렸다.
-        
-        이번 방문은 2.18 대구지하철 참사 20주기 공식 추모행사에 앞서 이뤄진 것이다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>진중권 &quot;이재명 구속영장, 헌정사상 초유? 저런 당대표도 초유&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896758</link>
-      <guid>https://www.nocutnews.co.kr/news/5896758</guid>
-      <pubDate>2023-02-17T07:20:00.000Z</pubDate>
-      <content:encoded>
-        ◇ 박재홍&gt; 한판브리핑 민동기 평론가 함께하겠습니다. 어서 오십시오.
-        ?
-        ◆ 민동기&gt; 안녕하십니까?
       </content:encoded>
     </item>
     <item>
@@ -4288,48 +2993,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>아침에는 영하권 낮에는 포근…내일 오후 비소식</title>
-      <link>https://www.nocutnews.co.kr/news/5896770</link>
-      <guid>https://www.nocutnews.co.kr/news/5896770</guid>
-      <pubDate>2023-02-17T07:28:38.000Z</pubDate>
-      <content:encoded>
-        금요일인 오늘은 큰 일교차에 대비한 옷차림을 하시는 것이 좋겠습니다.
-        
-        오늘 아침기온은 서울 영하 1.5도를 비롯해 대부분 영하권을 나타내면서, 어제보다 2도에서 5도 가량 더 낮게 출발하고 있는데요.
-      </content:encoded>
-    </item>
-    <item>
-      <title>은마아파트 재건축 역대 최고분양가 쓸 듯…3.3㎡당 7700만원</title>
-      <link>https://www.nocutnews.co.kr/news/5896772</link>
-      <guid>https://www.nocutnews.co.kr/news/5896772</guid>
-      <pubDate>2023-02-17T07:57:54.000Z</pubDate>
-      <content:encoded>
-        서울 강남구 대치동 은마아파트를 재건축하면 얼마짜리 아파트가 지어질까. 서울시가 16일 확정 고시한 &apos;은마아파트 재건축 사업 정비계획 결정 및 정비구역 지정안&apos;에 따르면 은마아파트는 일반 분양가 추정액을 3.3㎡당 7700만원으로 계산했다.
-        ?
-      </content:encoded>
-    </item>
-    <item>
-      <title>선거비용 초과 사용 광양시의원 벌금 90만원</title>
-      <link>https://www.nocutnews.co.kr/news/5896771</link>
-      <guid>https://www.nocutnews.co.kr/news/5896771</guid>
-      <pubDate>2023-02-17T07:58:16.000Z</pubDate>
-      <content:encoded>
-        선거비용을 초과 사용한 혐의로 기소된 광양시의원에 벌금 90만원이 선고됐다.
-        
-        광주지법 순천지원 형사1부(허정훈 재판장)는 16일 지난해 6·1 지방선거에서 선거비용을 초과 사용한 혐의(공직선거법 위반) 등으로 기소된 전남 광양시의회 A 의원에게 벌금 90만원을 선고했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>박지원 &quot;천공 의혹, 증거 CCTV 자동 삭제? 그걸 누가 믿나&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896761</link>
-      <guid>https://www.nocutnews.co.kr/news/5896761</guid>
-      <pubDate>2023-02-17T08:00:00.000Z</pubDate>
-      <content:encoded>
-        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
-        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
-      </content:encoded>
-    </item>
-    <item>
       <title>박지원 &quot;천공 의혹, 증거 CCTV 자동 삭제? 그걸 누가 믿나&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5896761</link>
       <guid>https://www.nocutnews.co.kr/news/5896761</guid>
@@ -4347,57 +3010,6 @@
       <content:encoded>1. 제1야당 대표에 구속영장 청구…헌정사상 처음?</content:encoded>
     </item>
     <item>
-      <title>[뉴스쏙:속]이재명 구속영장 청구…배임액 4800억원 왜?</title>
-      <link>https://www.nocutnews.co.kr/news/5896773</link>
-      <guid>https://www.nocutnews.co.kr/news/5896773</guid>
-      <pubDate>2023-02-17T08:04:36.000Z</pubDate>
-      <content:encoded>1. 제1야당 대표에 구속영장 청구…헌정사상 처음?</content:encoded>
-    </item>
-    <item>
-      <title>안동시, 전기자동차 민간보급사업 17일부터 접수</title>
-      <link>https://www.nocutnews.co.kr/news/5896778</link>
-      <guid>https://www.nocutnews.co.kr/news/5896778</guid>
-      <pubDate>2023-02-17T08:22:07.000Z</pubDate>
-      <content:encoded>
-        안동시는 17일부터 2023년도 전기자동차 민간 보급사업 지원 신청 접수를 받는다.
-        
-        올해는 84억 원의 예산으로, 전기자동차 총 766대(승용 416대, 화물 200대, 이륜 150)를 지원한다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>경일대 재학생들, 울버햄튼서 황희찬 선수와 깜짝 만남</title>
-      <link>https://www.nocutnews.co.kr/news/5896779</link>
-      <guid>https://www.nocutnews.co.kr/news/5896779</guid>
-      <pubDate>2023-02-17T08:22:46.000Z</pubDate>
-      <content:encoded>
-        영국 프리미어리그에서 뛰고 있는 황희찬 선수가 영국 대학에서 어학 연수 중인 경일대 재학생들이 만나 잊지 못할 추억을 선사했다.
-        ?
-        대한민국 축구 국가대표이자 프리미어리거인 황희찬 선수는 부상 중임에도 불구하고 지난 3일 울버햄튼 대학에서 어학 연수중인 경일대 재학생들을 만났다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>경북교육청, 2023학년도 학생 건강·환경·급식 기본방향 발표</title>
-      <link>https://www.nocutnews.co.kr/news/5896780</link>
-      <guid>https://www.nocutnews.co.kr/news/5896780</guid>
-      <pubDate>2023-02-17T08:23:07.000Z</pubDate>
-      <content:encoded>
-        경북교육청은 17일 &apos;2023학년도 학생건강·학교환경·학교급식 기본방향&quot;을 발표했다.
-        ?
-        학생 건강관리 강화, 감염병 예방관리 강화, 교육환경보호제도 운영관리 내실화, 학교 환경위생 개선 등의 학생 건강관리와 학교 환경관리 기본방향의 주요 변경사항 등을 중점적으로 전달했다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>경북교육청, 신학기 대비 체험시설 안전 점검</title>
-      <link>https://www.nocutnews.co.kr/news/5896782</link>
-      <guid>https://www.nocutnews.co.kr/news/5896782</guid>
-      <pubDate>2023-02-17T08:27:11.000Z</pubDate>
-      <content:encoded>
-        경북교육청은 3월 신학기를 대비해 도내 교육기관 운영 체험 시설에 대한 안전 점검을 28일까지 실시한다고 밝혔다.
-        ?
-        안전 점검은 교육안전과, 학생생활과, 창의인재과 등 주관 부서를 중심으로 안전체험관, 수학체험관, 메이커교육관, 학생수련원 등 15개 기관에서 운영하고 있는 체험 시설에 대해 실시된다.
-      </content:encoded>
-    </item>
-    <item>
       <title>&quot;MZ세대 분류의 시작? 2030의 민주당 지지 철회&quot;</title>
       <link>https://www.nocutnews.co.kr/news/5896762</link>
       <guid>https://www.nocutnews.co.kr/news/5896762</guid>
@@ -4408,103 +3020,1530 @@
       </content:encoded>
     </item>
     <item>
-      <title>&quot;MZ세대 분류의 시작? 2030의 민주당 지지 철회&quot;</title>
-      <link>https://www.nocutnews.co.kr/news/5896762</link>
-      <guid>https://www.nocutnews.co.kr/news/5896762</guid>
-      <pubDate>2023-02-17T08:30:00.000Z</pubDate>
+      <title>&apos;피겨 여왕 뿔났다&apos; 김연아 측 &quot;가짜 뉴스에 모든 법적 대응&quot; 선포</title>
+      <link>https://www.nocutnews.co.kr/news/5896790</link>
+      <guid>https://www.nocutnews.co.kr/news/5896790</guid>
+      <pubDate>2023-02-17T08:38:45.000Z</pubDate>
+      <content:encoded>&apos;피겨 여왕&apos;이 뿔났다. 김연아(35)가 최근 가짜 뉴스가 유포되는 데 대해 법적 대응을 강구하겠다고 선언했다.</content:encoded>
+    </item>
+    <item>
+      <title>女 배구 페퍼저축은행, 美 NCAA 출신 아헨 킴 감독 선임</title>
+      <link>https://www.nocutnews.co.kr/news/5896797</link>
+      <guid>https://www.nocutnews.co.kr/news/5896797</guid>
+      <pubDate>2023-02-17T09:15:28.000Z</pubDate>
+      <content:encoded>?프로배구 여자부 페퍼저축은행이 새 사령탑을 선임했다. 미국 대학팀을 이끈 감독이다.</content:encoded>
+    </item>
+    <item>
+      <title>&apos;세계의 벽은 높다&apos; 女 축구, 유럽 강호 잉글랜드에 완패</title>
+      <link>https://www.nocutnews.co.kr/news/5896812</link>
+      <guid>https://www.nocutnews.co.kr/news/5896812</guid>
+      <pubDate>2023-02-17T09:28:10.000Z</pubDate>
+      <content:encoded>
+        유럽 무대의 벽은 높았다. 콜린 벨 감독이 이끄는 한국 여자 축구 대표팀이 잉글랜드에 완패했다.
+        ? ?
+        한국은 17일(한국 시간) 영국 밀턴케인즈 스타디움 MK에서 열린 잉글랜드와 2023 아널드 클라크컵 1차전에서 0 대 4로 졌다. 2023 국제축구연맹(FIFA) 호주·뉴질랜드 여자월드컵을 앞두고 치른 강도 높은 모의고사였다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>양부남 &quot;한동훈이 자극하면 노웅래 때 161표 넘어설 것&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896817</link>
+      <guid>https://www.nocutnews.co.kr/news/5896817</guid>
+      <pubDate>2023-02-17T09:29:00.000Z</pubDate>
+      <content:encoded>
+        ■ 방송 : CBS 라디오 &lt;김현정의 뉴스쇼&gt; FM 98.1 (07:20~09:00)
+        ■ 진행 : 김현정 앵커
+        ■ 대담 : 양부남 (더불어민주당 법률위원장)
+      </content:encoded>
+    </item>
+    <item>
+      <title>[말말말] 김재원 &quot;이재명 구속 2000%&quot; vs 정봉주 &quot;김건희 유죄 2000%&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896824</link>
+      <guid>https://www.nocutnews.co.kr/news/5896824</guid>
+      <pubDate>2023-02-17T09:36:22.000Z</pubDate>
+      <content:encoded>
+        ■ 방송 : CBS 라디오 &lt;김현정의 뉴스쇼&gt; FM 98.1 (07:20~09:00)
+        ■ 진행 : 김현정 앵커
+        ■ 대담 : 김재원 (국민의힘 전 최고위원), 정봉주 (민주당 교육연수원장)
+      </content:encoded>
+    </item>
+    <item>
+      <title>&quot;후쿠시마 오염수 마신 생선이 우리 밥상 오를 확률은?&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896832</link>
+      <guid>https://www.nocutnews.co.kr/news/5896832</guid>
+      <pubDate>2023-02-17T09:47:58.000Z</pubDate>
+      <content:encoded>
+        ■ 방송 : CBS 라디오 &lt;김현정의 뉴스쇼&gt; FM 98.1 (07:20~09:00)
+        ■ 진행 : 김현정 앵커
+        ■ 대담 : 서균렬 (서울대 원자핵공학과 교수)
+      </content:encoded>
+    </item>
+    <item>
+      <title>한총리 &quot;한중 항공편 이달 주 80회로…3월부터 100회까지 증편&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896840</link>
+      <guid>https://www.nocutnews.co.kr/news/5896840</guid>
+      <pubDate>2023-02-17T09:52:13.000Z</pubDate>
+      <content:encoded>한덕수 국무총리는 17일 &quot;현재 주 62회인 한국?중국 간 국제선 항공편을 이달 말까지 주 80회로, 다음 달부터는 양국 합의 수준인 주 100회까지 단계적으로 늘려나가고 추가 증편도 검토하겠다&quot;라고 말했다.</content:encoded>
+    </item>
+    <item>
+      <title>기재부도 &quot;경기 흐름 둔화&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896843</link>
+      <guid>https://www.nocutnews.co.kr/news/5896843</guid>
+      <pubDate>2023-02-17T10:00:00.000Z</pubDate>
+      <content:encoded>
+        기획재정부는 17일 발간한 &apos;최근 경제동향&apos; 2월호&apos;에서 &quot;최근 우리 경제는 경기 흐름이 둔화하고 있다&quot;고 밝혔다.
+        
+        앞서 기재부는 최근 경제동향 지난해 6월호부터 12월호까지 일곱 달 연속 &apos;경기 둔화 우려&apos;라는 표현을 쓰다가 올해 1월호에서 경기 둔화 우려 &apos;확대&apos;로 수위를 높였다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;또 언더독의 대반란?&apos; 디펜딩 챔피언 웰컴, PBA 왕좌 지킬까</title>
+      <link>https://www.nocutnews.co.kr/news/5896853</link>
+      <guid>https://www.nocutnews.co.kr/news/5896853</guid>
+      <pubDate>2023-02-17T10:04:03.000Z</pubDate>
+      <content:encoded>
+        다시 한번 &apos;언더독의 반란&apos;이 일어날까. 아니면 디펜딩 챔피언이 왕좌를 수성할까. 프로당구(PBA) 팀 리그 포스트 시즌(PS)의 관전 포인트다.
+        
+        &apos;웰컴저축은행 PBA 팀 리그 2022-2023&apos; PS가 17일 경기도 고양시 빛마루방송센터에서 막을 올린다. 신생팀 하나카드와 TS샴푸?푸라닭의 준플레이오프부터다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>11년 만에 국가배상 &apos;중곡동 살인사건&apos;…정부, 재상고 포기</title>
+      <link>https://www.nocutnews.co.kr/news/5896850</link>
+      <guid>https://www.nocutnews.co.kr/news/5896850</guid>
+      <pubDate>2023-02-17T10:04:36.000Z</pubDate>
+      <content:encoded>
+        &apos;중곡동 주부 살인 사건&apos; 피해자 유족에게 국가의 배상책임이 있다는 파기환송심 판결에 대해 정부가 상고하지 않기로 했다. 경찰과 관계기관이 범죄 예방의 책무를 다하지 못한 책임이 있음을 인정한 것이다.
+        
+        법무부는 피해자 유족들이 국가를 상대로 제기한 국가배상 소송 파기환송심에 대한 재상고를 포기하기로 결정했다고 17일 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>실내 마스크 의무 해제도 시민들 여전히 &quot;마스크 쓰겠다&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896861</link>
+      <guid>https://www.nocutnews.co.kr/news/5896861</guid>
+      <pubDate>2023-02-17T10:11:07.000Z</pubDate>
+      <content:encoded>
+        우리 국민 10명 중 절반은 실내 마스크를 최소 6개월 가량 쓸 의향이 있는 것으로 조사됐다.
+        
+        서울대학교 보건대학원 유명순 교수 연구팀은 케이스탯리서치와 함께 지난 7~10일 전국 성인남녀 1천명을 대상으로 조사한 결과 실내 마스크 착용을 유지하겠다는 답변이 이같이 나왔다고 17일 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;알고도 못 막는 레오&apos; 절정의 서브 비결은 &quot;체중 유지와 자신감&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896856</link>
+      <guid>https://www.nocutnews.co.kr/news/5896856</guid>
+      <pubDate>2023-02-17T10:12:13.000Z</pubDate>
+      <content:encoded>
+        서브가 물이 오를 대로 올랐다. 올 시즌 서브에서만큼은 레오(33·OK금융그룹)를 견줄 자가 없다.
+        ?
+        16일 기준 29경기 112세트를 소화한 레오는 세트당 0.964개의 서브를 기록, 이 부문에서 압도적인 1위를 달리고 있다. 세트당 0.532개로 뒤를 잇고 있는 링컨(대한항공)이 레오를 따라잡는 건 사실상 불가능해 보인다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>브루스 윌리스, &apos;실어증&apos; 은퇴 1년 만에 치매 진단 받아</title>
+      <link>https://www.nocutnews.co.kr/news/5896854</link>
+      <guid>https://www.nocutnews.co.kr/news/5896854</guid>
+      <pubDate>2023-02-17T10:17:26.000Z</pubDate>
+      <content:encoded>
+        실어증으로 은퇴했던 할리우드 배우 브루스 윌리스가 최근 치매 진단까지 받았다.
+        ?
+        16일(현지 시간) 외신들에 따르면 지난해 3월 실어증을 진단받고 은퇴를 선언했던 배우 브루스 윌리스가 현재 전두측두엽 치매(Frontotemporal Dementia·FTD)라는 진단명을 받았다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>국방부, &apos;전투형 강군&apos; 체질 변혁 박차…훈련 실전성 강화</title>
+      <link>https://www.nocutnews.co.kr/news/5896870</link>
+      <guid>https://www.nocutnews.co.kr/news/5896870</guid>
+      <pubDate>2023-02-17T10:18:56.000Z</pubDate>
+      <content:encoded>
+        국방부는 전투준비태세 완비와 실전적 교육훈련 강화 등을 최고의 가치로 삼는 &apos;전투형 강군&apos;으로 군의 체질 변혁에 나가기로 했다.
+        ?
+        국방부는 17일 국회 국방위원회 업무보고에서 2010년 천안함?연평도 도발 이후 한동안 &apos;전투형 강군&apos; 육성에 매진했지만 시간이 지나면서 점차 퇴조하고 있다며 이같이 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>中 코로나 방역 &apos;자화자찬&apos;…&quot;인류 문명사의 기적&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896871</link>
+      <guid>https://www.nocutnews.co.kr/news/5896871</guid>
+      <pubDate>2023-02-17T10:20:54.000Z</pubDate>
+      <content:encoded>
+        시진핑 국가주석을 비롯한 중국 최고지도부가 지난 3년간 코로나19 방역 정책이 &quot;전염병 예방 및 통제에서 결정적인 승리를 달성했다&quot;는 자체 평가를 내놨다.
+        
+        중국 관영매체 인민일보와 CCTV 등에 따르면 공산당 중앙정치부 상무위원회(이하 상무위)는 16일 시 주석 주재로 코로나19 방역 상황을 보고받고 평가하는 회의를 열었다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>교육부, &apos;문과침공 해소 대학&apos; 우대…&apos;고교교육 기여대학 지원사업&apos;(종합)</title>
+      <link>https://www.nocutnews.co.kr/news/5896873</link>
+      <guid>https://www.nocutnews.co.kr/news/5896873</guid>
+      <pubDate>2023-02-17T10:22:36.000Z</pubDate>
+      <content:encoded>
+        앞으로 대학수학능력시험(수능) 필수 응시과목 폐지 등 이른바 &apos;문과침공&apos; 해소책을 마련하는 대학은 정부 지원금을 더 받을 전망이다.
+        ?
+        교육부는 17일 &quot;대입전형과 고교교육과정 간 연계를 강화하고, 대입 전형(銓衡) 운영의 공정성과 책무성을 높이기 위해 &apos;2023년 고교교육 기여대학 지원사업&apos;을 시행한다&quot;고 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>오페라 &apos;마술피리&apos; 22년 만에 세종문화회관 대극장 무대에</title>
+      <link>https://www.nocutnews.co.kr/news/5896880</link>
+      <guid>https://www.nocutnews.co.kr/news/5896880</guid>
+      <pubDate>2023-02-17T10:26:53.000Z</pubDate>
+      <content:encoded>서울시오페라단이 모차르트가 남긴 마지막 오페라 &apos;마술피리&apos;를 3월 30일부터 4월 2일까지 세종문화회관 대극장에서 공연한다. 세종문화회관 대극장에서 오페라 &apos;마술피리&apos;를 올리는 건 2001년 이후 22년 만이다.</content:encoded>
+    </item>
+    <item>
+      <title>尹, 한동훈에 &quot;전세사기 악덕 범죄, 제도 보완과 철저한 단속&quot; 당부</title>
+      <link>https://www.nocutnews.co.kr/news/5896878</link>
+      <guid>https://www.nocutnews.co.kr/news/5896878</guid>
+      <pubDate>2023-02-17T10:27:53.000Z</pubDate>
+      <content:encoded>
+        윤석열 대통령은 &quot;전세 사기가 서민과 청년층을 상대로 한 악덕 범죄인 만큼 제도를 보완하고 철저히 단속하라&quot;고 관계 부처에 당부했다.
+        
+        윤 대통령은 전날 한동훈 법무부 장관, 원희룡 국토부 장관, 윤희근 경찰청장 등으로부터 전세 사기 단속 상황을 보고 받고, 향후 대응 방안을 점검했다고 이도운 대변인이 17일 서면 브리핑을 통해 전했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;무려 6년 만에&apos; 뜻깊었던 韓 정구인의 밤…3개 부문 수상에 기부까지</title>
+      <link>https://www.nocutnews.co.kr/news/5896901</link>
+      <guid>https://www.nocutnews.co.kr/news/5896901</guid>
+      <pubDate>2023-02-17T10:41:07.000Z</pubDate>
+      <content:encoded>
+        세계 최강을 다투는 한국 소프트테니스(정구)가 6년 만에 뜻깊은 행사를 열었다.
+        
+        대한소프트테니스협회는 지난 15일 서울 올림픽파크텔 올림피아홀에서 &apos;2023년도 정구인의 밤&apos; 행사를 개최했다. 코로나19 등으로 무려 6년 만에 종목 관계자들이 한 자리에 모인 것이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>팬심은 거들뿐…CGV &apos;더 퍼스트 슬램덩크&apos; 팬심대전</title>
+      <link>https://www.nocutnews.co.kr/news/5896902</link>
+      <guid>https://www.nocutnews.co.kr/news/5896902</guid>
+      <pubDate>2023-02-17T10:44:15.000Z</pubDate>
+      <content:encoded>
+        끝날 때까지 끝난 게 아니다. 아직 상영은 중단되지 않았고, 최애를 응원하며 팬심을 드러낼 기회가 남았다. 그런 &apos;슬램덩크&apos; 팬들을 위해 CGV가 &apos;팬심대전&apos;을 마련했다.
+        ?
+        CGV는 &apos;더 퍼스트 슬램덩크&apos;의 북산고 멤버들을 사랑하는 팬들이 함께 모여 응원하는 팬심대전을 진행한다고 17일 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>경찰, 尹대통령 450만 원 식사비 등 특활비 사용 의혹 &apos;불송치&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5896898</link>
+      <guid>https://www.nocutnews.co.kr/news/5896898</guid>
+      <pubDate>2023-02-17T10:45:08.000Z</pubDate>
+      <content:encoded>
+        윤석열 대통령이 고급 한식당에서 특수활동비 450여만 원을 개인 용도로 사용했다는 의혹으로 고발당한 사건에 대해 경찰이 불송치 결정을 내렸다.
+        ?
+        17일 서울 강남경찰서는 지난 10일 업무상 횡령·배임, 청탁금지법 위반 등의 혐의로 고발당한 윤 대통령에 대해 혐의없음으로 불송치 결정했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[미션리포트] 내전에 강진까지 덮친 &apos;시리아&apos;…인도주의 지원 절실</title>
+      <link>https://www.nocutnews.co.kr/news/5896905</link>
+      <guid>https://www.nocutnews.co.kr/news/5896905</guid>
+      <pubDate>2023-02-17T10:48:51.000Z</pubDate>
+      <content:encoded>
+        [앵커]
+        전세계 선교지 소식을 전하는 미션리포트, 오늘은 시리아의 소식을 살펴봅니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;맥주컵 주인 누구&apos;…더브라위너에게 날아온 맥주컵, FA 조사 시작</title>
+      <link>https://www.nocutnews.co.kr/news/5896920</link>
+      <guid>https://www.nocutnews.co.kr/news/5896920</guid>
+      <pubDate>2023-02-17T10:55:25.000Z</pubDate>
+      <content:encoded>
+        잉글랜드 프리미어리그(EPL) 경기 중 맨체스터 시티(맨시티) 케빈 더브라위너(32)에게 맥주컵이 날아온 것을 두고 잉글랜드프로축구협회(FA)가 조사에 나섰다.
+        ? ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&quot;명상 때 목졸라 공격&quot;…동포 살해 한인남성 &apos;묵비권&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5896929</link>
+      <guid>https://www.nocutnews.co.kr/news/5896929</guid>
+      <pubDate>2023-02-17T11:01:05.000Z</pubDate>
+      <content:encoded>
+        아르헨티나 내 한국인 집단 거주지에서 동포 여성을 살해한 한인 남성에 대해 구금 영장이 청구됐다.
+        
+        16일(현지시간) 주아르헨티나 한국대사관 등에 따르면 오스카 시보리 아르헨티나 멘도사주 산마르틴 지방 수석검사는 삼(3)중 가중 살인 혐의를 받는 김모(64)씨에 대해 예비적 구금 명령을 법원에 청구했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>中 정찰 풍선 &apos;보복조치&apos; 시작…&quot;美 록히드마틴 등 제재&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896928</link>
+      <guid>https://www.nocutnews.co.kr/news/5896928</guid>
+      <pubDate>2023-02-17T11:02:18.000Z</pubDate>
+      <content:encoded>중국 정부가 미국의 대표적인 방위산업체인 록히드마틴사와 레이시온(Raytheon Missiles &amp; Defense)에 대해 무역 금지와 벌금 부과 등의 제재를 가했다. 공식적으로는 대만에 대한 무기 수출이 제재의 이유지만 미국이 소위 &apos;정찰 풍선&apos; 문제로 자국 기업을 제재한 것에 대한 보복 조치로 분석된다.</content:encoded>
+    </item>
+    <item>
+      <title>통일부, 이산가족협회 방북신청 반려 &quot;초청의사 확인할 수 없는 서류&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5896933</link>
+      <guid>https://www.nocutnews.co.kr/news/5896933</guid>
+      <pubDate>2023-02-17T11:07:53.000Z</pubDate>
+      <content:encoded>
+        통일부는 남북이산가족협회가 승인을 요청한 방북 신청서를 반려했다고 17일 밝혔다. 이산가족협회에 보냈다고 하는 북한의 초청장이 &quot;초청 의사를 확인할 수 있는 서류에 실질적으로 해당하지 않는다&quot;는 이유에서이다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>남북 군사력 현황[그래픽뉴스]</title>
+      <link>https://www.nocutnews.co.kr/news/5896934</link>
+      <guid>https://www.nocutnews.co.kr/news/5896934</guid>
+      <pubDate>2023-02-17T11:08:54.000Z</pubDate>
+      <content:encoded>지난 16일 국방부가 발간한 &apos;2022 국방백서&apos;에 따르면, 북한국 병력이 국군의 2.56배 많았다. 무기의 수량 또한 북한이 더 많은 것으로 평가됐지만, 국방부는 &quot;장비 노후도와 훈련 수준, 합동전력 운용개념 등을 종합적으로 고려하면 실질적으로 차이가 있을 수 있다&quot;라고 설명했다.</content:encoded>
+    </item>
+    <item>
+      <title>이재명 &apos;구속영장 청구&apos;…국회의원 체포동의안 절차는?[그래픽뉴스]</title>
+      <link>https://www.nocutnews.co.kr/news/5896936</link>
+      <guid>https://www.nocutnews.co.kr/news/5896936</guid>
+      <pubDate>2023-02-17T11:08:54.000Z</pubDate>
+      <content:encoded>지난 16일 검찰이 위례 신도시·대장동 개발 의혹과 성남FC 후원금 의혹 등과 관련해 이재명 더불어민주당 대표에 대한 구속영장을 청구했다. 검찰이 제1야당의 대표에 대해 구속영장을 청구한 것은 헌정사상 최초다.</content:encoded>
+    </item>
+    <item>
+      <title>금융당국, 보험·카드사 성과급 적정성도 따져본다</title>
+      <link>https://www.nocutnews.co.kr/news/5896937</link>
+      <guid>https://www.nocutnews.co.kr/news/5896937</guid>
+      <pubDate>2023-02-17T11:09:18.000Z</pubDate>
+      <content:encoded>
+        최근 은행권의 &apos;성과급 잔치&apos;에 집중됐던 금융당국의 견제 범위가 보험?카드사로 넓혀지는 기류다. 금융당국은 이들 회사의 성과급 지급이 적정 수준에서 이뤄졌는지를 따져보기 위한 기초 자료 확보에 나섰다.
+        ?
+        17일 금융권에 따르면 금융감독원은 일부 보험?카드사를 대상으로 성과 보수 체계 점검을 위한 관련 현황을 파악 중이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>김만배, 석달 만에 다시 &apos;구속 기로&apos;…침묵 속 영장심사 출석</title>
+      <link>https://www.nocutnews.co.kr/news/5896944</link>
+      <guid>https://www.nocutnews.co.kr/news/5896944</guid>
+      <pubDate>2023-02-17T11:16:00.000Z</pubDate>
+      <content:encoded>
+        검찰이 불구속 상태에서 재판을 받고 있는 화천대유자산관리 대주주 김만배 씨에 대해 범죄수익은닉 등의 혐의를 새롭게 적용해 구속영장을 청구한 가운데 김 씨가 영장실질심사에 참석하기 위해 법원에 출석했다.
+        
+        17일 오전 영장실질심사 출석을 위해 서울중앙지법을 찾은 김 씨는 취재진의 질문에 침묵을 지켰다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>김환기부터 안토니 곰리까지…가나아트 창립 40주년 기념전</title>
+      <link>https://www.nocutnews.co.kr/news/5896964</link>
+      <guid>https://www.nocutnews.co.kr/news/5896964</guid>
+      <pubDate>2023-02-17T11:37:47.000Z</pubDate>
+      <content:encoded>
+        창립 40주년을 맞은 가나아트가 &apos;1983-2023 가나화랑-가나아트&apos;전을 17일부터 3월 19일까지 서울 평창동 가나아트센터 전관에서 연다.
+        
+        1983년 인사동에서 시작한 가나화랑이 지금의 가나아트로 성장해온 40년의 시간을 돌아보고, 그동안 수집한 작품의 궤적을 소개하는 자리다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>BTS 제이홉의 일상이 궁금하다면…&apos;제이홉 인 더 박스&apos; 17일 공개</title>
+      <link>https://www.nocutnews.co.kr/news/5896963</link>
+      <guid>https://www.nocutnews.co.kr/news/5896963</guid>
+      <pubDate>2023-02-17T11:38:07.000Z</pubDate>
+      <content:encoded>
+        그룹 방탄소년단 멤버 제이홉의 일상부터 무대 위 설렘까지 담아낸 솔로 다큐멘터리 &apos;제이홉 인 더 박스&apos;(j-hope IN THE BOX)가 오늘(17일) 디즈니+를 통해 전 세계에 공개된다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>비명소리에 가보니 대량 출혈에 사망…범인은 &apos;수탉&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5896975</link>
+      <guid>https://www.nocutnews.co.kr/news/5896975</guid>
+      <pubDate>2023-02-17T11:49:33.000Z</pubDate>
+      <content:encoded>
+        지난해 영국에서 숨진 60대 남성이 키우던 닭의 공격을 받아 다량의 출혈 끝에 심장마비로 사망한 것으로 드러났다고 영국 일간 텔레그래프가 16일(현지시간) 보도했다.
+        
+        보도에 따르면 지난해 4월 네덜란드 헤이그 출신의 야스퍼르 크라우스(67)는 아일랜드 로스코먼에 있는 자택에서 많은 피를 흘리며 쓰러진 채로 발견됐다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>공정위 직원에 돈 주며 &quot;자료 지워줘&quot;…금호그룹 임원 징역 2년</title>
+      <link>https://www.nocutnews.co.kr/news/5896966</link>
+      <guid>https://www.nocutnews.co.kr/news/5896966</guid>
+      <pubDate>2023-02-17T11:51:12.000Z</pubDate>
+      <content:encoded>공정거래위원회 직원에게 회사에 불리한 자료를 삭제해 달라고 요구하며 돈을 건넨 전직 금호아시아나그룹 임원에게 법원이 징역 2년을 선고했다. 돈을 받고 자료를 지운 공정위 직원에게도 징역 1년 6개월이 선고됐다.</content:encoded>
+    </item>
+    <item>
+      <title>&quot;복잡한 행정심판 청구서, 쉽게 써드려요&quot;…자동완성 서비스 개시</title>
+      <link>https://www.nocutnews.co.kr/news/5896941</link>
+      <guid>https://www.nocutnews.co.kr/news/5896941</guid>
+      <pubDate>2023-02-17T12:00:00.000Z</pubDate>
+      <content:encoded>17일부터 행정심판 청구서 작성이 어려운 일반인이 온라인으로 &apos;이지(EASY)행정심판&apos;에 접속한 후 자신이 받은 위법·부당한 행정처분 정보 몇 가지만 입력하면 청구서를 쉽게 작성할 수 있다.</content:encoded>
+    </item>
+    <item>
+      <title>엄원상·정우영 항저우 AG 출격 청신호…U-24로 연령 상향</title>
+      <link>https://www.nocutnews.co.kr/news/5896985</link>
+      <guid>https://www.nocutnews.co.kr/news/5896985</guid>
+      <pubDate>2023-02-17T12:07:08.000Z</pubDate>
+      <content:encoded>
+        올해 9월 열릴 2022 항저우아시안게임 남자 축구 대표팀에 1999년생(24세)도 뛸 수 있게 됐다.
+        ? ?
+        17일 대한체육회와 대한축구협회에 따르면 최근 항저우아시안게임 조직위원회가 남자 축구 참가 선수의 연령 제한을 &apos;1999년 1월 1일 이후 출생&apos;으로 한다고 알려왔다. 기존 23세 이하(U-23)에서 24세 이하(U-24)로 조정됐다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>임영웅 &apos;아임 히어로 더 파이널&apos;, 오늘(17일) 사전 예매 개시</title>
+      <link>https://www.nocutnews.co.kr/news/5896988</link>
+      <guid>https://www.nocutnews.co.kr/news/5896988</guid>
+      <pubDate>2023-02-17T12:19:34.000Z</pubDate>
+      <content:encoded>
+        가수 임영웅의 전국 투어 앵콜 공연 &apos;아임 히어로&apos;(IM HERO, 2022.12.10.~11, 고척스카이돔)&apos;를 담아낸 영화 &apos;아임 히어로 더 파이널&apos;이 오늘(17일) 오전 10시부터 사전 예매에 들어갔다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>주요대 반도체계약학과 합격자 대다수 등록 포기</title>
+      <link>https://www.nocutnews.co.kr/news/5896994</link>
+      <guid>https://www.nocutnews.co.kr/news/5896994</guid>
+      <pubDate>2023-02-17T12:43:51.000Z</pubDate>
+      <content:encoded>
+        2023학년도 대학 정시모집에서 서울 주요대학 반도체 계약학과에 합격한 학생들 대다수가 등록을 포기한 것으로 나타났다.
+        ?
+        17일 종로학원이 고려대·서강대·연세대·한양대 반도체 계약학과 정시 추가합격 최종 공개 자료를 분석한 결과, 이들 대학에서 총 73명이 추가 합격했다. 이는 모집인원 47명의 155%에 이르는 수준이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>檢 &quot;이재명, 징역 11년 이상 명백&quot;…증거인멸 우려 조목조목</title>
+      <link>https://www.nocutnews.co.kr/news/5897023</link>
+      <guid>https://www.nocutnews.co.kr/news/5897023</guid>
+      <pubDate>2023-02-17T13:09:24.000Z</pubDate>
+      <content:encoded>검찰이 더불어민주당 이재명 대표에 대한 구속영장을 청구하며 증거를 인멸할 우려가 상당하다는 점을 조목조목 담았다. 징역 11년 이상의 중대범죄를 저질렀는데 증거를 인멸할 우려가 높기 때문에 구속의 필요성을 법원에서 인정해 달라는 취지다.</content:encoded>
+    </item>
+    <item>
+      <title>원달러 환율, 장중 1300원 돌파…美 긴축 공포감</title>
+      <link>https://www.nocutnews.co.kr/news/5897032</link>
+      <guid>https://www.nocutnews.co.kr/news/5897032</guid>
+      <pubDate>2023-02-17T13:30:40.000Z</pubDate>
+      <content:encoded>
+        미국 소비자물가 상승세가 완연한 둔화 조짐에 들어서지 않았다는 경제지표가 나오면서 중앙은행인 연방준비제도(Fed·연준)의 긴축 장기화가 우려된다.
+        
+        이런 가운데 17일 원달러 환율이 장중 1300원을 돌파하며 달러 강세 현상이 이어지고 있다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;성과급 잔치&apos; 은행권 정조준…제도 개선 TF 23일 첫 회의</title>
+      <link>https://www.nocutnews.co.kr/news/5897035</link>
+      <guid>https://www.nocutnews.co.kr/news/5897035</guid>
+      <pubDate>2023-02-17T13:36:28.000Z</pubDate>
+      <content:encoded>
+        윤석열 대통령이 은행권의 지나친 &apos;성과급 잔치&apos;를 &quot;과점 폐해&quot;라고 지적한 이후 금융당국의 개입 강도도 높아지고 있다.
+        
+        금융위원회와 금융감독원은 오는 23일 &apos;은행권 경영·영업 관행·제도 개선 태스크포스(TF)&apos; 1차 회의를 연다고 17일 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>40주년 2023 K리그, 온라인 생중계는 쿠팡플레이에서</title>
+      <link>https://www.nocutnews.co.kr/news/5897037</link>
+      <guid>https://www.nocutnews.co.kr/news/5897037</guid>
+      <pubDate>2023-02-17T13:43:09.000Z</pubDate>
+      <content:encoded>
+        올해로 40주년이 되는 2023시즌 K리그 온라인 생중계는 쿠팡플레이가 도맡는다. 한국프로축구연맹은 17일 하나원큐 K리그 2023 TV중계 방송사 라인업과 생중계 매체 등을 발표했다.
+        ? ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&quot;행함은 참신앙의 기준&quot;…김학중 목사가 전한 &apos;사순절 묵상집&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5897038</link>
+      <guid>https://www.nocutnews.co.kr/news/5897038</guid>
+      <pubDate>2023-02-17T13:48:41.000Z</pubDate>
+      <content:encoded>
+        &quot;네 생각에는 이 세 사람 중에 누가 강도 만난 자의 이웃이 되겠느냐. 이르되 자비를 베푼자이다.예수께서 이르시되 가서 너도 이와 같이 하라 하시니라&quot;(누가복음 10장36~37절)
+        
+        한 유대인이 여리고로 가던 중에 강도를 만나 죽을 지경이 되었다. 하지만 지금의 목사인 &apos;제사장&apos;과 종교인인 &apos;레위인&apos;은 이를 보고도 그냥 지나치고 만다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;美서 KBO 개막전을?&apos; 허구연 총재, MLB 커미셔너와 회동</title>
+      <link>https://www.nocutnews.co.kr/news/5897039</link>
+      <guid>https://www.nocutnews.co.kr/news/5897039</guid>
+      <pubDate>2023-02-17T13:51:24.000Z</pubDate>
+      <content:encoded>
+        한국야구위원회(KBO) 허구연 총재가 한국 야구의 저변 확대를 위한 대형 프로젝트를 준비하고 있다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;코로나19 이후 3년 만&apos; 프로야구 롯데, 시즌 티켓 판매 재개</title>
+      <link>https://www.nocutnews.co.kr/news/5897040</link>
+      <guid>https://www.nocutnews.co.kr/news/5897040</guid>
+      <pubDate>2023-02-17T13:51:26.000Z</pubDate>
+      <content:encoded>
+        프로야구 롯데가 코로나19 펜데믹 이후 3년 만에 시즌 티켓 판매를 재개한다.
+        
+        롯데는 27일부터 2023시즌 시즌 티켓 판매를 시작한다고 17일 밝혔다. 2020년 구매자에게는 21일부터 나흘간 선 판매를 진행한다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>軍기지 옆이 중국땅? 미국 또 &apos;깜짝&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5897044</link>
+      <guid>https://www.nocutnews.co.kr/news/5897044</guid>
+      <pubDate>2023-02-17T14:18:19.000Z</pubDate>
+      <content:encoded>
+        미국 지방정부가 중국 등 적성국가 출신 거주자들의 미국 부동산 구입을 막는 법을 잇따라 제정하고 있어 논란이 일고 있다.
+        ?
+        16일(현지시간) NPR에 따르면 텍사스주 정부는 2021년 미국의 적성국가들이 텍사스 내 부동산을 취득하지 못하도록 한 법을 제정했다.?
+      </content:encoded>
+    </item>
+    <item>
+      <title>5대 은행 금리인하요구권 활성화 시행…수용률 보니[그래픽뉴스]</title>
+      <link>https://www.nocutnews.co.kr/news/5897070</link>
+      <guid>https://www.nocutnews.co.kr/news/5897070</guid>
+      <pubDate>2023-02-17T14:21:09.000Z</pubDate>
+      <content:encoded>16일 금융감독원에 따르면 지난 13일부터 은행들이 고객의 대출금리 인하 요구를 수용해 금리를 얼마나 내렸는지를 공시하는 내용을 골자로 하는 은행업 감독 업무 시행 세칙을 시행한다.</content:encoded>
+    </item>
+    <item>
+      <title>안중근 의사 유묵, 보존 처리 마치고 리움미술관서 전시</title>
+      <link>https://www.nocutnews.co.kr/news/5897045</link>
+      <guid>https://www.nocutnews.co.kr/news/5897045</guid>
+      <pubDate>2023-02-17T14:26:10.000Z</pubDate>
+      <content:encoded>안중근 의사 유물 및 보존처리 성과 공개 프로그램 &apos;초월-과거와 현재, 국경을 넘어 만나다&apos;가 오는 28일부터 4월 16일까지 서울 한남동 리움미술관 다목적실에서 열린다.</content:encoded>
+    </item>
+    <item>
+      <title>李국방, 천공 의혹 &quot;전혀 사실 아냐&quot;→&quot;수사 결과 보겠다&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897077</link>
+      <guid>https://www.nocutnews.co.kr/news/5897077</guid>
+      <pubDate>2023-02-17T14:31:01.000Z</pubDate>
+      <content:encoded>
+        이종섭 국방부 장관이 17일 역술인 &apos;천공&apos;의 대통령 관저 이전 개입 의혹과 관련한 발언에 미묘한 변화를 보여 관심이 모아진다.
+        ?
+        이종섭 장관은 이날 국회 국방위원회 업무보고에서 배진교 정의당 의원의 질문에 &quot;제가 확인한 범위로는 (천공 관련 의혹은) 전혀 사실이 아니다&quot;라고 답변했다.?
+      </content:encoded>
+    </item>
+    <item>
+      <title>박진, 네덜란드서 &apos;책임 있는 AI 군사적 이용&apos; 강조</title>
+      <link>https://www.nocutnews.co.kr/news/5897079</link>
+      <guid>https://www.nocutnews.co.kr/news/5897079</guid>
+      <pubDate>2023-02-17T14:32:58.000Z</pubDate>
+      <content:encoded>인공지능 대화 프로그램 &apos;챗GPT&apos;가 화제가 되고 있는 가운데 박진 외교부 장관이 네덜란드 헤이그를 찾은 자리에서 &apos;인공지능(AI)의 책임 있는 군사적 이용에 관한 고위급회의&apos;를 네덜란드 외교·국방장관과 공동으로 주최했다.</content:encoded>
+    </item>
+    <item>
+      <title>영화진흥위원회, 9년 만에 중국에서 한국영화제 개최</title>
+      <link>https://www.nocutnews.co.kr/news/5897083</link>
+      <guid>https://www.nocutnews.co.kr/news/5897083</guid>
+      <pubDate>2023-02-17T14:33:35.000Z</pubDate>
+      <content:encoded>
+        영화진흥위원회가 2014년 이후 9년 만에 중국에서 한국 영화제를 개최한다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>김기현 &quot;安 흑색선전, 엄중 조치 해달라&quot;…안철수 &quot;무책임한 행태&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897078</link>
+      <guid>https://www.nocutnews.co.kr/news/5897078</guid>
+      <pubDate>2023-02-17T14:36:06.000Z</pubDate>
+      <content:encoded>국민의힘 당 대표 선거에 나선 김기현 후보 측이 17일 &quot;광주·전남·전북 합동연설회에서 김 후보에 대한 안철수 후보의 부동산 투기 의혹 제기는 명백한 비방, 흑색선전이자 인신공격&quot;이라며 당 선거관리위원회에 엄중 조치를 요청했다.</content:encoded>
+    </item>
+    <item>
+      <title>&apos;2연패&apos; 토트넘이 믿을 구석은 손흥민…웨스트햄전 출격 준비</title>
+      <link>https://www.nocutnews.co.kr/news/5897102</link>
+      <guid>https://www.nocutnews.co.kr/news/5897102</guid>
+      <pubDate>2023-02-17T15:02:14.000Z</pubDate>
+      <content:encoded>
+        &apos;쏘니&apos; 손흥민(31·토트넘)의 어깨가 무겁다. 지친 팀에 활기를 불어넣어야만 한다.
+        ? ?
+        토트넘은 20일 새벽 1시 30분(한국 시각) 영국 런던 토트넘 홋스퍼 스타디움에서 웨스트햄 유나이티드와 2022-2023시즌 잉글랜드 프리미어리그(EPL) 24라운드 홈 경기를 치른다. 분위기 반등을 위해 반드시 이겨야 하는 경기다.?
+      </content:encoded>
+    </item>
+    <item>
+      <title>올해 11월 우리 첫 정찰위성 1호기 발사…남북 &apos;정찰위성&apos; 경쟁?</title>
+      <link>https://www.nocutnews.co.kr/news/5897112</link>
+      <guid>https://www.nocutnews.co.kr/news/5897112</guid>
+      <pubDate>2023-02-17T15:13:17.000Z</pubDate>
+      <content:encoded>군이 &apos;425 사업&apos;이라는 이름으로 추진하던 우리나라 독자 정찰위성 1호기가 올해 11월 발사될 예정이다. 1호기는 일론 머스크가 이끄는 기업 스페이스X의 팰컨 9 로켓에 실려 발사되며, 장소는 미국 캘리포니아주 반덴버그 공군기지로 잠정 결정된 것으로 알려졌다.</content:encoded>
+    </item>
+    <item>
+      <title>北 &quot;한미훈련에 전례없는 강력 대응…추가행동 재고&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897111</link>
+      <guid>https://www.nocutnews.co.kr/news/5897111</guid>
+      <pubDate>2023-02-17T15:13:19.000Z</pubDate>
+      <content:encoded>
+        북한은 다음 달부터 본격 진행되는 한미연합훈련이 발표대로 진행된다면 &quot;전례 없는 강력한 대응에 직면하게 될 것&quot;이라고 17일 위협했다.
+        ?
+        북한이 올 들어 중단한 탄도미사일 발사 등 각종 도발을 한미훈련을 명분으로 재개할 뜻을 밝힌 것으로 풀이된다.?
+      </content:encoded>
+    </item>
+    <item>
+      <title>한미, 22일 미국서 확장억제 연습…핵잠기지도 방문</title>
+      <link>https://www.nocutnews.co.kr/news/5897113</link>
+      <guid>https://www.nocutnews.co.kr/news/5897113</guid>
+      <pubDate>2023-02-17T15:13:42.000Z</pubDate>
+      <content:encoded>
+        한미 양국은 오는 22일 미국 워싱턴D.C.에서 북한 핵 위협 대응을 위한 8차 확장억제수단운용연습(DSC TTX)을 실시한다고 국방부가 17일 밝혔다.
+        ?
+        이번 연습은 지난해 한미안보협의회의(SCM)에서 연례 개최에 합의한 이후 처음 시행되는 것이다.?
+      </content:encoded>
+    </item>
+    <item>
+      <title>야구공에 진흙을 바른다…대표팀 마운드, WBC 공인구 적응 &apos;관건&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5897116</link>
+      <guid>https://www.nocutnews.co.kr/news/5897116</guid>
+      <pubDate>2023-02-17T15:14:44.000Z</pubDate>
+      <content:encoded>메이저리그는 공식 경기가 열리기 전 경기에 사용하는 공인구에 진흙을 바른다. 롤링스사가 제작하는 메이저리그 공인구는 표면이 미끄러워 투수가 공을 던질 때 공이 손에서 빠지는 경우가 많다. 그래서 메이저리그에서는 공의 마찰력을 높이기 위해 경기 전 공인구에 진흙을 바르는 게 일반적이다. 사무국도 인정한다. 다만 진흙 외 다른 이물질을 바르는 건 규칙 위반이다</content:encoded>
+    </item>
+    <item>
+      <title>[인사]통계청</title>
+      <link>https://www.nocutnews.co.kr/news/5897120</link>
+      <guid>https://www.nocutnews.co.kr/news/5897120</guid>
+      <pubDate>2023-02-17T15:23:27.000Z</pubDate>
+      <content:encoded>△통계서비스정책관 정구현</content:encoded>
+    </item>
+    <item>
+      <title>尹대통령 지지율 35%…지난주 보다 3%p 상승</title>
+      <link>https://www.nocutnews.co.kr/news/5897117</link>
+      <guid>https://www.nocutnews.co.kr/news/5897117</guid>
+      <pubDate>2023-02-17T15:24:07.000Z</pubDate>
+      <content:encoded>
+        윤석열 대통령의 국정 지지도가 지난주 보다 3%포인트(p) 오른 35%를 기록했다는 여론조사 결과가 17일 나왔다.
+        
+        한국갤럽이 지난 14~16일 전국 만 18세 이상 남녀 1천명을 대상으로 조사한 결과 윤 대통령의 직무 수행 긍정 평가는 35%, 부정 평가는 58%로 나타났다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>이재명, &apos;檢 영장&apos;에 규탄대회 &apos;결집&apos;+친전 보내 &apos;결백 호소&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5897147</link>
+      <guid>https://www.nocutnews.co.kr/news/5897147</guid>
+      <pubDate>2023-02-17T15:45:29.000Z</pubDate>
+      <content:encoded>
+        더불어민주당이 이재명 대표에 대한 검찰의 구속영장 청구에 &apos;야당 탄압&apos;이라며 규탄 대회를 열고 맹공에 나섰다. 국회의원과 당원 약 3천명이 결집해 내부 결속에 총력을 다하는 가운데, 이 대표는 지역위원장 전원에게 친전을 보내 검찰의 구속영장 청구 요지에 대해 반박하며 결백을 호소했다.
+        
+        野, 국회서 3천명 모여 &apos;규탄대회&apos;…&quot;탄압 중단하라&quot;
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;1점 차 혹은 동점&apos; 남자들의 봄 배구, 한 치 앞 모른다</title>
+      <link>https://www.nocutnews.co.kr/news/5897144</link>
+      <guid>https://www.nocutnews.co.kr/news/5897144</guid>
+      <pubDate>2023-02-17T15:45:32.000Z</pubDate>
+      <content:encoded>
+        프로배구 남자부 봄 배구 진출 경쟁에 불이 제대로 붙었다.
+        ?
+        1위 대한항공(승점 59)과 2위 현대캐피탈(승점 55)은 사실상 플레이오프(PO) 진출을 확정했다. 현재 중위권 3개 팀이 최대 2장의 남은 봄 배구 티켓을 두고 치열한 대립 구도를 형성하고 있다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;600경기 첫 대기록 눈앞&apos; 최고령 리베로의 도전은 계속된다</title>
+      <link>https://www.nocutnews.co.kr/news/5897145</link>
+      <guid>https://www.nocutnews.co.kr/news/5897145</guid>
+      <pubDate>2023-02-17T15:48:29.000Z</pubDate>
+      <content:encoded>
+        현대캐피탈의 리베로이자 플레잉 코치인 &apos;리빙 레전드&apos; 여오현(45·175cm)이 V리그 사상 최초 대기록 달성을 눈앞에 두고 있다. 역대 최초 정규 리그 600경기 출전 달성까지 단 1경기만 남았다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>백석대 신대원 신입생 영성 수련회 개최</title>
+      <link>https://www.nocutnews.co.kr/news/5897149</link>
+      <guid>https://www.nocutnews.co.kr/news/5897149</guid>
+      <pubDate>2023-02-17T15:49:09.000Z</pubDate>
+      <content:encoded>
+        [앵커]
+        
+        백석대학교 신학대학원이 신입생을 대상으로 영성 수련회를 진행했습니다. 2주 동안 이어진 영성 수련회에 참석한 신입생들은 목회자로서의 사명을 재 다짐하는 시간이 됐다고 고백했습니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>尹대통령 &quot;회계 투명성이 노조개혁의 출발점&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897155</link>
+      <guid>https://www.nocutnews.co.kr/news/5897155</guid>
+      <pubDate>2023-02-17T15:51:38.000Z</pubDate>
+      <content:encoded>
+        윤석열 대통령은 17일 &quot;노조회계의 투명성이 노조개혁의 출발점&quot;이라며 노동개혁을 위한 노조 회계장부 공개의 필요성을 강조했다.
+        
+        윤 대통령은 이날 오전 용산 대통령실 청사에서 수석비서관 회의를 주재한 자리에서 회계장부 공개를 일부 노조가 거부하는 사례와 관련해 이같이 밝혔다고 이도운 대변인이 브리핑을 통해 전했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>SM 경영진×평직원 하이브에 반격 &quot;이수만과 불법적 결탁&quot;[전문]</title>
+      <link>https://www.nocutnews.co.kr/news/5897160</link>
+      <guid>https://www.nocutnews.co.kr/news/5897160</guid>
+      <pubDate>2023-02-17T15:52:32.000Z</pubDate>
+      <content:encoded>
+        SM엔터테인먼트(이하 SM) 경영진과 평직원이 하나로 뭉쳐 하이브의 SM 인수에 반발하고 나섰다.
+        
+        유닛장(팀장급) 이하 평직원 208명이 모인 SM 평직원 협의체(이하 협의체)는 17일 성명을 내고 &quot;&apos;불법·탈세&apos; 이수만과 함께하는 하이브, SM에 대한 적대적 M&amp;A 중단하라&quot;라고 촉구했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>감사원, 핼러윈참사 감사 필요성 논의에도 최종 계획에는 빠져</title>
+      <link>https://www.nocutnews.co.kr/news/5897165</link>
+      <guid>https://www.nocutnews.co.kr/news/5897165</guid>
+      <pubDate>2023-02-17T15:56:54.000Z</pubDate>
+      <content:encoded>
+        올해의 감사계획을 확정하는 감사위원회에서 핼러윈 참사에 대한 감사의 필요성이 제기됐으나, 최종 업무 계획에 명시적으로 반영되지 않은 것으로 나타났다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;노란봉투법&apos; 환노위 안건조정위 문턱 넘었다…야당 단독처리</title>
+      <link>https://www.nocutnews.co.kr/news/5897166</link>
+      <guid>https://www.nocutnews.co.kr/news/5897166</guid>
+      <pubDate>2023-02-17T15:58:30.000Z</pubDate>
+      <content:encoded>
+        노동조합법에서 사용자의 개념과 쟁의 대상을 확대하고, 공동 행위에 대한 손해배상 책임을 제한하는 이른바 &apos;노란봉투법&apos;이 17일 국회 환경노동위원회 안건조정위원회를 통과했다.
+        
+        국민의힘은 이에 반발해 회의장에서 퇴장했고, 더불어민주당과 정의당은 이같은 내용의 노동조합법 2·3조 개정안을 단독 처리했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>이재명, &apos;170쪽&apos; 檢영장에 &apos;20쪽&apos; 반박 배포…&quot;부당한 정치적 목적&quot;[영상]</title>
+      <link>https://www.nocutnews.co.kr/news/5897163</link>
+      <guid>https://www.nocutnews.co.kr/news/5897163</guid>
+      <pubDate>2023-02-17T16:00:23.000Z</pubDate>
+      <content:encoded>더불어민주당 이재명 대표는 17일 위례·대장동 개발 사업 및 성남FC 후원금 의혹 사건으로 170여 쪽에 달하는 구속영장을 청구한 검찰을 향해 &quot;부당한 정치적 목적으로 청구된 것&quot;이라고 강하게 비판했다.</content:encoded>
+    </item>
+    <item>
+      <title>오스카가 주목한 &apos;이니셰린의 밴시&apos;, 3월 15일 개봉 확정</title>
+      <link>https://www.nocutnews.co.kr/news/5897172</link>
+      <guid>https://www.nocutnews.co.kr/news/5897172</guid>
+      <pubDate>2023-02-17T16:04:28.000Z</pubDate>
+      <content:encoded>
+        전 세계의 유수 시상식을 사로잡으며 압도적인 존재감을 드러내고 있는 &apos;이니셰린의 밴시&apos;가 오는 3월 15일 개봉을 확정했다.
+        ?
+        외화 &apos;이니셰린의 밴시&apos;(감독 마틴 맥도나)는 예고 없이 찾아온 인생 친구의 절교 선언, 끝까지 이유를 알고 싶어 하는 남자와 우정을 끝내고 싶어 하는 남자의 파격적으로 유쾌하고, 충격적으로 뜨거운 이야기를 담은 작품이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>법조계, &apos;튀르키예 강진&apos; 피해 지원 성금 전달</title>
+      <link>https://www.nocutnews.co.kr/news/5897174</link>
+      <guid>https://www.nocutnews.co.kr/news/5897174</guid>
+      <pubDate>2023-02-17T16:13:56.000Z</pubDate>
+      <content:encoded>
+        튀르키예 강진 피해 지원을 위한 법조계 성금이 이어지고 있다.
+        
+        고위공직자범죄수사처는 17일 지진으로 큰 피해를 본 튀르키예를 돕기 위해 직원들이 자발적으로 모금한 성금 600여만원을 대한적십자사를 통해 전달했다고 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>베트남 다낭서 한국인 상대 &apos;바가지 택시요금&apos; 주의보</title>
+      <link>https://www.nocutnews.co.kr/news/5897190</link>
+      <guid>https://www.nocutnews.co.kr/news/5897190</guid>
+      <pubDate>2023-02-17T16:24:50.000Z</pubDate>
+      <content:encoded>
+        코로나로 인한 사회적 거리두기가 완화되면서 베트남을 찾는 한국인 관광객이 크게 늘어난 가운데, 베트남 다낭에서 한국인 관광객에게 &apos;바가지 요금&apos;을 씌웠던 택시 기사가 공안에 넘겨졌다.
+        ?
+        17일 VN익스프레스 등 베트남 현지 언론에 따르면, 한국인 허모 씨는 지난해 12월 27일 다낭 공항에서 봉변을 당했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>튀르키예 강진 후 5.2 여진[그래픽뉴스]</title>
+      <link>https://www.nocutnews.co.kr/news/5897195</link>
+      <guid>https://www.nocutnews.co.kr/news/5897195</guid>
+      <pubDate>2023-02-17T16:32:57.000Z</pubDate>
+      <content:encoded>16일(현지시간) 미국지질조사국(USGS)에 따르면 이날 오후 9시47분에에 튀르키예 사만다주 우준바 해안에서 규모 5.2 지진이 발생했다.</content:encoded>
+    </item>
+    <item>
+      <title>北 도발 속 &apos;남북 평화롭지 않다&apos; 학생·교사 2배 증가</title>
+      <link>https://www.nocutnews.co.kr/news/5897196</link>
+      <guid>https://www.nocutnews.co.kr/news/5897196</guid>
+      <pubDate>2023-02-17T16:34:20.000Z</pubDate>
+      <content:encoded>
+        지난해 북한의 도발이 지속되면서 남북관계가 평화롭지 못하다고 인식한 학생과 교사들이 두 배 가량 증가한 것으로 나타났다. 남북분단 상황이 삶에 영향을 준다는 인식도 증가했다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>윤미향도 &apos;정의연 횡령 혐의&apos; 1심에 항소…&quot;檢, 무리한 기소&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897192</link>
+      <guid>https://www.nocutnews.co.kr/news/5897192</guid>
+      <pubDate>2023-02-17T16:43:19.000Z</pubDate>
+      <content:encoded>
+        윤미향 무소속 의원은 검찰의 항소에 맞서 정의기억연대(정의연) 이사장 활동 당시 기부금을 횡령한 혐의에 벌금형이 나오자 1심 재판부에 항소했다.
+        
+        17일 법조계에 따르면, 윤 의원 측은 전날(16일) 검찰의 항소 이후 서울서부지법 형사합의11부(부장판사 문병찬)에 항소장을 제출했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>최재해 감사원장 &quot;감사원과 각 기관 감사 간 중복·누락 없도록 할 것&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897210</link>
+      <guid>https://www.nocutnews.co.kr/news/5897210</guid>
+      <pubDate>2023-02-17T16:56:34.000Z</pubDate>
+      <content:encoded>
+        최재해 감사원장은 17일 34개 정부·지자체·공공기관의 자체 감사기구 책임자들과 가진 회의에서 &quot;감사 중복과 사각을 방지하고 균형 잡힌 감사가 이루어질 수 있도록 효율적인 공공 감사체계를 마련하고 있다&quot;고 밝혔다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>챗GPT 등 &apos;디지털 시대&apos; 교육 방향은?…&apos;디지털 기반 교육혁신 간담회&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5897211</link>
+      <guid>https://www.nocutnews.co.kr/news/5897211</guid>
+      <pubDate>2023-02-17T17:01:46.000Z</pubDate>
+      <content:encoded>
+        교육부는 17일 서울 영등포구 한국교육시설안전원에서 나주범 차관보 주재로 &apos;디지털 기반 교육혁신 방안 수립을 위한 간담회&apos;를 열어 현장 교원 및 학계, 전문가 등과 주요 추진 과제에 대해 논의했다고 밝혔다.
+        ?
+        주요 추진 과제는 인공지능(AI) 디지털 교과서 개발, 모델학교 운영, 교원연수 추진, 디지털 교수학습 모델 개발, 인프라 구축 등이었다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>예장 합동, 초등학생 대상 &apos;전국 유소년 풋살 대회&apos; 준비</title>
+      <link>https://www.nocutnews.co.kr/news/5897224</link>
+      <guid>https://www.nocutnews.co.kr/news/5897224</guid>
+      <pubDate>2023-02-17T17:20:39.000Z</pubDate>
+      <content:encoded>
+        대한예수교장로회 합동총회(총회장 권순웅 목사, 이하 예장 합동)가 다음세대 부흥을 도모하기위해 초등학생을 대상으로 한 전국 유소년 풋살(축구) 대회를 개최한다.
+        ?
+        예장 합동 총회다음세대목회부흥운동본부(본부장 이성화 목사)는 17일 서울 강남구 영동대로 총회회관에서 기자회견을 열고, 전도를 위한 유소년 풋살 대회를 준비하고 있다고 밝혔다.?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;연준 빅스텝&apos; 경계 심리 재확산…원·달러 환율 장중 1300원 돌파</title>
+      <link>https://www.nocutnews.co.kr/news/5897278</link>
+      <guid>https://www.nocutnews.co.kr/news/5897278</guid>
+      <pubDate>2023-02-17T18:09:54.000Z</pubDate>
+      <content:encoded>
+        기준금리 인상 속도를 줄여왔던 미국 중앙은행 연방준비제도(연준)가 또 다시 큰 폭의 인상 결정을 할 수 있다는 전망과 맞물려 달러 가치가 치솟고 있다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;사위&apos; 이승기 비난 받자 견미리 측 &quot;주가조작 남편과 무관&quot;[전문]</title>
+      <link>https://www.nocutnews.co.kr/news/5897282</link>
+      <guid>https://www.nocutnews.co.kr/news/5897282</guid>
+      <pubDate>2023-02-17T18:10:58.000Z</pubDate>
+      <content:encoded>배우 견미리가 예비 사위 이승기에 대한 비난 여론에 직접 대응하고 나섰다.</content:encoded>
+    </item>
+    <item>
+      <title>[노컷한컷]분향소 철거 갈등, 태영호 4·3발언 논란, 이재명 구속영장…</title>
+      <link>https://www.nocutnews.co.kr/news/5897280</link>
+      <guid>https://www.nocutnews.co.kr/news/5897280</guid>
+      <pubDate>2023-02-17T18:11:11.000Z</pubDate>
+      <content:encoded>
+        다가오는 봄
+        봄이 다가오고 있는 12일 오전 서울 인왕산 자락길에서 나무가 꽃 피울 준비를 하고 있다. 류영주 기자
+      </content:encoded>
+    </item>
+    <item>
+      <title>춥지않은 날씨 주말동안 비나 눈소식…전라권·경남권, 제주 중심 비</title>
+      <link>https://www.nocutnews.co.kr/news/5897279</link>
+      <guid>https://www.nocutnews.co.kr/news/5897279</guid>
+      <pubDate>2023-02-17T18:13:06.000Z</pubDate>
+      <content:encoded>
+        내일도 춥지 않은 날씨가 이어지면서 아침기온 오늘보다 높고, 낮기온 오늘과 비슷하겠습니다.
+        
+        서울의 경우 내일 아침 영상 2도로 시작해 한낮에는 10도까지 오르겠습니다. 다만 오늘과 내일 중부와 전북지방을 중심으로 미세먼지농도가 나쁨수준을 보이는 곳이 많아서 호흡기 약하신 분들은 각별히 주의하셔야 겠습니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>전갑수 광주시체육회장, 동계체전 선수단 격려</title>
+      <link>https://www.nocutnews.co.kr/news/5897283</link>
+      <guid>https://www.nocutnews.co.kr/news/5897283</guid>
+      <pubDate>2023-02-17T18:20:14.000Z</pubDate>
+      <content:encoded>
+        전갑수 광주광역시체육회장이 취임 후 첫 행보로 17일 제104회 전국동계체육대회가 열리는 강원도 평창에서 선수단을 격려했다.
+        ?
+        광주광역시체육회는 17일부터 20일까지 강원, 경기, 울산 등에서 열리는 제104회 전국동계체전에 6개 종목 83명의 선수단이 참가했다고 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&quot;우선 잠이라도 재우겠다&quot; 청남대 대통령 숙소 개방 추진</title>
+      <link>https://www.nocutnews.co.kr/news/5897286</link>
+      <guid>https://www.nocutnews.co.kr/news/5897286</guid>
+      <pubDate>2023-02-17T18:23:07.000Z</pubDate>
+      <content:encoded>
+        충청북도가 옛 대통령 별장인 청남대의 전시 시설로만 사용해온 대통령 침실을 앞으로는 일반인들도 사용할 수 있도록 하는 방안을 검토하고 나섰다.
+        
+        지난 14일 윤석열 대통령이 이곳을 방문해 규제 완화를 지시하자 후속 절차에 속도를 내는 모양새이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>20여 년 만의 재판서 언급된 &apos;국민은행 강도살인&apos; 피해자와 유족의 아픔</title>
+      <link>https://www.nocutnews.co.kr/news/5897288</link>
+      <guid>https://www.nocutnews.co.kr/news/5897288</guid>
+      <pubDate>2023-02-17T18:34:48.000Z</pubDate>
+      <content:encoded>
+        &quot;피해자는 자신에게 맡겨진 직무에 충실하고자 했다는 점에서 더욱 비극적입니다. 약 20년 만에 이해할 수 있게 된 사건의 진실에는 사망한 피해자가 그 순간 얼마나 정의롭고 고결하게 행동했는지를 포함합니다.&quot;
+        ?
+        17일 오후 대전지법 제230호 법정.
+      </content:encoded>
+    </item>
+    <item>
+      <title>세계는 지금 AI 전쟁중…&apos;진짜 인간&apos;의 미래는?</title>
+      <link>https://www.nocutnews.co.kr/news/5897281</link>
+      <guid>https://www.nocutnews.co.kr/news/5897281</guid>
+      <pubDate>2023-02-17T18:35:25.000Z</pubDate>
+      <content:encoded>
+        [앵커]
+        인공지능 챗봇, 챗GPT. 이제는 많이들 써보셨을 것 같아요.
+        그야말로 신드롬이죠.
+      </content:encoded>
+    </item>
+    <item>
+      <title>충북 영동교육도서관 교육문화복합공간으로 재탄생</title>
+      <link>https://www.nocutnews.co.kr/news/5897292</link>
+      <guid>https://www.nocutnews.co.kr/news/5897292</guid>
+      <pubDate>2023-02-17T18:40:21.000Z</pubDate>
+      <content:encoded>
+        영동교육도서관이 독서와 휴식, 문화체험을 함께 즐길 수 있는 교육문화복합공간으로 재탄생했다.
+        
+        충청북도교육청은 지난 1년여간 27억여원의 사업비를 투입해 진행한 영동교육도서관 교육문화복합공간 조성 사업을 마무리하고 17일 개관식을 열었다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>서원대, 2023학년도 교원임용시험 131명 최종 합격</title>
+      <link>https://www.nocutnews.co.kr/news/5897293</link>
+      <guid>https://www.nocutnews.co.kr/news/5897293</guid>
+      <pubDate>2023-02-17T18:40:45.000Z</pubDate>
+      <content:encoded>
+        서원대학교(총장 손석민)는 2023학년도 교원임용시험에서 131명이 최종 합격했다고 17일 밝혔다.
+        
+        교과별로는 체육이 27명으로 가장 많고, 도덕·윤리 20명, 일반사회 14명, 역사 14명, 수학 11명, 유치원 10명, 국어 9명, 영어 7명, 생물 7명 등이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>김기현 &quot;당 지켜온 사람이 대표 맡아야&quot;…충북서 지지 호소</title>
+      <link>https://www.nocutnews.co.kr/news/5897295</link>
+      <guid>https://www.nocutnews.co.kr/news/5897295</guid>
+      <pubDate>2023-02-17T18:50:05.000Z</pubDate>
+      <content:encoded>
+        국민의힘 당권 주자인 김기현 후보가 17일 충북을 찾아 &quot;20년 동안 당을 지켜온 사람이 당대표를 맡아야 한다&quot;며 지지를 호소했다.
+        
+        김 후보는 이날 오후 충주시 문화동 이종배 국회의원실에서 열린 당원 간담회에서 &quot;충주 발전을 위해서도 손발이 척척 맞는 파트너가 되려면 김기현이 돼야 한다&quot;며 이 같이 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>하이브 vs SM 2차 공방전…이수만 &apos;역외탈세&apos; 의혹 쟁점</title>
+      <link>https://www.nocutnews.co.kr/news/5897297</link>
+      <guid>https://www.nocutnews.co.kr/news/5897297</guid>
+      <pubDate>2023-02-17T18:54:49.000Z</pubDate>
+      <content:encoded>하이브의 이수만 주식 매수로 시작된 SM엔터테인먼트(이하 SM) 인수가 난항에 빠졌다. 하이브와 SM은 이수만의 역외탈세 의혹을 두고 연일 대치하며 공방전에 한창이다.</content:encoded>
+    </item>
+    <item>
+      <title>하이브 vs SM 2차 공방전…이수만 &apos;역외탈세&apos; 의혹 쟁점</title>
+      <link>https://www.nocutnews.co.kr/news/5897297</link>
+      <guid>https://www.nocutnews.co.kr/news/5897297</guid>
+      <pubDate>2023-02-17T18:54:49.000Z</pubDate>
+      <content:encoded>하이브의 이수만 주식 매수로 시작된 SM엔터테인먼트(이하 SM) 인수가 난항에 빠졌다. 하이브와 SM은 이수만의 역외탈세 의혹을 두고 연일 대치하며 공방전에 한창이다.</content:encoded>
+    </item>
+    <item>
+      <title>정진상 &quot;검사가 교도소 강력범 운운하며 압박&quot;…檢 &quot;악의적 프레임&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897296</link>
+      <guid>https://www.nocutnews.co.kr/news/5897296</guid>
+      <pubDate>2023-02-17T18:56:02.000Z</pubDate>
+      <content:encoded>더불어민주당 이재명 대표의 최측근 정진상 전 민주당 대표실 정무조정실장 측이 검찰의 조사 과정에서 부당한 회유와 협박이 있었다고 17일 주장했다. 변호인 없이 진행한 수사팀 면담에서 검사가 &quot;교도소에서 강력범과 혼방 생활을 하면 괜찮겠느냐&quot;라며 회유성 발언을 했다는 취지다. 검찰은 전혀 사실과 다른 악의적 프레임 씌우기라며 유감을 표명했다.</content:encoded>
+    </item>
+    <item>
+      <title>정진상 &quot;검사가 교도소 강력범 운운하며 압박&quot;…檢 &quot;악의적 프레임&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897296</link>
+      <guid>https://www.nocutnews.co.kr/news/5897296</guid>
+      <pubDate>2023-02-17T18:56:02.000Z</pubDate>
+      <content:encoded>더불어민주당 이재명 대표의 최측근 정진상 전 민주당 대표실 정무조정실장 측이 검찰의 조사 과정에서 부당한 회유와 협박이 있었다고 17일 주장했다. 변호인 없이 진행한 수사팀 면담에서 검사가 &quot;교도소에서 강력범과 혼방 생활을 하면 괜찮겠느냐&quot;라며 회유성 발언을 했다는 취지다. 검찰은 전혀 사실과 다른 악의적 프레임 씌우기라며 유감을 표명했다.</content:encoded>
+    </item>
+    <item>
+      <title>충북대 간호학과 8년 연속 간호사 국가시험 100% 합격</title>
+      <link>https://www.nocutnews.co.kr/news/5897299</link>
+      <guid>https://www.nocutnews.co.kr/news/5897299</guid>
+      <pubDate>2023-02-17T18:56:38.000Z</pubDate>
+      <content:encoded>
+        충북대학교(총장 직무대리 정의배)는 이 대학 간호학과가 8년 연속 간호사 국가시험에서 100% 합격의 기록을 세웠다고 17일 밝혔다.
+        
+        충북대에 따르면 한국보건의료인 국가시험원이 시행한 2023년 제63회 간호사 국가시험에서 졸업생 67명이 모두 합격했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>서울 남산에서 울려퍼진 日 &apos;기미가요&apos;[어텐션 뉴스]</title>
+      <link>https://www.nocutnews.co.kr/news/5897302</link>
+      <guid>https://www.nocutnews.co.kr/news/5897302</guid>
+      <pubDate>2023-02-17T19:19:40.000Z</pubDate>
+      <content:encoded>
+        [앵커]
+        
+        오늘 하루 온라인에서 가장 주목 받은 뉴스만 콕콕 짚어봅니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>서울 남산에서 울려퍼진 日 &apos;기미가요&apos;[어텐션 뉴스]</title>
+      <link>https://www.nocutnews.co.kr/news/5897302</link>
+      <guid>https://www.nocutnews.co.kr/news/5897302</guid>
+      <pubDate>2023-02-17T19:19:40.000Z</pubDate>
+      <content:encoded>
+        [앵커]
+        
+        오늘 하루 온라인에서 가장 주목 받은 뉴스만 콕콕 짚어봅니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>이혁규 청주교대 총장, 영동국악엑스포 유치기원 챌린지 동참</title>
+      <link>https://www.nocutnews.co.kr/news/5897305</link>
+      <guid>https://www.nocutnews.co.kr/news/5897305</guid>
+      <pubDate>2023-02-17T19:20:07.000Z</pubDate>
+      <content:encoded>
+        청주교육대학교는 17일 이혁규 총장이 전날 2025 영동세계국악엑스포 유치를 기원하는 릴레이 챌린지에 동참했다고 밝혔다.
+        
+        이 총장은 윤건영 충북교육감의 지명을 받아 챌린지에 참여했으며, 다음 주자로 김종우 한국교원대 총장, 조경애 옥천교육지원청 교육장, 손희순 봉명초 교장을 지명했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>개혁연대 &quot;가혹행위 논란 김명진 목사 징역형 환영&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897307</link>
+      <guid>https://www.nocutnews.co.kr/news/5897307</guid>
+      <pubDate>2023-02-17T19:57:16.000Z</pubDate>
+      <content:encoded>신앙 훈련을 빙자한 가혹 행위 강요 방조 등의 혐의로 재판을 받아온 빛과진리교회 김명진 목사가 1심에서 징역 2년을 선고받은 데 대해 교회개혁실천연대(개혁연대)가 환영의 뜻을 전했습니다.</content:encoded>
+    </item>
+    <item>
+      <title>개혁연대 &quot;가혹행위 논란 김명진 목사 징역형 환영&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897307</link>
+      <guid>https://www.nocutnews.co.kr/news/5897307</guid>
+      <pubDate>2023-02-17T19:57:16.000Z</pubDate>
+      <content:encoded>신앙 훈련을 빙자한 가혹 행위 강요 방조 등의 혐의로 재판을 받아온 빛과진리교회 김명진 목사가 1심에서 징역 2년을 선고받은 데 대해 교회개혁실천연대(개혁연대)가 환영의 뜻을 전했습니다.</content:encoded>
+    </item>
+    <item>
+      <title>기환연, 2023 정기총회서 집중 사업 확정</title>
+      <link>https://www.nocutnews.co.kr/news/5897308</link>
+      <guid>https://www.nocutnews.co.kr/news/5897308</guid>
+      <pubDate>2023-02-17T19:57:25.000Z</pubDate>
+      <content:encoded>
+        40년 넘게 기후위기 대응에 앞장서온 기독교환경운동연대가 최근 2023 정기총회를 열고 창조 세계의 회복을 위한 올해 집중 사업을 확정했습니다.
+        
+        기환연은 탄소 배출을 줄이기 위한 &apos;한국교회 탄소중립 캠페인&apos;을 지구의 날인 4월 22일부터 환경의 날인 6월 5일까지 집중적으로 펼치기로 했습니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>기환연, 2023 정기총회서 집중 사업 확정</title>
+      <link>https://www.nocutnews.co.kr/news/5897308</link>
+      <guid>https://www.nocutnews.co.kr/news/5897308</guid>
+      <pubDate>2023-02-17T19:57:25.000Z</pubDate>
+      <content:encoded>
+        40년 넘게 기후위기 대응에 앞장서온 기독교환경운동연대가 최근 2023 정기총회를 열고 창조 세계의 회복을 위한 올해 집중 사업을 확정했습니다.
+        
+        기환연은 탄소 배출을 줄이기 위한 &apos;한국교회 탄소중립 캠페인&apos;을 지구의 날인 4월 22일부터 환경의 날인 6월 5일까지 집중적으로 펼치기로 했습니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;TV조선 재승인 의혹&apos; 방통위 심사위원장 구속…&quot;증거인멸 우려&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897311</link>
+      <guid>https://www.nocutnews.co.kr/news/5897311</guid>
+      <pubDate>2023-02-17T21:39:29.000Z</pubDate>
+      <content:encoded>
+        TV조선 재승인 심사 과정에 개입해 불이익을 준 혐의를 받는 당시 방송통신위원회(방통위) 심사위원장 윤모 광주대 교수가 17일 구속됐다.
+        
+        서울북부지법 임기환 영장전담판사는 윤 교수에 대해 &quot;증거인멸 우려가 있고 도망의 염려가 있다&quot;며 구속 영장을 발부했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;TV조선 재승인 의혹&apos; 방통위 심사위원장 구속…&quot;증거인멸 우려&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897311</link>
+      <guid>https://www.nocutnews.co.kr/news/5897311</guid>
+      <pubDate>2023-02-17T21:39:29.000Z</pubDate>
+      <content:encoded>
+        TV조선 재승인 심사 과정에 개입해 불이익을 준 혐의를 받는 당시 방송통신위원회(방통위) 심사위원장 윤모 광주대 교수가 17일 구속됐다.
+        
+        서울북부지법 임기환 영장전담판사는 윤 교수에 대해 &quot;증거인멸 우려가 있고 도망의 염려가 있다&quot;며 구속 영장을 발부했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>법원, 검찰에 이재명 대표 체포동의 요구서 송부</title>
+      <link>https://www.nocutnews.co.kr/news/5897312</link>
+      <guid>https://www.nocutnews.co.kr/news/5897312</guid>
+      <pubDate>2023-02-17T21:47:35.000Z</pubDate>
+      <content:encoded>
+        4800억원대 배임 혐의로 구속영장이 청구된 더불어민주당 이재명 대표의 국회 동의 절차가 시작됐다.
+        
+        서울중앙지법은 17일 서울중앙지검에 이 대표에 대한 체포동의 요구서를 보냈다고 밝혔다.?요구서는 대검찰청과 법무부를 거쳐 대통령 재가를 받은 뒤 금명간 국회에 제출될 예정이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>법원, 검찰에 이재명 대표 체포동의 요구서 송부</title>
+      <link>https://www.nocutnews.co.kr/news/5897312</link>
+      <guid>https://www.nocutnews.co.kr/news/5897312</guid>
+      <pubDate>2023-02-17T21:47:35.000Z</pubDate>
+      <content:encoded>
+        4800억원대 배임 혐의로 구속영장이 청구된 더불어민주당 이재명 대표의 국회 동의 절차가 시작됐다.
+        
+        서울중앙지법은 17일 서울중앙지검에 이 대표에 대한 체포동의 요구서를 보냈다고 밝혔다.?요구서는 대검찰청과 법무부를 거쳐 대통령 재가를 받은 뒤 금명간 국회에 제출될 예정이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>승부처를 지배한 변준형과 박지훈…KGC, 파죽의 10연승</title>
+      <link>https://www.nocutnews.co.kr/news/5897313</link>
+      <guid>https://www.nocutnews.co.kr/news/5897313</guid>
+      <pubDate>2023-02-17T21:57:13.000Z</pubDate>
+      <content:encoded>
+        안양 KGC인삼공사가 파죽의 10연승 행진을 달렸다. 구단 최다연승 신기록이다.
+        
+        KGC인삼공사는 17일 경기도 안양실내체육관에서 열린 2022-2023 SKT 에이닷 프로농구 정규리그 전주 KCC와 홈 경기에서 88-79로 승리했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>승부처를 지배한 변준형과 박지훈…KGC, 파죽의 10연승</title>
+      <link>https://www.nocutnews.co.kr/news/5897313</link>
+      <guid>https://www.nocutnews.co.kr/news/5897313</guid>
+      <pubDate>2023-02-17T21:57:13.000Z</pubDate>
+      <content:encoded>
+        안양 KGC인삼공사가 파죽의 10연승 행진을 달렸다. 구단 최다연승 신기록이다.
+        
+        KGC인삼공사는 17일 경기도 안양실내체육관에서 열린 2022-2023 SKT 에이닷 프로농구 정규리그 전주 KCC와 홈 경기에서 88-79로 승리했다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>한국교회봉사단, 튀르키예에 긴급구호 의료단 파견…이재민 지원 활발</title>
+      <link>https://www.nocutnews.co.kr/news/5897318</link>
+      <guid>https://www.nocutnews.co.kr/news/5897318</guid>
+      <pubDate>2023-02-17T22:53:18.000Z</pubDate>
+      <content:encoded>
+        [앵커]
+        튀르키예 시리아에서 발생한 강진 피해를 돕기 위해 한국교회와 기독 NGO들의 지원 활동도 활발히 펼치고 있습니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>한국교회봉사단, 튀르키예에 긴급구호 의료단 파견…이재민 지원 활발</title>
+      <link>https://www.nocutnews.co.kr/news/5897318</link>
+      <guid>https://www.nocutnews.co.kr/news/5897318</guid>
+      <pubDate>2023-02-17T22:53:18.000Z</pubDate>
+      <content:encoded>
+        [앵커]
+        튀르키예 시리아에서 발생한 강진 피해를 돕기 위해 한국교회와 기독 NGO들의 지원 활동도 활발히 펼치고 있습니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[CBS논평] 기독교인 정치인들이 신앙인의 정체성으로 활동하길 기대한다 - 정종훈 교수</title>
+      <link>https://www.nocutnews.co.kr/news/5897319</link>
+      <guid>https://www.nocutnews.co.kr/news/5897319</guid>
+      <pubDate>2023-02-17T22:53:24.000Z</pubDate>
+      <content:encoded>지금 운영되고 있는 21대 국회는 정쟁(政爭)을 위해서 이전투구하는 싸움터처럼 보입니다. 국회의원들에게 민생은 말뿐이고 당리당략이 더 중요한 사안인 듯싶습니다. 국민의 안전과 복지보다는 자신의 안위와 정치생명에 우선적인 관심을 두고 있는 것 같습니다. 이들이 국회에 입성하기 전에는 허리를 90도 숙이고 국민만을 바라보며 돌보며 섬기겠다고 약속했습니다. 하지</content:encoded>
+    </item>
+    <item>
+      <title>[CBS논평] 기독교인 정치인들이 신앙인의 정체성으로 활동하길 기대한다 - 정종훈 교수</title>
+      <link>https://www.nocutnews.co.kr/news/5897319</link>
+      <guid>https://www.nocutnews.co.kr/news/5897319</guid>
+      <pubDate>2023-02-17T22:53:24.000Z</pubDate>
+      <content:encoded>지금 운영되고 있는 21대 국회는 정쟁(政爭)을 위해서 이전투구하는 싸움터처럼 보입니다. 국회의원들에게 민생은 말뿐이고 당리당략이 더 중요한 사안인 듯싶습니다. 국민의 안전과 복지보다는 자신의 안위와 정치생명에 우선적인 관심을 두고 있는 것 같습니다. 이들이 국회에 입성하기 전에는 허리를 90도 숙이고 국민만을 바라보며 돌보며 섬기겠다고 약속했습니다. 하지</content:encoded>
+    </item>
+    <item>
+      <title>[반론보도]「무소불위 컨설팅 조직범죄…바지사장·중개사·세입자 &apos;장기판의 말&apos;」 등 기사 관련</title>
+      <link>https://www.nocutnews.co.kr/news/5894464</link>
+      <guid>https://www.nocutnews.co.kr/news/5894464</guid>
+      <pubDate>2023-02-18T00:00:00.000Z</pubDate>
+      <content:encoded>노컷뉴스는 지난 1월 22일자 「무소불위 컨설팅 조직범죄…바지사장·중개사·세입자 &apos;장기판의 말&apos;」, 1월 24일자 「사망해도 계속 생겨나는 전국 &apos;빌라왕&apos;…배후, 뿌리를 뽑아야」, 1월 25일자 「막막한 설 보낸 전세사기 피해자들…&quot;빌라왕 활개, 정부는 뭐했나&quot;」라는 제목의 기사를 보도한 바 있습니다.</content:encoded>
+    </item>
+    <item>
+      <title>[반론보도]「&quot;피해액 266억 추정&quot;…&apos;전세 사기&apos; 일당 51명 적발」 기사 관련</title>
+      <link>https://www.nocutnews.co.kr/news/5894463</link>
+      <guid>https://www.nocutnews.co.kr/news/5894463</guid>
+      <pubDate>2023-02-18T00:00:00.000Z</pubDate>
+      <content:encoded>노컷뉴스는 지난해 12월 23일자에 위와 같은 제목으로 건축업자 A씨가 인천 미추홀구 일대 327채의 전세보증금 266억원을 가로챈 혐의 등을 받고 있다는 취지의 경찰 조사 결과를 보도한 바 있습니다.</content:encoded>
+    </item>
+    <item>
+      <title>北 김정은, 딸 주애와 계속 사진 찍는 이유…어릴 적 심리적 상처도 작용?</title>
+      <link>https://www.nocutnews.co.kr/news/5897321</link>
+      <guid>https://www.nocutnews.co.kr/news/5897321</guid>
+      <pubDate>2023-02-18T04:40:00.000Z</pubDate>
+      <content:encoded>&quot;본처 김영숙을 두고 성혜림과의 사이에서 김정남을 낳은 김정일에게 김일성은 집안 망신이라고 화를 낸 적이 있다고 한다…장성택은 이 사실을 환기시키면서 &apos;수령님에게 고용희 모자를 절대로 데려가서는 안된다&apos;며 만류했다고 한다…고용희는 장성택 부부에게 원한을 품게 됐고 그 감정은 고스란히 김정은에게 전해졌다. 김정은 또한 할아버지 김일성과 찍은 사진 한 장 없는</content:encoded>
+    </item>
+    <item>
+      <title>北 김정은, 딸 주애와 계속 사진 찍는 이유…어릴 적 심리적 상처도 작용?</title>
+      <link>https://www.nocutnews.co.kr/news/5897321</link>
+      <guid>https://www.nocutnews.co.kr/news/5897321</guid>
+      <pubDate>2023-02-18T04:40:00.000Z</pubDate>
+      <content:encoded>&quot;본처 김영숙을 두고 성혜림과의 사이에서 김정남을 낳은 김정일에게 김일성은 집안 망신이라고 화를 낸 적이 있다고 한다…장성택은 이 사실을 환기시키면서 &apos;수령님에게 고용희 모자를 절대로 데려가서는 안된다&apos;며 만류했다고 한다…고용희는 장성택 부부에게 원한을 품게 됐고 그 감정은 고스란히 김정은에게 전해졌다. 김정은 또한 할아버지 김일성과 찍은 사진 한 장 없는</content:encoded>
+    </item>
+    <item>
+      <title>7시간 비행후 유턴…항공기 무더기 회항 소동</title>
+      <link>https://www.nocutnews.co.kr/news/5897329</link>
+      <guid>https://www.nocutnews.co.kr/news/5897329</guid>
+      <pubDate>2023-02-18T04:49:30.000Z</pubDate>
+      <content:encoded>
+        미국의 대표적인 공항 가운데 한 곳인 뉴욕 JFK공항의 한 터미널이 17일(현지시간) 이틀째 운영이 중지되면서 항공기들의 회항 및 운항 취소가 줄을 잇고 있다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>7시간 비행후 유턴…항공기 무더기 회항 소동</title>
+      <link>https://www.nocutnews.co.kr/news/5897329</link>
+      <guid>https://www.nocutnews.co.kr/news/5897329</guid>
+      <pubDate>2023-02-18T04:49:30.000Z</pubDate>
+      <content:encoded>
+        미국의 대표적인 공항 가운데 한 곳인 뉴욕 JFK공항의 한 터미널이 17일(현지시간) 이틀째 운영이 중지되면서 항공기들의 회항 및 운항 취소가 줄을 잇고 있다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>[인터뷰]&apos;믿을맨&apos; 최대호 &quot;도덕성 흠집 치명적…깨끗해야 행정 신뢰&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897207</link>
+      <guid>https://www.nocutnews.co.kr/news/5897207</guid>
+      <pubDate>2023-02-18T05:00:00.000Z</pubDate>
+      <content:encoded>
+        &quot;안양시장이 과천시에 산다는 소문이 돌았어요. 또 터미널 땅주인한테 특혜를 줬다는 공격도 받았죠. 모두 가짜뉴스였습니다. 하지만 이미 명예가 짓밟힌 뒤라…&quot;
+        ?
+        최대호(64·더불어민주당) 경기 안양시장이 선거 때마다 불거진 네거티브를 돌이키며 한 말이다. 거짓 의혹들이 사법적으로 밝혀져도, 한번 훼손된 이미지는 회복이 어렵다는 것.
+      </content:encoded>
+    </item>
+    <item>
+      <title>AI에는 천문학적 투자, 진짜 사람은 해고…인공지능의 &apos;역설&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5897036</link>
+      <guid>https://www.nocutnews.co.kr/news/5897036</guid>
+      <pubDate>2023-02-18T05:10:00.000Z</pubDate>
+      <content:encoded>&apos;챗GPT&apos;의 폭발적인 인기 속에 글로벌 빅테크들이 앞다퉈 인공지능(AI) 챗봇 경쟁에 뛰어들고 있다. 너나없이 챗GPT에 대항하는 AI 개발을 예고하고, 천문학적인 돈도 서슴없이 쏟아붓겠다고 공언한다. 그야말로 전쟁이다.</content:encoded>
+    </item>
+    <item>
+      <title>거래량 &apos;껑충&apos; 뛴 수도권 아파트…집값 &apos;바닥&apos;쳤다?</title>
+      <link>https://www.nocutnews.co.kr/news/5897193</link>
+      <guid>https://www.nocutnews.co.kr/news/5897193</guid>
+      <pubDate>2023-02-18T05:30:00.000Z</pubDate>
+      <content:encoded>급격한 금리인상과 경기침체 우려로 &apos;역대급 거래절벽&apos;이 계속되던 부동산 시장에 변화가 감지되고 있다. 일부 지역에서 급매 거래가 이어지고 저가 매물이 소진되고 있어서다. 특히 서울 등 수도권 시장의 아파트 매매건수가 동시 다발적으로 증가하며 시장 일각에서는 &apos;집값 바닥론&apos;이 고개를 들고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>튀르키예 지진 사망자 4만4천명…기적 속 구조 손길 기다리는 시리아</title>
+      <link>https://www.nocutnews.co.kr/news/5897324</link>
+      <guid>https://www.nocutnews.co.kr/news/5897324</guid>
+      <pubDate>2023-02-18T05:50:00.000Z</pubDate>
+      <content:encoded>
+        튀르키예 남동부와 시리아 서북부의 강진으로 인한 사망자가 4만4천명(현지시간 17일 기준)에 육박한 가운데 기적적인 구조 소식이 이어지고 있다.
+        
+        지진 사망자 4만4천명 육박…대한민국 긴급구호대 2진 도착
+      </content:encoded>
+    </item>
+    <item>
+      <title>튀르키예 지진 사망자 4만4천명…기적 속 구조 손길 기다리는 시리아</title>
+      <link>https://www.nocutnews.co.kr/news/5897324</link>
+      <guid>https://www.nocutnews.co.kr/news/5897324</guid>
+      <pubDate>2023-02-18T05:50:00.000Z</pubDate>
+      <content:encoded>
+        튀르키예 남동부와 시리아 서북부의 강진으로 인한 사망자가 4만4천명(현지시간 17일 기준)에 육박한 가운데 기적적인 구조 소식이 이어지고 있다.
+        
+        지진 사망자 4만4천명 육박…대한민국 긴급구호대 2진 도착
+      </content:encoded>
+    </item>
+    <item>
+      <title>[기고]AI는 유능한 신입사원, 이끌 &apos;팀장&apos;은 인간…&apos;혁신의 시간&apos; 준비해야</title>
+      <link>https://www.nocutnews.co.kr/news/5897234</link>
+      <guid>https://www.nocutnews.co.kr/news/5897234</guid>
+      <pubDate>2023-02-18T06:00:00.000Z</pubDate>
+      <content:encoded>인류 문명의 불편한 진실 중 하나는 인류를 괴롭힌 시련이 인류 문명 발달의 원동력이 되었다는 것이다. 1차, 2차 세계 대전을 거치며 유럽을 중심으로 수많은 사람들이 희생되었고 그 반대 현상으로 서구권은 과학 기술이 비약적으로 발전했다. 인류는 살아남기 위해서 기술에 온 힘을 다해 의존했고 뛰어난 기술을 습득한 공동체는 살아남을 수 있었다. 이러한 인간의</content:encoded>
+    </item>
+    <item>
+      <title>울산 동구, 강남 수능방송 수강권 중·고교생에 지원</title>
+      <link>https://www.nocutnews.co.kr/news/5896955</link>
+      <guid>https://www.nocutnews.co.kr/news/5896955</guid>
+      <pubDate>2023-02-18T06:00:00.000Z</pubDate>
+      <content:encoded>
+        울산광역시 동구가 학부모 사교육비 절감과 교육 격차 해소를 위해 수능방송 수강권을 무료로 지원한다.
+        
+        동구는 관내 18개교 중?고등학생에게 강남구청 인터넷 수능방송 수강권을 무료로 지원한다고 18일 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[기고]AI는 유능한 신입사원, 이끌 &apos;팀장&apos;은 인간…&apos;혁신의 시간&apos; 준비해야</title>
+      <link>https://www.nocutnews.co.kr/news/5897234</link>
+      <guid>https://www.nocutnews.co.kr/news/5897234</guid>
+      <pubDate>2023-02-18T06:00:00.000Z</pubDate>
+      <content:encoded>인류 문명의 불편한 진실 중 하나는 인류를 괴롭힌 시련이 인류 문명 발달의 원동력이 되었다는 것이다. 1차, 2차 세계 대전을 거치며 유럽을 중심으로 수많은 사람들이 희생되었고 그 반대 현상으로 서구권은 과학 기술이 비약적으로 발전했다. 인류는 살아남기 위해서 기술에 온 힘을 다해 의존했고 뛰어난 기술을 습득한 공동체는 살아남을 수 있었다. 이러한 인간의</content:encoded>
+    </item>
+    <item>
+      <title>고강도 군사연습, 내달부터 줄이어…北 &apos;초강경 대응&apos; 맞불</title>
+      <link>https://www.nocutnews.co.kr/news/5897315</link>
+      <guid>https://www.nocutnews.co.kr/news/5897315</guid>
+      <pubDate>2023-02-18T06:05:00.000Z</pubDate>
+      <content:encoded>
+        군 당국이 다음 달부터 고강도 군사연습?훈련을 본격 재개할 예정인 가운데 북한이 초강경 대응을 경고하고 나서 한반도 긴장이 다시 고조되고 있다.
+        ?
+        국방부는 17일 국회 업무보고에서 내달 중순부터 상반기 &apos;자유의 방패&apos;(FS·Freedom Shield) 연습을 실시할 예정이라고 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>경기 동북부에 설립될 공공의료원…지자체들 일찌감치 경쟁</title>
+      <link>https://www.nocutnews.co.kr/news/5897289</link>
+      <guid>https://www.nocutnews.co.kr/news/5897289</guid>
+      <pubDate>2023-02-18T06:05:00.000Z</pubDate>
+      <content:encoded>
+        경기도가 동북부권에 설립하려는 공공의료원을 유치하기 위해 지자체들이 치열하게 경쟁하고 있다.
+        
+        경기도는 지난달 9일 최종 확정 발표한 김동연 지사의 공약 259개 중 &apos;경기 동북부권 공공의료원 설립 추진&apos;을 포함하고 계획안을 마련 중이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>고강도 군사연습, 내달부터 줄이어…北 &apos;초강경 대응&apos; 맞불</title>
+      <link>https://www.nocutnews.co.kr/news/5897315</link>
+      <guid>https://www.nocutnews.co.kr/news/5897315</guid>
+      <pubDate>2023-02-18T06:05:00.000Z</pubDate>
+      <content:encoded>
+        군 당국이 다음 달부터 고강도 군사연습?훈련을 본격 재개할 예정인 가운데 북한이 초강경 대응을 경고하고 나서 한반도 긴장이 다시 고조되고 있다.
+        ?
+        국방부는 17일 국회 업무보고에서 내달 중순부터 상반기 &apos;자유의 방패&apos;(FS·Freedom Shield) 연습을 실시할 예정이라고 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>尹, &apos;전세 사기 철저 단속&apos; 배경은…서민·청년층 피해 &apos;주목&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5897322</link>
+      <guid>https://www.nocutnews.co.kr/news/5897322</guid>
+      <pubDate>2023-02-18T06:50:00.000Z</pubDate>
+      <content:encoded>윤석열 대통령이 전세 사기를 &apos;악덕 범죄&apos;로 규정하면서 제도 보완과 철저한 단속을 관계 부처에 지시했다. 앞서 전세 사기에 대한 엄단을 강조한 상황에서 다시금 &apos;일벌백계&apos;(一罰百戒)를 주문한 것이다. 윤 대통령은 특히 서민과 청년층의 피해가 집중됐다는 점을 주목한 것으로 전해졌다. 최근 윤 대통령이 연이어 방점을 두는 &apos;민생 안정&apos; 행보의 연장선으로도 해석</content:encoded>
+    </item>
+    <item>
+      <title>尹, &apos;전세 사기 철저 단속&apos; 배경은…서민·청년층 피해 &apos;주목&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5897322</link>
+      <guid>https://www.nocutnews.co.kr/news/5897322</guid>
+      <pubDate>2023-02-18T06:50:00.000Z</pubDate>
+      <content:encoded>윤석열 대통령이 전세 사기를 &apos;악덕 범죄&apos;로 규정하면서 제도 보완과 철저한 단속을 관계 부처에 지시했다. 앞서 전세 사기에 대한 엄단을 강조한 상황에서 다시금 &apos;일벌백계&apos;(一罰百戒)를 주문한 것이다. 윤 대통령은 특히 서민과 청년층의 피해가 집중됐다는 점을 주목한 것으로 전해졌다. 최근 윤 대통령이 연이어 방점을 두는 &apos;민생 안정&apos; 행보의 연장선으로도 해석</content:encoded>
+    </item>
+    <item>
+      <title>&apos;범죄수익 은닉&apos; 김만배 재구속…&apos;50억원 클럽&apos; 수사 속도 붙나</title>
+      <link>https://www.nocutnews.co.kr/news/5897330</link>
+      <guid>https://www.nocutnews.co.kr/news/5897330</guid>
+      <pubDate>2023-02-18T06:52:37.000Z</pubDate>
+      <content:encoded>&apos;대장동 개발 비리 의혹&apos;의 핵심 인물이자 화천대유 대주주인 김만배 씨가 18일 다시 구속됐다. 대장동 의혹에 연루된 이른바 대장동 5인방 중 두 차례나 구속된 것은 김 씨가 유일하다. ?</content:encoded>
+    </item>
+    <item>
+      <title>&apos;범죄수익 은닉&apos; 김만배 재구속…&apos;50억원 클럽&apos; 수사 속도 붙나</title>
+      <link>https://www.nocutnews.co.kr/news/5897330</link>
+      <guid>https://www.nocutnews.co.kr/news/5897330</guid>
+      <pubDate>2023-02-18T06:52:37.000Z</pubDate>
+      <content:encoded>&apos;대장동 개발 비리 의혹&apos;의 핵심 인물이자 화천대유 대주주인 김만배 씨가 18일 다시 구속됐다. 대장동 의혹에 연루된 이른바 대장동 5인방 중 두 차례나 구속된 것은 김 씨가 유일하다. ?</content:encoded>
+    </item>
+    <item>
+      <title>&apos;28표 잡기&apos; 나선 이재명, 체포동의안 내부 설득 성공할까</title>
+      <link>https://www.nocutnews.co.kr/news/5897320</link>
+      <guid>https://www.nocutnews.co.kr/news/5897320</guid>
+      <pubDate>2023-02-18T06:55:00.000Z</pubDate>
+      <content:encoded>
+        더불어민주당 이재명 대표에 대한 체포동의안 표결이 2월 말로 전망되면서 이 대표의 당 내부 결
+        집 작업도 속도를 내는 모양새다. 이 대표는 규탄대회에서 당의 역량을 총동원해 단일대오를 호소한 데 이어, 비명(非이재명)계 의원들의 이탈표 단속에도 주력하고 있다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;28표 잡기&apos; 나선 이재명, 체포동의안 내부 설득 성공할까</title>
+      <link>https://www.nocutnews.co.kr/news/5897320</link>
+      <guid>https://www.nocutnews.co.kr/news/5897320</guid>
+      <pubDate>2023-02-18T06:55:00.000Z</pubDate>
+      <content:encoded>
+        더불어민주당 이재명 대표에 대한 체포동의안 표결이 2월 말로 전망되면서 이 대표의 당 내부 결
+        집 작업도 속도를 내는 모양새다. 이 대표는 규탄대회에서 당의 역량을 총동원해 단일대오를 호소한 데 이어, 비명(非이재명)계 의원들의 이탈표 단속에도 주력하고 있다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>꿀벌이 사라진다…&quot;양봉농가, 최대 90% 폐사 주장&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897233</link>
+      <guid>https://www.nocutnews.co.kr/news/5897233</guid>
+      <pubDate>2023-02-18T07:00:00.000Z</pubDate>
+      <content:encoded>
+        지난 15일 정부세종청사 농림축산식품부 앞에서 전국의 양봉농가들이 참여한 집회가 열렸다. 양봉관리사협회가 개최한 &apos;양봉농가 권익을 위한 양봉인 옥외집회&apos;로 300여명의 농민이 한목소리로 정부를 성토했다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>꿀벌이 사라진다…&quot;양봉농가, 최대 90% 폐사 주장&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897233</link>
+      <guid>https://www.nocutnews.co.kr/news/5897233</guid>
+      <pubDate>2023-02-18T07:00:00.000Z</pubDate>
+      <content:encoded>
+        지난 15일 정부세종청사 농림축산식품부 앞에서 전국의 양봉농가들이 참여한 집회가 열렸다. 양봉관리사협회가 개최한 &apos;양봉농가 권익을 위한 양봉인 옥외집회&apos;로 300여명의 농민이 한목소리로 정부를 성토했다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>경남 온실가스 감축인지예산 2년 연속 발간…기후친화예산 &apos;16%&apos;</title>
+      <link>https://www.nocutnews.co.kr/news/5896851</link>
+      <guid>https://www.nocutnews.co.kr/news/5896851</guid>
+      <pubDate>2023-02-18T07:05:00.000Z</pubDate>
+      <content:encoded>
+        경상남도는 지난해에 이어 올해에도 도정의 모든 정책 예산 사업의 환경성을 분석한 온실가스 감축인지예산서(옛 기후인지예산서)를 도청 누리집에 발간했다고 18일 밝혔다.
+        ?
+        온실가스 감축인지예산은 도가 추진하는 각종 정책사업이나 사업 효과에 대해 기후와 환경에 미치는 영향을 평가하고 이를 예산 편성과 집행에 반영하기 위한 제도다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>통영항여객터미널 주차장 이용 편해진다…무료 기준 확대</title>
+      <link>https://www.nocutnews.co.kr/news/5897134</link>
+      <guid>https://www.nocutnews.co.kr/news/5897134</guid>
+      <pubDate>2023-02-18T07:35:00.000Z</pubDate>
+      <content:encoded>
+        경상남도가 관리하는 통영항연안여객선터미털 주차 요금 무료 기준이 확대된다.
+        
+        도는 최근 통영항연안여객선터미널 주차요금 징수 기준 고시를 개정·시행했다고 18일 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[단독]SM 직원 &quot;하이브, 독립성 약속? 레이블 관여 공공연&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897323</link>
+      <guid>https://www.nocutnews.co.kr/news/5897323</guid>
+      <pubDate>2023-02-18T08:00:00.000Z</pubDate>
+      <content:encoded>하이브가 SM엔터테인먼트(이하 SM) 인수에 나섰지만 만만치 않은 장벽을 만났다. 바로 SM &apos;본체&apos;라고 할 수 있는 경영진과 임직원들의 반발이다. 이들은 하이브의 인수를 &apos;적대적 M&amp;A&apos;로 규정하며 한 목소리를 내고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>이상민 &quot;허술한 영장청구 사유, 체포동의안 부결될 것&quot; [한판승부]</title>
+      <link>https://www.nocutnews.co.kr/news/5897325</link>
+      <guid>https://www.nocutnews.co.kr/news/5897325</guid>
+      <pubDate>2023-02-18T08:00:00.000Z</pubDate>
       <content:encoded>
         ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
         *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
       </content:encoded>
     </item>
     <item>
-      <title>영남대, &apos;글로벌캡스톤디자인&apos; 성과 해외 대학과 공유</title>
-      <link>https://www.nocutnews.co.kr/news/5896786</link>
-      <guid>https://www.nocutnews.co.kr/news/5896786</guid>
-      <pubDate>2023-02-17T08:37:16.000Z</pubDate>
+      <title>[단독]SM 직원 &quot;하이브, 독립성 약속? 레이블 관여 공공연&quot;</title>
+      <link>https://www.nocutnews.co.kr/news/5897323</link>
+      <guid>https://www.nocutnews.co.kr/news/5897323</guid>
+      <pubDate>2023-02-18T08:00:00.000Z</pubDate>
+      <content:encoded>하이브가 SM엔터테인먼트(이하 SM) 인수에 나섰지만 만만치 않은 장벽을 만났다. 바로 SM &apos;본체&apos;라고 할 수 있는 경영진과 임직원들의 반발이다. 이들은 하이브의 인수를 &apos;적대적 M&amp;A&apos;로 규정하며 한 목소리를 내고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>이상민 &quot;허술한 영장청구 사유, 체포동의안 부결될 것&quot; [한판승부]</title>
+      <link>https://www.nocutnews.co.kr/news/5897325</link>
+      <guid>https://www.nocutnews.co.kr/news/5897325</guid>
+      <pubDate>2023-02-18T08:00:00.000Z</pubDate>
       <content:encoded>
-        영남대가 추진하고 있는 &apos;글로벌캡스톤디자인&apos;이 대학 혁신 수업으로 주목받고 있다.
-        ?
-        글로벌캡스톤디자인은 기업가치 창출, 취업·창업 지원, 공유·협업체계 구축을 위한 대학의 산·학·연 협력 강화 교과목으로, 교육부 &apos;3단계 산학연협력 선도대학 육성 사업(LINC3.0)&apos; 지원으로 추진되고 있다.
+        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
+        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
       </content:encoded>
     </item>
     <item>
-      <title>경북교육청, 2023년 특수교육 &apos;모두가 존중받는 성장지원 맞춤형&apos;</title>
-      <link>https://www.nocutnews.co.kr/news/5896787</link>
-      <guid>https://www.nocutnews.co.kr/news/5896787</guid>
-      <pubDate>2023-02-17T08:37:27.000Z</pubDate>
+      <title>이재오 &quot;바지대표 전당대회, 결선가면 김기현 장담 못해&quot; [한판승부]</title>
+      <link>https://www.nocutnews.co.kr/news/5897326</link>
+      <guid>https://www.nocutnews.co.kr/news/5897326</guid>
+      <pubDate>2023-02-18T08:05:00.000Z</pubDate>
       <content:encoded>
-        경북교육청은 &apos;2023년 경북 특수교육&apos; 운영 계획을 17일 밝혔다..
-        ?
+        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
+        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
       </content:encoded>
     </item>
     <item>
-      <title>&apos;피겨 여왕 뿔났다&apos; 김연아 측 &quot;가짜 뉴스에 모든 법적 대응&quot; 선포</title>
-      <link>https://www.nocutnews.co.kr/news/5896790</link>
-      <guid>https://www.nocutnews.co.kr/news/5896790</guid>
-      <pubDate>2023-02-17T08:38:45.000Z</pubDate>
-      <content:encoded>&apos;피겨 여왕&apos;이 뿔났다. 김연아(35)가 최근 가짜 뉴스가 유포되는 데 대해 법적 대응을 강구하겠다고 선언했다.</content:encoded>
-    </item>
-    <item>
-      <title>&apos;피겨 여왕 뿔났다&apos; 김연아 측 &quot;가짜 뉴스에 모든 법적 대응&quot; 선포</title>
-      <link>https://www.nocutnews.co.kr/news/5896790</link>
-      <guid>https://www.nocutnews.co.kr/news/5896790</guid>
-      <pubDate>2023-02-17T08:38:45.000Z</pubDate>
-      <content:encoded>&apos;피겨 여왕&apos;이 뿔났다. 김연아(35)가 최근 가짜 뉴스가 유포되는 데 대해 법적 대응을 강구하겠다고 선언했다.</content:encoded>
-    </item>
-    <item>
-      <title>예천군, 기초생활보장가구에 난방비 10만 원 지원</title>
-      <link>https://www.nocutnews.co.kr/news/5896789</link>
-      <guid>https://www.nocutnews.co.kr/news/5896789</guid>
-      <pubDate>2023-02-17T08:40:14.000Z</pubDate>
+      <title>&apos;복지혜택 몰랐다&apos;…경남 도시가스 요금 감면 5만 2천 가구 찾았다</title>
+      <link>https://www.nocutnews.co.kr/news/5897135</link>
+      <guid>https://www.nocutnews.co.kr/news/5897135</guid>
+      <pubDate>2023-02-18T08:05:00.000Z</pubDate>
       <content:encoded>
-        예천군은 기초생활보장수급 2400여 가구에 한시적 긴급난방비 10만 원을 지원한다.
-        ?
-        이번 사업은 최근 지속적인 한파가 이어지면서 난방 수요가 늘고 난방비 인상으로 경제적 부담을 겪고 있는 취약 계층들의 난방비를 지원하기 위해 경상북도와 함께 추진한다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>3명 숨진 &apos;광양제철소 폭발 사고&apos; 책임자들 금고형 집행유예</title>
-      <link>https://www.nocutnews.co.kr/news/5896791</link>
-      <guid>https://www.nocutnews.co.kr/news/5896791</guid>
-      <pubDate>2023-02-17T08:47:59.000Z</pubDate>
-      <content:encoded>
-        지난 2020년 광양제철소 화재·폭발 사고로 3명이 숨진 사고와 관련, 당시 현장 책임자들이 금고형의 집행유예를 선고받았다.
+        경상남도가 복지 혜택을 몰라서 신청하지 못한 사각지대에 놓인 취약계층을 발굴하고 있다.
         
-        광주지법 순천지원 형사1단독(부장판사 백주연)은 16일 업무상 과실치사, 산업안전보건법 위반 등 혐의로 재판에 넘겨진 현장 책임자 A씨 등 3명에게 금고 1년 6개월에 집행유예 3년을 선고했다.
+        도는 &apos;신청 사각지대 해소&apos;를 위한 대상자 발굴과 신청을 지원한다고 18일 밝혔다.
       </content:encoded>
     </item>
     <item>
-      <title>오늘부터 전 세계서 갤S23 만난다</title>
-      <link>https://www.nocutnews.co.kr/news/5896792</link>
-      <guid>https://www.nocutnews.co.kr/news/5896792</guid>
-      <pubDate>2023-02-17T08:57:53.000Z</pubDate>
+      <title>이재오 &quot;바지대표 전당대회, 결선가면 김기현 장담 못해&quot; [한판승부]</title>
+      <link>https://www.nocutnews.co.kr/news/5897326</link>
+      <guid>https://www.nocutnews.co.kr/news/5897326</guid>
+      <pubDate>2023-02-18T08:05:00.000Z</pubDate>
       <content:encoded>
-        삼성전자가 역대 갤럭시 S 시리즈 중 가장 강력한 성능을 지닌 &apos;갤럭시 S23&apos; 시리즈를 17일 전 세계 주요 국가에 출시한다.
+        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
+        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>軍에서 체육문화행사로 무대옮긴 김정은 딸 주애…김여정 뒷줄 참관</title>
+      <link>https://www.nocutnews.co.kr/news/5897332</link>
+      <guid>https://www.nocutnews.co.kr/news/5897332</guid>
+      <pubDate>2023-02-18T08:08:13.000Z</pubDate>
+      <content:encoded>
+        김정일 국방위원장의 생일인 2월 16일 광명성절 금수산 궁전 참배에 불참한 김정은 국무위원장이 17일 딸 김주애, 당·정·군의 주요 간부들, 동생 김여정 부부장 등과 함께 광명성절 기념 체육경기를 관람한 것으로 나타났다.
         ?
-        우리나라와 미국, 영국, 프랑스, 호주, UAE(아랍에미리트) 등 55개국을 시작으로 모두 130여 개 나라에 순차적으로 선보인다.
       </content:encoded>
     </item>
     <item>
-      <title>영덕서 승용차 상가 들이받아…60대 2명 심정지</title>
-      <link>https://www.nocutnews.co.kr/news/5896793</link>
-      <guid>https://www.nocutnews.co.kr/news/5896793</guid>
-      <pubDate>2023-02-17T08:58:14.000Z</pubDate>
+      <title>軍에서 체육문화행사로 무대옮긴 김정은 딸 주애…김여정 뒷줄 참관</title>
+      <link>https://www.nocutnews.co.kr/news/5897332</link>
+      <guid>https://www.nocutnews.co.kr/news/5897332</guid>
+      <pubDate>2023-02-18T08:08:13.000Z</pubDate>
       <content:encoded>
-        17일 오전 5시 20분께 경북 영덕군 영덕읍에서 K5 승용차가 상가건물을 들이받는 사고가 발생했다.
-        
-        이 사고로 운전자 A씨(60대 남성)와 동승자 B씨(60대 여성)가 심정지 상태로 병원으로 옮겨져 치료를 받고 있다.
+        김정일 국방위원장의 생일인 2월 16일 광명성절 금수산 궁전 참배에 불참한 김정은 국무위원장이 17일 딸 김주애, 당·정·군의 주요 간부들, 동생 김여정 부부장 등과 함께 광명성절 기념 체육경기를 관람한 것으로 나타났다.
+        ?
       </content:encoded>
     </item>
     <item>
-      <title>경북 코로나19 신규 확진자 682명…사망자 2명</title>
-      <link>https://www.nocutnews.co.kr/news/5896796</link>
-      <guid>https://www.nocutnews.co.kr/news/5896796</guid>
-      <pubDate>2023-02-17T09:01:56.000Z</pubDate>
+      <title>&quot;김기현 땅 논란, 당 전체 위기 vs 安의 88년 시세차익은?&quot; [한판승부]</title>
+      <link>https://www.nocutnews.co.kr/news/5897327</link>
+      <guid>https://www.nocutnews.co.kr/news/5897327</guid>
+      <pubDate>2023-02-18T08:10:00.000Z</pubDate>
       <content:encoded>
-        경북 지역에서 코로나19 신규 확진자가 682명 발생했다.
+        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
+        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&quot;김기현 땅 논란, 당 전체 위기 vs 安의 88년 시세차익은?&quot; [한판승부]</title>
+      <link>https://www.nocutnews.co.kr/news/5897327</link>
+      <guid>https://www.nocutnews.co.kr/news/5897327</guid>
+      <pubDate>2023-02-18T08:10:00.000Z</pubDate>
+      <content:encoded>
+        ▶ 알립니다   *인터뷰를 인용보도할 때는 프로그램명 &apos;CBS라디오 &lt;박재홍의 한판승부&gt;&apos;를 정확히 밝혀주시기 바랍니다. 저작권은 CBS에 있습니다.
+        *아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>홍수에 떠내려가는 두살배기 딸…가슴 친 엄마의 눈물</title>
+      <link>https://www.nocutnews.co.kr/news/5897333</link>
+      <guid>https://www.nocutnews.co.kr/news/5897333</guid>
+      <pubDate>2023-02-18T08:56:40.000Z</pubDate>
+      <content:encoded>
+        &quot;급류가 뒤에서 덮쳐 어깨 위에 태우고 있던 아이비(딸)를 놓치며 넘어졌는데 물속에 잠겼다가 일어나보니 딸은 벌써 저만큼 떠내려가고…&quot;
         
-        경상북도는 17일 0시 기준 22개 시·군에서 코로나19 확진자가 682명 발생했다고 밝혔다.
+        지난 12일부터 14일까지 뉴질랜드 북섬을 강타한 사이클론으로 어린 딸을 잃은 뉴질랜드의 한 엄마가 가슴을 도려내는 아픔으로 털어놓은 딸과의 마지막 순간이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>홍수에 떠내려가는 두살배기 딸…가슴 친 엄마의 눈물</title>
+      <link>https://www.nocutnews.co.kr/news/5897333</link>
+      <guid>https://www.nocutnews.co.kr/news/5897333</guid>
+      <pubDate>2023-02-18T08:56:40.000Z</pubDate>
+      <content:encoded>
+        &quot;급류가 뒤에서 덮쳐 어깨 위에 태우고 있던 아이비(딸)를 놓치며 넘어졌는데 물속에 잠겼다가 일어나보니 딸은 벌써 저만큼 떠내려가고…&quot;
+        
+        지난 12일부터 14일까지 뉴질랜드 북섬을 강타한 사이클론으로 어린 딸을 잃은 뉴질랜드의 한 엄마가 가슴을 도려내는 아픔으로 털어놓은 딸과의 마지막 순간이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>&quot;모텔 가지?&quot; &quot;맞을래&quot; 길 가던 10대 따라다니며 막말…경찰도 폭행했다</title>
+      <link>https://www.nocutnews.co.kr/news/5897334</link>
+      <guid>https://www.nocutnews.co.kr/news/5897334</guid>
+      <pubDate>2023-02-18T08:57:03.000Z</pubDate>
+      <content:encoded>
+        길을 가던 10대를 따라다니며 아무 이유 없이 불쾌한 언행을 하고 때릴 듯이 위협한 50대가 항소심에서 더 무거운 처벌을 받았다.
+        
+        춘천지법 형사1부(김청미 부장판사)는 공무집행방해, 협박 혐의로 기소된 A(58)씨에게 징역 1년을 선고한 원심을 깨고 징역 1년 6개월을 선고한다고 18일 밝혔다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[노컷체크]지진 골든타임 72시간…어떻게 나온걸까?</title>
+      <link>https://www.nocutnews.co.kr/news/5897310</link>
+      <guid>https://www.nocutnews.co.kr/news/5897310</guid>
+      <pubDate>2023-02-18T09:00:00.000Z</pubDate>
+      <content:encoded>
+        ◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요?
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>[노컷체크]지진 골든타임 72시간…어떻게 나온걸까?</title>
+      <link>https://www.nocutnews.co.kr/news/5897310</link>
+      <guid>https://www.nocutnews.co.kr/news/5897310</guid>
+      <pubDate>2023-02-18T09:00:00.000Z</pubDate>
+      <content:encoded>
+        ◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요?
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;전역 후 이 정도면 잘하는 거다&quot; 돌아온 국대 세터, OK금융 봄 배구 이끈다</title>
+      <link>https://www.nocutnews.co.kr/news/5897335</link>
+      <guid>https://www.nocutnews.co.kr/news/5897335</guid>
+      <pubDate>2023-02-18T09:04:54.000Z</pubDate>
+      <content:encoded>
+        군 복무를 마친 뒤에도 변함없는 기량을 보여주고 있다. OK금융그룹이 주전 세터 이민규(31·191cm)의 복귀로 탄력을 받기 시작했다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>&apos;전역 후 이 정도면 잘하는 거다&quot; 돌아온 국대 세터, OK금융 봄 배구 이끈다</title>
+      <link>https://www.nocutnews.co.kr/news/5897335</link>
+      <guid>https://www.nocutnews.co.kr/news/5897335</guid>
+      <pubDate>2023-02-18T09:04:54.000Z</pubDate>
+      <content:encoded>
+        군 복무를 마친 뒤에도 변함없는 기량을 보여주고 있다. OK금융그룹이 주전 세터 이민규(31·191cm)의 복귀로 탄력을 받기 시작했다.
+        ?
+      </content:encoded>
+    </item>
+    <item>
+      <title>CNN 앵커 &apos;女전성기&apos; 발언으로 사면초가</title>
+      <link>https://www.nocutnews.co.kr/news/5897331</link>
+      <guid>https://www.nocutnews.co.kr/news/5897331</guid>
+      <pubDate>2023-02-18T09:04:59.000Z</pubDate>
+      <content:encoded>
+        방송 과정에서 성차별적 언행을 반복해왔던 CNN의 간판 앵커가 궁지에 몰렸다.
+        ?
+        미국 뉴스전문 채널 CNN의 크리스 릭트 대표는 17일(현지시간) 사내망을 통해 이 방송의 3시간 짜리 아침뉴스 프로그램 &apos;디스 모닝&apos;(This Morning) 공동 앵커인 돈 레몬을 꾸짖었다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>CNN 앵커 &apos;女전성기&apos; 발언으로 사면초가</title>
+      <link>https://www.nocutnews.co.kr/news/5897331</link>
+      <guid>https://www.nocutnews.co.kr/news/5897331</guid>
+      <pubDate>2023-02-18T09:04:59.000Z</pubDate>
+      <content:encoded>
+        방송 과정에서 성차별적 언행을 반복해왔던 CNN의 간판 앵커가 궁지에 몰렸다.
+        ?
+        미국 뉴스전문 채널 CNN의 크리스 릭트 대표는 17일(현지시간) 사내망을 통해 이 방송의 3시간 짜리 아침뉴스 프로그램 &apos;디스 모닝&apos;(This Morning) 공동 앵커인 돈 레몬을 꾸짖었다.
       </content:encoded>
     </item>
   </channel>
