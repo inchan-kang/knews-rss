@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>동아일보 - 의학과학</title>
-    <link>https://rss.donga.com/science.xml</link>
-    <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2023-04-06T00:07:18.262Z</lastBuildDate>
+    <title>경향신문 - IT</title>
+    <link>http://www.khan.co.kr/rss/rssdata/it_news.xml</link>
+    <description>경향신문 - IT</description>
+    <lastBuildDate>2023-04-07T00:08:36.058Z</lastBuildDate>
     <item>
       <title>대우건설 &apos;푸르지오&apos;, 한국서비스대상 2년 연속 아파트부문 종합대상</title>
       <link>https://www.nocutnews.co.kr/news/5584531</link>
@@ -560,13 +560,6 @@
       <content:encoded>인공지능(AI) 챗봇 ‘챗GPT’(ChatGPT) 열풍이 거세다. 챗GPT에게 이메일을 써달라고 하거나 정보를 묻는 이들이 많아졌다. 갈수록 AI 기술을 활용한 서비스에 대한 인간의 의존도는 커질 것으로 보인다. 그 정도로 쉽고 직관적인 결과물들이 우리의 일상을 파고들고 있다.인종차별·젠더 이슈 등 이른바 ‘민감한 질문’에 대해선 ‘AI 모델이라 자의적인 답은 어렵다’, ‘정확한 대답은 어렵다’는 식의 결과가 나오기도 한다. 여러 윤리적 기준이나 데이터 훈련의 한계 때문이다. 2018년 이후 AI 모델의 차별·편향에 대한 비판이 나</content:encoded>
     </item>
     <item>
-      <title>네이버 ‘아웃링크 가이드라인’에 뿔난 언론사들</title>
-      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=308783</link>
-      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=308783</guid>
-      <pubDate>2023-03-01T18:30:00.000Z</pubDate>
-      <content:encoded>네이버판 아웃링크 서비스 기준이 발표되자 언론사들은 ‘공동대응’까지 준비할 정도로 불만이 커지고 있다. 온라인신문협회(회장 하영춘 한경닷컴 대표, 온신협)는 네이버가 지난달 22일부터 사흘간 설명회를 통해 밝힌 아웃링크 적용 기준 중 △광고 개수 제한 △언론사 로그인 홈페이지 이동 금지 △언론사편집판 운영 가이드라인 위반 시 정상화 가이드 조치 등 조항이 큰 문제가 있다는 입장이다. 온신협은 각 회원사의 의견을 모아 네이버 측에 전달할 예정이다.미디어오늘 취재 결과 지난달 27일 온신협은 월례회의를 열고 아웃링크 관련 공동 대응 방</content:encoded>
-    </item>
-    <item>
       <title>시민사회, 인공지능법안에 “국민 안전과 인권에 큰 위험”</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=308808</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=308808</guid>
@@ -630,7 +623,7 @@
       <content:encoded>‘안타깝게도 더 이상 살토(Salto)를 구독할 수 없습니다. 메이드 인 프랑스 스트리밍 플랫폼에 대한 열망과 열정을 공유해 주신 모든 살토 구독자들에게 감사드립니다.’프랑스 방송사들이 만든 연합 OTT서비스 살토 서비스에 들어가면 뜨는 문구다. 넷플릭스에 맞서 프랑스 콘텐츠의 지속 가능성을 목표로 2020년 10월 20일 출범한 살토는 2년 3개월만인 오는 27일 서비스를 종료한다. 현지 언론은 &lt;프랑스판 넷플릭스가 공식적으로 폐지된다&gt;(리베라시옹), &lt;프랑스판 넷플릭스의 대실패&gt;(르 피가로) &lt;프랑스판 넷플릭스가 되려고 했던 플</content:encoded>
     </item>
     <item>
-      <title>[디지털 혁신 점검] 한국 언론에 과연 뉴미디어가 있(었)나</title>
+      <title>[디지털 전략 점검] 한국 언론에 과연 뉴미디어가 있(었)나</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=308964</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=308964</guid>
       <pubDate>2023-03-11T18:15:00.000Z</pubDate>
@@ -658,13 +651,6 @@
       <content:encoded>해외 15개국 가운데 인도의 오디오스트리밍 이용률이 가장 높게 나타났다.정보통신정책연구원(KISDI)는 해외 15개국 가운데 오디오 스트리밍 해외 오디오 스트리밍 서비스 이용률 조사 결과를 유형별로 분석한 ‘해외 오디오 스트리밍 서비스 이용현황 분석’ 보고서를 발간했다.보고서에 따르면 아시아 국가들은 특징이 뚜렷했다. 조사 대상 15개국 중 오디오스트리밍 이용률이 가장 높은 국가는 인도로 61.7%에 달했다. 인도에서 가장 많이 사용하는 오디오스트리밍 서비스는 유튜브뮤직(51.1%)으로 나타났다. 인도는 인구가 많고 최근 스마트폰·</content:encoded>
     </item>
     <item>
-      <title>40년만에 바뀌는 우주복…2025년 달 남극 누빈다</title>
-      <link>http://www.hani.co.kr/arti/science/science_general/1083829.html</link>
-      <guid>http://www.hani.co.kr/arti/science/science_general/1083829.html</guid>
-      <pubDate>2023-03-16T09:29:09.000Z</pubDate>
-      <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0316/53_16789265882985_20230316500566.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;  2025년 아르테미스 3호를 타고 달 남극에 착륙하는 우주비행사들이 입을 우주복 시제품이 공개됐다. 미국항공우주국(나사)은 15일 텍사스 휴스턴의 존슨우주센터에서 액시엄 스페이스(Axiom space)가 제작한 ‘AxEMU’(Axiom Extravehicular Mobility Unit)라는 이름의 차세대 우주복을 공개했다.액시엄 스페이스는 부피가 크고</content:encoded>
-    </item>
-    <item>
       <title>2025년 달에 갈 첫 여성이 입을 우주복 공개</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=234064</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=234064</guid>
@@ -677,13 +663,6 @@
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=309071</guid>
       <pubDate>2023-03-16T19:14:05.000Z</pubDate>
       <content:encoded>주주총회 통과가 불투명한 윤경림 내정자 체제의 KT가 일방적으로 스카이라이프 인사를 해 논란이다. KT는 윤석열 대통령 충암고 선배를 스카이라이프 차기 사장에 지명한 데 이어 전례없는 전무급 인사의 사내인사 임명을 해 스카이라이프 노조가 반발하고 있다.지난 15일 스카이라이프 이사회에서 KT 출신인 양춘식 스카이라이프 전무를 사내이사로 선임하는 안건이 통과됐다. 스카이라이프는 그간 대표이사 1인만 사내이사를 맡았는데 돌연 전무급 사내인사를 선임했다. 앞서 KT는 김철수 현 스카이라이프 사장에게 해임을 통보해 주주총회 의결을 남겨둔</content:encoded>
-    </item>
-    <item>
-      <title>우울증엔 근력운동, 불안장애엔 걷기·뛰기…가성비 최고 치료법</title>
-      <link>http://www.hani.co.kr/arti/science/science_general/1084030.html</link>
-      <guid>http://www.hani.co.kr/arti/science/science_general/1084030.html</guid>
-      <pubDate>2023-03-17T09:57:01.000Z</pubDate>
-      <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0317/53_16790161778556_20230317500570.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;세계보건기구(WHO)에 따르면 2019년 기준으로 전 세계 8명 중 1명, 즉 9억7천만명이 정신 장애를 겪고 있다. 여러 유형의 정신 장애 중 가장 많은 비중을 차지하는 것이 불안 장애와 우울증이다. 보건기구는 불안 장애를 앓고 있는 사람이 3억명, 우울증을 앓고 있는 사람이 2억8천만명에 이르는 것으로 추정했다. 특히 2020년 코로나19 팬데믹이 전</content:encoded>
     </item>
     <item>
       <title>신의한수 아니면 더탐사 문제? 정치권 유튜브 규제 &apos;내로남불&apos; 막으려면</title>
@@ -938,33 +917,11 @@
       <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0403/53_16804840838477_20230403500866.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;항공기는 목적지까지 가장 빨리 도착하는 운송수단이다. 하지만 공항까지 가는 데 걸리는 시간은 항공기 이용을 망설이게 하는 이유 가운데 하나다. 갈수록 심해지는 도시의 교통 정체는 공항 접근성을 더 악화시키고 있다.도로 사정과 상관없이 공항과 도심 또는 시내를 빠르게 이동할 수는 없을까?세계의 주요 항공기 및 자동차 제조업체, 항공사들이 돌파구로 선택한 것이</content:encoded>
     </item>
     <item>
-      <title>이름도 얼굴도 모르는 사람의 ‘단톡방 납치’…이제는 ‘거절’하세요</title>
-      <link>https://www.khan.co.kr/it/it-general/article/202304040600025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=it_news</link>
-      <guid>https://www.khan.co.kr/it/it-general/article/202304040600025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=it_news</guid>
-      <pubDate>2023-04-04T06:00:02.000Z</pubDate>
-      <content:encoded>
-        카톡 그룹 채팅방 참여 설정 추가&lt;br /&gt;
-        친구 목록에 없는 사람이 초대 시&lt;br /&gt;
-        수락 여부 물어…불편 해소 기대&lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        앞으로는 카카오톡 그룹 채팅방에 초대되기 전 이용자가 수락할지 말지를 결정할 수 있게 된다. 카카오···
-      </content:encoded>
-    </item>
-    <item>
       <title>지구보다 상세한 금성 화산 지도 나왔다</title>
       <link>http://www.hani.co.kr/arti/science/science_general/1086400.html</link>
       <guid>http://www.hani.co.kr/arti/science/science_general/1086400.html</guid>
       <pubDate>2023-04-04T10:00:20.000Z</pubDate>
       <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0404/53_16805705477152_20230404500799.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;1990년대의 마젤란 탐사위성이 보내온 관측 데이터는 금성 표면의 대부분이 화산 활동에 의해 형성됐다는 걸 보여줬다. 미국 페어뱅크스 알래스카대 과학자들은 30년 전의 관측 데이터를 다시 살펴보다가 최근까지도 금성에서 화산 활동이 일어났다는 증거를 발견해 주목을 받았다. 금성에는 우리가 알고 있는 지구의 화산 수보다 몇배나 많은 화산이 있다. 화산의 크기도</content:encoded>
-    </item>
-    <item>
-      <title>인기 인공지능 서비스 연이어 중단, 업계 “자정할 것”</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118671136/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118671136/1</guid>
-      <pubDate>2023-04-04T10:53:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118671091.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사람과 대등한, 몇몇 부문에서는 사람보다 우수한 창작 능력을 발휘해 주목 받았던 인공지능들이 연이어 서비스를 중단했다. 운영 도중 사람의 개인정보 유출, 허위 정보 제작과 전파 등 부작용을 나타낸 탓이다. 인공지능 기술 업계는 서비스를 임시 중지하고, 재발 방지 대책을 세우고 기능도 개선한다고 약속했다.   지난 3월 20일(이하 현지시각), 오픈AI는 자체 개발한 대화형 인공지능 ‘챗GPT’의 서비스를 일시 중단했다. 챗GPT를 쓰던 사용자 일부에게 다른 사용자의 대화 이력이 노출되는 버그(이상 작동 현상)가 발견된 까닭이다. 3월 24일 오픈AI는 버그 발견 직후 서비스를 일시 중단, 수정 후 서비스를 다시 시작했다고 밝혔다.  하지만, 이후 오픈AI는 이번 버그 때문에 챗GPT 플러스 가입자 일부(약 1.2%로 추정)의 결제 정보가 노출됐을 가능성이 있다고 인정했다. 노출 가능성이 있는 결제 정보는 가입자의 실명과 이메일 주소, 결제상 주소, 신용카드 고유번호 16개 가운데 마지막 4개 등이다. 단</content:encoded>
     </item>
     <item>
       <title>아르테미스 세대, 반세기 만에 달에 간다…여성·흑인 첫 포함</title>
@@ -974,148 +931,11 @@
       <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0404/53_16805743700508_20230404501238.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;1972년 아폴로 17호 이후 50여년 만에 달에 갈 우주비행사들이 선정됐다. 사상 처음으로 여성과 흑인이 달 여행에 나선다.미국항공우주국(나사)은 3일(현지시간) 새로운 달 착륙 프로젝트 아르테미스에서 2024년 아르테미스2호를 타고 달 궤도를 돌고 올 우주비행사 4명을 확정해 발표했다.나사는 애초 밝힌 다양성 원칙에 따라 여성과 유색인종이 포함된 팀을</content:encoded>
     </item>
     <item>
-      <title>‘690달러짜리 테슬라폰’ 진짜?…출시설 이유 봤더니</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118672649/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118672649/1</guid>
-      <pubDate>2023-04-04T11:46:00.000Z</pubDate>
-      <content:encoded>4일 새벽 유튜브에는 690달러짜리 테슬라폰이 공개됐다는 영상이 게시됐다. 그동안 소문만 무성했던 테슬라폰 가격까지 나오면서 유튜브 이용자들 관심을 받았다.  공개된 테슬라폰 모델명은 ‘파이 폰’이다. 테슬라가 만든 스마트폰인데 1000달러를 웃도는 애플과 삼성전자 제품 가격보다 훨씬 싸다. 글로벌 스마트폰 시장 판도에 변화를 줄 수 있는 내용이어서 영상은 공개된 지 8시간 만에 조회수 약 2만5000회, 좋아요 900여개를 기록했다.   많은 이들의 관심을 받았지만 결론부터 말하면 테슬라폰 공식 출시는 사실이 아니다.   해당 영상을 게시한 유튜브 채널은 수차례 테슬라폰 관련 소문을 다뤘던 계정이다. 일론 머스크 테슬라 최고경영자(CEO)가 구글을 인수한다는 가짜뉴스를 생산한 전례도 있다.  채널 설명란도 “이 채널은 가상의 오락을 위해 만들어졌다”고 적시됐다. 테슬라가 스마트폰 출시 계획을 공식 발표한 적이 없다는 점에서 이 영상은 인터넷상 정보를 재가공한 결과물로 파악된다.  지난해 하반기를 기점으</content:encoded>
-    </item>
-    <item>
       <title>챗GPT는 기자를 대체할 수 있을까</title>
       <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=309399</link>
       <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=309399</guid>
       <pubDate>2023-04-04T12:08:24.000Z</pubDate>
       <content:encoded>“지금 유튜브 콘텐츠들이 만들어내는 혼란과는 비교할 수 없을 정도로 큰 혼란이 올 것 같아요.” 로봇 저널리즘 연구자인 이준환 서울대 언론정보학과 교수의 말이다. 그는 생성형 인공지능이 사실을 말하면서도 중간 중간 사실과 다른 정보를 만드는 ‘환각현상’을 지적하며 생성형 인공지능이 만든 문서들이 양산되면 루머가 확산되는 것처럼 사람들에게 잘못된 정보가 사실로 굳어질 수 있다고 우려했다.이준환 교수는 “뉴스를 완전히 자동화하는 건 어렵받고 본다. 여전히 검증해야 할 것이 많다”고 강조했다. 대신 그는 생성형 인공지능을 기사 작성 과정</content:encoded>
-    </item>
-    <item>
-      <title>삼성 ‘갤S23’, 전작보다 5G 속도 빨라져…최대 584Mbps</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118673657/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118673657/1</guid>
-      <pubDate>2023-04-04T12:49:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118673146.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자(005930)의 최신 스마트폰 ‘갤럭시S23’ 시리즈의 5G 속도가 전작 대비 개선된 것으로 나타났다.  4일 업계에 따르면 인터넷 속도 측정 서비스 ‘스피드테스트’를 운영 중인 우클라(Ookla)는 최근 ‘갤럭시S23’의 5G 속도 측정 결과를 발표했다. 갤럭시S23 출시 초기 한 달간 측정값을 지역별로 공개한 것으로, 우클라 측은 5G 투자 상황 등 다양한 요인으로 인해 시장에 따라 결과가 다르다고 알렸다.  한국에서 갤럭시S23 시리즈 5G 다운로드 속도는 503.99~584.08Mbps 수준이었으며, 업로드 속도는 47.51~57.62Mbps로 집계됐다. 전작인 갤럭시S22 시리즈의 경우 각각 418.57~537.28Mbps, 37.76~51.66Mbps 수준이다.  모델별 다운로드 속도는 갤럭시S23 울트라 584.08Mbps, 플러스 503.99Mbps, 일반 530.17Mbps로 나타났다. 업로드 속도는 각각 57.62Mbps, 53.3Mbps, 47.51Mbps로 집계됐다.  지연</content:encoded>
-    </item>
-    <item>
-      <title>‘강남 살인’ 코인 발행사 “외부업체 통해 운영”…전국 영업 버젓이</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118673906/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118673906/1</guid>
-      <pubDate>2023-04-04T13:09:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118677210.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울 강남구에서 벌어진 납치·살인 사건 피의자 이모(35)씨와 피해자가 가상자산(암호화폐) ‘퓨리에버’(PURE) 코인을 통해 인연을 맺은 것으로 드러난 가운데, 정작 코인 발행사는 내부 전담 인력 없이 외부 코인 마케팅 업체를 통해서만 모든 사업을 진행해왔다는 내부 관계자의 증언이 나왔다. 통상 코인 마케팅 업체는 유동성 확보를 위한 마켓메이킹(MM) 및 다단계식 판매로 영업을 하는 경우가 많아 이 과정에서 원한 관계가 생겼을 가능성이 제기된다. ◇문제의 ‘P코인’, 사내 인력 없이 ‘외부 업체’ 통해서만 운영4일 코인 발행사인 U사에서 근무했던 관계자는 &amp;lt;뉴스1&amp;gt;에 “사내에서 코인과 관련한 논의는 일절 없었고, 코인 사업은 의장(대표)만 관여했다”면서 “의장도 사업을 온전히 외부 코인 마케팅 업체에 맡겨서 진행했고 사내에 관련 인력은 없었다”고  말했다. 퓨리에버 코인을 발행한 U사는 미세먼지 측정기를 개발하는 업체로, 퓨리에버 코인은 해당 측정기와 연동된 블록체인 기</content:encoded>
-    </item>
-    <item>
-      <title>“찾아가서 고쳐줄개~”… 강남구, 반려견 교육 시행</title>
-      <link>https://www.donga.com/news/Society/article/all/20230404/118674455/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20230404/118674455/1</guid>
-      <pubDate>2023-04-04T13:38:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118674454.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울 강남구(구청장 조성명)가 문제 행동을 보이는 반려견을 키우는 집에 전문훈련사가 직접 찾아가 교육하는 ‘2023년 상반기 강남구 댕댕이 학교’ 참가자를 모집한다고 4일 밝혔다. 28일까지 선착순 신청을 받으며 25가구를 모집한다. 구는 2021년부터 반려견 행동 교정을 지원하고 있다. 구 관계자는 “강남구 반려동물 인구는 13만 4600여 명으로 추정된다”며 “늘어난 인구만큼 입질, 짖음 등 반려견의 문제 행동으로 인한 주민 간 갈등과 파양 문제가 발생해 교육을 지원하고 있다”고 밝혔다. 교육은 전문훈련사가 견주의 자택이나 공원 등 원하는 장소로 방문해 1시간씩 2회, 일대일 로 진행된다. 1회차에서는 양육방식의 문제점을 분석하고, 짖음, 입질·물림, 배변, 산책, 복종 문제, 분리불안 등 문제 행동의 해결법을 제공한다. 또 교육 일주일 후 재교육을 진행해 효과를 높일 예정이다. 교육비는 무료다. 신청을 원하면 구 홈페이지에서 신청서 양식을 작성하면 된다. 선착순으로 선정하되,</content:encoded>
-    </item>
-    <item>
-      <title>LG화학, 당뇨병 치료 신규 복합제 ‘제미다파’ 출시… “치료요법 한 단계 진화”</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118674734/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118674734/1</guid>
-      <pubDate>2023-04-04T13:50:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118674686.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG화학이 국내 500만 당뇨병 환자에게 한 단계 개선된 치료요법을 제시한다.  LG화학은 4일 제미글로 기반 신규 당뇨병 치료 복합제 ‘제미다파(성분명 제미글립틴‧다파글리플로진 복합제, 제품명 제미다파정)’를 오는 8월 출시한다고 밝혔다.  제미다파는 DPP-4억제제 및 SGLT-2억제제 시장 선두 제품인 제미글로(제미글립틴)와 다파글리플로진 성분을 합친 개량신약이다. 각 계열 내 대표 성분을 조합한 것이 특징으로 의료 현장에서 유용한 병용 치료 옵션이 될 것으로 기대하고 있다. 해당 두 성분을 조합한 복합제는 데미다파가 유일하다.  이달부터 개정된 당뇨병용제 병용기준 확대에 따라 혈당이 적절히 조절되지 않는 메트포르민 및 SGLT-2억제제 복용 환자에게 제미글로를 추가로 처방할 수 있다. 제미다파의 건강보험 급여 처방은 오는 5월 1일부터 가능해질 전망이라고 LG화학 측은 설명했다.  LG화학은 지난 2019년 기존 2제 병용요법으로 혈당이 적절히 조절되지 않는 환자의 고충 해소를 위해 신규 당뇨병</content:encoded>
-    </item>
-    <item>
-      <title>‘이것’ 섭취…위암 발생 위험 37% 낮췄다</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118674894/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118674894/2</guid>
-      <pubDate>2023-04-04T14:12:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118674495.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;콩류와 과일 섭취가 위암 발병 위험을 낮출 수 있다는 연구 결과가 발표됐다.  강릉원주대 식품영양학과 김현자 교수팀은 위암의 주요 원인 중 하나인 헬리코박터균에 감염된 성인 346명을 대상으로 추적 연구를 진행했다.  피실험자의 식단을 조사·분석한 결과 콩조림, 두부, 두유, 된장 등의 콩류를 많이 섭취한 사람이 위암에 걸릴 확률은 적게 섭취한 사람에 비해 37% 낮았다. 다음으로 오렌지, 키위 등의 과일은 35%였다. 식단으로 조합했을 때는 각각 콩류와 과일, 유제품과 과일을 함께 섭취했을 때 위암 발생률이 28%씩 낮아졌다.  연구팀은 “콩류와 과일의 충분한 섭취는 위암 발생 위험을 낮추는 데 기여한다고 볼 수 있다”며 “콩류·과일·유제품의 균형 있는 섭취는 위암 예방을 도울 수 있다”고 말했다.  이번 연구 결과는 한국영양학회와 대한지역사회영양학회가 출간하는 국제 학술지 ‘영양 연구 및 실습(Nutrition Research and Practice)’ 최근호에 실렸다.이예지 동아닷컴 기자 leeyj</content:encoded>
-    </item>
-    <item>
-      <title>LGU+, 대학 전용 메타버스 ‘유버스’ 출시… 캠퍼스 라이프 담았다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20230404/118675640/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20230404/118675640/1</guid>
-      <pubDate>2023-04-04T14:24:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118675472.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG유플러스는 대학 캠퍼스에 특화된 전용 메타버스 플랫폼 ‘유버스(UVERSE)’를 출시했다고 4일 밝혔다.  지난해부터 국내 클라우드 운영대행사업자(MSP) 메가존, 글로벌 게임 개발사 갈라랩 등과 협력한 LG유플러스는 ‘고객 맞춤형, 유플러스의 메타버스’ 라는 의미를 담아 유버스를 개발했다.  유버스는 구축 비용에 대한 부담을 줄인 클라우드 기반의 MaaS(Metaverse as a Service) 형태로 출시됐다. 정형화된 맵에 표준 공간만 제공하는 기존 B2C 메타버스와 달리 현실을 그대로 미러링한 가상공간에서 학교별로 특화한 전용 공간과 학사에 필수적인 기능을 갖췄다.  ▲별도 앱 설치 없이 전용 웹사이트를 통해 접근할 수 있는 편의성 ▲수업·특강 참여, 입학·취업 상담, 도서관 등 특화 기능을 갖춘 활용성 ▲연중 교과·비교과 일정 전반에서 사용할 수 있는 지속성 ▲인증을 거친 학생과 교직원만이 접속할 수 있는 보안성이 특징이다.  이외에도 강의, 상담, 소셜(채팅·친구관리), 캠퍼스 투어, 아</content:encoded>
-    </item>
-    <item>
-      <title>대웅제약, 당뇨 신약 ‘엔블로’ 단독요법 임상 결과 국제학술지 등재</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118676062/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118676062/1</guid>
-      <pubDate>2023-04-04T14:45:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118676040.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대웅제약 당뇨병 신약 ‘엔블로’의 임상 연구 결과가 국제학술지에 실려 우수한 효능을 인정받았다.  대웅제약은 국산 36호 신약 엔블로(성분명 이나보글리플로진) 단독요법의 유효성과 안전성을 평가한 임상 연구 결과가 국제 SCIE(과학인용색인 확장판, Science Citation Index Expanded) 학술지 ‘당뇨, 비만, 그리고 대사(DOM, Diabetes, Obesity and Metabolism)’ 저널에 게재(온라인)됐다고 4일 밝혔다. DOM 저널은 내분비 대사 분야 학술지로 높은 인용지수(Impact Factor)를 받아 관련 분야 연구자들이 논문 작성과 인용 등을 위해 많이 찾는 학술지로 꼽힌다.  엔블로 연구 결과가 실린 논문명은 ‘한국인 2형 당뇨병 환자 대상 24주 이나보글리플로진 유효성 및 안전성 평가’다. 연구는 다기관, 무작위, 이중맹검, 위약 대조 3상 임상 시험으로 진행됐다. 해당 단독요법 3상 연구(ENHANCE-A)는 국내 23개 병원에서 제2형 당뇨병으로 진단 받은</content:encoded>
-    </item>
-    <item>
-      <title>문제된 주키니호박, 8년전부터 국내유통…“검역절차 작동 안돼”</title>
-      <link>https://www.donga.com/news/Society/article/all/20230404/118676980/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20230404/118676980/2</guid>
-      <pubDate>2023-04-04T15:20:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118676920.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 국내에서 생산된 주키니호박(돼지호박) 일부가 미승인 ‘유전자 변형 생물체(LMO, Living Modified Organisms)’인 것으로 확인돼 전량 회수, 폐기됐다. 문제가 된 주키니호박은 국내에서 8년 이상 유통돼 온 것으로 알려졌고 이와 관련해 전문가는 “사실상 검역 시스템이 제대로 작동이 안 된 것”이라고 평가했다.  문재형 GMO(Genetically Modified Organism·유전자 변형 생물체) 반대전국행동 집행위원장은 4일 CBS 라디오 ‘김현정의 뉴스쇼’에 나온 자리에서 “종자를 들여온 업체 인터뷰에 따르면 (주키니 종자를) 온라인몰에서 구입을 해서 국제 우편으로 받아왔는데, 정부에서 문제 제기를 하지 않았다고 밝히고 있다”며 이같이 밝혔다.  지난달 27일 식품의약품안전처(식약처)에 따르면 주키니호박을 원료로 사용하는 모든 식품을 대상으로 검사를 시행한 결과 2개 제품에서 미승인 호박 유전자가 검출됐다. 식약처는 해당 제품을 즉시 압류하고 관할 지방자치단체에 회수·폐기할</content:encoded>
-    </item>
-    <item>
-      <title>모레까지 단비…“산불 피해지역 산사태 유의해야”</title>
-      <link>https://www.donga.com/news/Society/article/all/20230404/118677378/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20230404/118677378/1</guid>
-      <pubDate>2023-04-04T15:46:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118677344.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오는 6일까지 전국적으로 많은 양의 비가 올 것으로 예보돼 산불 피해 지역 붕괴와 낙석 등 안전사고 발생에 각별한 주의가 요구된다.   행정안전부는 3일 7개 중앙부처, 17개 시·도 및 유관기관과 ‘관계기관 대책회의’를 개최했다고 밝혔다.   이날 회의는 호우 전 미리 기상 예보를 공유하고 중점관리사항을 전파·점검하기 위해 소집됐다.   기상청 전망에 따르면 이날 늦은 오후부터 비가 내리기 시작해 6일까지 이어지겠다. 예상 강우량은 전남·제주·경남 30~80㎜, 지리산 부근과 제주 남부는 120㎜ 이상, 제주 산지는 200㎜ 이상이다.   행안부는 낙엽 등 이물질로 인해 배수구가 막히지 않도록 미리 정비하고 지난 여름 폭우 피해가 발생한 경북 포항 냉천 등 복구사업이 진행 중인 사업장은 추가 피해가 없도록 대비할 것을 지시했다.   또 해빙기 약해진 지반으로 낙석과 토사 유출 등의 안전사고가 발생하지 않도록 철저히 점검하도록 했다.   특히 최근 산불로 피해 입은 지역은 산사태가 우려되므로 위험징후 발</content:encoded>
-    </item>
-    <item>
-      <title>여성·흑인 최초로 달궤도 간다… 아르테미스2 비행사 4명 공개</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118677902/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118677902/1</guid>
-      <pubDate>2023-04-04T16:09:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118678006.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;1972년 아폴로 17호 이후 약 반세기 만에 다시 달로 비행할 우주비행사가 공개됐다. 여성, 흑인, 캐나다인이 인류 역사상 최초로 달로 향한다. 미국항공우주국(NASA)과 캐나다 우주국(CSA)은 달 탐사 계획 ‘아르테미스 프로젝트’의 2단계 임무를 수행할 우주비행사 4명을 3일(현지 시간) 공개했다. 4명의 우주비행사는 NASA의 크리스티나 코크(44)와 빅터 글로버(46), 리드 와이즈먼(47)과 CSA의 제레미 한센(47)이다. 코크는 여성으로는 역사상 처음으로 달 궤도를 비행한다. 그는 2019년 우주정거장(ISS)에서 총 328일을 머문 경험이 있으며 이는 여성 우주비행사로서 가장 긴 기록이다. 조종사 역할을 맡은 글로버는 2020년 민간 우주기업 스페이스 X의 ‘크루 드래건’을 타고 ISS에 도착해 머물며 최초의 흑인 우주비행사로 기록된 바 있다. 제레미 한센(47)은 캐나다 육군 대령으로 캐나다인 최초로 달로 향한다. 사령관</content:encoded>
-    </item>
-    <item>
-      <title>[그때 그 IT] 웹크롤링 판례 (2) 야놀자와 여기어때 간 숙박정보 크롤링</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118678619/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118678619/1</guid>
-      <pubDate>2023-04-04T16:36:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118678593.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘판례’란 법원이 특정 소송에서 법을 적용하고 해석해서 내린 판단입니다. 법원은 이 판례를 유사한 종류의 사건을 재판할 때 중요한 참고자료로 활용합니다. IT 분야는 기술의 발전 속도가 이를 뒷받침하는 제도의 속도보다 현저히 빠른 특성을 보여 판례가 비교적 부족합니다. 법조인들이 IT 관련 송사를 까다로워하는 이유입니다. 하지만 디지털 전환을 거치며, IT 분야에도 참고할 만한 판례들이 속속 쌓이고 있습니다. IT동아는 법무법인 주원 홍석현 변호사와 함께 주목할 만한 IT 관련 사건과 분쟁 결과를 판례로 살펴보는 [그때 그 IT] 기고를 격주로 연재합니다.  ‘야놀자와 여기어때 간 숙박 정보 크롤링 판례’로 본 웹크롤링의 민·형사상 책임(서울고등법원 2022.8.25. 2021나2034740 판결, 대법원 2022.5.12. 2021도1533 등)  “조금만 더 정리하면, 경쟁 회사의 영업전략과 현황을 알 수 있겠는데?”  바야흐로 디지털 플랫폼 경제 시대입니다. 코로나19 대유행 이후 비대면 수요가 늘</content:encoded>
-    </item>
-    <item>
-      <title>아이유 “전화가 오면 불편…엄마와도 힘들어”…‘콜 포비아’ 무엇?</title>
-      <link>https://www.donga.com/news/Culture/article/all/20230404/118678866/2</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20230404/118678866/2</guid>
-      <pubDate>2023-04-04T16:51:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118678863.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;가수 겸 배우 아이유가 ‘콜 포비아’(전화 공포증)가 있다고 털어놨다.아이유는 3일 자신의 공식 유튜브 채널 코너인 ‘아이유의 팔레트’에서 “전화가 오면 불편해진다”며 “엄마와도 통화가 어려울 정도로 통화하는 걸 굉장히 힘들어한다”고 말했다.그는 “전화를 안 불편한 사람은 매니저 오빠다. 워낙 일 이야기를 할 게 많아서 그런 것 같다”며 “통화하는 것이 굉장히 힘들다”고 했다.콜 포비아란 전화(Call)와 공포증(Phobia)의 합성어로 전화 통화를 기피하는 현상을 가리킨다. 단순히 전화를 기피하는 것뿐 아니라 통화할 때 두려움과 불안을 느끼는 등 전화가 오거나 통화 전 필요 이상으로 긴장하는 현상을 말한다.콜 포비아라는 개념이 나온 지는 10년이 지났지만, 초등학교 때부터 스마트폰과 메신저를 사용해 온 사람들이 성인이 돼 사회생활을 하면서 문제와 심각성이 다시 주목받고 있다.콜 포비아에서 벗어나고 싶다면 습관적으로 전화를 피하기보다 사회적 기술 훈련을 통해 극복하려는 노력이 필요하</content:encoded>
-    </item>
-    <item>
-      <title>“北해킹그룹 ‘김수키’, 암호화폐 훔쳐 김정은 정권 자금 조달”</title>
-      <link>https://www.donga.com/news/It/article/all/20230404/118679186/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230404/118679186/1</guid>
-      <pubDate>2023-04-04T17:09:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/02/14/117873876.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘김수키(Kimsuky)’ 또는 ‘탈륨(Thallium)’이란 이름으로 알려진 북한 해킹그룹이 암호화폐를 훔쳐 자금세탁을 하는 등 사이버 범죄를 통해 북한 정권에 자금을 조달하고 있다는 분석 결과가 나왔다.  구글 클라우드 자회사인 글로벌 사이버 보안 기업 ‘맨디언트’의 루크 맥나마라 수석 애널리스트는 4일 서울 용산에서 미디어 브리핑을 열고 이같은 내용을 담은 ‘북한 해킹그룹 APT43 분석 보고서’를 발표했다. APT43은 맨디언트가 지난해 9월 APT42에 이어 공식 명칭을 붙인 북한 해킹그룹이다. 보고서에 따르면 APT43의 주요 활동은 북한의 해외·대남 정보기구인 정찰총국(RGB)의 임무와 일치한다. 이들의 주요 업무는 핵 개발, 지정학적 이슈 등 북한 정권과 관련한 정보 수집으로 파악됐다. 한국과 미국, 일본, 유럽의 정부 및 정책 연구 기관, 싱크탱크, 기업이 주요 타깃이다.  맥나마라 수석 애널리스트는 “외</content:encoded>
-    </item>
-    <item>
-      <title>유럽서는 ‘챗GPT 규제’ 속도…국내서도 신중론 고개</title>
-      <link>https://www.khan.co.kr/it/it-general/article/202304042043015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=it_news</link>
-      <guid>https://www.khan.co.kr/it/it-general/article/202304042043015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=it_news</guid>
-      <pubDate>2023-04-04T20:43:01.000Z</pubDate>
-      <content:encoded>
-        이탈리아 이어 프·독 검토…“개인정보보호 등 신뢰성 중요”&lt;br /&gt;
-        &lt;br /&gt;
-        개인정보 유출 등 챗GPT로 대표되는 생성형 인공지능(AI)의 부작용이 드러나면서 세계 각국의 규제 논의에 속도가 붙고 있다. 챗GPT의 접속 차단을 ···
-      </content:encoded>
-    </item>
-    <item>
-      <title>머스크 ‘스타링크’ 2분기 국내 진출… “6G 주도권 뺏길 우려”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20230404/118685338/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20230404/118685338/1</guid>
-      <pubDate>2023-04-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118686676.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일론 머스크가 이끄는 스페이스X의 위성통신 사업인 스타링크의 국내 서비스 출시가 가시화하며 6세대(6G) 통신 주도권을 해외 대형 기업에 뺏길 수 있다는 우려가 나온다. 6G 통신에 필요한 위성 서비스를 특정 기업이 사실상 독점할 경우 국내에서 후발 주자가 나오기 어려울 것이란 관측도 제기된다. 4일 정보기술(IT) 업계에 따르면 스타링크의 기간통신사업자 승인 절차가 마무리 단계에 접어들었다. 국내 법인 스타링크코리아는 기간통신사업자 승인에 필요한 필수 인력을 채용 중이다. 빠르면 이달 중순 승인이 완료돼 올해 2분기(4∼6월) 내 국내 서비스 출시가 가능할 것으로 전망된다. 6G 통신의 핵심은 ‘위성’을 이용해 어디서든 통신이 가능한 ‘3차원 통신’을 구현하는 것이다. 현재 SK텔레콤, KT가 준비 중인 도심항공모빌리티(UAM), 무인항공기(UAV) 상용화에도 필수적인 기술이다.  위성 서비스는 현재 스타링크 등 해외 주요 기업들이 주도하고 있다. 스타링크는 연말까지 지구 저궤도에</content:encoded>
-    </item>
-    <item>
-      <title>놀리는 아이, 놀림 받는 아이[오은영의 부모마음 아이마음]</title>
-      <link>https://www.donga.com/news/Opinion/article/all/20230404/118685279/1</link>
-      <guid>https://www.donga.com/news/Opinion/article/all/20230404/118685279/1</guid>
-      <pubDate>2023-04-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118680148.7.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;초등학교 남자아이가 같은 반 여자아이를 ‘개구리’라고 놀린다. 여자아이가 눈이 큰 것을 가지고 개구리를 닮았다고 놀리는 것이다. 여자아이는 남자아이가 놀리기 시작하면 곧 울음을 터뜨린다. 남자아이는 그 반응이 재미있어서 여자아이를 계속 놀린다. 보통 놀릴 때는 상대의 약점, 단점, 잘 못하는 것, 숨기고 싶은 점, 부끄러워하는 점 등을 끄집어내서 얘기하거나 여러 사람 앞에서 공개한다. 상대의 강점이나 장점, 잘하는 것이나 멋진 것을 가지고 그런다면 놀림이라고 하지 않을 것이다. 칭찬이라고 할 것이다. 따라서 어떤 면에서 보면 놀리는 사람은 놀리고 있는 그 주제를, 놀림을 당하는 사람의 무시할 만한 점이라고 생각하고 있는 것이다. 놀리는 것을 통해서 그 사람의 우위에 서고 싶은 마음이 있다고도 볼 수 있다. 어쩌면 자신이 그 사람보다 잘났다는 것을 느끼기 위해서 놀리고 있는 것일 수도 있다.  ‘놀린다’는 행위가 갖는 의미는 대략 이렇다. 만약 아이가 전혀 그런 마음이 없는데 자꾸 친</content:encoded>
-    </item>
-    <item>
-      <title>LG화학, 새 당뇨병 치료제 출시… ‘제미다파’ 내달부터 건보 적용</title>
-      <link>https://www.donga.com/news/Economy/article/all/20230404/118685248/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20230404/118685248/1</guid>
-      <pubDate>2023-04-05T03:00:00.000Z</pubDate>
-      <content:encoded>LG화학이 당뇨병 치료제의 대표 성분 두 가지를 합친 개량신약 ‘제미다파’를 8일 출시한다고 4일 밝혔다. 제미다파는 DPP-4억제제인 ‘제미글로’(성분명 제미글립틴)와 SGLT-2억제제인 ‘포시가’(성분명 다파글리플로진)의 대표 성분을 하나로 합친 신약이다. 두 성분이 조합된 복합제는 제미다파가 유일하다. 제미다파의 건강보험 급여는 다음 달 1일부터 가능할 것으로 전망된다. 기존에는 당뇨병 치료를 위해 사용되는 약물 성분인 메트포르민에 제미글립틴 혹은 다파글리플로진을 추가 처방해 두 가지 약물을 복용하는 2제 병용요법이 허가돼 있었다. LG화학 관계자는 “2제 병용요법으로도 혈당이 적절히 조절되지 않는 환자를 위해 제미다파를 개발했다”며 “새로운 치료 옵션이 될 수 있을 것”이라고 했다. 지난해 LG화학의 제미글로 제품군 매출은 1330억 원이었다.</content:encoded>
-    </item>
-    <item>
-      <title>조류인플루엔자 특별방역 기간 종료 후에도 지속관리</title>
-      <link>https://www.donga.com/news/Society/article/all/20230404/118685040/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20230404/118685040/1</guid>
-      <pubDate>2023-04-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/04/118685038.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;고병원성 조류인플루엔자(AI) 중앙사고수습본부(중수본)는 지난달 31일까지 연장 운영했던 ‘조류인플루엔자 특별 방역 대책 기간’을 종료하고 1일부터 조류인플루엔자 위기 단계를 ‘심각’에서 ‘주의’로 조정했다. 이에 따라 그간 확대 운영해 왔던 예방적 살처분 범위를 ‘500m 내 가금(家禽) 전체 축종’으로 축소하기로 했다. 하지만 잔존 바이러스 등의 영향으로 이달까지 추가 발생 가능성이 있어 축종별 강화된 검사 체계는 ‘주의’ 단계 해제 전까지 유지하기로 했다. 방역 지역이 해제되지 않은 곳에서도 해제 때까지 정밀검사를 강화할 방침이다. 중수본은 이와 함께 봄철 가금 유통 증가로 전통시장, 계류장 등을 통해 고병원성 조류인플루엔자가 전파될 우려가 있어 전통시장 가금 판매소, 계류장 등의 소독·방역시설 적정 설치 및 방역수칙 준수 여부를 집중 점검하기로 했다. 이와 더불어 오염원 제거를 위해 전통시장 내 가금 판매소, 계류장 및 가금 거래 상인, 가금 운반차량 등에 대해 일제 청소,</content:encoded>
     </item>
     <item>
       <title>‘괴짜 억만장자의 실험’ 버진오빗, 결국 파산 절차 돌입</title>
@@ -1125,74 +945,11 @@
       <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0405/53_16806522936991_20230405500345.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;‘로켓 공중발사’라는 새로운 영역을 개척한 버진오빗(Virgin Orbit)이 결국 파산 절차에 들어간다.미국 언론들은 버진오빗이 4일(현지시각) 미 델라웨어주 파산법원에 파산보호를 신청했다고 보도했다. 미국의 파산보호는 기업의 채무 이행을 일시 중지시키고 자산 매각을 통해 새로운 기업 주인을 찾는 절차다. 이는 지난달 말 회사 운영을 중단하고 전체 인력의</content:encoded>
     </item>
     <item>
-      <title>코로나 치명률 28주만 최소·중증화율도 감소…“방역상황 안정적”</title>
-      <link>https://www.donga.com/news/Society/article/all/20230405/118689021/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20230405/118689021/1</guid>
-      <pubDate>2023-04-05T09:28:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118688920.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;실내마스크 착용 의무 해제 이후 일평균 확진자가 다소 증가했지만 위험 지표인 코로나19 치명률이 28주 만에 최소치를 기록하는 등 방역상황은 안정적으로 관리되고 있는 것으로 나타났다.   한창섭 행정안전부 차관(장관 직무대행·중앙재난안전대책본부 제2차장)은 5일 오전 중대본 회의를 주재하며 “지난주 일평균 확진자 수는 1만104명으로 전주 대비 1.1% 증가했다”고 말했다.  하지만 한 차관은 “주간 치명률은 0.06%로 28주 만에 최소치로 나타났고, 주간 중증화율도 0.19%로 9주 만에 최소치를 기록하는 등 방역상황은 안정적으로 관리되고 있다”고 밝혔다.   치명률은 2022년 9월1주차 0.07%을 기록한 후 줄곧 0.1%를 상회해 올해 2월4주 0.13%까지 올랐다가 3월3주차에는 0.06%로 낮아졌다.  중증화율은 올 1월3주차 0.22%, 2월1주차 0.28%, 3월1주차 0.23%로 0.2% 이상을 유지했다가 3월3주차에 0.19%로 떨어졌다.  한 차관은 “정부는 지난주 발표한 ‘코로나1</content:encoded>
-    </item>
-    <item>
       <title>꼬불꼬불 곱슬머리는 왜 생겨났을까?</title>
       <link>http://www.hani.co.kr/arti/science/science_general/1086576.html</link>
       <guid>http://www.hani.co.kr/arti/science/science_general/1086576.html</guid>
       <pubDate>2023-04-05T10:00:30.000Z</pubDate>
       <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0405/53_16806568480623_20230405500904.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;사람과 마찬가지로 새끼에게 젖을 먹여 키우는 포유동물의 눈에 인간은 매우 특이하게 생긴 동물로 비칠 것이다. 다른 포유동물과 달리 전신에 털이 나 있지 않기 때문이다. 몸에 털이 없다는 점은 직립 이족보행, 큰 뇌와 함께 진화 과정에서 인간이 획득한 중요한 특성 가운데 하나다.하지만 머리는 예외다. 사람의 머리에는 다른 동물에 못잖게 수북한 털이 난다.촘촘</content:encoded>
-    </item>
-    <item>
-      <title>의료분야 AI 분석용 데이터셋 공모전 개최</title>
-      <link>https://www.donga.com/news/It/article/all/20230405/118690120/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230405/118690120/1</guid>
-      <pubDate>2023-04-05T10:12:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118690118.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;가톨릭대 정보융합진흥원(원장 김대진 교수)은 기관 내 인공지능(AI) 활용을 통한 연구 활성화를 위해 CMC 의료분야 AI 분석용 데이터셋 공모전을 개최했다. 데이터셋이란 인공지능에 학습시킬 고품질의 데이터를 모아서 저장하는 것을 말한다.  공모전은 1월 16일부터 2월 28일까지 참가자 접수 및 서류심사를 거쳤으며 공모주제는 △임상 의사결정 지원 아이디어 데이터셋 △병원 현장 프로세스 개선 아이디어 데이터셋으로 접수는 CMC 전 교직원 개인 또는 최대 4명으로 이뤄진 팀을 대상으로 했다.접수 결과 서울성모병원 14팀</content:encoded>
-    </item>
-    <item>
-      <title>코로나 위험 11주째 ‘낮음’…확진·변이 증가에도 “대규모 유행 없다”</title>
-      <link>https://www.donga.com/news/Society/article/all/20230405/118692062/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20230405/118692062/1</guid>
-      <pubDate>2023-04-05T11:27:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118692036.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;3월 5주 차 주간 신규 확진자가 전주 대비 소폭 증가한 가운데, 방역 당국은 코로나19 위험도를 11주 연속 ‘낮음’으로 평가했다.  XBB.1.5를 포함한 XBB계통의 변이 검출률이 증가하고 있지만 백신과 자연감염 등 면역력이 형성돼 대규모 유행으로 이어질 가능성은 낮다는 게 방역 당국의 판단이다.  질병관리청 중앙방역대책본부(방대본)는 5일 3월 5주 차(3월 26일∼4월 1일) 코로나19 주간 위험도를 전국과 수도권, 비수도권 모두 ‘낮음’으로 평가했다. 주간 위험도는 지난 1월 3주부터 11주 연속 ‘낮음’을 유지하고 있다.  당국은 신규 확진자, 60세 이상 확진자 등 주요 발생지표 증가세로 지속적인 추이 관찰이 필요한 상황을 고려했다고 밝혔다.  주간 신규 확진자는 7만728명으로 전주 대비 1.1% 증가했다. 주간 일평균 확진자수는 1만104명이다. 유행 확산 여부를 예측할 수 있는 감염재생산지수(Rt)는 1.03으로 3월 4째 주 이후부터 2주 연속 유행 확산을 의미하는 수치 1.0 이상</content:encoded>
-    </item>
-    <item>
-      <title>[아트테크A-Z] 미술품 투자를 위해 알아야 할 작품 가치 상승 요인</title>
-      <link>https://www.donga.com/news/It/article/all/20230405/118693012/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230405/118693012/1</guid>
-      <pubDate>2023-04-05T12:05:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118693006.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[편집자주] 날로 관심이 뜨거워지고 있는 아트테크(미술품 투자)에 입문하려는 이들을 위해 아트 컨설팅 기업 테사 에셋과 함께 아트테크란 무엇이고, 어떻게 하는 것인지 차근차근 짚어주는 연재를 마련했습니다. 본문의 내용 또는 의견은 본지의 편집 방향과 다를 수 있습니다.  한국 미술시장 정보시스템에 따르면 작품 제작 이후 3년 이내에 리세일(재판매)을 위해 경매에 출품한 작품 비중이 2019년 4.3%에서 2021년, 22.9%, 2022년 상반기에는 32.8%로 급증했다. 미술품을 활용한 수익 실현을 원하는 컬렉터(수집가)들이 1차 시장에서 구매한 작품을 2차 시장에 빠르게 재판매하려는 비율이 높아지고 있다는 것으로 해석할 수 있다. 그러나 단기간의 수익 실현을 위해 미술품 투자에 접근한다면 미술품 가치 상승 요인이 보유 기간 동안 충분히 반영되기 어렵다는 한계점이 있다. 따라서 안정적인 미술품 투자를 위해서는 미술품 가치에 영향을 미치는 다양한 요인들을 정확히 이해하고 고려해야 한다.   미술품 가치</content:encoded>
-    </item>
-    <item>
-      <title>위암 수술 후 체중 감소, 대사질환 예방…적정 감소량은?</title>
-      <link>https://www.donga.com/news/It/article/all/20230405/118694800/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20230405/118694800/2</guid>
-      <pubDate>2023-04-05T13:43:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118695208.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;위암 수술을 받은 환자가 영양 관리를 통해 체중을 줄이면 2형 당뇨병 예방에 도움이 된다는 연구 결과가 나왔다. 단, 연구팀은 체중이 많이 줄어들수록 효과가 커지는 건 아니라며 체중 관리의 최적의 구간을 맞추는 것이 중요하다고 강조했다.  5일 고려대안암병원에 따르면 고려대·경북대·대구대 비만-당뇨병 연구팀은 국가검진데이터로 위암 수술 후 체중 감소와 이에 따른 2형 당뇨 발생 위험 간의 상관 관계를 규명하고 최적의 체중 구간을 제시했다. 위암 치료 후 대사 질환 예방의 가이드를 제시한 것이다.  연구팀은 2004년부터 2014년까지 위암 수술을 받고 5년 이상 생존한 환자 가운데 수술 당시 당뇨 병력이 없고 보조화학요법을 받지 않은 5618명을 대상으로 △수술 후 3년 간의 체중 감소 비율 △2형 당뇨 발생 위험 등을 평가했다.  연구 결과, 위암 수술 후 체중 변화가 없는 경우를 기준으로 체중 감소가 5% 미만인 경우에는 2형 당뇨의 위험이 10% 낮아졌다. 체중 감소가 5% 이상~10% 미만인 경우</content:encoded>
-    </item>
-    <item>
-      <title>카카오모빌리티, LG전자와 협업해 사내 카페에 ‘로봇 배송&apos; 도입</title>
-      <link>https://www.donga.com/news/Economy/article/all/20230405/118695079/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20230405/118695079/1</guid>
-      <pubDate>2023-04-05T13:50:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118695003.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;카카오모빌리티는 LG전자와 협업해 자사 사내 카페에서 로봇을 이용한 실내 배송 서비스를 선보인다고 5일 밝혔다.  양사는 지난해 6월 ‘미래 모빌리티 분야 기술 협업 통한 서비스 공동 개발 및 모빌리티 생태계 확대를 위한 업무협약’을 체결하고 실내·외 자율주행 로봇 배송 서비스 모델 발굴을 위한 협력 계획을 발표한 바 있다.  이번 서비스는 카카오모빌리티가 선보이는 첫 로봇 배송이다. 카카오모빌리티 임직원이 주문 애플리케이션을 통해 사내 카페에서 음료를 주문하면 배송 로봇이 식음료를 수령해 주문자가 있는 층으로 가져다주는 방식으로 진행된다.  카카오모빌리티는 주문 앱과 로봇의 매개체 역할을 하는 ‘로봇 플랫폼’ 개발을, LG전자는 로봇 ‘클로이(CLOi)’ 솔루션을 통해 로봇 운영에 필요한 기술 관제, 배송을 담당한다.  로봇 플랫폼은 서비스 방식, 업종 등에 따라 각기 다른 배송 주문을 로봇이 이해할 수 있는 형태로 규격화해주고 배송업무 계획 등 서비스 운영에 필요한 관제 및 배차를 맡는다. 수요(배송</content:encoded>
-    </item>
-    <item>
-      <title>카산도 “인공지능·스마트 프랜차이즈 될 것”</title>
-      <link>https://www.donga.com/news/It/article/all/20230405/118695103/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230405/118695103/1</guid>
-      <pubDate>2023-04-05T13:54:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118695064.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;키오스크와 사이니지, POS(Point Of Sales, 결제 단말기) 등 스마트 상점 기술은 꾸준히 진화했다. 초기의 스마트 상점 기술은 상품 소개와 주문·결제 등 사람의 일을 대신했다. 이후 센서와 카메라, 통신 기술을 가진 스마트 상점 기술이 등장했다. 이들은 유기적으로 이어져 결제와 정산 편의를 높였고, 배달과 쿠폰 등 다른 서비스와의 융합도 이뤘다.  스마트 상점 기술은 인공지능을 업고 한 단계 더 도약할 전망이다. 인공지능 스마트 상점 기술은 소비자에게는 새로운 방문 경험을, 점주에게는 편의와 데이터 기반 운영 개선 전략을 전달할 것으로 기대한다. 이 가운데 인공지능 스마트 상점 기술을 적극 도입, 소상공인과 소비자 모두에게 새로운 편의를 주려는 프랜차이즈가 등장했다. 일식 전문점 ‘카산도’다. 조일준 카산도 대표는 먼저 카산도의 메뉴와 특징을 소개했다.   “카산도는 (돈)’카’츠와 카레, ‘산도(샌드위치)’가 맛있는 가게라는 의미입니다. 제 자신이 일식 돈가스와 카레를 즐겨 먹는데, 우리나</content:encoded>
-    </item>
-    <item>
-      <title>삼성, ‘30만원대’ 갤럭시 A24 곧 출시…“가격·성능 다 잡았다”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20230405/118695075/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20230405/118695075/1</guid>
-      <pubDate>2023-04-05T13:54:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118695053.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 30만원대 가성비 갤럭시 스마트폰을 곧 출시할 것으로 알려졌다. 초저가 수준의 가격에 기대 이상의 성능을 바탕으로 삼성전자의 국내외 점유율 확보에 기여할 것으로 기대된다.  5일 업계에 따르면 삼성전자는 이르면 이달, 늦어도 다음달 내에 가성비 제품 ‘갤럭시 A24’를 국내외 시장에 출시한다.   갤럭시 A24의 출고가는 30만원대 수준으로 지난달 31일 출시된 갤럭시 A34 5G(49만9400원)보다 10만~20만원 가량 저렴할 것으로 보인다. 지난해 출시된 갤럭시 A23의 출고가가 37만4000원이었다는 점을 고려하면 비슷한 수준이 될 전망이다.  가격대는 크게 낮추면서도 성능까지 잡았다. 갤럭시 A24에는 6.5인치 디스플레이, 전후면 4개의 카메라, 5000mAh 대용량 배터리, IP67 방수·방진 기능 등이 탑재될 전망이다.   갤럭시 A34 5G의 경우 4800만 화소 렌즈, OIS(광학식 손떨림 방지)와 향상된 VDIS(동영상 손떨림 보정) 기능 등으로 카메라 성능을 대폭 강화한</content:encoded>
-    </item>
-    <item>
-      <title>아기 해열제 ‘챔프’ 일부 갈변, 자진회수 조치…제조번호 확인하세요</title>
-      <link>https://www.donga.com/news/Society/article/all/20230405/118695516/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20230405/118695516/2</guid>
-      <pubDate>2023-04-05T14:11:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118695515.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 제약사 동아제약이 어린이 해열제 ‘챔프’ 일부 제품에 대해 자진회수에 나섰다. 동아제약은 챔프 일부 제품에서 갈변현상이 발견돼 소비자 불편을 최소화하기 위해 자진회수에 나선다고 5일 밝혔다.  이번 자진회수는 챔프 일부 제품이 유통과정에서 갈변현상이 나타난 것으로 확인돼 내려진 조치이다.  대상 품목은 아세트아미노펜 성분의 챔프시럽 일부 제품이다. 사용기한은 2024년 9월 6일부터 같은해 10월 24일까지다. 제조번호는 2209031~2209040, 2210041~2210046이다.   동아제약 측은 “판매업자 및 약국 등에서는 즉시 판매를 중지하고 반품해달라”고 했다. 또 이미 구매한 소비자는 고객센터에 연락하면 회수 조치 방법을 전달할 것으로 전해졌다.   동아제약은 “제품의 제조 공정 및 안전성에는 이상이 없다”면서 “앞으로도 소비자가 안심하고 복용할 수 있도록 의약품의 제조 및 품질 관리에 최선을 다할 것”이라고 말했다.조혜선 동아닷컴 기자 hs87cho@donga.com</content:encoded>
     </item>
     <item>
       <title>‘R&amp;D에 진심’ 한미약품, 美서 신규 항암 신약 7종 공개</title>
@@ -1244,31 +1001,11 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118697326.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;코로나19 유행이 안정세를 이어가고 있지만 최근 소폭의 증가세가 나타났다. 특히 5일 0시 기준 코로나19 신규 확진자는 지난 2월 15일 1만4948명 이후 49일(1개월 21일) 만에 가장 많이 나왔다.  하지만 방역당국과 전문가들은 “앞으로 환자가 증가할 수 있다”면서도 “그간 백신과 자연 감염으로 누적된 면역력이 상당해 대규모 유행으로 이어질 가능성은 매우 낮다”고 전망했다.  ◇5일 0시 기준 확진자 1만4465명…위중증 환자 수는 다행히 안정  질병관리청 중앙방역대책본부는 5일 0시 기준 코로나19 확진자가 1만4465명 발생해 누적 3087만1740명이 됐다고 밝혔다. 1주일 전인 지난달 29일 1만3127명보다 1338명 많다.  전날 확진자인 1만3075명 역시 1주일 전인 지난달 28일 1만2124명보다 1251명 늘었다. 연일 전주 대비 1000여명 이상 늘어난 모습이다. 또 6일 연속 전주 대비 확진자 수가 늘었다.  유행이 안정적이지만 최근 소폭 증가한 데는 봄을 맞아 바깥 활동이</content:encoded>
     </item>
     <item>
-      <title>“수입식품 11%가 중남미 차지”…식약처, 협력기틀 마련</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002254984</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002254984</guid>
-      <pubDate>2023-04-05T16:00:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/04/NISI20230404_0001233667_web.jpg?rnd=20230404100901&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/04/NISI20230404_0001233667_web.jpg?rnd=20230404100901&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]송종호 기자 = 식품의약품안전처가 중남미 국가와 협력해 식품안전 수준을 높이고 국내 식품의 수출확대에 나선다. &lt;br /&gt;&lt;br /&gt;5일 식약처는 주한 중남미 8개국 공관장과 서울 중구 대한상공회의소에서 ‘2023년 주한 중남미 대사 간담회’를 개최했다. &lt;br /&gt; &lt;br /&gt;이날 과테말라, 멕시코, 브라질, 아르헨티나, 에콰도르, 엘살바도르, 파라과이, 페루(가나다 순) 등 총 8개 공관장이 참가했다.&lt;br /&gt;&lt;br /&gt;이번 간담회에서 식약처는 우리나라의 주요 식품 교역국인 중남미 국가의 주한 공관장을 대상으로 공적개발원조사업(ODA)인 ‘중남미 수출입 식품 안전관리 역량 강화 사업’을 소개하고, 식품 안전관리 정책을 공유하며 협력 방안에 대해 논의했다. &lt;br /&gt;&lt;br /&gt;중남미(32개국) 국가에서 식품 수입량은 국내 전체 식품 수입량의 약 11.3% 차지한다. 주요 수입 품목은 브라질(닭고기, 옥수수), 아르헨티나(홍어 등 수산물), 엘사바도르(원당), 페루(오징어) 등이다.&lt;br /&gt;&lt;br /&gt;식약처는 내달부터 오는 2027년까지 ‘중남미 수출입 식품 안전관리 역량 강화 사업’(이하 ODA 사업)을 추진한다. ODA 사업은 중남미 8개국 17개 부처의 규제당국자에 대한 초청연수 과정과 국내 전문가를 중남미 국가로 파견해 현지 규제당국자를 교육하는 현지연수 과정으로 구성된다. &lt;br /&gt;&lt;br /&gt;주요 연수내용은 ▲한국의 수출입 식품의 안전관리 제도·체계 ▲수입식품 전자심사와 전자위생증명서 등 디지털 수입검사체계 ▲수입식품 검사현장과 K-푸드 제조업소 견학 등이다.&lt;br /&gt;&lt;br /&gt;또 식약처는 간담회에서 ▲수입식품 서류검사를 365일 24시간 자동으로 심사하는 ‘수입식품 전자심사’ 도입 ▲축수산물 수입 시 제출하는 수출위생증명서를 ‘전자위생증명서’로 전환 확대 등 우리나라의 디지털 식품안전관리 제도를 공유하고, K-푸드 수출 활성화를 위해 주한 중남미 공관장들의 이해를 도모했다. &lt;br /&gt;&lt;br /&gt;오유경 처장은 “올해 처음으로 중남미 국가를 대상으로 추진하는 ODA 사업이 식품안전을 강화하고 관련 산업을 활성화하는데 실질적인 도움이 될 수 있도록 주한 외국공관의 적극적인 협조를 요청드린다”고 말했다.&lt;br /&gt;&lt;br /&gt;이어 “식약처는 ODA 사업이 양국 국민에게 보다 안전한 식품을 제공하는 한편, 우리나라 식품안전관리 제도에 대한 참여국의 이해도를 높여 해외진출 활성화에 도움을 줄 것으로 기대한다”고 덧붙였다. &lt;br /&gt;&lt;br /&gt;한편 이번 간담회는 대한상공회의소 후원으로 개최됐다. 이날 2030년 부산세계박람회 유치위원회 관계자가 간담회에 참석해 ‘2030 부산세계박람회’ 개최를 위한 중남미 국가의 지지와 협조를 요청했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 song@newsis.com
-      </content:encoded>
-    </item>
-    <item>
       <title>[스타트업-ing] 엑스온 장원익 대표, “버추얼 스튜디오가 가져 온 변화”</title>
       <link>https://www.donga.com/news/It/article/all/20230405/118698391/1</link>
       <guid>https://www.donga.com/news/It/article/all/20230405/118698391/1</guid>
       <pubDate>2023-04-05T16:24:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118698248.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;VFX(Visual Effects). 영화나 애니메이션 산업에서 사용하는 영상 제작기법 가운데 컴퓨터 그래픽스(Computer Graphics, CG)에 바탕을 둔 모든 종류의 디지털 기법을 뜻하는 단어다. 한글로 직역하자면, 시각적인 특수효과다. 하늘을 날아다니는 슈퍼맨, 고층 빌딩이 폭파되는 장면 등 존재할 수 없는 영상이나 촬영 불가능한 장면, 실물을 사용하기 어려운 장면 등을 표현하기 위해 이용되는 기법과 영상물 등을 통틀어 말한다.  지속적인 VFX 기술의 발전은 현실과 구분하기 어려울 정도로 실감 나는 영상을 만들어낸다. 가상의 도시를 만들어 보여주고, 아직 인간이 탐험하지 못한 우주 끝자락의 모습을 표현한다. 80대 노인의 얼굴을 20대 청년으로 바꿔주기도 하며, 상상 속 외계 생명체의 표정까지 담아낸다. 아무것도 없는 초록색 크로마키 앞에서 허공을 향해 연기하는 배우의 모습은, 미지의 생명체와 화려한 격투를 벌이는 화면으로 재탄생한다.   다만, VFX는 대부분 영상을 촬영한 뒤 후반 작업</content:encoded>
-    </item>
-    <item>
-      <title>창립 47주년 ETRI, 올해의 연구자상에 강찬모 박사 선정</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255405</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255405</guid>
-      <pubDate>2023-04-05T16:37:16.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235180_web.jpg?rnd=20230405162647&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235180_web.jpg?rnd=20230405162647&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[대전=뉴시스] 김양수 기자 = 한국전자통신연구원(ETRI)은 5일 대강당에서 창립 47주년 기념식을 열어 &amp;#039;올해의 ETRI 연구자상&amp;#039; 등 유공자 시상식을 갖고 연구성과를 격려했다고 밝혔다.&lt;br /&gt; &lt;br /&gt;이날 올해 ETRI 연구자상은 초실감 메타버스를 위한 가상·증강현실(VR·AR) 기기의 주요 부품인 OLED 마이크로디스플레이 핵심기술을 개발한 강찬모 박사가 선정돼 상을 받았다.&lt;br /&gt;&lt;br /&gt;강찬모 박사는 초고해상도 마이크로디스플레이를 구현키 위한 핵심소자와 공정기술 개발을 주도하고 기술을 이전, 상용화를 이끈 공로를 인정받았다.&lt;br /&gt;&lt;br /&gt;또 탁월한 연구성과를 통해 국민의 안전과 편의에 이바지한 연구원에게 수여되는 국가과학기술연구회(NST) 이사장상은 ▲입체통신연구소 나지현 책임 ▲초실감메타버스연구소 권선형 책임 ▲기획본부 이성원 책임연구원이 각 수상했다.&lt;br /&gt; &lt;br /&gt;입사 3년미만 직원이 받는 신입직원상은 ▲인공지능컴퓨팅연구소 김윤곤 선임 ▲입체통신연구소 노훈동 선임 ▲초실감메타버스연구소 최기홍 선임 ▲ICT전략연구소 성지훈 선임 ▲사업화본부 박영배 책임연구원이 받았다.&lt;br /&gt;&lt;br /&gt;기술이전 부문에서는 지난해 우수연구실적을 바탕으로 초지능창의연구소 복합지능연구실의 &amp;#039;종단형 음성인식기술&amp;#039;이 최우수상의 영예를 안았다. 이 기술은 지난해 총 13건의 기술이전을 시행해 약 27억원의 기술료 성과를 창출했다.&lt;br /&gt; &lt;br /&gt;이와 함께 최우수학술지,  ETRI저널, 특허, 표준화 부문에 대한 시상도 이뤄졌고 인텔렉추얼디스커버리㈜가 연구원의 주요 연구개발성과를 널리 활용, 특허 수익화 업무에 협력한 성과를 인정받아 공로상을 수상했다.&lt;br /&gt; &lt;br /&gt;ETRI 방승찬 원장은 &amp;quot;47주년 창립기념식을 계기로 &amp;#039;디지털 혁신으로 행복한 미래세상을 만드는 기술선구자&amp;#039;라는 기관 비전을 실현하고 국민에게 사랑받는 ETRI로 거듭날 수 있도록 더욱 노력하겠다&amp;quot;고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 kys0505@newsis.com
-      </content:encoded>
     </item>
     <item>
       <title>HK이노엔, AI 바이오의약품 연구·개발 착수… 바이오텍 ‘에이인비’와 업무협약</title>
@@ -1278,41 +1015,11 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118698658.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;HK이노엔이 인공지능(AI) 기술을 활용한 바이오의약품 개발과 플랫폼 구축에 나선다.  바이오헬스기업 HK이노엔(HK inno.N)은 5일 AI 기반 신약개발 바이오텍 ‘에이인비’와 AI 기술을 활용한 신약 공동개발 관련 업무협약(MOU)을 체결했다.  협약에 따라 HK이노엔은 에이인비가 보유한 AI 기반 신약개발 플랫폼을 활용해 세포유전자치료제 개발에 적용할 새로운 항체 후보물질 발굴하고 항원 디자인 플랫폼 구축을 목표로 공동연구를 추진할 계획이다.  AI 기술을 통해 발굴한 항체 후보물질은 세포유전자치료제(CAR-T, CAR-NK 등) 기능을 한층 강화하는데 활용할 예정이다. HK이노엔은 CAR-T 치료제 등 세포유전자치료제 연구뿐 아니라 경기도 하남 소재 첨단바이오의약품 GMP시설을 활용해 다양한 기업과 위탁생산(CMO), 위탁개발생산(CDMO) 등을 진행하고 있다.  HK이노엔은 백신 개발을 위한 항원 디자인 플랫폼 구축에도 에이인비의 AI 기술을 접목시킨다는 복안이다. 항원은 몸에서 면역반응을</content:encoded>
     </item>
     <item>
-      <title>한미약품, 미국 암학회서 &amp;#039;항암 혁신신약&amp;#039; 과제 대거 공개</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255433</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255433</guid>
-      <pubDate>2023-04-05T16:44:43.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235170_web.jpg?rnd=20230405162237&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235170_web.jpg?rnd=20230405162237&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]황재희 기자 = 국내 제약사 한미약품이 미국암연구학회(AACR 2023)에 참가해 새로운 파이프라인을 대거 공개한다.&lt;br /&gt;&lt;br /&gt;한미약품은 오는 14일부터 19일까지 미국 플로리다주 올랜도에서 열리는 미국암연구학회에서 항암 분야 혁신신약 파이프라인을 대거 공개한다고 5일 밝혔다.&lt;br /&gt;&lt;br /&gt;이번 AACR에서는 ▲LAPSIL-2analog(HM16390)2건 ▲EZH1/2 이중저해제(HM97662) ▲SOS1 저해제(HM99462) ▲YAP/TAZ-TEAD 저해제 ▲mRNA(메신저 리보핵산) 항암백신 등에 관한 연구결과와 북경한미약품이 주도적으로 개발하고 있는 이중항체 플랫폼(펜탐바디) 기반의 ▲PD-L1/4-1BB BsAb(BH3120) 1건 등 총 7건의 연구결과를 포스터로 발표한다.&lt;br /&gt;&lt;br /&gt;한미약품은 차세대 인터루킨-2(IL-2) 면역항암제 신약후보물질 ‘HM16390’ 항종양 효능 연구결과를 17일 공개한다. &lt;br /&gt;&lt;br /&gt;IL-2는 세포독성림프구를 분화·활성화하는 물질로, 현재 승인된 재조합 인간 IL-2는 충분한 항종양 효능을 위해 고용량을 사용해야 하지만 혈관누출증후군 등 부작용이 수반돼 사용에 제한이 있다. &lt;br /&gt;&lt;br /&gt;한미약품에 따르면 HM16390은 IL-2 수용체들 간 결합력을 최적화해 강한 항종양 효능과 함께 안전성까지 개선한 후보물질이다. 항암 주기당 1회 피하 투여가 가능한 제형으로 현재 임상 1상 진입을 위한 독성 연구가 진행되고 있다. &lt;br /&gt;&lt;br /&gt;한미약품은 EZH1/2 이중저해제 신약후보물질 ‘HM97662’ 항암 효과 연구결과를 19일 발표한다. &lt;br /&gt;&lt;br /&gt;현재 HM97662를 진행성 고형암 치료제로 개발 중으로, 올해는 적응증 확장 차원에서 T세포 림프종 치료제로서의 가능성을 제시할 예정이다. &lt;br /&gt; &lt;br /&gt;또 암을 유발하는 유전자 돌연변이 중 치명적인 ‘KRAS 변이’를 타깃하는 ‘HM99462’ 연구결과를 17일 발표한다. 세포 성장과 분화, 증식 및 생존에 중요한 역할을 하는 단백질인 KRAS는 다양한 돌연변이를 일으키며 폐암과 대장암, 췌장암 등을 유발한다. &lt;br /&gt;&lt;br /&gt;HM99462는 KRAS가 활성화되지 못하도록 신호전달 연쇄 역할을 하는 SOS1이라는 단백질과의 결합을 억제하는 후보물질로, 이번 학회에서는 HM99462의 약물적 우수성과 KRAS 활성화와 연관된 다양한 암의 치료 가능성을 제시한다. 현재 KRAS 활성을 막는 저해제가 폐암에 한해 승인된 바 있으나 다양한 내성 메커니즘이 발생하고 있고, KRAS 변이로 인해 다빈도로 발생하는 대장암이나 췌장암에는 효과가 제한적이라는 한계가 있다. &lt;br /&gt;&lt;br /&gt;한미약품이 개발 중인 HM99462는 기존 약제 등과의 병용을 통해 KRAS 활성화와 연관된 다양한 암종에 대한 치료 효과를 증강시키면서도 내성 유발을 억제하는 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;한미약품은 히포 신호전달경로 표적 고형암에 대한 새로운 YAP/TAZ-TEAD 저해제도 공개한다. 세포에서 히포 신호전달경로는 세포 증식과 줄기세포 기능 항상성을 조절하는 역할을 한다. &lt;br /&gt;&lt;br /&gt;그러나 히포 신호전달경로에 포함된 유전자들에 이상이 발생하면 이 경로가 작동을 멈추면서 YAP/TAZ라는 단백질이 전사인자(DNA 특정부위에 결합해 유전자 발현을 촉진하거나 억제하는 단백질)인 TEAD와 결합해 다양한 종류의 악성 종양을 유발한다. &lt;br /&gt;&lt;br /&gt;한미약품이 개발하는 후보물질은 TEAD 저해 효과가 있다. 또 단독 치료제뿐 아니라 병용 치료제로서의 가능성이 제기되고 있다. &lt;br /&gt;&lt;br /&gt;한미약품은 이번 학회에서 mRNA 기반 항암 백신 면역 반응을 통한 치료 가능성도 발표할 예정이다.&lt;br /&gt;&lt;br /&gt;한미약품그룹 중국 현지법인 북경한미약품 R&amp;D(연구개발)센터가 주도적으로 개발하고 있는 차세대 면역항암제 ‘BH3120’ 연구결과도 17일 발표된다. &lt;br /&gt;&lt;br /&gt;BH3120은 하나의 항체가 서로 다른 2개 표적에 동시 결합할 수 있는 이중항체 플랫폼 ‘펜탐바디’를 적용한 신약 후보물질로, 펜탐바디는 면역원성 및 안정성 등이 우수하며 생산 효율이 높다는 장점이 있다. 북경한미약품과 한미약품은 그동안 축적된 연구결과를 바탕으로 4월 중 미국 식품의약국(FDA)에 임상시험계획(IND)을 신청할 계획이다.&lt;br /&gt;&lt;br /&gt;한미약품 관계자는 “한미의 올해 AACR 발표는 혁신과 확장, 새로운 모달리티라는 키워드로 설명할 수 있다”며 “기존 R&amp;D 과제를 더욱 고도화하면서 새로운 혁신 프로그램을 지속적으로 발굴해 나가겠다”고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 hjhee@newsis.com
-      </content:encoded>
-    </item>
-    <item>
-      <title>세종이삭청소년의원 양준혁 원장, 대전을지대병원에 기금</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255269</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255269</guid>
-      <pubDate>2023-04-05T16:52:34.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235093_web.jpg?rnd=20230405152801&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235093_web.jpg?rnd=20230405152801&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[대전=뉴시스]김도현 기자 = 대전 을지대병원은 세종이삭소아청소년과의원 양준혁 대표원장으로부터 발전기금 500만원을 전달받았다고 5일 밝혔다.&lt;br /&gt;&lt;br /&gt;양 대표원장은 전북대 의대를 졸업해 같은 대학원 박사과정을 수료한 뒤 순창의료원 소아과장, 대전 한국병원 소아청소년과장 등을 역임했다.&lt;br /&gt;&lt;br /&gt;이후 지난 2014년 세종시 나성동에 세종이삭소아청소년과의원을 개원했다.&lt;br /&gt;&lt;br /&gt;양 대표원장은 “지역사회에서 오랫동안 좋은 의료기관 협력 모델로 함께 해주셔서 감사하다”라며 “앞으로도 지속적으로 상생 가능한 의료 협력 전달체계를 이어가기를 소망한다”라고 말했다.&lt;br /&gt;&lt;br /&gt;김하용 원장은 “뜻깊은 기부에 진심으로 감사하다”라며 “앞으로도 지역과 화합하고 지역 발전에 이바지하는 의료기관이 되고자 더욱더 노력하겠다”라고 밝혔다.&lt;br /&gt;
-        ◎공감언론 뉴시스 kdh1917@newsis.com
-      </content:encoded>
-    </item>
-    <item>
       <title>델 테크놀로지스, 2023 기업용 신제품 공개... &quot;국내 PC 시장 3위 목표&quot;</title>
       <link>https://www.donga.com/news/It/article/all/20230405/118698905/1</link>
       <guid>https://www.donga.com/news/It/article/all/20230405/118698905/1</guid>
       <pubDate>2023-04-05T16:59:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118698882.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;IT 시장분석 및 컨설팅 기관 한국 IDC가 발표한 2022년 국내 PC시장 연구분석에 따르면, 2022년 국내 PC 시장 출하량은 578만 대로 21년 대비 4.7% 감소했다. 2018년 이후 4년 만에 역성장한 수치다. 한국 IDC는 코로나 19 기간 동안 PC 시장 성장을 견인한 온라인 수업과 재택근무에 따른 수요가 약해지고, 경기 불확실성에 따라 소비 심리가 위축하며 PC 수요가 줄어든 것으로 보고 있다. 특히 22년 4분기는 소비자 지출 및 기업 투자 감소, 재고량 증가 등이 겹치며 출하량이 전년 대비 -29.7% 급감한 92만 대에 그쳤다.  시장 상황은 어려우나, 비관적인 상황은 아니다. 22년 4분기에 PC 출하량이 급락하긴 했지만, 2025년에 윈도우 10 서비스가 종료될 예정이라 24년부터 서서히 PC 수요가 늘어날 것이고, 마이크로소프트 및 구글 플랫폼이 교육 및 기업 시장에서 두각을 드러내면서 수요처는 다변화될 예정이다. IDC는 2023년부터 27년까지 전 세계 개인용 컴퓨팅 장치</content:encoded>
-    </item>
-    <item>
-      <title>&amp;#039;OTT 천적&amp;#039; 누누티비와의 전쟁 선언한 정부…매일 접속주소 차단</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255170</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255170</guid>
-      <pubDate>2023-04-05T17:10:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/03/31/NISI20230331_0001231233_web.jpg?rnd=20230331133612&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/03/31/NISI20230331_0001231233_web.jpg?rnd=20230331133612&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스] 심지혜 기자 = 정부가 불법 동영상 스트리밍 사이트 ‘누누티비’ 단속을 크게 강화한다. 누누티비가 무단으로 게재한 한국 온라인동영상서비스(OTT)를 전부 삭제하겠다고 했지만 이를 제대로 이행하지 않자 매일 사이트주소(URL)를 차단하기로 했다.&lt;br /&gt;&lt;br /&gt;5일 과학기술정보통신부에 따르면 KT, SK브로드밴드, LG유플러스 등 인터넷회선사업자(ISP)는 누누티비 URL 차단 횟수를 주 2회에서 하루 한 번으로 변경한다. 누누티비는 도미니카공화국 등 해외에 서버를 두고 2021년부터 국내 OTT 드라마·영화뿐만 아니라 지상파·종편·케이블방송 주요 프로그램, 영화까지 무료로 제공하고 있다. &lt;br /&gt;&lt;br /&gt;과기정통부는 OTT의 요청 따라 지난해 12월부터 URL 차단을 진행해 왔다. 방송·영화·OTT 분야 기관·사업자로 구성된 영상저작권보호협의체 등으로부터 공문을 받으면 이를 토대로 ISP에 협조를 요청하는 방식이다. &lt;br /&gt;&lt;br /&gt;누누티비는 지난달 23일 공지사항을 통해 &amp;quot;국내 OTT 관련된 모든 동영상을 일괄 삭제하겠다&amp;quot;다고 약속했지만, 실제로는 전부가 아닌 일부만 손을 댔다. 이로 인해 OTT 사업자들의 우려가 커졌고, 이에 공감한 과기정통부가 차단 횟수를 늘리기로 한 것이다. 누누티비의 불법이 계속되면서 부산경찰청 사이버범죄수사대도 수사를 진행하고 있다. &lt;br /&gt;&lt;br /&gt;과기정통부 관계자는 “누누티비가 국내 OTT 콘텐츠를 내리겠다고 했음에도 일부만 삭제한 상황”이라며 “보다 적극적으로 나설 필요성이 있다고 판단해 차단 횟수를 늘렸다”고 설명했다. &lt;br /&gt;&lt;br /&gt;이어 “현재 문화체육관광부, 방송통신심의위원회가 태스크포스(TF)를 구성해 불법 사이트 문제에 대응하고 있는 상황으로 여기에도 적극 협조할 계획”이라고 덧붙였다 .&lt;br /&gt;
-        ◎공감언론 뉴시스 siming@newsis.com
-      </content:encoded>
     </item>
     <item>
       <title>“눈이 이상해” 14개월 딸 사진 본 엄마, 곧장 병원 데려간 이유</title>
@@ -1329,16 +1036,6 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118699426.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;SK텔레콤은 세계 최초로 각기 다른 제조사의 통신 장비로 구성된 양자암호통신망을 하나의 통합망으로 가상화해 양자키를 제공하는 자동 제어·운용 기술을 개발했다고 5일 밝혔다.  양자암호통신은 빛 알갱이 입자인 ‘광자’를 이용해 암호화된 데이터를 전송하는 기술로 송수신자만 암호를 해독할 수 있다. 지금까지는 제조사나 통신사, 국가가 다를 경우 양자암호통신망의 연결이 불가능했다.  SKT는 자체 개발한 최적 경로 알고리즘을 적용, 양자암호통신 가상망에서 다양한 경로를 계산해 양자키를 자동으로 암호화 장치들에 제공할 수 있도록 했다. SKT는 이 기술을 국가 시험망인 ‘코렌(KOREN)’에서 실증을 완료했다고 밝혔다.  앞서 SKT는 양자암호통신망 통합을 위한 표준을 마련하기 위해 유럽전기통신표준화기구(ETSI)에 두 개의 표준화 과제를 제안했고 지난 3월 ETSI 산하 ‘산업표준그룹(ISG) QKD’에서 표준화 과제로 채택됐다.  이 과제가 글로벌 표준으로 승인될 경우 각 사업자가 개별로 구축한 양자암호통신망</content:encoded>
     </item>
     <item>
-      <title>엔씨, 카겜에 저작권 소송 &amp;quot;아키에이지워가 리니지2M 베꼈다&amp;quot;</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255532</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255532</guid>
-      <pubDate>2023-04-05T17:29:44.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235258_web.jpg?rnd=20230405171549&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235258_web.jpg?rnd=20230405171549&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;【서울=뉴시스】송혜리 기자 = 엔씨소프트가 서울중앙지방법원에 카카오게임즈와 엑스엘게임즈를 상대로 저작권 침해 및 부정경쟁행위에 대한 소장(민사)을 접수했다고 5일 밝혔다. &lt;br /&gt;&lt;br /&gt;엔씨는 카카오게임즈와 엑스엘게임즈가 지난달 21일 출시한 &amp;#039;아키에이지 워&amp;#039;에서 자사의 대표작인 &amp;#039;리니지2M&amp;#039;의 콘텐츠와 시스템을 다수 모방한 사실을 확인했다고 주장했다. &lt;br /&gt;&lt;br /&gt;엔씨는 &amp;#039;아키에이지 워&amp;#039;가 장르적 유사성을 벗어나 엔씨의 지식재산권(IP)을 무단 도용하고 표절한 것으로 판단했다고 부연했다. &lt;br /&gt;&lt;br /&gt;엔씨는 &amp;quot;다수의 언론 보도와 게임 이용자, 게임 인플루언서들이 문제의 심각성을 지적하고 있다&amp;quot;면서 &amp;quot;사내외 전문가들의 분석과 논의를 거쳐 당사의 지식재산권(IP) 보호를 위한 소송을 결정했다&amp;quot;고 전했다. &lt;br /&gt;&lt;br /&gt;아울러 &amp;quot;IP는 장기간의 연구개발(R&amp;D)을 통해 만들어낸 결과물로, 마땅히 보호받아야 하는 기업의 핵심 자산&amp;quot;이라며 &amp;quot;이번 법적 대응은 엔씨의 IP 보호뿐 아니라 대한민국 게임산업의 경쟁력 강화와 게임 콘텐츠 저작권 기준의 명확한 정립을 위해 필요한 조치&amp;quot;라고 강조했다. &lt;br /&gt;&lt;br /&gt;이어 &amp;quot;본 사안에 대한 두 회사의 책임 있는 자세와 입장을 기대한다&amp;quot;며 &amp;quot;아키에이지워가 리니지2M의 UI 및 디자인 등의 콘텐츠를 표절했다. 구체적인 저작권 침해 내용은 추후 공식 발표할 예정&amp;quot;이라고 덧붙였다.&lt;br /&gt;&lt;br /&gt;카카오게임즈는 &amp;quot;소장을 확인한 후 회사의 공식 입장을 밝힐 예정&amp;quot;이라고 전했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 chewoo@newsis.com
-      </content:encoded>
-    </item>
-    <item>
       <title>“제발 이것 꼭 바르라”…‘피부암 투병’ 휴 잭맨의 당부</title>
       <link>https://www.donga.com/news/It/article/all/20230405/118699964/2</link>
       <guid>https://www.donga.com/news/It/article/all/20230405/118699964/2</guid>
@@ -1346,31 +1043,11 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118699930.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;여러 차례 피부암 수술을 받았던 배우 휴 잭맨(55)이 최근에도 피부암이 의심돼 조직 검사를 받았다고 밝혔다. 그러면서 피부암 예방을 위해 자외선 차단제를 바를 것을 당부했다.  휴 잭맨은 3일(현지시간) 자신의 인스타그램에 영상을 올려 “최근 피부암이 의심돼 두 차례 검사를 받았다”고 말했다. 이어 “2~3일 후면 결과를 알 수 있다. 결과가 나오는 대로 알리겠다”고 했다. 영상 속 휴 잭맨은 코에 붕대를 감고 있는 모습이다.  휴 잭맨은 2013년 처음 피부암의 일종인 기저세포암을 진단받았다고 고백했다. 당시 코끝 피부에 문제가 생기자 아내의 충고로 병원을 찾았다가 기저세포암을 발견했다. 다행히 다른 부위로 전이되기 전 수술받았다.  이후에도 피부암이 재발해 적어도 여섯 차례 수술받았던 그는 자외선 차단제의 중요성을 강조했다. 휴 잭맨은 이날 영상에서 “이 기회를 빌려 여러분께 자외선 차단제를 바르라는 말을 하고 싶다. 아무리 태닝을 하고 싶어도 그럴 가치가 없다. 저를 믿고 자외선 차단제를 바르라”</content:encoded>
     </item>
     <item>
-      <title>조승래 의원, 유럽전자통신규제기구 대표단 면담…인터넷 연결 논의</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255496</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255496</guid>
-      <pubDate>2023-04-05T17:42:12.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235243_web.jpg?rnd=20230405170222&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235243_web.jpg?rnd=20230405170222&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스] 심지혜 기자 = 국회 과학기술정보방송통신위원회 조승래 더불어민주당 의원은 국회에서 과방위원들과 함께 유럽전자통신규제기구(BEREC) 대표단과 만나 인터넷 연결 관련 법안 및 현안에 대한 의견을 교환했다고 5일 밝혔다. &lt;br /&gt;&lt;br /&gt;BEREC은 유럽연합(EU) 회원국의 전기통신규제기관들이 디지털 시장의 독립적이고 일관성 있는 규제를 촉진하기 위해 EU 집행위 내에 설치한 독립 자문기구다.&lt;br /&gt;&lt;br /&gt;콘스탄티노스 마셀로스 BEREC 의장, 톤코 오불젠 BEREC 차기 의장 등 대표단 9명이 면담에 참석했다. 과방위에서는 더불어민주당 정필모·이정문 의원이 참석했다. &lt;br /&gt;&lt;br /&gt;조 의원은 지난 2월 모바일월드콩그레스(MWC) 참관차 방문한 스페인 바르셀로나에서도 마셀로스 의장을 만났다. 당시 마셀로스 의장이 BEREC 대표단 방한 시 국회 과방위원들과의 만남을 제안한 데 따라 이날 면담이 이뤄졌다&lt;br /&gt;&lt;br /&gt;조 의원은 &amp;quot;통신과 인터넷 정책은 국경을 뛰어넘는 주제로, 글로벌 빅테크들의 영향력이 커지는 지금 국제 협력은 그 어느 때보다 중요한 의미를 갖는다&amp;quot;며 &amp;quot;5G 확대, 망 이용대가 등 현안에 대해 다양한 국제기구와의 협력을 이어갈 것&amp;quot;이라고 강조했다. &lt;br /&gt;&lt;br /&gt;조 의원은 BEREC은 준비 중인 망 이용대가와 관련해 조사 결과가 나오는 5월에 다시 한 번 면담을 갖는다는 계획이다.&lt;br /&gt;
-        ◎공감언론 뉴시스 siming@newsis.com
-      </content:encoded>
-    </item>
-    <item>
       <title>제주, 요란한 봄비 그쳐…한라산 하루만에 453㎜ ‘콸콸’</title>
       <link>https://www.donga.com/news/Society/article/all/20230405/118700384/1</link>
       <guid>https://www.donga.com/news/Society/article/all/20230405/118700384/1</guid>
       <pubDate>2023-04-05T18:03:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118700360.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;제주에 강풍을 동반한 많은 비가 내린 가운데, 한라산에는 하루 사이 400㎜ 넘는 비가 내린 것으로 나타났다.  5일 제주지방기상청에 따르면 전날부터 이날 오후 3시까지 한라산 삼각봉에는 453㎜에 달하는 비가 쏟아졌다. 영실에선 420㎜의 강수량이 기록했다.  같은 시간 주요 지점 누적 강수량을 보면 ▲북부중산간(새별오름)197㎜ ▲남부중산간(태풍센터) 252㎜ ▲남부 서귀포 135.3㎜, 강정 154㎜, ▲동부 성산 112.4㎜, 표선 141.5㎜ ▲서부 고산 64.4㎜, 한림 104.5㎜이다.  기상청은 날씨가 호전되기 시작하자 이날 오후 2시를 기해 제주에 내려진 강풍 및 호우특보를 모두 해제했다. 해상에서는 풍랑주의보가 발효 중이다.  이날 항공사들은 악천후를 예상해 오전 운항 일정을 대부분 취소했으나 오후들어 기상이 나아지자 속속들이 운항을 재개했다. 출·도착 항공기 각 13편을 증편해 임시운항에 나서고 있다.  이날 악천후로 인해 제주국제공항을 오가는 항공편 476편 중 216편(출·도착 각</content:encoded>
-    </item>
-    <item>
-      <title>식약처 “챔프시럽 갈변 원인 조사중…관리는 문제 없어”</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255667</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255667</guid>
-      <pubDate>2023-04-05T19:46:05.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001234728_web.jpg?rnd=20230405105408&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001234728_web.jpg?rnd=20230405105408&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;[서울=뉴시스]황재희 기자 = 식품의약품안전처가 동아제약 어린이 해열제 ‘챔프’ 갈변현상에 대해 원인을 조사 중이다.&lt;br /&gt;&lt;br /&gt;식약처는 유통과정 중 갈변으로 인한 동아제약 어린이 시럽제 자진회수와 관련해 발생 원인을 조사 중이라고 5일 밝혔다.&lt;br /&gt;&lt;br /&gt;식약처 관계자는 “동아제약은 해당 제품에 함유된 당성분이 유통과정 중 열에 의해 갈색으로 변한 것으로 추정하고 있다&amp;quot;며 “식약처는 관련 정보를 입수한 즉시 해당 공장 실태조사를 포함해 발생 원인을 조사 중이며, 신속하게 조사를 마무리하고 그 결과를 알릴 예정”이라고 말했다.&lt;br /&gt;&lt;br /&gt;이어 “식약처 조사 결과, 업체 제조 및 품질관리에는 문제가 발견되지 않았다”고 했다. &lt;br /&gt;&lt;br /&gt;한편 동아제약은 이날 챔프 일부 제품에서 갈변현상이 발견돼 소비자 불편을 최소화하기 위해 자진회수에 나선다고 발표했다. &lt;br /&gt;&lt;br /&gt;대상 품목은 아세트아미노펜 성분의 챔프시럽 일부 제품이다. 이부프로펜성분인 챔프이부펜을 비롯한 챔프 노즈, 챔프 코프, 챔프 콜드 등에서는 갈변현상이 발견되지 않았다.&lt;br /&gt;&lt;br /&gt;회수되는 제품 제조번호는 2209031~2209040, 2210041~2210046이다.&lt;br /&gt;
-        ◎공감언론 뉴시스 hjhee@newsis.com
-      </content:encoded>
     </item>
     <item>
       <title>[리뷰] AMD 라이젠 7 7800X3D 써보니··· &apos;게이밍에선 16코어 CPU도 넘어서&apos;</title>
@@ -1415,98 +1092,11 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118704073.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정보기술(IT) 및 인공지능(AI) 기술이 발달하면서 디지털 헬스케어 산업이 국내에서 기지개를 켜고 있다. 기존 의료시장을 디지털화하는 스타트업이 약진하는 가운데, 대기업들도 디지털 헬스케어 영역을 기존 산업에 결합시키거나 신성장동력으로 삼고 있다.  최근 산업통상자원부와 한국디지털헬스산업협회가 발표한 조사 결과에 따르면 글로벌 디지털 헬스케어 산업은 2014년부터 2020년까지 6년 동안 연평균 39% 성장한 가운데 2027년까지 연평균 18.8%의 성장세를 이어 나갈 것으로 전망된다.  국내 디지털 헬스케어 스타트업 중 주목받은 기업들은 대개 AI를 활용하는 기업이었다. 수술 AI 플랫폼 스타트업 ‘휴톰’이 지난해 1월 170억 원 규모의 시리즈B 투자를 유치한 데 이어, 투자 시장에 한파가 찾아온 뒤인 지난해 11월에는 AI 기반 디지털 치과 솔루션 스타트업 ‘이마고웍스’가 100억 원 규모의 시리즈B 투자를 유치했다. 지난해 7월 상장한 의료 AI 기업 ‘루닛’의 AI 영상진</content:encoded>
     </item>
     <item>
-      <title>해외서도 &amp;#039;카톡 선물하기&amp;#039; 된다…해외카드 결제 기능도 추가</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255229</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255229</guid>
-      <pubDate>2023-04-06T06:00:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235073_web.jpg?rnd=20230405151815&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235073_web.jpg?rnd=20230405151815&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]윤현성 기자 = 해외에서도 &amp;#039;카카오톡 선물하기&amp;#039;로 국내 카카오톡 친구들에게 선물을 보낼 수 있게 됐다.&lt;br /&gt; &lt;br /&gt;카카오의 커머스CIC는 미국∙일본 지역 해외 전화번호 이용자들에 카카오톡 선물하기를 오픈하고, 베타 버전의 해외카드 결제 기능을 도입했다고 6일 밝혔다. 이를 통해 카카오톡 해외 이용자들의 쇼핑 편의성이 크게 높아질 전망이다.&lt;br /&gt; &lt;br /&gt;커머스CIC에 따르면 미국과 일본 지역에서 해외 전화번호로 카카오톡을 이용하는 유저들도 &amp;#039;더보기&amp;#039; 탭에서 카카오톡 선물하기를 이용할 수 있게 됐다. 해외에서도 선물하기를 통해 국내 카카오톡 친구들에게 선물하고자 하는 이용자들의 니즈를 고려했다는 설명이다.&lt;br /&gt; &lt;br /&gt;결제 옵션에 &amp;#039;해외카드 결제&amp;#039; 기능도 추가됐다. 해외에서 발급된 신용카드 사용 시 국내 번호 인증 절차 없이 카드사 인증만으로 바로 결제가 가능하다. 이를 통해 이용자들은 카카오톡 친구에게 뷰티 제품, 식품 등 다양한 상품을 선물할 수 있다. 커머스CIC는 향후 모바일 교환권 등 선물 가능 상품을 늘려 나갈 계획이다.&lt;br /&gt; &lt;br /&gt;해당 기능은 카카오톡 이용자가 많은 미국과 일본 지역에 우선적으로 오픈됐으며, 적용 국가를 점차 확대해 이용자 편의성을 높일 예정이다.&lt;br /&gt; &lt;br /&gt;아울러 커머스CIC는 미국·일본에 거주하는 이용자들을 대상으로 &amp;#039;선물특파원&amp;#039;을 모집하고 있다. 해외 카드 결제 기능을 활용해 한국에 있는 가족·친구·연인에게 선물한 후기를 SNS에 공유하면 소정의 활동비를 받을 수 있다. 오는 9일까지 카카오톡 선물하기 공식 인스타그램 계정에서 지원하면 된다.&lt;br /&gt; &lt;br /&gt;커머스CIC 관계자는 &amp;quot;이번 기능 오픈으로 해외에서도 카카오톡 선물하기를 통해 국내 카카오톡 친구들에 간편하게 선물을 전달할 수 있게 됐다&amp;quot;며 &amp;quot;앞으로도 국내외 이용자들의 카카오톡 이용 편의성을 높일 수 있는 다양한 기능을 고민하고 적용할 계획&amp;quot;이라고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 hsyhs@newsis.com
-      </content:encoded>
-    </item>
-    <item>
-      <title>방통위, 상임위원 5명 중 2명 퇴임…후임 인선은 안갯속</title>
-      <link>http://www.newsis.com/view?id=NISX20230404_0002253719</link>
-      <guid>http://www.newsis.com/view?id=NISX20230404_0002253719</guid>
-      <pubDate>2023-04-06T06:00:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/03/21/NISI20230321_0019828991_web.jpg?rnd=20230321113002&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/03/21/NISI20230321_0019828991_web.jpg?rnd=20230321113002&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스] 심지혜 기자 = 방송통신위원회가 임기 만료 상임위원 2인의 퇴임에도 후임 인선이 진전을 보이지 못하고 있다. 국회 추천 자리를 두고 여야가 서로 자당 몫이라고 주장하고 있는 데다, 대통령 몫은 추천이 이뤄지지 않고 있어 당분간 공석이 유지될 전망이다. &lt;br /&gt;&lt;br /&gt;이에 더해 앞선 TV조선 재승인 의혹과 관련해 방통위에 대한 검찰 수사와 국·과장 구속, 한상혁 위원장을 상대로 한 기소 가능성 등이 제기되면서 사실상 정상적 운영이 어려울 것이란 우려 나온다. &lt;br /&gt;&lt;br /&gt;6일 방통위에 따르면 전날 김창룡 상임위원의 임기가 만료된다. 이미 앞서 지난달 30일에는 안형환 부위원장의 임기가 끝났다. &lt;br /&gt;&lt;br /&gt;방통위는 합의제 기구로 5인의 상임위원 회의를 통해 의사를 결정한다. 방통위 설치법에는 &amp;#039;위원회 회의는 2인 이상 위원의 요구가 있을 때 위원장이 소집하고, 재적 위원 과반수의 찬성으로 의결한다&amp;#039;고 규정하고 있다. 최소 3명 이상의 위원이 있어야 의결이 되는 구조다. &lt;br /&gt;&lt;br /&gt;안형환·김창룡 위원의 임기 만료로 한상혁 위원장과 김효재·김현 위원만 남게 됐다. 남은 위원들의 임기는 한 위원장이 7월 31일, 김효재·김현 상임위원이 8월 23일까지다. &lt;br /&gt;&lt;br /&gt;현재 후임 인선과 관련해서는 여야가 의견 충돌을 일으키면서 향후를 예단하기 어려운 상황이다. &lt;br /&gt;&lt;br /&gt;방통위 설치법에 따르면 상임위원 5인 중 위원장을 포함한 2인은 대통령이 지명하고 3인은 국회의 추천을 받는다. 국회는 위원을 추천할 때 대통령이 소속되거나 소속됐던 정당의 교섭단체가 1인을 추천하고 그 외 교섭단체가 2인을 추천하면 된다. 다만 구체적으로 어느 당에서 추천해야 한다고 명시돼 있지 않다.&lt;br /&gt;&lt;br /&gt;현재 더불어민주당은 안형환 전 상임위원의 후임으로 최민희 전 의원을 추천, 지난달 30일 본회의 의결까지 마쳤으나 단독 가결한 것을 두고 여당의 반발을 사고 있다. &lt;br /&gt;&lt;br /&gt;이날 추천안 통과 이후 김기현 국민의힘 대표는 &amp;quot;방송의 정치 편향성을 가장 앞장서 부추긴 사람을 방통위원으로 추천하는 건 말도 안 된다“며 ”원래 우리 당이 추천했던 몫&amp;quot;이라고 지적했다. &lt;br /&gt;&lt;br /&gt;안 부위원장은 국민의힘이 야당 시절 추천한 인사다. 국회에서 후임을 추천하면 되는데, 현재 여당인 국민의힘이 해야 하는지, 야당인 민주당이 해야 하는지는 정해지지 않았다. 민주당은 야당이 추천한 인사인 만큼 야당 추천 몫이라며 최 전 의원을 후임으로 추천했다.&lt;br /&gt;&lt;br /&gt;한상혁 위원장과 김창룡 위원은 대통령이, 김현 위원은 당시 여당인 더불어민주당이 지명했다. 안 부위원장과 김효재 위원은 야당인 미래통합당이 지명했다. &lt;br /&gt;&lt;br /&gt;현재는 여야가 뒤바뀐 상황이라 각자 유리한 시선으로 추천권을 해석하는 상황이다. 최 전 의원이 후임으로 오면 방통위 내 여야 비율은 2대 3에서 1대 4로 바뀐다. &lt;br /&gt;&lt;br /&gt;상황이 이렇자 국회 과학기술정보방송통신위원회 소속 여당 간사인 박성중 국민의힘 의원은 성명을 내고 안 부위원장 후임을 민주당이 추천하는 게 맞지 않다고 지적했다. &lt;br /&gt;&lt;br /&gt;박 의원은 “실제로 여야가 바뀔 때 민주당이 추천했던 위원이 여에서 야가 됐는데도 민주당이 추천한 사례가 있다”며 “국민의힘도 2016년 여당 자유한국당 시절 추천한 방통위원이 야당이 돼서도 여전히 우리당이 바톤을 이어받아 추천을 한 사례가 명백하게 있다”고 강조했다. &lt;br /&gt;&lt;br /&gt;이에 대해 과방위 소속 야당 간사인 조승래 더불어민주당 의원은 “야당 시절 야당의 몫으로 추천했던 상임위원의 후임 자리를 두고 또 본인들이 추천하겠다고 우기고 있다”고 반박했다. &lt;br /&gt;&lt;br /&gt;그는 “일시적으로 1대4 구조가 될 수 있겠지만 대통령 추천 상임위원 임기가 끝나 윤석열 대통령이 후임을 추천하게 된다”며 “2017년 당시 야당(민주당) 추천이었던 상임위원의 후임은 야당(국민의힘)에서 추천했다”고 했다. &lt;br /&gt;&lt;br /&gt;양측의 주장이 맞서는 가운데 민주당이 추천한 최민희 전 의원에 대한 대통령 재가는 진행되지 않고 있다. 이뿐 아니라 이날 퇴임한 김창룡 상임위원 후임도 대통령이 지명해야 하지만 인선에 대한 발표도 아직 이뤄지지 않았다. &lt;br /&gt;&lt;br /&gt;이에 따라 방통위는 당분간 3인 체제가 지속될 것으로 예상된다. 의사 결정 정족수는 충족해도 중요 안건에 대한 의결은 다소 부담스러운 구조다. 또 앞서 한 위원장에 대한 검찰의 구속 영장 청구는 기각됐지만 수사가 이어질 가능성도 있어 위원회 운영의 불안정성은 계속될 전망이다. &lt;br /&gt;&lt;br /&gt;상황이 이렇자 일각에선 5기 방통위 임기 종료 후 6기 방통위 체제가 들어서야 운영의 정상화가 가능할 것이란 시각도 제기된다. &lt;br /&gt;&lt;br /&gt;한편, 이날 퇴임한 김 상임위원은 &amp;quot;공직자로서 어떻게 하면 공정함을 유지하고 국민들에게 방통위의 신뢰감과 위상을 높일 수 있을까 고민하고 나름 노력했다&amp;quot;고 말했다.&lt;br /&gt;&lt;br /&gt;퇴임 이후 계획에 대해서는 &amp;quot;공직자로서 침묵을 많이 지켰는데 이제 자유로운 몸이 되는 만큼 여기에서 경험하고 배운 여러가지 내용을 바탕으로 기회가 된다면 입법·사법·행정이 어떻게 이뤄져야 하는지 전공을 살려 평론을 하거나 학교 등에서 전하고 싶다&amp;quot;고 설명했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 siming@newsis.com
-      </content:encoded>
-    </item>
-    <item>
-      <title>누리호·다누리 영광 어디로…우주항공청 놓고 與野 충돌 조짐</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255602</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255602</guid>
-      <pubDate>2023-04-06T06:00:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2022/06/21/NISI20220621_0018941530_web.jpg?rnd=20220621191751&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2022/06/21/NISI20220621_0018941530_web.jpg?rnd=20220621191751&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스]윤현성 기자 = 이른바 &amp;#039;한국판 나사(미 항공우주국)&amp;#039;로 탄생할 우주항공 전담기구 설립을 두고 여야 충돌이 가시화되고 있다. 정부 여당을 주축으로 마련된 &amp;#039;우주항공청 특별법&amp;#039;이 국무회의에서 통과된 직후 야당 의원들이 &amp;#039;우주전략본부 설치법&amp;#039; 발의로 맞불을 놨다. &lt;br /&gt;&lt;br /&gt;한국판 나사의 설립 논의를 위한 &amp;#039;국회의 시간&amp;#039;이 찾아온 가운데 조직 형태, 입지, 운영 방안 등을 놓고 여야 간 격론이 예상된다.&lt;br /&gt;&lt;br /&gt;6일 정치권에 따르면 국회 과학기술정보방송통신위원회 간사를 맡고 있는 조승래 더불어민주당 의원은 전날 우주전략본부 설치법(우주개발진흥법 개정안)을 대표 발의했다. 조 의원과 함께 민주당 의원 21명도 해당 법안 발의에 동참했다.&lt;br /&gt;&lt;br /&gt;우주전략본부 설치법의 핵심은 국가우주위원회 위원장을 대통령으로 격상하고, 우주항공 전담 기구를 국가우주위 산하 장관급 본부로 설치한다는 것이다. 국가우주위에 기구를 설치함으로써 국가우주위의 역할이 우주 정책 심의·의결하는 데 그치지 않고 범부처 업무를 실질적으로 조정할 수 있도록 한다는 목표다. &lt;br /&gt;&lt;br /&gt;또한 우주전략본부장의 조정 권한도 명시해 관계 기관에 자료 제출을 요구할 수 있고, 본부에 공무원 외에 우주 분야 전문지식과 경험이 풍부한 민간인도 자율적으로 임명할 수 있도록 했다. 우주전략본부장이 기존에 과학기술정보통신부 장관이 맡았던 국가우주위 부위원장까지 맡는다는 내용도 담겼다.&lt;br /&gt;&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/04/NISI20230404_0019843891_web.jpg?rnd=20230404105309&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/04/NISI20230404_0019843891_web.jpg?rnd=20230404105309&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;눈에 띄는 점은 지난 3월2일 과기정통부가 입법 예고한 우주항공청 특별법이 국무회의에서 통과된 지 하루 만에 상반되는 법안이 야당에서 발의됐다는 것이다. &lt;br /&gt;&lt;br /&gt;정부가 마련한 우주항공청 특별법에는 우주항공분야의 정책과 연구개발, 산업육성 등을 총괄하는 중앙행정기관으로 우주항공청을 설치하고, 연구개발을 수행하는 전문적이고 유연한 조직으로 운영하기 위한 원칙과 기능, 특례 등이 담겼다. &lt;br /&gt;&lt;br /&gt;전날 국무회의에서 통과된 법안의 경우 일부 세부 사항만 보완되고 지난달 입법예고됐던 원안을 대부분 그대로 유지했다. 우주항공청을 과기정통부 산하 외청 형태로 설치하고, 관계 부처가 개별적으로 수행하던 우주항공 관련 기능을 모두 일원화한다는 내용이다.&lt;br /&gt;&lt;br /&gt;특히 우주항공청장의 권한을 강화해 &amp;#039;과&amp;#039; 단위 프로젝트성 조직의 유연한 구성·해체를 허용하고, 우수 인재 유인을 위해 민간 전문가의 임기제 공무원 임용 제한 해제, 외부 전문가 대상 스카우트 방식 채용 허용, 주식백지신탁 예외 적용 등 특례까지 그대로 적용될 전망이다.&lt;br /&gt;&lt;br /&gt;또한 일각에서 제기되는 과기정통부 외청 형태 조직의 위상·권한 문제에 대해서는 우주항공청장이 국가우주위 간사를 맡도록 해 우주항공과 관련해 실질적으로 모든 부처를 총괄할 수 있을 것이라는 게 정부의 입장이다. &lt;br /&gt;&lt;br /&gt;정부 법안과 야당 법안의 내용이 국가우주위원장의 대통령 격상안 외에는 완전히 다른 만큼 국회 논의 과정에서 상당한 진통이 예상된다. 조직 형태 외에 입지에 대한 갈등도 나타날 수 있다. 정부 여당에서는 국정과제에 따라 사천 설치를 고려하고 있으나, 야당에서는 기존 우주항공 출연연 및 정부기관과의 연결성을 고려하면 대전이 더 적합하다며 맞서고 있다.&lt;br /&gt;&lt;br /&gt;정부는 우주항공청 특별법을 국회에서 조속히 통과시키고 우주항공청의 연내 개청을 착수한다는 방침이다. 하지만 과반 의석의 야당이 대체 입법안까지 발의하며 반대 입장을 분명히 한 만큼 신속한 법안 처리가 어려울 가능성이 크다.&lt;br /&gt;&lt;br /&gt;이처럼 우주항공 전담조직 설치를 두고 국회에서 여야의 대치가 예상되는 가운데 주무부처인 과기정통부는 갈등 양상에 대해 우려를 표하고 있다. 정치적 대립으로 우주항공 전담조직 개청이 늦어질 수록 글로벌 경쟁에서 뒤처질 것이라는 이유에서다.&lt;br /&gt;&lt;br /&gt;과기정통부 고위 관계자는 &amp;quot;우주항공청이든 우주전략본부든 똑같이 우주가 중요하니 대통령이 강하게 드라이브를 걸어야 한다는 데 초점을 두고 있다. 우주항공전담 체계를 갖추자는 게 가장 근본적 과제&amp;quot;라며 &amp;quot;설치가 늦으면 늦어질수록 국익 측면에서 득보다 실이 많을 것&amp;quot;이라고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 hsyhs@newsis.com
-      </content:encoded>
-    </item>
-    <item>
-      <title>&amp;#039;한의사 초음파 사용&amp;#039; 파기환송심 첫 재판…의료계 &amp;#039;촉각&amp;#039;</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255343</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255343</guid>
-      <pubDate>2023-04-06T06:30:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2022/12/22/NISI20221222_0001160020_web.jpg?rnd=20221222164308&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2022/12/22/NISI20221222_0001160020_web.jpg?rnd=20221222164308&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스] 백영미 기자 = &amp;#039;초음파 진단 기기&amp;#039;를 환자 진료에 사용해 의료법 위반 혐의로 재판에 넘겨진 한의사 A씨에 대한 파기환송심 첫 재판이 6일 열린다. 의료계는 대법원 전원합의체의 판결이 파기환송심에서 뒤집힐 지 여부에 대해 촉각을 곤두세우고 있다.&lt;br /&gt;&lt;br /&gt;의료계에 따르면 한의사의 초음파 진단기기 사용과 관련된 파기환송심 첫 재판이 이날 오전 11시 서울 서초구 서울중앙지방법원에서 열릴 예정이다. &lt;br /&gt;&lt;br /&gt;대한의사협회(의협)는 &amp;quot;대법원이 초음파 진단 기기를 한의학적 진단의 보조수단으로 사용하는 것을 보건위생상 위해가 생길 우려가 없다고 판단한 것은 명백한 오류인 만큼 파기환송심에서 재검토해야 한다&amp;quot;는 입장이다. 한의사의 초음파 진단 기기 사용이 환자에게 건강상 위해를 끼쳤음에도 불구하고 대법원 판결에 반영되지 않았다는 것이다.&lt;br /&gt;&lt;br /&gt;이필수 의협 회장은 지난 3일 &amp;quot;대법원의 판단은 보건위생상 중대한 위해를 가져올 우려가 매우 높아 대법원 판단의 기초가 된 사실관계가 잘못된 것은 아닌지 면밀히 살펴볼 필요가 크다&amp;quot;는 내용이 담긴 진정서를 서울중앙지방법원에 제출했다. &lt;br /&gt;&lt;br /&gt;이 회장은 &amp;quot;피고인인 한의사가 무려 68회에 걸쳐 초음파 진단기기를 사용해 진단했지만 자궁내막암 진단을 하지 못했고결국 피해자가 산부인과 병원에서 초음파 검사, 조직검사를 거쳐 자궁내막암 2기로 진단받았다&amp;quot;면서 &amp;quot;전문지식이 없는 사람이 초음파 검사를 하면 얼마나 중대한 보건위생상의 위해가 발생하는지 보여주는 단적인 사례&amp;quot;라고 주장했다. &lt;br /&gt;&lt;br /&gt;또 &amp;quot;대법원의 판단이 아무런 변동없이 그대로 판례 법리로 확립된다면 전문지식을 갖추지 못한 한의사들이 잘못된 방법으로 초음파 검사를 실시해 잘못된 진단을 할 가능성이 매우 커 보건위생상 중대한 위해로 이어질 것이 자명하다&amp;quot;면서 &amp;quot;재판과정에서 이를 신중하게 고려해 대법원 판단의 기초가 된 사실관계, 증거관계가 잘못된 것은 아닌지 면밀히 살펴달라&amp;quot;고 요청했다.&lt;br /&gt;&lt;br /&gt;그는 &amp;quot;대법원은 ‘2013년 이후 국내 한의과 대학(대학원 포함)에서 진단학, 영상의학 교육이 이뤄지고 있고, 한의사 국가시험에서도 관련 문제가 출제되는 등 한의사의 초음파 진단 기기 관련 의료행위의 전문성이 제고되고 있다’는 점을 주된 근거로 삼았다&amp;quot;면서 &amp;quot;하지만 피고인이 공소사실 행위 당시인 2010년 3월부터 2012년 6월께 초음파 진단 기기 관련 의료행위의 전문성을 제고할 수 있는 교육을 받지 않은 상태였다는 점을 간과했다&amp;quot;고 지적했다. &lt;br /&gt;&lt;br /&gt;이 회장은 파기환송심 첫 재판을 앞두고 대법원 앞에서 1인 시위를 하고 입장도 발표할 예정이다. &lt;br /&gt;&lt;br /&gt;반면 한의계는 한의사의 오진 가능성을 운운하며 판결을 폄훼·왜곡하는 것은 국민을 기만하는 것이라고 맞서고 있다. 대법원 판결의 핵심은 ‘한의사가 초음파 진단 기기를 사용한 것은 의료법 위반이 아닌, 합법적인 의료 행위’임을 명료하게 밝혔다는 데 있다는 이유다.&lt;br /&gt;&lt;br /&gt;한의사가 자궁내막암 환자 진단을 놓친 사건에 대해서는 &amp;quot;오진 사례는 양방과 한방 모두 있고, 개별 의사의 역량과 수준에 따라 다르다&amp;quot;는 입장이다. &lt;br /&gt;&lt;br /&gt;권선우 대한한의사협회(한의협) 의무이사는 &amp;quot;환자를 진료할 때 초음파 장비를 활용하는 것은 검진의 정확도를 높이기 위한 것으로, 검진의 정확도는 직역이 아닌 개인 역량의 문제&amp;quot;라면서 &amp;quot;검진의 정확도가 올라가면 그 혜택은 국민에게 돌아가게 된다&amp;quot;고 주장했다.&lt;br /&gt;&lt;br /&gt;또 대법원의 판결로 한의사의 초음파 기기 사용이 가능해졌지만, 한의사가 급여(건강보험 적용) 혹은 비급여의 형태로 수가(진료비)를 받을 수는 없는 상황이라고 밝히고 있다. 한의사의 초음파 기기 진단이 급여화되려면 건강보험 행위 급여목록에 등재가 되고 수가도 책정돼야 한다. 또 초음파 기기는 아직 건강보험 비급여 항목에도 등재 자체가 돼 있지 않다.&lt;br /&gt;&lt;br /&gt;파기환송 첫 재판을 앞두고 일각에선 사실관계가 뒤집히거나 새로운 증거가 제시되는 등 판단의 기초가 된 증거 관계에 변동이 생기지 않는 한 대법원의 판결이 파기환송심에서 뒤집히는 것은 쉽지 않을 것이라는 전망이 나온다. 파기환송심 첫 재판 당일 사건이 종결될 가능성도 제기되고 있다.&lt;br /&gt;&lt;br /&gt;대법원 전원합의체는 지난해 12월 의료법 위반 혐의로 재판에 넘겨진 한의사 A씨에 대한 상고심에서 벌금 80만 원을 선고한 원심을 깨고 사건을 서울중앙지법으로 돌려보냈다. 대법원은 &amp;quot;한의사가 초음파 진단 기기를 사용해 진료하는 것이 의료법 위반은 아니다&amp;quot;면서 &amp;quot;과학기술 발전과 사회적 제도·인식의 변화 등을 고려해야 하고, 한의사가 초음파 진단 기기를 한의학적 진단의 보조수단으로 사용한 행위는 의료법상 무면허 의료 행위에 해당하지 않는다”고 판단했다.&lt;br /&gt;&lt;br /&gt;대법원 전원합의체의 한의사 뇌파 측정 기기(뇌파계) 사용 합법 여부 판단도 조만간 나올 전망이여서 한의사 초음파 진단 기기 허용을 둘러싼 의료계 내부의 갈등이 심화될 것으로 보인다. 대법원은 지난 2016년 9월 접수된 한의사 A씨가 뇌신경 전문 한의원을 운영하면서 뇌파계를 파킨슨병·치매 진단에 활용한 사건에 대해 지난해 10월 전원합의기일 심리를 지정하고 논의 중이다.&lt;br /&gt;&lt;br /&gt;의료계 관계자는 &amp;quot;의사들이 대법원 앞 시위를 석 달 넘게 지속하고 있고 해외학회들은 뇌파계로는 파킨슨병이나 치매 같은 뇌질환을 진단할 수 없다거나, 활용하더라도 전문지식이 있는 숙련된 신경과 전문의만 가능하다는 견해를 밝혀 대법원이 한의사에게 마냥 유리한 판결을 내리기엔 부담을 느낄 것으로 보인다&amp;quot;고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 positive100@newsis.com
-      </content:encoded>
-    </item>
-    <item>
-      <title>&amp;#039;세액공제율 확대&amp;#039; K칩스법…바이오 업계는 떨떠름, 왜?</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255608</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255608</guid>
-      <pubDate>2023-04-06T07:01:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235296_web.jpg?rnd=20230405180508&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235296_web.jpg?rnd=20230405180508&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[서울=뉴시스]황재희 기자 = 국가전략기술 시설투자 세액공제율 확대 등을 담은 조세특례제한법(이하 조특법) 개정안이 통과됐으나 바이오업계가 크게 웃지 못하고 있다. 세액공제 범위가 지나치게 한정적이란 평가다. &lt;br /&gt;&lt;br /&gt;6일 제약바이오 업계에 따르면, 일명 ‘K칩스법’으로 불리는 조특법 개정안을 두고 환영보다는 아쉽다는 반응이 나오고 있다. &lt;br /&gt;&lt;br /&gt;국회는 지난달 30일 대기업과 중견기업은 현행 8%에서 15%로, 중소기업은 16%에서 25%로 세액공제율을 확대하고, 직전 3년간 연평균 투자 금액보다 늘어난 부분에 대해서는 올해에 한해 10% 추가 공제 혜택을 주도록 하는 등의 내용을 담은 조특법 개정안을 통과시켰다. 국가전략기술로는 반도체 말고도 이차전지와 백신, 디스플레이, 미래형 이동수단 등이 포함됐다. &lt;br /&gt;&lt;br /&gt;그러나 개정안에는 제조공장에 들어가는 설비만 세액공제가 적용되고, 토지나 건축물 등에는 적용되지 않아 아쉬움을 남겼다.&lt;br /&gt;&lt;br /&gt;법령 제24조(통합투자세액공제)에 따르면, 공제대상 자산에는 기계장치 등 사업용 유형자산이 포함되지만 대통령령으로 정하는 자산은 제외한다. 여기서 ‘대통령령으로 정하는 자산’이란 토지와 건축물 등 기획재정부령으로 정하는 자산을 말한다. 결국 세액공제 범위에 토지와 시설은 제외된 것이다. &lt;br /&gt; &lt;br /&gt;업계는 이미 어느 정도 자리를 잡은 반도체와 달리 백신 연구·생산 시설은 특수 시설로 설계돼 이를 구축하기 위해서는 막대한 투자가 필요한 만큼 토지 등 공제범위가 확대될 필요가 있다고 주장하고 있다.&lt;br /&gt;&lt;br /&gt;실제로 바이오·백신 시설의 경우 바이러스 등을 다룸에 따라 위험 시설로 지정돼 건축물 설비에 천문학적인 비용이 들어간다. &lt;br /&gt;&lt;br /&gt;정치권에서도 이에 대한 공감을 바탕으로 지난달 7일 조세특례제한법 일부개정법률안이 발표됐으나 통과는 무산됐다.&lt;br /&gt;&lt;br /&gt;정일영 더불어민주당 의원은 바이오헬스 산업 자체를 국가전략기술로 격상해 투자세액공제율을 8%까지 확대하고, 생산설비에 한정된 공제 범위를 토지 및 시설로 확대하는 내용을 담은 개정안을 발표했으나 통과되지 못했다. &lt;br /&gt;&lt;br /&gt;당시 정 의원은 “역대급 무역적자로 사상 최악의 수출 한파를 겪는 지금 국가 차원의 산업구조 개편과 신성장산업 지원이 필수적”이라며 “바이오산업 투자 확대는 산업 활성화 뿐 아니라 수출 활성화를 통한 국가 경쟁력 확보에도 큰 도움”이라고 강조했다. &lt;br /&gt;&lt;br /&gt;또 업계에서는 조특법에서 토지·건축물 등에 대해 세제 혜택을 확대하는 것이 궁극적으로 현 정부의 리쇼어링(해외 진출 기업의 국내 복귀) 정책과도 맞물려 있어 확대가 필요하다고 강조하고 있다. &lt;br /&gt;&lt;br /&gt;글로벌 불안정성이 확대되는 과정에서 첨단기술 분야 생산 네트워크 확보는 전 세계적인 움직임이며, 기업하기 좋은 환경을 구성하기 위해서는 이 같은 직접적인 세제 혜택이 필요하다는 것이다. &lt;br /&gt;&lt;br /&gt;미국과 유럽 등 해외 선진국 사례를 보면 코로나19 이후 각 정부는 백신개발에 전폭적인 투자를 하고 있다.&lt;br /&gt;&lt;br /&gt;한국보건산업진흥원 보건산업브리프에 따르면, 미국은 코로나19 백신 개발·배포·접종사업인 워프 스피드 작전(Operation Warp Speed, OWS)를 통해 R&amp;D 투자에 나섰고, 영국은 지난 2년간 백신 R&amp;D지원, 생산역량 확보 등에 16억5000만 파운드(한화 약 2조7000억원)를 편성한 바 있다. 유럽연합은 2025년까지 총 7500만 유로(약 1077억원)를 투입키로 했다.&lt;br /&gt;&lt;br /&gt;업계 관계자는 “새로운 팬데믹이 발생했을 때 신속하게 백신을 개발해 자국민을 보호하고 더 나아가 백신 주권 확보로 글로벌 국가 경쟁력을 확보하기 위해서는 평시에 미리 백신을 개발하고 생산할 수 있는 자국 기업을 충분히 확보해두는 것이 무엇보다 중요하다”며 “기술력을 갖고 있는 백신 기업들이 팬데믹 상황에 제 역할을 할 수 있도록 하기 위해서는 그 기반이 되는 토지·건축물에 대한 실질적인 제도적 지원이 필요하다”고 말했다. &lt;br /&gt;&lt;br /&gt;한편 업계에서는 세액공제 확대와 더불어 바이오기술 자체를 국가기술전략에 포함해야 한다고 주장하고 있다. &lt;br /&gt;&lt;br /&gt;한국바이오협회는 지난 1일 항체치료제 및 세포·유전자치료제 등이 크게 성장하는 만큼 국가전략기술에 해당 치료제들도 포함하는 것을 검토해야 한다고 밝혔다.&lt;br /&gt;&lt;br /&gt;한국바이오협회는 “국내를 포함해 전 세계적으로 항체치료제 및 세포·유전자치료제 등에 대한 개발과 경쟁이 치열해지고 있다”며 “백신이 보건 안보 차원의 필수 기술이라면 항체치료제 및 세포·유전자치료제 등 바이오기술은 경제적 파급효과가 크고 국민 건강에 영향을 미치는 중요한 기술”이라고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 hjhee@newsis.com
-      </content:encoded>
-    </item>
-    <item>
-      <title>반도체·디스플레이·차세대전지 등 3대 미래기술에 160조 쏟는다</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255104</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255104</guid>
-      <pubDate>2023-04-06T07:30:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2022/12/27/NISI20221227_0001163166_web.jpg?rnd=20221227160630&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2022/12/27/NISI20221227_0001163166_web.jpg?rnd=20221227160630&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스]윤현성 기자 = 정부가 반도체, 디스플레이, 차세대전지 등 3대 국가 주력기술과 관련한 초격차 미래 기술 100개 확보를 위해 민간 부문과 함께 약 160조원을 쏟아붓기로 했다. &lt;br /&gt;&lt;br /&gt;과학기술정보통신부는 6일 비상경제장관회의에서 우리나라의 3대 주력기술인 반도체, 디스플레이, 차세대전지 분야에서 미래 핵심기술을 확보하기 위한 &amp;#039;3대 주력기술 초격차 R&amp;D전략&amp;#039;을 관계 부처 합동으로 발표했다.&lt;br /&gt;&lt;br /&gt;이번 전략은 윤석열 대통령이 제14차 비상경제민생회의에서 &amp;quot;반도체 등 첨단산업 분야에 대한 민간 투자가 신속히 이루어지도록 해야 하고, 정부는 R&amp;D, 인력, 세제 지원 등을 빈틈없이 해야 한다&amp;quot;고 지시한 것에 대한 후속 조치이자 &amp;#039;신성장 4.0 전략 2023년 추진계획&amp;#039;의 세부계획으로 수립됐다.&lt;br /&gt;&lt;br /&gt;최근 전세계적으로 기술 패권 경쟁이 격화되는 가운데 우리 정부도 12대 국가전략기술을 선정하고 지원하기 위한 다양한 정책을 추진하고 있다. 특히 이중에서도 반도체·디스플레이·차세대전지 3대 분야는 우리 경제의 버팀목이자 앞으로 시장이 크게 성장할 것으로 전망되는 기술군이다. 우리나라가 향후 이들 분야에서 뛰어난 우위 역량을 유지하기 위해서는 민·관 협업 기반의 선제적인 R&amp;D 투자가 시급한 상황이다.&lt;br /&gt;&lt;br /&gt;이에 과기정통부는 지난해부터 반도체·디스플레이·차세대전지 각 분야 산·학·연 전문가로 구성된 TF팀을 운영해 초격차 R&amp;D 전략을 준비해 왔다. 이번 발표에서는 3대 주력기술 분야 &amp;#039;세계 1위 수준의 초격차 기술 확보&amp;#039;를 목표로 설정하고, 세부 추진전략을 제시했다.&lt;br /&gt;&lt;br /&gt;먼저 각 분야별로 범부처 차원의 &amp;#039;민·관 연구 협의체&amp;#039;가 구성·운영된다. 그간 3대 주력기술 분야는 기초·원천, 응용·개발, 상용화 단계가 분절적으로 지원되는 경향이 있었다. 과기정통부·산업통상자원부 등 R&amp;D 사업 지원 부처와 산·학·연 전문가 및 단체들로 구성되는 협의체는 기존 문제 극복과 민간 수요기술 중심의 단절 없는 연구 지원을 목표로 올해 중 출범하게 된다.&lt;br /&gt;&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001234979_web.jpg?rnd=20230405143041&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001234979_web.jpg?rnd=20230405143041&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;3대 주력기술 분야 초격차 기술 확보 및 신시장 창출을 위해 2027년까지 민·관 R&amp;D 자금이 총 160조원 규모로 투자될 예정이다. 정부에서 3대 분야 전반에 걸쳐 약 4조5000억원을 투자하고, 민간 부문의 R&amp;D 투자 금액은 향후 5년 간 155조원에 달할 전망이다. 현재 예비타당성 조사 등을 기다리고 있는 사업들까지 가시화되면 투자 규모가 훨씬 더 커질 것이라는 게 과기정통부의 관측이다.&lt;br /&gt;&lt;br /&gt;분야별로 보면 ▲반도체는 &amp;#039;미래기술 로드앱&amp;#039;을 기반으로 소자·설계·공정 등 3개 분야에 총 45개 ▲디스플레이는 OLED 기술 고도화를 비롯해 초실감 기술·차세대 프리폼·융복합 등 미래 디스플레이 핵심원천기술 총 28개 ▲차세대전지는 이차전지·수소연료전지·동위원소 전지 분야에 총 27개 미래 기술이 선정됐다. 정부는 매년 미래 핵심기술을 수정·보완해 중점 지원하기로 했다.&lt;br /&gt;&lt;br /&gt;또한 관련 법령 및 제도 정비를 통해 R&amp;D, 인력 충원, 세제 지원도 추진된다. 특히 조세특례특별법상 국가전략기술 세부기술 선정 시 민간기업의 중요 기술이 즉각적으로 지원 대상에 반영될 수 있도록 부처 간 소통과 협력을 강화할 방침이다.&lt;br /&gt;&lt;br /&gt;석·박사급 고급 인력을 비롯한 전문 인력 양성을 통해 인재들이 민간으로 적기에 진출할 수 있도록 지원한다. 대학연구거점 구축사업 등을 신설·확대하고 계약정원제, 계약학과 및 전공트랙 신설 등을 통해 실무에 바로 투입할 수 있는 인력을 육성한다는 목표다.&lt;br /&gt;&lt;br /&gt;연구자 중심의 인프라 조성과 국제 협력 활성화도 추진된다. 반도체 관련 새로운 물질과 구조 기반 시제품을 제작할 수 있는 연구자 중심의 특화 오픈팹(Open Fab) 구축을 추진하고, 디스플레이·차세대전지 맞춤형 연구 인프라도 조성한다는 계획이다. 나노종합기술원(Si CMOS 공정)과 한국나노기술원(화합물 공정) 등 기존 팹 간 역할 분담도 명확화하고 연계를 강화한다. &lt;br /&gt;&lt;br /&gt;아울러 기술별 핵심난제를 미국, EU(유럽연합) 등과의 국제협력 연구를 통해 함께 해결하기 위해 &amp;#039;연구자 포럼&amp;#039; 개최, 기술 선진국과의 공동 R&amp;D 사업 신설 등을 지속 추진해 국제협력을 보다 공고히 할 예정이다&lt;br /&gt;&lt;br /&gt;이종호 과기정통부 장관은 &amp;quot;반도체와 디스플레이, 차세대전지 분야는 그간 뛰어난 민간의 역량을 바탕으로 우리 경제를 든든하게 뒷받침해온 버팀목 기술군&amp;quot;이라며 &amp;quot;앞으로도 승자독식 구조의 3대 주력기술 분야에서 세계 1위 수준의 초격차 기술 확보를 위해 민·관 협업으로 R&amp;D 투자를 강화해 나갈 것&amp;quot;이라고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 hsyhs@newsis.com
-      </content:encoded>
-    </item>
-    <item>
-      <title>[속보]추경호 &amp;quot;반도체·디스플레이·차세대전지 정부 R&amp;amp;D 4.5조 투자&amp;quot;</title>
-      <link>http://www.newsis.com/view?id=NISX20230406_0002255839</link>
-      <guid>http://www.newsis.com/view?id=NISX20230406_0002255839</guid>
-      <pubDate>2023-04-06T07:46:38.000Z</pubDate>
-      <content:encoded>&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2020/12/11/NISI20201211_0000654239_web.jpg?rnd=20201211094145&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2020/12/11/NISI20201211_0000654239_web.jpg?rnd=20201211094145&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[세종=뉴시스]  추경호 &amp;quot;반도체·디스플레이·차세대전지 정부 R&amp;D 4.5조 투자&amp;quot;&lt;br /&gt;</content:encoded>
-    </item>
-    <item>
       <title>좋은 습관 형성하기 위한 몸부림, 스타트업이 도와줍니다[스테파니]</title>
       <link>https://www.donga.com/news/It/article/all/20230405/118704271/1</link>
       <guid>https://www.donga.com/news/It/article/all/20230405/118704271/1</guid>
       <pubDate>2023-04-06T08:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118704264.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;안녕하세요 스테파니 독자 여러분~.동아일보에서 스타트업 취재를 담당하고 있는 김하경 기자입니다.(스테파니는 ‘스’타트업과 ‘테’크놀로지를 ‘파’헤쳐보‘니’의 준말입니다.)새해를 맞이하면서 새로운 결심을 한 지가 엊그제 같은데 벌써 4월이네요!날이 풀리니 왠지 잠은 솔솔 오고… 연초 세웠던 운동 계획이나 자기계발 계획은 조금 수정하게 되고… 저랑 비슷한 독자분들 계시지 않나요? ㅎㅎ그래서 찾아봤습니다. 느슨해진 고삐를 다시 조일 수 있는 장치(?)를요!오늘 스테파니에서는 습관 형성을 도와주는 스타트업을 소개해보려 합니다.●돈을 잃지 않기 위한 몸부림강제성을 부여하는 가장 효과적인 방법은 아무래도 ‘돈’인 것 같습니다. 좀 더 정확히 말하자면, ‘돈 날리지 않기’인데요. ‘매일 오후 7시 30분, 동네 공원에서 1시간씩 조깅을 한다’는 다짐은 때로는 지친 퇴근길을 거치며 ‘오늘 하루쯤이야….’라는 생각과 함께 빼먹게 되곤 하죠. 하지만 비싼 1대1 퍼스널트레이</content:encoded>
-    </item>
-    <item>
-      <title>&amp;#039;찬음식 먹는날’ 한식, 소화기는 괴롭다…“배탈·장염 조심”</title>
-      <link>http://www.newsis.com/view?id=NISX20230405_0002255592</link>
-      <guid>http://www.newsis.com/view?id=NISX20230405_0002255592</guid>
-      <pubDate>2023-04-06T08:01:00.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/02/21/NISI20230221_0019794234_web.jpg?rnd=20230221130229&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/02/21/NISI20230221_0019794234_web.jpg?rnd=20230221130229&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]송종호 기자 = 한식(寒食)은 동지 이후 105일째 되는 날로, 올해 한식은 6일이다. 설날, 단오, 추석과 함께 4대 명절의 하나로 찬 음식을 즐기는 풍속이 남아있다.&lt;br /&gt;&lt;br /&gt;하지만 찬 음식을 과하게 섭취하면 소화기 부담으로 복통, 설사 등의 증상이 나타날 수 있어 적당하게 섭취하는 것이 건강에 좋다.&lt;br /&gt;&lt;br /&gt;의료계에 따르면 찬 음식을 먹으면 소화기관 온도가 내려가면서 소화 효소가 제 기능을 하기 어려워진다. 소화 효소가 제 기능을 못하게 되면 소화가 잘 안되는 증상이 나타난다. &lt;br /&gt;&lt;br /&gt;한국민속대백과사전은 한식을 “일정 기간 불의 사용을 금하며 찬 음식을 먹는 고대 중국의 풍습에서 시작됐다”고 설명하고 있다. 한국에서 한식을 언제부터 명절로 여겼는지는 알 수 없지만 늦어도 고려 전기에는 한식이 중요한 명절의 하나로 자리 잡고 있었다는 것이 한국민속대백과사전의 설명이다. &lt;br /&gt;&lt;br /&gt;한식에는 찬 음식을 즐기는 풍속이 남아있어, 건강하게 즐기는 방법을 알아두는 것이 좋다.  &lt;br /&gt;&lt;br /&gt;찬 음식은 세균성 질환에 걸릴 위험이 증가해서 조심해야 한다. 특히 찬 음식은 비가열 음식이 많아서 세균에 노출될 가능성이 더 큰 것으로 알려졌다. 세균에 노출된 찬 음식은 ▲바이러스성 위염 ▲장티푸스 ▲콜레라 등을 일으킬 수 있다. 식품 전문가들은 “찬 음식에 식중독균인 병원성 대장균이 검출되는 사례가 있다”며 주의를 당부했다. &lt;br /&gt;&lt;br /&gt;과도한 찬 음식 섭취로 발생하는 질환 중에 하나가 과민성장증후군이다. 과민성장증후군이 발생하는 요인은 폭음, 폭식, 스트레스 등 여러 요인이 있을 수 있지만 과도한 찬 음식 섭취도 영향은 준다, &lt;br /&gt;&lt;br /&gt;과민성장증후군은 대장내시경 등을 포함한 각종 검사에서 특이점이 발견되지 않는다. 하지만 복부 팽만감을 비롯해 복통, 설사, 변비 등의 증상이 나타난다. 심할 경우 일상 생활에 지장을 줄 수 있어 평소 건강 및 식단 관리가 필요하다. &lt;br /&gt;&lt;br /&gt;한 대형병원 전문의는 “찬 음식을 일회성으로 과하게 섭취한다고 과민성증후군이 발생한다고 할 수는 없지만 여러 요인이 복합적으로 작용할 수 있어 주의가 필요하다”며 “찬 음식보다는 적정 온도에 음식을 섭취하고 스트레스를 덜 받는 것이 중요하다”고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 song@newsis.com
-      </content:encoded>
-    </item>
-    <item>
-      <title>&amp;quot;반려동물 아픈 곳 파악 쉽게&amp;quot;…SKT, 엑스레이 촬영법 교육</title>
-      <link>http://www.newsis.com/view?id=NISX20230406_0002255971</link>
-      <guid>http://www.newsis.com/view?id=NISX20230406_0002255971</guid>
-      <pubDate>2023-04-06T08:52:06.000Z</pubDate>
-      <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2022/09/25/NISI20220925_0001092762_web.jpg?rnd=20220925105244&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2022/09/25/NISI20220925_0001092762_web.jpg?rnd=20220925105244&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스] 심지혜 기자 = SK텔레콤은 한국동물병원협회와 동물병원 진료종사자를 대상으로 엑스레이(X-ray) 영상진단 검사 교육을 제공하는 업무협약(MOU)을 체결했다고 6일 밝혔다. &lt;br /&gt;&lt;br /&gt;SK텔레콤과 한국동물병원협회는 올바른 엑스레이 촬영법과 방사선 안전관리를 교육하기 위한 프로그램 ‘엑스캠프’를 추진한다. &lt;br /&gt;&lt;br /&gt;전국의 수의사, 동물보건사 등 동물병원 종사자들을 대상으로 5월부터 12월까지 총 10차례에 걸쳐 오프라인 교육과 관련 교재를 무료로 제공할 예정이다. &lt;br /&gt;&lt;br /&gt;SK텔레콤은 사람과 달리 말을 할 수 없는 반려동물의 질병을 정확히 확인하기 위해서는 엑스레이와 같은 영상진단 검사가 중요하다고 봤다. &lt;br /&gt;&lt;br /&gt;SK텔레콤은 지난해 9월 인공지능이 반려동물의 엑스레이 사진을 자동으로 분석하는 동물 영상 진단 보조 서비스 &amp;#039;엑스칼리버(X Caliber)&amp;#039;를 출시하기도 했다. 엑스칼리버는 인공지능이 반려동물의 엑스레이 사진을 분석해 진단 결과를 15초내에 제공함으로써 수의사의 진료를 돕는다. 출시 약 반년만인 현재 전국 150여개 동물병원에서 사용 중이다.&lt;br /&gt;&lt;br /&gt;하민용 SK텔레콤 최고사업개발책임자(CDO)는 &amp;quot;엑스칼리버는 SK텔레콤의 AI기술이 다양한 산업 분야에 적용되는 것을 보여주는 대표적인 성공 사례&amp;quot;라고 강조했다. &lt;br /&gt;&lt;br /&gt;이병렬 한국동물병원협회장은 &amp;quot;엑스캠프를 통해 동물병원의 엑스레이 촬영 환경이 개선되기를 바라며, 정확한 영상 진단을 통해 동물병원들의 진료 수준이 높아지기를 기대한다&amp;quot;고 말했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 siming@newsis.com
-      </content:encoded>
     </item>
     <item>
       <title>‘방역당국 수장’ 조규홍 복지부 장관 확진…자가격리</title>
@@ -1516,33 +1106,441 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118707875.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;조규홍 보건복지부 장관이 코로나19 확진 판정을 받았다.  6일 뉴스1 취재결과 조 장관은 지난 5일 저녁 코로나19 확진 판정을 받아 1주일간 격리에 들어갔다.  조 장관은 5일 국회에서 열린 소아·응급·비대면 의료 관련 당정협의회와 제3차 본회의 교육·사회·문화 분야 대정부질문에 참여한 바 있다.  코로나19 의심증상을 느낀 조 장관은 일정을 소화한 뒤 즉각 검사를 받았고 확진 판정을 받았다.  복지부 관계자는 “1주일간 격리 조치에 들어갈 것”이라며 “영상회의 등으로 업무 처리가 가능하기 때문에 업무의 공백 사태는 없을 것”이라고 말했다.  조 장관은 지난해 11월 30일 이필수 대한의사협회장과 코로나19 2가백신 추가접종을 마쳤다.  이에 앞서 이기일 복지부 1차관도 최근 코로나19 확진 판정을 받아 자가격리 중이다. 복지부 장·차관 중 박민수 2차관만 정상적인 업무가 가능한 상황이다.  (서울=뉴스1)</content:encoded>
     </item>
     <item>
-      <title>사업장 곳곳 시건장치 &amp;#039;무전원 스마트키&amp;#039; 하나로 관리한다</title>
-      <link>http://www.newsis.com/view?id=NISX20230406_0002255964</link>
-      <guid>http://www.newsis.com/view?id=NISX20230406_0002255964</guid>
-      <pubDate>2023-04-06T09:00:00.000Z</pubDate>
+      <title>1만2084명 확진, 정체 이어져…중증 136명·사망 13명</title>
+      <link>https://www.donga.com/news/Society/article/all/20230406/118708770/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20230406/118708770/1</guid>
+      <pubDate>2023-04-06T09:37:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118709551.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;4월 첫 번째 수요일이었던 지난 5일 전국에서 1만2084명이 코로나19에 확진됐다. 신규 확진자는 7일 연속 전주 대비 증가세를 보이며 정체 양상을 띠고 있다.질병관리청 중앙방역대책본부에 따르면 6일 0시 기준 확진자는 1만2084명 늘어 누적 3088만3824명으로 집계됐다.신규 확진자 수는 전날(1만4465명)보다는 2381명 줄었지만 1주 전 목요일인 지난달 30일(1만1032명)보다는 1052명 늘었다. 신규 확진자 수는 지난달 31일부터 7일째 전주 대비 증가하고 있다.최근 4주간 목요일 기준 확진자 발생추이를 살펴보면 3월16일 9931명→3월23일 1만1395명→3월30일 1만1032명→4월6일 1만2084명으로 소폭의 등락을 거듭하고 있다.지역별로 살펴보면 서울 2887명, 인천 777명, 경기 3585명 등 수도권에서 모두 7249명(60%)이 확진됐다. 비수도권에서는 4828명(40%)의 확진자가 나왔다. 부산 326명, 대구 373명, 광주 427명, 대전 37</content:encoded>
+    </item>
+    <item>
+      <title>조규홍 복지부 장관 코로나 확진…“업무공백 최소화”</title>
+      <link>https://www.donga.com/news/Society/article/all/20230406/118709095/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20230406/118709095/1</guid>
+      <pubDate>2023-04-06T09:51:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118709087.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;조규홍 보건복지부(복지부) 장관이 코로나19 확진 판정을 받아 자가격리에 들어갔다.  복지부는 “조 장관이 지난 5일 저녁 9시께 코로나19 양성 판정을 받았다”며 “온라인 회의 등을 통해 업무 공백이 최소화되도록 만전을 기할 것”이라고 밝혔다.  조 장관은 지난해 11월 30일 코로나19 2가백신으로 5차까지 접종을 마친 상태다.  앞서 이기일 복지부 제1차관도 최근 확진 판정을 받은 바 있다. 조 장관은 전날 국회에서 열린 ‘소아·응급·비대면 의료 대책 당정 협의회’와 국회 본회의 교육·사회·문화 분야 대정부질문에 출석했다.   [서울=뉴시스]</content:encoded>
+    </item>
+    <item>
+      <title>낮도 밤도 아닌, 늘 황혼…그 행성 ‘터미네이터 존’의 비밀</title>
+      <link>http://www.hani.co.kr/arti/science/science_general/1086738.html</link>
+      <guid>http://www.hani.co.kr/arti/science/science_general/1086738.html</guid>
+      <pubDate>2023-04-06T10:00:22.000Z</pubDate>
+      <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0406/53_16807432001043_20230406500943.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;어두운 밤하늘에 빛나는 무수한 별들의 절대다수는 태양보다 작다. 천문학자들은 이 가운데 태양의 0.1~0.5배인 작고 차가운 별을 적색왜성으로 분류한다. 적색왜성은 빛의 밝기에 따라 어두운 K형에서 밝은 M형으로 나뉜다. 모든 별의 약 70%가 M형 왜성일 것으로 추정한다. 태양계에서 가장 가까운 별인 프록시마 센타우리도 M형 적색왜성이다. 이 별과 지구의</content:encoded>
+    </item>
+    <item>
+      <title>갤럭시S23, 韓 판매량 100만대 돌파…“해외서도 전작보다 잘 팔려”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20230406/118709461/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20230406/118709461/1</guid>
+      <pubDate>2023-04-06T10:04:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118709436.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자의 ‘갤럭시 S23 시리즈’가 출시된 지 50여일 만에 국내 판매량 100만대를 돌파했다. 전세계 주요 국가에서도 전작 대비 판매량이 1.5배 가량 증가하는 등 신기록을 세우며 순항을 이어가고 있다.   삼성전자는 지난 2월17일부터 글로벌 판매를 시작한 갤럭시 S23 시리즈가 같은 기간 동안 전작 ‘S22 시리즈’ 대비 전 세계적으로 높은 판매량을 기록했다고 6일 밝혔다.   삼성전자에 따르면 S23 시리즈는 글로벌 전 지역에서 고르게 전작 보다 높은 판매를 기록 중이다. 특정 지역의 경우 전년 동기 최대 70%까지 더 높은 판매를 기록하는 등 기대 이상의 성과를 거두고 있다.   먼저 프리미엄 판매 비중이 높은 유럽의 경우 전작 대비 1.5배의 높은 판매량을 기록했다. 글로벌 인구 대국 인도는 전작 대비 1.4배, 중동은 1.5배로 현지 시장에서의 높은 인기를 확인했다.   브라질과 멕시코 등 중남미 주요 국가들은 2월24일부터 판매를 시작했는데, 이 지역은 전작 대비 1.7배의 높은 판매 성</content:encoded>
+    </item>
+    <item>
+      <title>英 연구진 “비만 엄마가 뚱뚱한 딸 낳을 확률↑”…아빠는?</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118710177/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118710177/2</guid>
+      <pubDate>2023-04-06T10:29:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118710143.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;비만인 엄마가 뚱뚱한 딸을 낳을 확률이 정상 체중을 가진 엄마가 뚱뚱한 딸을 낳을 확률보다 더 높다는 연구 결과가 나왔다. 연구팀은 다만 엄마와 아들, 아빠와 아들, 아빠와 딸 사이에서는 이같은 연관성이 발견되지 않았다고 전했다.  지난달 31일(현지시간) 미국 건강 매체 ‘헬스데이’에 따르면 영국 사우샘프턴 대학 의학 연구 위원회(MRC) 역학 센터의 레베카 문 교수 연구팀은 부·모·자녀 240쌍을 대상으로 진행한 연구 결과를 발표했다.  문 교수는 해당 연구에서 “엄마와 딸의 체지방량(fat mass)과 체질량지수(BMI: body-mass index) 간의 연관성이 강하게 나타났다”고 전했다.  체지방량은 체중에서 지방이 차지하는 양을 말한다. BMI는 체중(kg)을 신장(m)의 제곱으로 나눈 수치로, 18.4 이하면 저체중, 18.5∼24.9면 정상, 25∼29.9는 과체중, 30∼34.9는 비만, 35∼39.9는 고도비만, 40 이상은 초고도 비만으로 분류한다.  연구팀은 인체 계측법과 이중 에</content:encoded>
+    </item>
+    <item>
+      <title>일본 정부, 챗GPT 지침 마련한다…학업 부정행위에 ‘골머리’</title>
+      <link>https://www.donga.com/news/Inter/article/all/20230406/118710169/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20230406/118710169/1</guid>
+      <pubDate>2023-04-06T10:34:00.000Z</pubDate>
+      <content:encoded>생성형 인공지능(AI) 기반 채팅로봇인 챗GPT가 작문과제 대필 등 학업 부정행위에 사용될 수 있다는 우려가 교육계를 중심으로 제기되자 일본 정부도 사용 권고안을 마련하기로 했다. 각국 교육 당국과 일선 대학에서는 ‘챗GPT 금지령’을 내놓는 등 AI 기술을 향한 교육계 경계심이 갈수록 높아지는 분위기다.    6일 요미우리신문에 따르면 최근 일본 문부과학성은 ‘챗GPT 교육현장 가이드라인’을 마련하기 위한 검토 작업에 들어갔다. 문부과학성은 전문가 의견을 청취한 뒤 국내외 사례를 모아 챗GPT 사용 유의사항 등을 제시한다는 방침이다.  챗GPT는 미국 오픈AI가 지난해 12월 출시한 딥러닝 기반 언어 생성 프로그램으로 대화창에 텍스트를 입력하면 인터넷상의 방대한 데이터를 토대로 그에 걸맞은 대답을 도출한다. 사용자가 원하는 정보를 검색해 알려주는 건 물론 번역과 글쓰기, 수학문제 풀이, 코딩 등이 가능하다.  문제는 챗GPT가 고난도 사고를 필요로 하는 장문의 글도 막힘없이 적어내 학생들의 학업 부정행</content:encoded>
+    </item>
+    <item>
+      <title>한국 게임시장의 신세계, ‘게임기’에 있다?[조영준의 게임 인더스트리]</title>
+      <link>https://www.donga.com/news/It/article/all/20230405/118704310/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230405/118704310/1</guid>
+      <pubDate>2023-04-06T11:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/05/118704305.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 국내 게임시장을 선도하는 대형 게임사들이 잇따라 ‘게임기’, 이른바 콘솔게임 시장에 앞다투어 진출하고 있습니다.이미 넥슨, 엔씨소프트, 네오위즈, 라인게임즈 등 여러 게임사가 콘솔게임 시장에 대응하는 신작을 선보일 일정을 조율하고 있고, 상당수의 게임이 올해 내 출시될 예정입니다. 특히 이들 콘솔게임은 MMORPG(대규모 다중 접속 온라인 역할 수행 게임) 위주였던 기존 게임 장르와 달리, 레이싱, 액션, 루트슈터 등 다양한 장르로 구성됐다는 점에서 국내는 물론 해외에서도 많은 주목을 받고 있습니다. 서양 게임시장 공략의 핵심, 콘솔게임콘솔게임은 서구권 게임시장을 지배하고 있습니다. 한국콘텐츠진흥원에서 발행한 ‘대한민국 게임백서‘에 따르면, 2020년 콘솔 게임의 규모는 558억 2,600만 달러(한화 약 76조 5,000억 원)에 달합니다. 국내 게임시장이 2020년 18조 9천억 원 규모였던 것과 비교하면, 무려 4배 이상 차이 나는 엄청난 규모죠.이 콘솔게임 시장은 202</content:encoded>
+    </item>
+    <item>
+      <title>‘한의사 초음파’ 파기환송심…의협 “국민 건강 고려하길”</title>
+      <link>https://www.donga.com/news/Society/article/all/20230406/118711140/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20230406/118711140/1</guid>
+      <pubDate>2023-04-06T11:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118711034.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대한의사협회(의협)가 한의사의 초음파 진단 기기 사용 관련 파기환송심 재판을 앞두고 국민의 건강에 위해를 끼칠 우려가 크다며 대법원의 판결을 재검토해 줄 것을 촉구했다. 이필수 의협 회장과 김교웅 의협 한방대책특별위원회 위원장은 6일 한의사 초음파 진단 기기 허용과 관련한 파기환송심 재판을 앞두고 서울 서초구 대법원 앞에서 1인 시위 후 입장을 밝혔다. 이 회장은 “의협은 대법원 판결에 깊은 유감과 분노를 표한다”며 “서울중앙지방법원이 국민의 생명과 안전을 지키기 위한 신중한 검토와 현명한 판단을 내려줄 것을 기대한다”고 밝혔다.          그는 “전문적 교육과 훈련을 받지 않은 사람이 섣불리 초음파 진단 기기를 사용하면 질환의 진단 시기를 놓쳐 질병을 악화시킬 가능성이 매우 높다”며 “오진의 가능성을 높이고 치료받을 기회를 놓치게 만들어 공중보건위생상 심각한 위해를 초래할 수 있다”고 주장했다.이어 “우리나라는 의료체계가 의학과 한의학으로 이원화돼 있음에도 불구하고 대법원 전</content:encoded>
+    </item>
+    <item>
+      <title>유튜브와 OTT 이용률 세대별 차이 극명</title>
+      <link>http://www.mediatoday.co.kr/news/articleView.html?idxno=309468</link>
+      <guid>http://www.mediatoday.co.kr/news/articleView.html?idxno=309468</guid>
+      <pubDate>2023-04-06T11:56:26.000Z</pubDate>
+      <content:encoded>60대 이상부터는 유튜브 외 ‘유료 구독형’ OTT 플랫폼인 넷플릭스와 티빙, 웨이브, 쿠팡플레이, 디즈니플러스 등 이용률이 현저히 떨어지는 것으로 나타났다. 특히 70세 이상은 유튜브 이용률이 100%로 압도적이었다.지난달 30일 정보통신정책연구원(KISDI)이 최근 한국미디어패널조사를 바탕으로 ‘OTT 서비스 플랫폼별 이용행태 비교’ 보고서를 냈다. 해당 보고서는 오윤석 정보통신정책연구원 데이터분석예측센터 연구원이 작성했다. 우선 모든 연령대에서 유튜브 이용률이 가장 높았다. 10대 이상(94.3%), 20대 이상(89.9%),</content:encoded>
+    </item>
+    <item>
+      <title>주말 깜짝 꽃샘추위 온다…다음주 초 황사 유입 가능성</title>
+      <link>https://www.donga.com/news/Society/article/all/20230406/118712955/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20230406/118712955/1</guid>
+      <pubDate>2023-04-06T12:48:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118712923.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;봄비가 그친 뒤 오는 주말 아침 내륙 대부분 지역이 영하권까지 내려가는 깜짝 꽃샘추위가 찾아오겠다. 아울러 중국에서 발생한 황사가 우리나라쪽으로 유입될 수 있다.6일 기상청 정례 예보 브리핑에 따르면, 이날 밤까지 전국적으로 5㎜ 미만으로 산발적으로 약한 비가 내리다가 서쪽지역부터 차차 갤 것으로 보인다.금요일인 오는 7일부터 저기압이 동쪽으로 빠져나가고 북쪽에서 찬 성질을 가진 대륙고기압이 확장하는 영향을 받을 전망이다.이로 인해 토요일인 8일부터 일요일인 9일까지 주말동안 내륙을 중심으로 아침 최저기온이 0도 아래로 떨어지겠다.내일 밤부터 바람도 강하게 불어 체감온도는 더욱 낮아지겠고, 서해상과 동해상을 시작으로 전해상에 물결이 높게 일 것으로 보인다.박중환 기상청 예보분석관은 “전국적으로 영하권의 매우 쌀쌀한 날씨가 예상된다”며 “특히 서리, 얼음, 냉해로 인해 농작물 관리에 각별한 주의가 필요하다”고 당부했다.한편 내일 오후 기압골이 통과하는 영향으로 경기동부, 강원영서 등</content:encoded>
+    </item>
+    <item>
+      <title>하버드대 “미세먼지가 치매 위험 증가시키는 것 확인돼”</title>
+      <link>https://www.donga.com/news/Inter/article/all/20230406/118713126/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20230406/118713126/1</guid>
+      <pubDate>2023-04-06T12:59:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118713012.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;하버드대학 연구팀이 미세먼지 등 공해가 치매의 위험을 증가시키는 것이 확인됐다고 발표했다.  하버드대학의 챈 공공보건대학 연구팀은 5일(현지시간) 이전 연구 14건을 모두 분석한 결과, 공해가 치매 위험 증가와 관련이 있으며, 이를 예방하기 위해 정부가 더욱 엄격한 대기질 기준을 설정해야 한다고 충고했다.  연구팀은 높은 수준의 미세먼지를 비롯한 공해와 만성적으로 접촉하면 치매 위험이 높아지고, 미국 정부의 미세먼지 기준인 세제곱미터당 12 마이크로그램 미만인 경우에도 치매 위험을 증가시킨다고 밝혔다. 이에 따라 정부는 미세먼지 기준을 더 낮추어야 한다고 충고했다.  연구팀은 이날 BMJ의학 저널에 이같은 연구 결과를 발표했다.  연구에 참여한 마크 웨스코프트 생리학 교수는 “미세먼지가 세제곱미터당 2 마이크로그램만 감소해도 치매율이 크게 낮아질 것“이라고 말했다. 그는 ”미세먼지가 낮을수록 치매의 위험이 더 낮아진다“고 덧붙였다.  그는 현재 세제곱미터당 12 마이크론인 기준을 9~10마이크론으로 낮춰</content:encoded>
+    </item>
+    <item>
+      <title>교사 57% “챗GPT, 교사 역할에 도움”…행정업무·교수학습 활용 원해</title>
+      <link>https://www.donga.com/news/Society/article/all/20230406/118713285/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20230406/118713285/1</guid>
+      <pubDate>2023-04-06T13:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118706450.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;교사 10명 중 6명은 챗GPT가 교사 역할에 도움이 된다고 생각하는 것으로 나타났다. 이들은 주로 행정업무처리, 교수학습활동에 챗GPT를 활용할 수 있을 것이라고 기대했다.  서울시교육청은 지난달 27~29일 관내 초·중·고·특수학교 교원과 교육전문직원 5217명을 대상으로 실시한 ‘챗GPT에 대한 교원 인식과 사용에 대한 조사’ 결과를 6일 공개했다.  조사에 따르면 전체 응답자의 57.5%는 챗GPT가 교사 역할에 도움이 된다고 응답했다.  활용을 원하는 분야(복수선택)는 행정업무처리(82.2%) 교수학습활동(80.3%) 순이었다. 이에 비해 학생평가에 활용을 원한다는 응답은 43.9%로 비교적 낮게 나타났다.  챗GPT에 관심이 있다고 응답한 교원은 응답자의 69.8%였다. 다만 관심도에 비해 활용 정도는 떨어지는 편이었다. 실제 챗GPT 사용 경험이 많거나 다소 있다는 교사는 전체 응답자의 23.7% 수준이었다.  한편 서울시교육청은 6일 본청 강당에서 ‘챗GPT 시대, 현장교사에게 묻다’를 주</content:encoded>
+    </item>
+    <item>
+      <title>“OTT 생존, 해외 진출이 관건…삼성TV와 동반 진출도 고민”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20230406/118714325/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20230406/118714325/1</guid>
+      <pubDate>2023-04-06T14:08:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118714172.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 온라인동영상서비스(OTT) 등 디지털 미디어 산업 경쟁력 강화 방안으로 ‘해외시장 진출’이 대두되고 있다. 성장 둔화 속 글로벌 업체들과의 경쟁에서 살아남기 위해서는 국내를 넘어 해외로 시장을 확대해야 한다는 것이다.   과학기술정보통신부는 박윤규 2차관 주재로 ‘OTT 등 디지털 미디어의 변화와 대응’을 주제로 디지털 국정과제 연속 현장 간담회를 개최했다고 6일 밝혔다.   간담회는 OTT 확산으로 미디어간 경계가 파괴되고 글로벌 경쟁이 심화되는 패러다임 변화에 대응해 디지털 미디어 기업의 새로운 성장동력을 창출하기 위한 방안 모색을 위해 마련됐다.   현장에는 국내 대표 OTT인 티빙, 웨이브, 왓챠를 비롯해 콘텐츠제작사, 스마트TV사, 기술기업, 금융, 학계 및 연구계 전문가 30여명이 참석했다.   먼저 이상원 경희대 교수가 ‘디지털 미디어 산업 변화와 경쟁력 제고를 위한 정책방향’ 발제를 통해 국내외 디지털 미디어 산업 현황을 진단하고, 국내 기업의 해외진출 가능성과 전략에 대해 설명했다.</content:encoded>
+    </item>
+    <item>
+      <title>꼬부랑 할머니는 옛말…우리나라 고령자 10명 중 8명 허리 ‘꼿꼿’</title>
+      <link>https://www.donga.com/news/Economy/article/all/20230406/118715612/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20230406/118715612/2</guid>
+      <pubDate>2023-04-06T15:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118715591.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전래동요에 등장하는 ‘꼬부랑 할머니’는 이제 옛말이 됐다. 우리나라 고령인구의 키가 최근 20년 사이 더 커진 데다 허리와 등이 곧은 ‘바른 체형’도 늘어났기 때문이다.  6일 산업통상자원부 국가기술표준원은 ‘사이즈 코리아 성과발표회’를 열고 한국인 고령인구 인체치수 조사 결과를 발표했다.  지난해 6월부터 12월까지 70~84세 한국인 1014명을 대상으로 키, 몸무게, 다리·팔 길이, 허리둘레 등 총 360여 개 항목을 측정하고 3차원 스캐너를 통해 분석했다.  분석 결과, 고령인구의 평균 키가 2003년 조사와 비교해 남성은 2.9㎝, 여성은 2.7㎝ 더 커졌다. 2003년 조사에서 고령인구 평균 키가 남성 162.8㎝, 여성 149.4㎝였는데, 이번 조사에서는 남성 165.7㎝, 여성 152.1㎝로 측정됐다. 몸무게도 20년 새 남성 5.1㎏, 여성 1㎏ 각각 증가했다.  허리가 굽지 않고 바로 선 ‘바른 체형’(몸통전체축 87~94도) 비율도 83.4%로 높게 나타났다. 예전에 고령인구에서 흔히</content:encoded>
+    </item>
+    <item>
+      <title>땅에 닿는 순간 꽁꽁…‘얼음비’ 내린 퀘벡 곳곳 정전 [포토]</title>
+      <link>http://www.hani.co.kr/arti/science/science_general/1086798.html</link>
+      <guid>http://www.hani.co.kr/arti/science/science_general/1086798.html</guid>
+      <pubDate>2023-04-06T15:44:36.000Z</pubDate>
+      <content:encoded>&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;107px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#DDDDDD&apos; style=&apos;padding: 1px;&apos;&gt;&lt;table border=&apos;0px&apos; cellpadding=&apos;0px&apos; cellspacing=&apos;0px&apos; width=&apos;105px&apos; height=&apos;84px&apos;&gt;&lt;tr&gt;&lt;td bgcolor=&apos;#FFFFFF&apos; style=&apos;padding: 3px;&apos; align=center&gt;&lt;img src=&apos;https://flexible.img.hani.co.kr/flexible/normal/212/127/imgdb/child/2023/0406/16807635280099_20230406502744.jpg&apos; border=0&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width=&apos;13px&apos; nowrap&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;5일(현지시각) 캐나다 퀘벡 및 온타리오주 일부 지역에 지면에 닿는 순간 얼어버리는 ‘어는 비’(우빙·freezing rain)와 폭풍우가 몰아쳐 60만 건 이상의 정전피해가 발생했다.퀘벡의 전기를 공급하는 ‘하이드로 퀘벡’은 “정전사태를 불러온 것은 바람과 더불어 내린 ‘어는 비’ 때문이다. 고드름이 생성되면서 무게로 인해 전선과 나뭇가지가 끊어졌다”고</content:encoded>
+    </item>
+    <item>
+      <title>中과학자들 “우한시장서 너구리 유전자도 발견”</title>
+      <link>https://www.donga.com/news/Inter/article/all/20230406/118717018/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20230406/118717018/1</guid>
+      <pubDate>2023-04-06T15:56:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/02/06/117742198.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;신종 코로나바이러스 감염증(코로나19) 바이러스의 시작점이 된 중국 우한의 화난수산시장에서 너구리의 유전 물질이 발견됐다는 중국 과학자들의 연구 결과가 나왔다. 국제학술지 ‘네이처’에 따르면 중국질병예방통제센터(CCDC) 연구진은 2020년 1월부터 폐쇄된 화난수산시장에서 채취한 923개의 샘플을 수집해 총 18종의 동물 유전자를 발견했다.  그중에는 박쥐에서 사람에게 코로나19 바이러스를 옮긴 매개 동물로 의심받고 있는 ‘너구리’의 유전자도 있었다. 그간 중국은 화난수산시장의 야생동물과 코로나19 유행과는 연관이 없다고 주장</content:encoded>
+    </item>
+    <item>
+      <title>원스토어, 서울경제진흥원과 중소 게임사 지원</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002256800</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002256800</guid>
+      <pubDate>2023-04-06T16:02:26.000Z</pubDate>
       <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235441_web.jpg?rnd=20230406083938&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235441_web.jpg?rnd=20230406083938&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스]윤현성 기자 = LG유플러스는 산업현장 내 각종 시건 장치를 한 번에 연동해 관리할 수 있는 &amp;#039;무전원 디지털락&amp;#039;으로 출입·안전관리 효율성을 높여 나간다고 6일 밝혔다. &lt;br /&gt;&lt;br /&gt;디지털락 도입을 위해 LG유플러스는 관련 특허를 보유한 보안 전문기업 &amp;#039;플랫폼베이스&amp;#039;와 업무협약(MOU)을 체결했다. &lt;br /&gt;&lt;br /&gt;플랫폼베이스는 디지털 보안 장치에 대한 수요 증가에 힘입어 2017년 설립 이후 매년 큰 폭으로 성장하고 있으며, 지난해 9월에는 혁신조달을 통한 공공조달 발전에 기여한 공로로 대통령상을 수상한 바 있다. &lt;br /&gt;&lt;br /&gt;그동안 해외시장 개척에 집중해 온 플랫폼베이스는 국내서 본격적인 판로 확대를 위해 LG유플러스와 사업 협력을 결정했다. 지난 3월에는 &amp;#039;2023 스마트공장·자동화산업전&amp;#039;의 LG유플러스 전시관에 무전원 디지털락을 출품해 작업자의 편리한 사용성과 감독자의 효율적인 관리기능을 선보인 바 있다. &lt;br /&gt;&lt;br /&gt;LG유플러스는 이번 업무협약을 통해 자사의 5G·LTE 무선 네트워크와 플랫폼베이스의 무전원 디지털락을 함께 공급해 공장의 디지털 보안 인프라를 구축해 나가기로 했다. &lt;br /&gt;&lt;br /&gt;무전원 디지털락은 스마트키로 암호화된 값을 확인한 후 개폐가 가능한 솔루션이다. 개폐에 대한 실시간 모니터링 및 기록이 가능하고, 허가된 작업자에게만 권한을 부여할 수 있다. 또한 스마트키 하나로 수량에 관계없이 관리할 수 있으며, 열쇠 복제 및 불법개폐의 발생 가능성이 낮고 배터리를 사용하지 않아 친환경적이라는 것도 장점이다.&lt;br /&gt;&lt;br /&gt;특히 지난해 10월 &amp;#039;산업안전보건기준에 관한 규칙&amp;#039;에 소화설비가 설치된 전기실·위험물 저장창고 등을 점검하는 근로자의 출입이력을 관리하는 조항이 신설돼, 시스템으로 이력관리가 가능한 무전원 디지털락의 활용도가 높아질 것으로 예상되고 있다. &lt;br /&gt;&lt;br /&gt;양사는 자재창고 등 시건장치가 많은 일반공장 뿐만 아니라 고위험 시설이 많은 화학·철강 공장과 발전소, 공공기관 등 다양한 산업현장으로 무전원 디지털락 보급을 확산하기로 했다. 향후에도 중소·중견 기업에 보다 실용적 혜택을 제공할 수 있는 보안 솔루션을 개발하는 데 협력할 방침이다. &lt;br /&gt;&lt;br /&gt;임장혁 LG유플러스 기업신사업그룹장은 &amp;quot;무전원 디지털락 솔루션 유일기업인 플랫폼베이스와 파트너십을 체결함으로써 산업현장의 관리자들이 실질적으로 필요로 하는 솔루션을 확보할 수 있게 됐다&amp;quot;며 &amp;quot;산업현장의 스마트화 추세에도 여전히 아날로그 방식에 머물러 있는 시건 장치를 혁신하는 데 기여하겠다&amp;quot;고 말했다. &lt;br /&gt;&lt;br /&gt;김범수 플랫폼베이스 대표는 &amp;quot;국내 유일의 무전원 디지털락 솔루션을 보유한 플랫폼베이스의 기술력과 LG유플러스의 무선 통신 기반 스마트 공장 운영기술이 더해져 큰 시너지를 낼 것으로 기대한다&amp;quot;고 전했다.&lt;br /&gt;
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235969_web.jpg?rnd=20230406144227&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235969_web.jpg?rnd=20230406144227&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]최은수 기자 = 원스토어는 서울경제진흥원과 함께 우수 게임 콘텐츠를 발굴하고 제작 및 마케팅 지원을 통해 성장을 돕는 ‘2023 게임콘텐츠 제작·마케팅 지원사업’에 파트너사로 참여한다고 6일 밝혔다.&lt;br /&gt;&lt;br /&gt;해당 사업은 서울 소재 게임 분야 중소기업·스타트업 중 심사를 통해 총 18개 기업(제작 지원 8개사, 마케팅 지원 10개사)을 선발해 콘텐츠 개발과 마케팅 비용을 지원한다.&lt;br /&gt;&lt;br /&gt;원스토어는 유망 게임 콘텐츠 발굴과 마케팅 역량 지원을 통해 게임 산업 활성화를 도모하는 서울경제진흥원의 사업 취지에 동참해 매년 협약을 맺고 앱마켓 부문의 지원을 이어오고 있다.&lt;br /&gt;&lt;br /&gt;올해 지원 대상에 선발된 기업들에게는 ‘원스토어 베타게임존’에 심사 없이 참여할 수 있는 기회가 주어진다. 원스토어는 게임 정식 서비스에 앞서 원스토어 유저를 대상으로 베타테스트를 진행할 수 있는 베타게임존을 운영하고 있으며, 우수 게임에게는 클라우드 비용 및 마케팅 활동을 지원하고 있다.&lt;br /&gt;&lt;br /&gt;또한 원스토어는 ‘원스토어 사전예약존’ 또는 ‘원스토어 이달의 인디게임존’ 등에 우선적으로 게임을 소개할 수 있는 기회와 함께 향후 출시 시 쿠폰 프로모션 지원 등의 혜택도 제공한다.&lt;br /&gt;&lt;br /&gt;전동진 원스토어 대표는 “개발사와 게이머가 만나는 창구인 앱마켓으로서 중소 게임사의 성장을 지원하기 위해 사업에 동참했다”며 “앞으로도 역량 있는 중소 개발사들의 우수한 게임을 더 많은 이용자들에게 알리며 모바일 생태계 발전을 위해 노력하겠다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;한편, 원스토어는 중소 게임사의 게임 개발 활동을 적극 지원하고 있다. 원스토어는 중소 인디게임산업의 발전을 위해 2019년부터 ‘인디크래프트’ 후원을 이어오고 있다. 또한 2020년부터는 월 거래액 500만원 이하 사업자를 대상으로 수수료 절반을 감면해주는 정책을 시행하며, 더 많은 중소개발사에게 혜택을 제공할 수 있도록 노력하고 있다.&lt;br /&gt;
+        ◎공감언론 뉴시스 eschoi@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>개인정보위, 개인정보 보호·활용 기술 스타트업에 최대 1억</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002256123</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002256123</guid>
+      <pubDate>2023-04-06T16:03:24.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235552_web.jpg?rnd=20230406093151&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235552_web.jpg?rnd=20230406093151&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;【서울=뉴시스】송혜리 기자 = 개인정보보호위원회가 우수한 개인정보 보호·활용 기술을 보유하고 있는 스타트업 및 중소기업에 최대 1억원의 사업화 자금을 지원한다고 6일 밝혔다. &lt;br /&gt;&lt;br /&gt;개인정보위는 개인정보 보호·활용 우수기술을 보유하고 있는 스타트업 및 중소기업을 발굴하고, 사업화를 지원하는 &amp;#039;제3회 개인정보 보호·활용 기술개발 스타트업 챌린지(이하 스타트업 챌린지)&amp;#039;를 개최한다.&lt;br /&gt;&lt;br /&gt;올해로 3회째를 맞는 스타트업 챌린지는 개인정보에 관한 우수기술을 보유하고 있으나, 사업화 등에 어려움을 겪는 스타트업·중소기업을 발굴해 후속 기술개발을 위한 자금과 법·기술 자문 등 사업화 과정을 지원하는 사업이다. &lt;br /&gt;&lt;br /&gt;개인정보 보호·활용 기술 3대 분야(권리보장, 유·노출 최소화, 안전 활용)에 대해 6개 기업을 선발해 각 기업별로 6000만원의 사업화 자금을 지원하고, 기업 투자제안서 발표(IR 피칭, 10월)를 통해 6개 기업 중 사업 성과가 우수한 기업 3개를 선정해 상장과 추가 사업화 자금을 지원한다.&lt;br /&gt;&lt;br /&gt;특히, 올해에는 기존 사업화 지원 외에 추가로 민간 창업보육기관과 연계해 기업들의 투자 유치를 위한 기업 투자제안서 자문(IR 컨설팅)을 지원하는 등 지원규모를 확대한다. 아울러 성과가 우수한 기업에게는 2024년 사업과 연계해 후속지원을 검토하는 등 개인정보 보호·활용 우수기술을 보유한 기업이 지속적으로 성장할 수 있는 기반을 조성할 계획이다.&lt;br /&gt;&lt;br /&gt;참가를 원하는 기업은 오는 26일까지 온라인을 통해 신청이 가능하며, 자세한 내용은 개인정보위 및 한국인터넷진흥원, 개인정보보호포털에서 확인할 수 있다.&lt;br /&gt;&lt;br /&gt;양청삼 개인정보위 개인정보정책국장은 &amp;quot;신뢰 기반의 데이터 신경제 시대를 선도할 수 있는 우수한 개인정보 보호·활용 기술을 보유한 기업들이 이번 스타트업 챌린지에 많이 참여하길 기대한다&amp;quot;면서 &amp;quot;개인정보위는 앞으로도 우수한 개인정보 보호·활용 기술을 가진 민간 기업들이 지속적으로 성장할 수 있도록 연구개발(R&amp;D), 투자유치 등 지원을 아끼지 않겠다&amp;quot;고 밝혔다.&lt;br /&gt;
+        ◎공감언론 뉴시스 chewoo@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>[인사] 과학기술정보통신부</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002256883</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002256883</guid>
+      <pubDate>2023-04-06T16:03:38.000Z</pubDate>
+      <content:encoded>
+        [서울=뉴시스]윤현성 기자 = ◇과장급 전보&lt;br /&gt;▲연구윤리권익보호과장 유승후&lt;br /&gt;
         ◎공감언론 뉴시스 hsyhs@newsis.com
       </content:encoded>
     </item>
     <item>
-      <title>유유제약, 안구건조증 신약 조성물 美특허…4개국 등록</title>
-      <link>http://www.newsis.com/view?id=NISX20230406_0002256009</link>
-      <guid>http://www.newsis.com/view?id=NISX20230406_0002256009</guid>
-      <pubDate>2023-04-06T09:02:31.000Z</pubDate>
+      <title>네이버페이·스마트스토어 결제 오류…한 시간 만에 복구</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257054</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257054</guid>
+      <pubDate>2023-04-06T16:15:45.000Z</pubDate>
       <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235465_web.jpg?rnd=20230406085805&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235465_web.jpg?rnd=20230406085805&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;[서울=뉴시스]황재희 기자 = 국내 제약사 유유제약이 안구건조증 신약 조성물 미국 특허를 취득했다.&lt;br /&gt;&lt;br /&gt;유유제약은 자체 개발 중인 안구건조증 치료제 파이프라인 ‘YP-P10’ 약학 조성물에 대해 미국 특허청(USPTO) 특허를 취득했다고 6일 밝혔다.&lt;br /&gt; &lt;br /&gt;이번 특허는 YP-P10 주성분인 ‘펩타이드 유효성분 안구질환 치료용 약학 조성물’에 관한 것이다. 유유제약은 이번 미국 특허 취득으로 4개국(미국, 한국, 호주, 러시아) 특허 등록을 완료했으며, 유럽, 중국, 인도 등 11개국에 특허출원을 완료해 심사 중이다.&lt;br /&gt; &lt;br /&gt;안구건조증 치료제 YP-P10은 항염증과 각막 손상 개선을 통한 근본적인 안구건조증 치료를 목표로 하는 합성 펩타이드를 활용한 신약으로, 전임상시험을 통해 기존 약물 대비 우수한 항염증 효과를 확인했다.  &lt;br /&gt;&lt;br /&gt;유유제약은 4월말 개최되는 세계 최대 안과학회인 ‘ARVO’에서 YP-P10 작용기전에 대한 포스터 발표를 진행할 예정이며, 오는 6월 미국 내 7개 병원에서 240명의 안구건조증 환자를 대상으로 진행한 임상 2상 결과 발표를 목표로 하고 있다.&lt;br /&gt;
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236118_web.jpg?rnd=20230406160643&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236118_web.jpg?rnd=20230406160643&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]최은수 기자 = 6일 오후 네이버 간편결제 서비스 네이버페이와 스마트스토어에서 결제가 되지 않는 장애가 발생했다.&lt;br /&gt;&lt;br /&gt;이날 오후 2시 10분께부터 네이버페이 온오프라인 결제 오류가 발생했다. 오류는 약 한시간 만에 복구된 상태다. &lt;br /&gt;&lt;br /&gt;아울러 같은 시간 스마트스토어에서 &amp;#039;구매하기 클릭 시 일시적으로 주문이 불가능합니다. 고객센터에 문의 주세요.&amp;#039; 노출되며 구매 불가한 현상이 빚어졌다.&lt;br /&gt;&lt;br /&gt;네이버페이는 공지에서 &amp;quot;네이버페이 결제, 환불, 구매 확정 및 현장결제에 오류가 발생했다&amp;quot;라며 &amp;quot;발생한 장애는 복구됐으며 서비스 이용에 불편을 드려 대단히 죄송하다&amp;quot;라고 밝혔다.&lt;br /&gt;&lt;br /&gt;네이버페이 관계자는 &amp;quot;현재 오류는 복구 완료됐으며 정확한 원인은 파악 중이다&amp;quot;라고 말했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 eschoi@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>[인터뷰] 게임 조례에 롤드컵 서울 유치까지.. &apos;게임 해결사&apos;로 나선 김동욱 의원</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118717535/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118717535/1</guid>
+      <pubDate>2023-04-06T16:35:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118717378.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;올해 롤드컵 2023은 서울시(시장 오세훈)와 부산시(시장 박형준)의 공동 개최가 유력하다. 원래 부산시 단독 개최로 결정되는 듯했으나, 서울시의 치열한 유치 노력으로 인해 공동 개최로 노선이 기울었다. 결승전 개최 장소는 서울시의 고척돔이 현재 &apos;사용 승인 검토 단계&apos;에 올라있다.  또 지난 1월 22일에는 국민의힘과 민주당이 만장일치로 &apos;서울특별시 게임산업 육성 및 e스포츠 활성화 지원 조례안&apos;이 통과됐다. 이 조례를 통해 서울시 게임 지원 예산이 22억 8,600만 원에서 33억 8,600만 원으로 48% 증액됐다.  이 같은 서울시의 굵직한 친 게임 행보에는 김동욱 서울시 의원(국민의힘, 강남 5)의 역할이 컸다.  김동욱 의원은 서울시 게임 조례안을 대표 발의하고 통과시켜 서울시 게임 진흥의 토대를 마련했다는 평가를 받았으며, &apos;의원 5분 자유발언&apos;에서 롤드컵 2023 서울 유치를 나 홀로 주장하고 관철시켜 게이머들에게 눈도장을 찍었다.  이처럼 서울시의 &apos;게임 해결사&apos;로 나선 김동욱 의원은 게</content:encoded>
+    </item>
+    <item>
+      <title>하만카돈, 70주년 기념 주요 제품 할인</title>
+      <link>https://www.donga.com/news/list/article/all/20230406/118717754/2</link>
+      <guid>https://www.donga.com/news/list/article/all/20230406/118717754/2</guid>
+      <pubDate>2023-04-06T16:38:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118717748.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;하만인터내셔널이 6일 70주년 기념 주요 제품을 할인하는 행사를 마련했다.    1953년 시드니 하만과 버나드 카돈에 의해 설립된 하만카돈은 오디오 엔지니어링과 스타일리시한 디자인 연구를 70년간 거듭하며 정교하고 생동감 넘치는 사운드 경험을 전달했다.   하만카돈은 70주년을 기념해 돔 스타일의 시그니처 디자인과 블루투스 스피커 오라 스튜디오3의 스페셜 색상이 담긴 제품을 출시한다.  이와 함께 하만카돈은 주요 온라인 쇼핑몰에서 이달 30일까지 홈시네마 사이테이션 멀티빔 1100 홈시네마 패키지를 최대 24% 할인하는 행사를 연다. 오는 8일 11번가에서 행사가 진행될 예정이다.   G마켓에서는 오는 10일 오닉스 스튜디오7 블루투스 스피커를 최대 19% 할인 혜택을 제공한다. 네이버 스마트 스토어에서는 30일까지 하만카돈 제품을 최대 60% 할인하고 다양한 구매 혜택을 제공하는 ‘하만카돈 70주년 특별전’을 연다. 27일 오후 6시에는 오라 스튜디오3, 오닉스 스튜디오8을 풍성한 혜택과 함께 만나볼</content:encoded>
+    </item>
+    <item>
+      <title>한때 잘나간 &amp;#039;4:33&amp;#039;, 허리띠 조이고 &amp;#039;웹3&amp;#039; 외치는 이유</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257032</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257032</guid>
+      <pubDate>2023-04-06T16:45:11.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236120_web.jpg?rnd=20230406160738&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236120_web.jpg?rnd=20230406160738&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스] 오동현 기자 = &amp;quot;치열해진 게임 사업 환경에서 경쟁력과 수익성을 확보하기 위해 자회사 디랩스 중심으로 회사 구조를 변경키로 했다.&amp;quot;&lt;br /&gt;&lt;br /&gt;국내 1세대 모바일게임사 네시삼십삼분(4:33)이 블록체인 회사로 체질을 개선하고 자회사 &amp;#039;디랩스 게임즈&amp;#039;를 통해 블록체인 게임 3종을 올해 안에 글로벌 시장에 선보일 방침이다. &lt;br /&gt;&lt;br /&gt;6일 회사에 따르면 한성진 4:33 대표는 &amp;quot;3종의 블록체인 게임을 &amp;#039;디랩스 게임즈&amp;#039;를 통해 직접 개발하고 직접 서비스하는 형태로 글로벌 시장에서 성과를 내도록 주력할 것&amp;quot;이라고 밝혔다. 디랩스는 권준모 4:33 이사회 의장이 직접 대표를 맡아 블록체인 사업을 챙기고 있다. &lt;br /&gt;&lt;br /&gt;디랩스는 게임 본연의 재미와 커뮤니티를 우선으로 하는 블록체인 게임 개발 전문 자회사로 단순히 NFT를 구매, 민팅(NFT 발행), 판매하거나 플레이에 따라 코인을 얻는 초기 수집형 블록체인 게임 구조에서 더 나아가, 최종적으로 커뮤니티가 소유권을 가지는 탈중앙화(웹3) 게임을 추구한다.  &lt;br /&gt;&lt;br /&gt;지난달에는 글로벌 게임 개발자 컨퍼런스 &amp;#039;GDC 2023&amp;#039;에서 마이클 블랭크 폴리곤 COO 등 폴리곤 랩스의 주요 경영진을 만나 개발 중인 웹3 게임 &amp;#039;럼블 레이싱 스타&amp;#039; 생태계 구축에 대한 협업을 발표했다. 권준모 의장은 &amp;quot;디랩스는  폴리곤의  최신 기술을 바탕으로 웹3 게임을 누구라도 쉽고 편하게 즐길 수 있도록 하겠다&amp;quot;며 &amp;quot;초기 블록체인 게임 구조를 넘어 최종적으로 커뮤니티가 소유권을 가져가는 탈중앙화 방식을 추구하겠다&amp;quot;고 밝혔다.&lt;br /&gt;&lt;br /&gt;4:33과 디랩스가 &amp;#039;웹3&amp;#039;를 외치는 이유는 결국 &amp;#039;자금&amp;#039; 때문이다. 최근 4:33은 전체 직원의 5분의 1을 줄여 경영효율화를 도모할 정도로 사정이 좋지 않은 것으로 전해졌다. 2014년 국내 모바일게임 최초로 게임대상을 수상한 &amp;#039;블레이드&amp;#039;의 성공으로 유망 게임사 대열에 올라섰으나, 이후 이렇다 할 흥행작을 배출하지 못했다. &lt;br /&gt;&lt;br /&gt;그 결과 4:33의 재무 실적은 매년 내리막길을 걷고 있다. 매출은 2018년 503억원, 2019년 460억원, 2020년 351억원, 2021년 203억원으로 지속 감소했다. 영업손실도 2018년 12억원, 2019년 15억원, 2020년 31억원, 2021년 105억원으로 확대됐다. 2022년 실적은 아직 발표 전이나, 실적 개선은 불투명한 상황이다.&lt;br /&gt;&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236154_web.jpg?rnd=20230406162318&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236154_web.jpg?rnd=20230406162318&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;◆왜 &amp;#039;웹3&amp;#039; 진출하나…&amp;#039;신성장동력 확보&amp;#039; 혹은 &amp;#039;신규 자금 유치&amp;#039;&lt;br /&gt;&lt;br /&gt;가상자산 공시 플랫폼 쟁글은 4:33처럼 국내 게임사들이 블록체인 게임 시장에 진출하는 현실적인 이유로 ▲신성장동력 확보 ▲토큰을 통한 신규 자금 유치를 꼽았다.&lt;br /&gt;&lt;br /&gt;쟁글은 보고서를 통해 &amp;quot;확실한 지식재산권(IP)를 기반으로 매출이 꾸준하게 증가하는 대형 게임사와는 다르게 새로운 성장동력이 필요한 중소형 게임사 입장에서 블록체인 게임은 떠오르는 시장에 진출할 매력적인 카드였을 것&amp;quot;이라며 &amp;quot;오랜 기간 준비기간이 필요하고, 많게는 1000억원 이상 소요되는 AAA 게임을 준비하고 출시하기가 부담스러운 중소형 게임사들에게 기존 IP에 블록체인 요소를 가미하는 것은 상대적으로 부담이 덜한 선택이었을 것&amp;quot;이라고 분석했다. &lt;br /&gt;&lt;br /&gt;신규 자금 유치 관점에서도 블록체인 게임은 기존에 주식으로 1차적 자금조달을 했던 웹2 게임사들에겐 추가적인 자금 조달 옵션으로 작용했다고 분석했다. 실제로 게임사들은 퍼블릭 시장에 가상자산을 직접 매매해 자금을 마련하거나, 가상자산 출시 직전 프라이빗 투자유치를 통해 자금을 모집했다. &lt;br /&gt;&lt;br /&gt;쟁글에 따르면, 대표적으로 위메이드는 2억5000달러(약 2637억원), 컴투스는 2500만달러(약 330억원), 네오위즈는 1200만달러(158억원)를 가상자산을 통해 마련했다. 해당 자금은 블록체인 개발팀을 꾸리고, 레이어1을 구축하는 한편, 새로운 콘텐츠 IP를 확보하는 데 쓰였다.&lt;br /&gt;&lt;br /&gt;디랩스는 폴리곤과 손 잡고 올해 안에 블록체인 게임 신작 3종 ▲멀티플레이어 레이싱 게임 &amp;#039;럼블 레이싱 스타&amp;#039; ▲우주 난민 서바이벌 게임 &amp;#039;스페이스 프론티어&amp;#039; ▲역할수행게임(RPG) &amp;#039;메타볼츠&amp;#039;를 선보일 예정이다. &amp;#039;럼블 레이싱 스타&amp;#039;에는 다양한 프로필 사진(PFP)  캐릭터가 등장한다. 이는 대체불가토큰(NFT)으로 &amp;#039;오픈씨&amp;#039; 등에서 거래 가능하다. &lt;br /&gt;&lt;br /&gt;디랩스의 블록체인 게임에서 쓰일 가상자산은 공개되지 않았다. 다만 디랩스가 폴리곤 네트워크에 합류를 발표한 바 있어 폴리곤이 사용하는 메틱을 사용할 가능성이 있다. &lt;br /&gt;&lt;br /&gt;한편 디랩스는 트위터와 디스코드 등 자사 SNS 채널을 통해 웹3 게임 사업을 적극적으로 알리고 있다. 디랩스 공식 트위터 계정 팔로워 수는 채널 오픈 3주 만에 5만2000명을 돌파했다. 권 의장은 &amp;quot;트위터와 디스코드 등 자사의 SNS 채널들을 통해 공개되는 게임 영상과 개발자 노트 등을 통해 커뮤니티가 주도적으로 소통하며 즐기는 공간을 만들겠다&amp;quot;고 전했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 odong85@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>꼬부랑 노인은 옛말…고령자 10명 중 8명 ‘허리 꼿꼿’ 바른체형</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118717944/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118717944/1</guid>
+      <pubDate>2023-04-06T17:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118715591.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;소득 수준 향상과 꾸준한 자기관리 덕에 허리 굽은 노인의 비율이 20%에도 미치지 못하는 것으로 나타났다. 산업통상자원부 국가기술표준원은 6일 서울 롯데월드타워에서 열린 사이즈코리아 성과 발표회에서 이 같은 내용을 담은 ‘제3차 고령자 인체지수 조사결과’를 발표했다. 국표원은 지난해 6~12월 70~84세 고령자 1014명의 키, 몸무게, 다리·팔 길이, 허리둘레 등 360개 항목을 측정했다. 조사 결과 고령 인구의 평균 키는 남성 165.7㎝, 여성 152.1㎝로 첫 조사가 이뤄진 2003년에 비해 각각 2.9㎝, 2.7㎝ 커졌다. 남녀 평균 체중은 66.8㎏, 56.7kg으로 같은 기간 각각 5.1㎏, 1.0㎏ 늘었다. 남녀 고령자의 신체 형태에도 변화가 있었다. 허리가 굽지 않고 바로 선 ‘바른 체형’의 비율이 전체의 83.4%로 관련 조사가 이뤄진 이후 가장 높았다. 몸통 전체 축이 94도 이상인 ‘젖힌 체형’은 13.8%, 87도 이하인 ‘숙인 체형’은 2.8%였다. 바른</content:encoded>
+    </item>
+    <item>
+      <title>네이버페이 결제 장애 복구…&amp;quot;원인은 서버 오류&amp;quot;(종합)</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257176</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257176</guid>
+      <pubDate>2023-04-06T17:06:10.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236118_web.jpg?rnd=20230406160643&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236118_web.jpg?rnd=20230406160643&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스]최은수 기자 = 6일 오후 네이버 간편결제 서비스 네이버페이 온·오프라인 결제가 되지 않는 장애가 발생했다. 장애는 한 시간 만에 복구 완료됐으며, 원인은 포인트 서버 관련 작업 중 설정오류로 확인됐다. &lt;br /&gt;&lt;br /&gt;이날 네이버에 따르면 오후 2시 15분부터 3시20분까지 약 한 시간 동안 네이버 쇼핑 내 ▲스마트스토어 ▲브랜드스토어 ▲쇼핑라이브 내 결제를 비롯해 구매확정, 환불접수와 결제형 가맹점 결제, 네이버페이 현장QR결제(포인트,머니 결제) 등이 작동하지 않는 오류가 발생했다.&lt;br /&gt;&lt;br /&gt;일각에서는 최근 네이버페이가 삼성페이와 간편결제 서비스를 연동해 이용자가 몰리면서 오류가 빚어진 것이 아니냐는 관측이 제기됐으나, 신용·체크카드와 연동한 현장QR 결제 및 삼성페이 오류 발생하지 않았다는 게 회사 측의 설명이다.  &lt;br /&gt;&lt;br /&gt;네이버페이는 공지에서 &amp;quot;네이버페이 결제, 환불, 구매 확정 및 현장결제에 오류가 발생했다&amp;quot;라며 &amp;quot;발생한 장애는 복구됐으며 서비스 이용에 불편을 드려 대단히 죄송하다&amp;quot;라고 밝혔다.&lt;br /&gt; &lt;br /&gt;네이버페이 관계자는 &amp;quot;현재 오류는 복구 완료됐으며 장애 원인은 포인트 서버 관련 작업중 설정오류&amp;quot;라고 밝혔다.&lt;br /&gt;
+        ◎공감언론 뉴시스 eschoi@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>베리스모, &amp;#039;차세대 CAR-T 치료제&amp;#039; FDA 패스트트랙 지정</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257199</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257199</guid>
+      <pubDate>2023-04-06T17:11:49.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2022/11/29/NISI20221129_0001141297_web.jpg?rnd=20221129125950&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2022/11/29/NISI20221129_0001141297_web.jpg?rnd=20221129125950&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[서울=뉴시스]황재희 기자 = 신약개발 기업 HLB 미국 계열사 베리스모의 CAR-T(키메라항원수용체T) 치료제가 미국 식품의약국(FDA)으로부터 패스트트랙 지정을 받았다.&lt;br /&gt; &lt;br /&gt;HLB는 베리스모가 개발 중인 차세대 CAR-T 치료제 ‘SynKIR-110’이 중피종(Mesothelioma)에 대해 미국 FDA로부터 패스트트랙을 지정 받았다고 6일 밝혔다.&lt;br /&gt; &lt;br /&gt;패스트트랙 지정은 미충족 의료수요가 높은 질병에 대해 기존에 없던 새로운 치료법이나 기존 치료제보다 뛰어난 것으로 평가받는 약물에 대해 FDA가 신속하게 심사 과정을 진행하는 등 개발을 지원하기 위해 마련된 절차이다.&lt;br /&gt; &lt;br /&gt;HLB에 따르면, 베리스모가 보유하고 있는 KIR-CAR 플랫폼은 NK면역세포 수용체 구조와 유사한 멀티체인 수용체를 T세포에 발현시키는 기술을 적용해 혈액암 치료에만 국한된 기존 CAR-T 치료제의 한계를 극복하고 여러 고형암에 효과를 발휘하는 것이 특징이다.&lt;br /&gt; &lt;br /&gt;베리스모는 지난해 9월 FDA로부터 1상 임상시험계획(IND)을 승인 받은 바 있다. 이후 중피종에 대해 희귀의약품으로 지정 받았고 패스트트랙으로도 지정됐다. &lt;br /&gt; &lt;br /&gt;중피종은 흉부 외벽에 붙어있는 흉막이나 복부를 둘러싼 복막, 심장을 싸고 있는 심막 표면을 덮는 중피에 발생하는 악성 종양으로, 환자 5년 평균 생존율이 10%에 불과하다.&lt;br /&gt; &lt;br /&gt;베리스모가 개발하는 SynKIR-110은 현재 메소텔린이 과발현된 중피종, 담관암, 난소암에 대한 치료제로 임상 1상이 진행되고 있다. 베리스모는 별도로 재발 후 약물 무반응성을 보이는 혈액암에 대한 임상도 준비하고 있다. &lt;br /&gt; &lt;br /&gt;베리스모 브라이언 김 대표는 “앞으로 다각적 임상을 통해 다양한 적응증에 대한 SynKIR의 뛰어난 효과를 입증해 가겠다”고 말했다.&lt;br /&gt;
         ◎공감언론 뉴시스 hjhee@newsis.com
       </content:encoded>
     </item>
     <item>
-      <title>&amp;quot;전기·통신 사용량 없으면 AI가 안부확인&amp;quot;…SKT, 금천구 200가구에 서비스</title>
-      <link>http://www.newsis.com/view?id=NISX20230406_0002255955</link>
-      <guid>http://www.newsis.com/view?id=NISX20230406_0002255955</guid>
-      <pubDate>2023-04-06T09:04:46.000Z</pubDate>
+      <title>웰스바이오, &amp;#039;최단시간 G6PD 결핍증 측정장비&amp;#039; 日 인증</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257211</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257211</guid>
+      <pubDate>2023-04-06T17:14:58.000Z</pubDate>
       <content:encoded>
-        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235438_web.jpg?rnd=20230406083643&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235438_web.jpg?rnd=20230406083643&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스] 심지혜 기자 = SK텔레콤이 인공지능(AI) 기술과 통신 빅데이터를 활용해 사회적 고립가구를 위한 사회안전망 강화에 나선다.&lt;br /&gt;&lt;br /&gt;SK텔레콤은 금천구청, 서울시복지재단, 한국전력, 행복커넥트와 6일 서울 금천구청에서 AI 기반 통합 안부서비스 &amp;#039;AI 안부 든든 서비스&amp;#039; 제공을 위한 업무협약을 체결했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;&amp;#039;AI 안부 든든 서비스&amp;#039;는 사회적 고립가구에서 발생할 수 있는 안전문제를 해결하기 위해 마련됐다. &lt;br /&gt;&lt;br /&gt;대상자 가정에 별도 기기 설치 없이 통신 빅데이터·전력 사용량·센싱 애플리케이션 등 분석을 통해 운영된다.&lt;br /&gt;&lt;br /&gt;일정 기간 통신이 발생하지 않거나 전기 사용이 없는 등 이상상황이 예측되는 경우, SK텔레콤의 누구 비즈콜(NUGU bizcall)을 활용해 안부를 확인하고 필요시 현장 요원이 긴급출동해 대상자 안전을 확보하는 방식이다.&lt;br /&gt;&lt;br /&gt;SK텔레콤과 금천구청은 이달부터 연말까지 약 200가구를 대상으로 서비스를 제공할 계획이다. &lt;br /&gt;&lt;br /&gt;향후 고립·고독사 위험가구를 체계적으로 발굴하고 지원하는 서울시 고립가구 지원 정책과 연계, 중증장애인이나 고령의 기초수급자 등 사회적 약자들을 위한 안전체계가 강화될 것으로 기대된다.&lt;br /&gt;&lt;br /&gt;금천구청은 돌봄 대상 선정과 함께 서비스 평가를, SK텔레콤은 서비스 운영과 기획, 통신∙AI콜 데이터 연계를 맡는다. 한국전력은 원격검침이 가능한 에너지 사용 관리 시스템(AMI)의 확인과 설치, 전력데이터와 관련된 AI모델 생성을, 행복커넥트는 앱 데이터와 연계한 관제 및 출동 서비스 제공을 각각 담당한다.&lt;br /&gt;&lt;br /&gt;이와 함께 서울시복지재단은 관제결과 및 출동 이후의 돌봄 대상자들을 위한 조치를 담당하며, &amp;#039;AI 안부 든든 서비스&amp;#039;의 효과성을 분석해 서울시 고독사 예방정책 개발에 적극 활용할 예정이다.&lt;br /&gt;&lt;br /&gt;협약 기관들은 이번 금천구청 대상 시범서비스를 시작으로 독거노인은 물론 사회적 고립위험이 있는 1인 가구들에도 &amp;#039;AI 안부 든든 서비스&amp;#039;를 제공하고, 현장의 다양한 목소리를 반영하여 서비스를 고도화해 나갈 예정이다.&lt;br /&gt;&lt;br /&gt;유성훈 금천구청장은 &amp;quot;AI안부 든든 서비스와 같이 통합 관제가 가능한 돌봄 서비스는 고립 위험이 높은 가구들의 안전한 생활을 지원하는데 큰 도움이 될 것으로 기대한다&amp;quot;고 말했다. &lt;br /&gt;&lt;br /&gt;최낙훈 SK텔레콤 인더스트리얼 AIX CO담당은 &amp;quot;고객과 밀접한 서비스를 제공하는 통신사로서, AI와 빅데이터 기반의 솔루션을 활용하여 국민의 안전과 건강에 기여하는 ESG 경영에 앞장서기 위해 최선을 다할 것&amp;quot;이라고 전했다.&lt;br /&gt;
-        ◎공감언론 뉴시스 siming@newsis.com
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236239_web.jpg?rnd=20230406170936&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236239_web.jpg?rnd=20230406170936&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;[서울=뉴시스]황재희 기자 = 국내 제약사 팜젠사이언스가 최대주주인 글로벌 체외진단 기업인 엑세스바이오 자회사 웰스바이오 진단장비가 일본 정부 인증을 받았다.&lt;br /&gt;&lt;br /&gt;웰스바이오는 G6PD(포도당-6-인산탈수소효소) 결핍을 측정하는 분석장비인 ‘careSTART™ G6PD Biosensor Analyzer’가 일본 PMDA(의약품의료기기종합기구) 인증을 획득하고 이달 중 수출에 나선다고 6일 밝혔다.&lt;br /&gt; &lt;br /&gt;해당 장비는 사람 혈액(전혈·모세혈) 검체에서 효소 반응을 통해 G6PD 농도를 정량적으로 측정, 결핍증 진단에 도움을 주는 의료용 효소 면역 검사 장치이다. 세계 최초로 G6PD 정량적 검사 결과를 단 4분 만에 도출할 수 있도록 개발된 시스템으로, 휴대가 용이하고 사용 방법이 간편하다.&lt;br /&gt; &lt;br /&gt;G6PD 결핍증은 전세계적으로 약 4억 명 이상의 환자가 존재하는 것으로 추정되는 가장 흔한 효소 결핍증이다. G6PD는 적혈구를 구성하는 헤모글로빈 안정성을 유지하는데 중요한 역할을 하는 효소로, 혈액 내 산소 운반 기능을 지속 가능케 한다.&lt;br /&gt; &lt;br /&gt;G6PD 결핍증 환자는 체내 감염 또는 특정 약물에 의해 적혈구가 쉽게 파괴돼 빈혈, 황달, 피로, 호흡곤란 등의 증상을 겪을 수 있다. 결핍증 환자가 말라리아 감염 후 치료를 위한 특정 약물을 처방받거나 면역치료 등을 위한 고용량 비타민C 주사를 처방받을 경우 급성 용혈성 빈혈과 같은 부작용으로 인해 심하면 사망에 이를 수 있어 G6PD 수치를 측정하는 것이 중요하다.&lt;br /&gt; &lt;br /&gt;웰스바이오는 해당 제품의 일본 PMDA 1등급 의료기기 신고 및 인증을 획득해 이달부터 현지 수출에 나설 예정이다. PMDA는 일본 후생노동성 산하 독립행정법인으로, 국내 식품의약품안전처 기능을 한다. 일본에 의료기기를 수출하기 위해서는 PDMA 인증을 받아야 한다. &lt;br /&gt; &lt;br /&gt;웰스바이오 관계자는 “G6PD 검사는 말라리아 치료제 처방 전 검사 목적으로 활용하는 것은 물론 신생아 황달 및 선천성 용혈 질환의 진단 등에도 도움을 줄 수 있는 다목적 검사 항목”이라며 “일본의 경우 성형외과 시술 후 회복 촉진이나 피부노화방지 등을 위한 비타민 치료 요법으로 많이 쓰여 G6PD 측정 수요가 꾸준히 증가하고 있다”고 말했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 hjhee@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>엔씨는 어쩌다 &amp;#039;리니지 아버지&amp;#039;에 총을 겨눴나[사이다IT]</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002256536</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002256536</guid>
+      <pubDate>2023-04-06T17:37:34.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235557_web.jpg?rnd=20230406093250&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235557_web.jpg?rnd=20230406093250&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]최은수 기자 = 국내 대형 게임사 엔씨소프트가 지난달 출시된 모바일 게임 신작 ‘아키에이지 워’가 자사 다중접속역할수행게임(MMORPG) &amp;#039;리니지2M&amp;#039;을 베꼈다며 카카오게임즈와 엑스엘게임즈를 상대로 저작권 침해 소송을 제기했습니다.&lt;br /&gt;&lt;br /&gt;엔씨소프트와 카카오게임즈 등 대형 게임사간 소송도 이례적입니다만 김택진 엔씨소프트 대표가 과거 창업 동료이자 &amp;#039;리니지 아버지&amp;#039;로 불리는 1세대 개발자 송재경 대표를 타깃으로 제기한 소송이라는 점이 초미의 관심사로 떠올랐습니다. &lt;br /&gt;&lt;br /&gt;엔씨소프트는 전날 서울중앙지방법원에 카카오게임즈와 엑스엘게임즈를 상대로 저작권 침해 및 부정경쟁행위에 대한 소장(민사)을 접수했습니다. 엔씨소프트 측은 “카카오게임즈와 엑스엘게임즈가 3월 21일 출시한 &amp;#039;아키에이지 워&amp;#039;에서 당사의 대표작인 &amp;#039;리니지2M&amp;#039;의 콘텐츠와 시스템을 다수 모방한 사실을 확인했다”라고 밝혔습니다. &lt;br /&gt;&lt;br /&gt;회사는 아키에이지 워가 리니지2M과 단순히 장르적 유사성을 넘어 엔씨소프트의 지식재산권(IP)을 무단 도용하고 표절했다며 으름장을 놓고 있습니다.&lt;br /&gt;&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235832_web.jpg?rnd=20230406114041&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001235832_web.jpg?rnd=20230406114041&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;◆&amp;quot;고유 시스템·핵심 콘텐츠·UI 동일&amp;quot;…엔씨가 소송에 나선 이유&lt;br /&gt;&lt;br /&gt;많은 리니지 라이크 게임 가운데 엔씨소프트가 신작 &amp;#039;아키에이지 워&amp;#039;를 콕 찝어 고소한 이유는 무엇일까요. 아키에이지 워는 출시 후 리니지2M과 상당히 유사하다는 지적이 제기된 것이 사실입니다. 유명 게임 인플루언서도 유튜브 등에서 이러한 점을 문제제기해 논란이 되기도 했죠.&lt;br /&gt;&lt;br /&gt;엔씨소프트는 아키에이지 워가 리니지2M의 고유 시스템인 ▲클래스(직업) 시스템 ▲주·부무기 시스템 ▲신탁 시스템클래스, 그리고 성장과 전투에 필요한 핵심 콘텐츠인 ▲PvP 시스템 ▲제작 ▲아이템 강화 및 컬렉션 ▲사냥 편의 시스템 등과 게임 UI에 해당되는 ▲메인화면 ▲환경설정의 구성과 명칭 ▲퀘스트 ▲거래소 ▲버프창 ▲스킬 및 아이템 설명 등이 저작권을 침해했다고 주장합니다.&lt;br /&gt;&lt;br /&gt;예를 들어 게임 UI에서 캐릭터 선택창, 게임 플레이 화면, 거래소가 동일하고 환경설정의 경우 항목 및 표현이 전체가 똑같다는 설명입니다. 게임 시스템에서도 모바일 환경의 전투 편의를 위한 ‘타겟 스캐닝, 랭킹 시스템과 혜택, PvP 결과와 복수 및 조롱 등 이용자간 상호작용 등이 시스템과 UI를 모방했다고 주장합니다.  주무기나 부무기 등 2종의 무기를 혼합해 사용하는 리니지2M의 고유한 시스템을 따라했고, 강화 시스템 전반의 매커니즘과 사용 재화를 &amp;#039;모방&amp;#039;했다고 표현합니다. &lt;br /&gt;&lt;br /&gt;이런 &amp;#039;모방&amp;#039;, &amp;#039;동일&amp;#039; 표현을 쓰면서까지 엔씨소프트가 아키에이지 워가 단순히 리니지2M 유사성을 띄는 수준이 아닌 무단 도용했다고 주장하는 이유는 뭘까요. 아마도 아키에이지 워는 리니지에 실질적인 위협이 되고 있기 때문일 것입니다. 아키에이지 워는 구글플레이 매출 2~3위를 들 정도로 리니지2M과 리니지W를 제치고 1위인 리니지M을 바짝 추격하고 있습니다. 엔씨소프트 입장에서 가만히 지켜볼 수 만은 없었을 것이라는 해석이 나옵니다. &lt;br /&gt;&lt;br /&gt;◆김택진-송재경, &amp;#039;리니지&amp;#039;로 한솥밥 먹던 사이에서 소송전으로&lt;br /&gt;&lt;br /&gt;주목되는 것은 엔씨소프트가 소송을 제기한 아키에이지 워 개발사 엑스엘게임즈 CEO(최고경영자)가 &amp;#039;리니지 아버지&amp;#039;로 불리는 송재경 대표라는 점입니다. 송 대표는 온라인 게임 대명사 &amp;#039;리니지&amp;#039;를 직접 개발한 1세대 개발자인데요. &lt;br /&gt;&lt;br /&gt;당시 &amp;#039;아이네트&amp;#039;에서 &amp;#039;리니지&amp;#039; 게임 개발 프로젝트를 진행했던 송재경 대표는 이 회사가 통신업종으로 주력사업을 바뀌자 당시 김택진 대표의 제안을 받고 벤처기업이던 엔씨소프트에 개발총괄 부사장으로 합류했습니다. 이렇게 해서 1997년 엔씨소프트에서 &amp;#039;리니지&amp;#039;가 탄생합니다.  리니지 출시로 국내에 2D 온라인게임 시대가 활짝 열리게 됐죠. ‘리니지’는 짧은 기간에 국내 시장을 평정했고 엔씨소프트는 연매출 1000억원을 달성하는 등 단숨에 성장했습니다.&lt;br /&gt;&lt;br /&gt;송 대표는 지난 2003년 엔씨소프트를 돌연 사임했습니다. 당시 업계에서는 송 대표가 김택진 대표와 갈등을 빚다 회사를 떠났다는 해석이 많았습니다. 실제 송 대표는 해외 개발사 영입이나 온라인게임 퍼블리싱과 관련해 김택진 사장과 잦은 의견 충돌이 있었던 것으로 전해졌었죠. &lt;br /&gt;&lt;br /&gt;이후 송 대표는 엑스엘게임즈를 세우고 첫 작품으로 온라인 레이싱 게임을 선보였지만 큰 흥행은 하지 못했습니다. 이어 그의 노하우를 살려 온라인게임 &amp;#039;아키에이지&amp;#039;를 출시해 어느 정도 성과를 냈습니다. 이어 모바일게임 &amp;#039;달빛조각사&amp;#039;를 개발했고 카카오게임즈가 서비스를 맡았습니다. 다만 흥행 성과는 기대에 미치지 못했죠. &lt;br /&gt;&lt;br /&gt;그리고 지난 2020년 카카오게임즈는 엑스엘게임즈를 지분 약 53%를 취득하고, 경영권을 인수했습니다. 당시 자본잠식 상태였음에도 불구하고 기업가치를 높게 평가해 주목을 받았습니다. 엑스엘게임즈는 지난해 기준 매출 179억원, 당기순손실 340억원을 기록했으며 완전자본잠식 상태입니다. &lt;br /&gt;&lt;br /&gt;카카오게임즈와 엑스엘게임즈는 아직 엔씨소프트가 제기한 소송에 대해 아직 침묵하고 있습니다. 카카오게임즈 측은 &amp;quot; 소장이 접수되지 않았다&amp;quot;라며 &amp;quot;소장을 확인한 후 회사의 공식 입장을 밝힐 예정&amp;quot;이라고 밝히고 있습니다. &lt;br /&gt;&lt;br /&gt;하지만 송재경 대표 입장에선 엔씨소프트의 이번 소송이 당황스러웠을 것으로 보입니다.  국내 게임 산업계의 가장 위대한 IP(지식재산)로 평가받는 &amp;#039;리니지&amp;#039;를 직접 기획하고 개발한 장본인이기 때문이죠. 물론 엑스엘게임즈가 모방했다고 주장하는 게임은 모바일 게임 &amp;#039;리니지2M&amp;#039;입니다만, 결과적으로 이 게임의 뿌리 역시 그가 개발한 &amp;#039;리니지&amp;#039;라 할 수 있습니다. &lt;br /&gt;&lt;br /&gt;&amp;#039;리니지&amp;#039; IP의 소유권은 당연히 법인인 엔씨소프트에 있습니다만, &amp;#039;리니지&amp;#039; 신화를 함께 쓰며 국내 온라인 게임역사의 한획을 그었던 김택진 대표와 송재경 대표가 어쩌다 법정다툼을 벌이게 된 현실이 아쉬웠을 것입니다. 이는 김택진 사장도 마찬가지이겠구요.  &lt;br /&gt;&lt;br /&gt;◆리니지 라이크 범람…게임업계 지식재산권 소송 지속될 듯&lt;br /&gt;&lt;br /&gt;만약 이번 소송에서 엔씨소프트가 이기게 될 경우 국내 MMORPG 시장에 미치는 파급력은 상당할 전망입니다. 국내에 출시되는 다수의 MMORPG 가운데 소위 &amp;#039;리니지 라이크&amp;#039;가 아닌 게임을 찾기 쉽지 않기 때문입니다.&lt;br /&gt;&lt;br /&gt;리니지 라이크란 경쟁에서 우위를 점하기 위한 페이 투 윈(P2W·Pay to Win) 과금 모델을 바탕으로 하고 플레이어 킬(PK)과 자동 전투 위주의 플레이, 이를 뒷받침할 변신, 탈 것, 펫, 강화·변신 뽑기, 보스 사냥 그리고 유저인터페이스(UI)까지 리니지와 유사한 게임성을 띄는 것을 의미합니다.&lt;br /&gt;&lt;br /&gt;리니지 시리즈가 국내 MMORPG 시장을 선점하면서, 중소 게임사 뿐만 아니라 대형 게임사들도 MMORPG를 출시할 때 리니지 요소를 차용하고 있습니다. 우선 흥행 실패 가능성이 적고, 게임 이용자 &amp;#039;큰 손&amp;#039;인 린저씨(리니지 유저)들을 뺏어오는 효과를 누릴 수 있는 데다가 안전하게 매출을 창출할 수 있기 때문입니다. 하나의 성공방식으로 자리잡은 셈이죠.&lt;br /&gt;&lt;br /&gt;엔씨소프트는 앞서 2021년 6월 &amp;#039;R2M&amp;#039;을 서비스하는 웹젠을 상대로 저작권 소송을 제기한 바 있습니다. 당시 엔씨소프트는 &amp;quot;R2M에서 리니지M을 모방한 듯한 콘텐츠와 시스템을 확인해 당사 핵심 IP를 보호할 필요가 있다고 결정했다&amp;quot;며 소송을 제기한 바 있습니다. &lt;br /&gt;&lt;br /&gt;하지만 소송을 제기한 지 2년이 지난 현재까지 1심을 진행 중입니다. 이번 아키에이지 워 법적 분쟁 역시 결론이 나오기까지 상당 시간이 소요될 것이란 전망이 나옵니다. &lt;br /&gt;&lt;br /&gt;법원에서 엔씨소프트의 주장이 받아들여질지는 지켜봐야 할 전망입니다. 게임업계에서 저작권 침해를 인정 받기 쉽지 않기 때문입니다. &lt;br /&gt;&lt;br /&gt;단, 엔씨소프트가 당시 웹젠 R2M의 어느 요소가 리니지M을 모방했는지 구체적으로 명시하지 않은 것과 달리 이번에는 ‘리니지2M’ 고유의 시스템, 성장과 전투에 필요한 핵심 콘텐츠, 게임 UI 등이 저작권을 침해한 사례라고 밝히며 &amp;#039;초강수&amp;#039;를 뒀다는 게 차이점입니다. &lt;br /&gt;&lt;br /&gt;정준모 법무법인 다빈치 변호사는 &amp;quot;100% 게임을 복제한 게 아닌 이상 게임에서 콘셉트나 장르의 유사성만으로 지식재산권 침해를 인정 받기 쉽지 않다&amp;quot;라며 &amp;quot;지식재산권을 과도하게 인정해주면 게임 개발에 독점권을 주는 그림이 되기 때문에 법원에서 보수적으로 접근하기 때문&amp;quot;이라고 말했습니다. &lt;br /&gt;&lt;br /&gt;승소 여부와 별개로 엔씨소프트의 이번 소송은 게임업계에 날리는 &amp;#039;경고장&amp;#039;이기도 합니다. 엔씨소프트 측은 &amp;quot;지식재산권은 장기간 연구개발을 통해 만들어진 결과물로 마땅히 보호 받아야 하는 기업의 핵심 자산&amp;quot;이라고 피력했습니다.&lt;br /&gt;
+        ◎공감언론 뉴시스 eschoi@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>운동 ‘이렇게’ 해보세요…고혈압 발생 위험 44% 감소</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118714306/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118714306/2</guid>
+      <pubDate>2023-04-06T18:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118714260.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;유산소 운동과 근력 운동을 병행하면 고혈압 발생 위험이 크게 줄어든다는 연구 결과가 나왔다.   질병관리청 국립보건연구원은 박재호 박사 등이 지난 12년간 쌓인 한국인유전체역학조사사업(KoGES) 데이터를 활용해 꾸준한 운동과 고혈압 발생 사이 연관성을 확인했다고 6일 밝혔다.   연구팀은 경기에 거주하는 40~70대 남녀 5075명을 대상으로 지난 4년간 누적된 유산소 신체활동(주당 150분 이상 중강도) 및 저항성운동(근육의 이완과 수축을 반복하는 근력운동)이 고혈압 발생에 미치는 영향을 추적 조사했다. 중강도 유산소 운동은 땀이 날 정도 혹은 숨이 차지만 옆사람과 대화는 가능한 정도의 신체 활동이다.   그 결과, 주당 150분 이상의 중강도 유산소 신체활동을 한 집단의 경우 고혈압 발생 위험이 남성 31%, 여성 35% 각각 줄었다. 다만 저항성 운동만 한 경우 남녀 모두 고혈압 예방 효과는 나타나지 않았다. 반면 두 가지 신체 활동을 함께 수행한 집단은 운동을 하지 않는 사람에 비해 고혈압 발생</content:encoded>
+    </item>
+    <item>
+      <title>의협 &amp;quot;초음파, 진단 정확도 중요…파기환송심서 입증할 것&amp;quot;</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257147</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257147</guid>
+      <pubDate>2023-04-06T18:03:09.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0019846352_web.jpg?rnd=20230406091510&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0019846352_web.jpg?rnd=20230406091510&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스] 백영미 기자 = 대한의사협회(의협)는 한의사의 초음파 진단 기기 사용과 관련된 파기환송심서 초음파 진단의 정확도가 떨어지면 국민 건강에 위해를 끼칠 수 있다는 점을 입증하는 데 주력하겠다는 입장을 냈다. &lt;br /&gt;&lt;br /&gt;의협은 6일 입장문을 내고 &amp;quot;전문적인 교육과 훈련을 받지 않은 사람이 섣불리 초음파 진단 기기를 사용해 환자의 질환을 추정하는 것은 환자의 진단 시기를 놓쳐 질병을 악화시킬 가능성이 매우 높다&amp;quot;면서 &amp;quot;비전문가의 초음파 사용은 환자에 대한 오진 가능성을 현저히 높이고 결국 환자가 제때 치료받을 기회를 놓쳐 환자는 물론 사회 전반의 공중 보건위생상 심각한 위해를 초래할 수 있다&amp;quot;고 밝혔다. &lt;br /&gt;&lt;br /&gt;대법원 전원합의체가 지난해 12월 한의사가 한방 의료행위를 하면서 초음파 진단 기기를 진단의 보조수단으로 사용하더라도 공중 보건에 위해가 생길 우려가 없다고 판단했지만, 이는 초음파 진단의 정확성을 고려하지 않았다는 것이다. &lt;br /&gt;&lt;br /&gt;의협은 &amp;quot;대법원이 초음파 장비 자체의 위해도인 방사선 유무나 방사선량이나 직접적인 위해 가능성의 기준으로만 판단한 것으로 보이나, 의학적 용도의 진단 장비 사용의 위험성은 반드시 ‘정확한 진단’의 가능성을 기준으로 판단해야 한다&amp;quot;고 주장했다.&lt;br /&gt;&lt;br /&gt;이날 파기환송심 재판에 참석했던 김교웅 의협 한방대책특별위원회 위원장은 &amp;quot;대법원 판결을 보면 한의사가 초음파를 보조적 수단으로 쓸 경우 인체에 위해가 가지 않는다는 얘기가 주로 써져 있다&amp;quot;면서 &amp;quot;하지만 청진기처럼 초음파 진단 기기 역시 전문가와 비전문가의 진단 결과가 전혀 다르다&amp;quot;고 말했다. &lt;br /&gt;&lt;br /&gt;청진기도 누구나 가슴에 대면 심장과 호흡음을 들을 수 있지만 해석을 하려면 많은 의학지식과 임상 경험이 뒷받침돼야 하듯, 초음파 진단도 탐촉자를 인체에 접촉하면 누구나 영상을 만들 수 있지만 진단의 정확도는 달라질 수 있다는 것이다.&lt;br /&gt;&lt;br /&gt;김 위원장은 &amp;quot;초음파 자체가 유해하진 않고, 피소된 한의사가 보조적 진단 기기로 활용했다고 하지만 68번이나 초음파 했다&amp;quot;면서 &amp;quot;그럼에도 불구하고 자궁내막암 진단을 하지 못했고 결국 피해자가 산부인과 병원에서 자궁내막암 2기로 진단받았다&amp;quot;고 말했다.&lt;br /&gt;&lt;br /&gt;의협은 오는 20일 오후 열릴 예정인 파기환송심 두 번째 재판에서도 검찰을 통해 초음파 진단의 정확도가 떨어지면 국민의 건강에 위해를 끼칠 수 있다는 것을 입증하는 데 주력할 방침이다.&lt;br /&gt;
+        ◎공감언론 뉴시스 positive100@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>[리뷰] ‘진짜’ 미국 선생님들 수업이 한가득, ‘아웃스쿨’</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118720144/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118720144/1</guid>
+      <pubDate>2023-04-06T18:35:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118720109.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;언어 습득 속도는 나이가 어릴 수록 빠르다고 한다. 그리고 일상 속에서 자연스러운 대화를 많이 나눌수록 해당 언어에 익숙해지는 속도도 빨라진다. 외국어를 익히기 위해 어린이들이 영어 유치원을 다니고, 몇몇 학생들은 해외 연수나 유학을 가는 것도 다 이런 이유 때문이다.    다만 이러한 교육을 받기 위해서는 상당한 비용과 시간이 든다. 특히 어학 연수나 유학의 경우, 아직 몸과 마음이 미성숙한 어린 학생에게는 위험 부담도 크다. 하지만 네트워크 인프라의 발달 덕분에 집에서도 외국인 교사와 실시간 소통하며 학습이 가능한 온라인 홈스쿨링 서비스가 등장하고 있다. 이번에 소개할 ‘아웃스쿨(OUTSCHOOL)’도 그 중의 하나다.  아웃스쿨은 2015년에 미국 실리콘밸리에서 창업한 업체로, 2023년 현재 전세계를 상대로 서비스하고 있다. 이용자 수 역시 100만명에 이른다고 아웃스쿨은 밝힌 바 있다. 작년 하반기부터는 한국어 사이트도 오픈해 한국인 이용자를 대상으로 한 서비스도 본격화했다.  어학, 기술, 취</content:encoded>
+    </item>
+    <item>
+      <title>김안과병원, 튀르키예·시리아 지진피해 구호성금 &amp;#039;쾌척&amp;#039;</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257336</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257336</guid>
+      <pubDate>2023-04-06T18:36:39.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236314_web.jpg?rnd=20230406183452&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236314_web.jpg?rnd=20230406183452&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스] 백영미 기자 = 건양의료재단 김안과병원이 최근 강진 피해를 입은 튀르키예·시리아 지역 이재민을 위한 구호에 써 달라며 성금을 기부했다. &lt;br /&gt;&lt;br /&gt;김안과병원은 6일 서울 영등포구 병원 6층 우림홀에서 희망브리지 전국재해구호협회에 성금 2688만원을 전달했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;김안과병원 임직원이 지난달 2일부터 16일까지 15일 간 성금 모금 활동을 통해 마련한 688만원에 김안과병원이 2000만 원을 지원했다. 전달된 성금은 난방용품과 식량 등 긴급구호품 지원과 지진 피해 지역 재건에 사용될 예정이다.&lt;br /&gt;&lt;br /&gt;김철구 김안과병원 원장은 “강진으로 인해 피해를 입은 튀르키예·시리아 국민들을 위해 임직원들이 뜻을 모아 기부금을 마련했다”며 “적극적으로 동참해 준 임직원들의 따뜻한 마음이 전달돼 튀르키예와 시리아 국민들의 일상 회복과 피해 복구에 도움이 되길 바란다”고 말했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 positive100@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>“한의사 초음파 사용 정당한 권리…국민에 혜택 돌아가”</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257338</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257338</guid>
+      <pubDate>2023-04-06T18:47:46.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2022/06/10/NISI20220610_0001017544_web.jpg?rnd=20220610164319&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2022/06/10/NISI20220610_0001017544_web.jpg?rnd=20220610164319&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]송종호 기자 = 대한한의사협회가 초음파 진단 기기 사용 관련 파기환송심 재판을 앞두고 한의사의 정당한 권리라는 점을 거듭 강조했다. &lt;br /&gt;&lt;br /&gt;6일 대한한의사협회는 초음파 기기를 통해 검진의 정확도가 올라가면 그 혜택은 국민에게 돌아가는 것이라며 이같이 밝혔다. &lt;br /&gt;&lt;br /&gt;권선우 대한한의사협회 의무이사는 “지난 대법원 전원합의체의 판결을 환영하고 존중하며 파기환송심 재판부도 대법원의 판결을 존중하여 판결할 것으로 기대한다”고 말했다. &lt;br /&gt;&lt;br /&gt;권 의무이사는 검찰 측의 증인 신문과 추가 증거 제출에 대한 입장도 밝혔다. 그는 “검찰  측의 입증계획은 그 필요성이 의문시 된다”면서 “하지만 검찰 측에서 입증계획과 증인신청서를 제출하면 상세한 증거의견서를 통해 반박하도록 할 것”이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;또 대한의사협회를 향해서도 반대 운동을 중단할 것을 촉구했다. 권 의무이사는 “한의사의 정당한 초음파기기 사용에 대한 의협의 딴지걸기는 도를 넘었다”며 “국민건강의 관점에서 보면 아주 부끄러운 행태”라고 지적했다. &lt;br /&gt;&lt;br /&gt;하지만 의협은 파기환송심 재판을 앞두고 반대 입장을 더욱 분명히 하고 있다. &lt;br /&gt;&lt;br /&gt;이필수 의협 회장과 김교웅 의협 한방대책특별위원회 위원장은 이날 서울 서초구 대법원 앞에서 1인 시위 후 입장을 밝혔다.&lt;br /&gt;&lt;br /&gt;이 회장은 “의협은 대법원 판결에 깊은 유감과 분노를 표한다”며 “서울중앙지방법원이 국민의 생명과 안전을 지키기 위한 신중한 검토와 현명한 판단을 내려줄 것을 기대한다”고 밝혔다.        &lt;br /&gt; &lt;br /&gt;그는 “전문적 교육과 훈련을 받지 않은 사람이 섣불리 초음파 진단 기기를 사용하면 질환의 진단 시기를 놓쳐 질병을 악화시킬 가능성이 매우 높다”며 “오진의 가능성을 높이고 치료받을 기회를 놓치게 만들어 공중보건위생상 심각한 위해를 초래할 수 있다”고 주장했다.&lt;br /&gt;&lt;br /&gt;대법원 전원합의체는 지난해 12월 의료법 위반 혐의로 재판에 넘겨진 한의사 A씨에 대한 상고심에서 벌금 80만 원을 선고한 원심을 깨고 사건을 서울중앙지법으로 돌려보냈다. &lt;br /&gt;&lt;br /&gt;대법원은 “한의사가 초음파 진단 기기를 사용해 진료하는 것이 의료법 위반은 아니다”면서 “과학기술 발전과 사회적 제도·인식의 변화 등을 고려해야 하고, 한의사가 초음파 진단 기기를 한의학적 진단의 보조수단으로 사용한 행위는 의료법상 무면허 의료 행위에 해당하지 않는다”고 판단했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 song@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>AI 디지털교과서, 구독료 내게 될까…정책연구 착수</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257343</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257343</guid>
+      <pubDate>2023-04-06T18:54:31.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2022/09/22/NISI20220922_0019275267_web.jpg?rnd=20220922120958&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2022/09/22/NISI20220922_0019275267_web.jpg?rnd=20220922120958&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[세종=뉴시스]김정현 기자 = 교육부가 2025년 초·중·고에 도입을 추진 중인 인공지능(AI) 디지털교과서의 발행 체제를 검토하기 위한 정책연구에 착수했다. 교과목에 따라 국정으로 발행할 지, 검·인정으로 민간에 맡길지, 비용 부담은 어떻게 할 지 검토한다.&lt;br /&gt;&lt;br /&gt;교육부와 한국교육학술정보원(KERIS)은 이런 취지를 담은 &amp;#039;AI 디지털교과서 발행 체제 및 법제도 개선 방안 연구&amp;#039;에 착수한다고 6일 밝혔다.&lt;br /&gt;&lt;br /&gt;연구책임자는 공고와 제안서 평가 절차를 거쳐 정할 예정이다. 연구기간은 120일, 예산은 5000만원이다.&lt;br /&gt;&lt;br /&gt;AI 디지털교과서는 학습 성과 등을 수집한 데이터를 바탕으로 기계학습 등 기술을 활용, 교사·학생에게 맞춤형 학습 경로 등을 제공하는 교과서를 말한다.&lt;br /&gt;&lt;br /&gt;교육 당국은 이번 연구를 통해 AI 디지털교과서에 적합한 발행 체제(국·검·인정)를 검토할 계획이다.&lt;br /&gt;&lt;br /&gt;특히 초등학교 1~2학년 수학, 3~6학년 도덕 등 44책은 정부가 직접 집필하는 국정교과서가 쓰이고 있는 만큼, 해당 교과목의 AI 디지털교과서를 국정으로 내는 게 적절할 지 여부도 살펴본다는 방침이다.&lt;br /&gt;&lt;br /&gt;개발비 보전 단가, 구독료 방식 전환 여부 등 가격 체제도 검토한다. 디지털교과서 개발비 보전금은 지난해 과목별로 학기당 평균 2억5000만원 수준이다.&lt;br /&gt;&lt;br /&gt;아울러 관련 시행령인 &amp;#039;교과용도서에 관한 규정&amp;#039;에 AI 디지털교과서를 정의하는 조항을 신설하는 등 법·제도를 정비할 방안도 내놓을 예정이다.&lt;br /&gt;&lt;br /&gt;앞서 2월 교육부는 디지털 기반 교육혁신 방안을 발표하면서 2025년 초3·4, 중1, 고교 공통과목과 일반선택과목 중 수학·영어·정보 교과부터 AI 디지털교과서를 도입하겠다고 밝혔다. 2027년까지 초5·6, 중2·3에 연차적으로 도입한다. 교과도 확대할 방침이다.&lt;br /&gt;&lt;br /&gt;비용의 경우 양질의 교과서를 개발하고 에듀테크 생태계를 조성한다는 취지로 단가를 올리거나 구독료 방식으로 바꾸는 방안을 검토한다고 밝힌 바 있다.&lt;br /&gt;&lt;br /&gt;교육부는 이번 연구 과정에서 학계와 발행사 등 교육업계 의견을 모으고, 현장에 적합한 AI 디지털교과서 도입 방안을 마련하는 데 참고하겠다고 밝혔다.&lt;br /&gt;
+        ◎공감언론 뉴시스 ddobagi@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>“이런 사냥은 처음”…범고래 30여 마리, 40톤 ‘귀신고래’ 공격 (영상)</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118716620/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118716620/2</guid>
+      <pubDate>2023-04-06T19:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118716485.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;몸무게가 10배나 되는 회색고래(귀신고래)를 동료들과 합동으로 공격하는 범고래의 드문 모습이 미국 해안에서 포착됐다. 범고래는 평소 자신보다 큰 귀신고래를 공격하지 않는 것으로 알려져 있다.  4일(현지시간) CNBC, 인사이더 등 외신에 따르면 지난달 30일 미국 캘리포니아주 몬테레이만에서 범고래가 귀신고래를 공격하는 모습이 그 위를 날고 있던 드론 카메라에 잡혔다. 해당 영상은 캘리포니아 앞바다에서 야생 고래를 보여주는 여행사가 유튜브를 통해 공개했다.  영상에서 범고래 30여 마리는 귀신고래 2마리를 에워싸고 6시간 동안 공격을 지속했다. 귀신고래들은 범고래 무리가 흩어지면서 살아남았다. 하지만 한 마리가 크게 다친 것으로 전해졌다.   해당 영상을 촬영한 에반 브로드스키는 “범고래들이 귀신고래를 산 채로 잡아먹으려 했다”며 “보통 범고래들은 어미 곁에서 귀신고래 새끼를 사냥하는데, 성체를 공격하는 건 매우 드문 현상”이라고 했다. 그는 30년 동안 고래를 관찰해왔지만, 이런 사냥 모습은 처음 본다</content:encoded>
+    </item>
+    <item>
+      <title>한국인 3명중 1명 ‘이것’ 잘못 섭취…1~2세는 과다, 노인은 부족</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118716262/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118716262/2</guid>
+      <pubDate>2023-04-06T19:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118715836.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국인 3명 중 1명의 ‘아연’ 섭취량이 적절하지 않다는 연구 결과가 발표됐다. 1~2세의 40%는 아연을 필요 이상으로 섭취하고 있었다.  부산 동서대 식품영양학과 이현숙 교수팀은 2016~2019년 국민건강영양조사에 참여한 1세 이상 한국인 2만 8418명을 대상으로 아연 섭취 실태를 분석했다.  그 결과, 한국인 3명 중 1명은 아연을 적절하지 않은 양으로 섭취하고 있었다. 1세 이상 한국인의 평균 하루 아연 섭취량은 10.2mg이었다. 이는 피실험자들 아연 평균 필요량(EAR)의 약 1.5배에 해당하는 양이었다.  섭취량은 나이·성별로 차이를 보였다. 1~2세는 5명 중 2명 꼴로 아연을 과다 섭취했다. 1~2세 영아의 하루 권장 아연 섭취량은 3mg이다. 반면 20대, 75세 이상 노인은 거의 절반이 아연을 평균보다 적게 섭취한 것으로 나타났다.  아연 섭취에 가장 많이 기여한 식품군은 곡류(38.9%), 육류(20.4%), 채소(11.1%)였다. 개별 식품으로는 ▲쌀 ▲쇠고기 ▲돼지고기 ▲계란</content:encoded>
+    </item>
+    <item>
+      <title>가수 현미 황망한 죽음…&amp;quot;고령자 심장·뼈 정기검진 필요&amp;quot;</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002256849</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002256849</guid>
+      <pubDate>2023-04-06T19:01:00.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001234645_web.jpg?rnd=20230405100610&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001234645_web.jpg?rnd=20230405100610&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스] 백영미 기자 = 평소 왕성한 활동을 이어오던 가수 현미(85·본명 김명선)가 지난 4일 운명을 달리한 가운데, 고령으로 인한 심혈관 질환과 골다공증이 원인으로 작용한 게 아니냐는 추정이 의료계 내부에서 조심스럽게 나오고 있다. 전문가들은 고령자인 경우 정기적인 심장과 골다공증 검진을 통해 치료하고 관리해야 한다고 입을 모은다. &lt;br /&gt;&lt;br /&gt;6일 경찰에 따르면 김씨는 서울 용산구 이촌동 자택에서 쓰러진 채 발견됐고, 경찰은 사망 경위를 조사 중이다. 의료계에서는 김씨의 발목 골절 병력, 지인들을 통해 김씨가 &amp;quot;싱크대 앞에서 넘어졌고, 발견 당시 편안한 얼굴이었다&amp;quot;고 전해지는 점 등을 바탕으로 &amp;quot;골다공증으로 혈관에 문제가 생겼고 골다공증이 골절로 이어진 후 신체의 전반적인 기능이 저하된 것 아니냐&amp;quot;는 추정이 나오고 있다. &lt;br /&gt;&lt;br /&gt;김씨를 생전 6년 이상 진료했던 오한진 대전을지대병원 가정의학과 교수는 &amp;quot;여성의 경우 폐경이 되면 콜레스테롤 수치가 높아져 혈관에 문제가 생길 수 있고, 골다공증이 있으면 골절이 생기기 쉽다&amp;quot;면서 &amp;quot;골다공증이 왔다는 것은 이미 혈관에도 상당히 문제가 생겼을 가능성이 있다고 추정된다&amp;quot;고 조심스럽게 말했다. 폐경이 되면 간에서 콜레스테롤 생성을 저해하는 여성호르몬인 에스트로겐 분비가 급격히 줄어 콜레스테롤 수치가 높아질 수 있다. 콜레스테롤 수치가 높아지면 혈관에 문제가 생길 수 있다. 빠져나간 칼슘이 혈관에 쌓여 혈관이 잘 막혀서다.&lt;br /&gt;&lt;br /&gt;김씨는 지난 2021년 크게 넘어져 삼과골절(발목 골절) 수술을 받고 회복에 전념해왔다. 사망 전날 KTX를 타고 대구에 가서 노래 교실 공연을 하고 사망 다음날 지인들과 점심 약속을 할 정도로 활발하게 활동했지만, 고령에 골절상을 입으면서 근력이 떨어져 과거에 비해 신체 전반의 기능이 떨어졌을 것으로 보인다.&lt;br /&gt;&lt;br /&gt;고령자가 낙상으로 심각한 뼈 손상을 입으면 조기 사망 위험이 높아진다. 특히 고관절 골절이 생기면 누워만 있게 돼 여러 합병증으로 이어지고 1년 이내 사망률이 20%에 달한다는 통계도 있다. &lt;br /&gt;&lt;br /&gt;오 교수는 &amp;quot;김씨를 오랜 시간 진료했고 방송 녹화 현장에서도 자주 만났었기에 (사망 소식이) 너무 안타깝고 슬프다&amp;quot;면서 &amp;quot;평소 성품이 좋으셨던 만큼 대중에게 좋은 이미지로 기억됐으면 좋겠다&amp;quot;고 말했다. 그러면서 &amp;quot;폐경이 되면 콜레스테롤 수치가 높아지는 만큼 반드시 골다공증 검사를 받아 진단 결과에 따라 적절히 약물 치료를 하고 평생 관리해야 한다&amp;quot;고 조언했다.  &lt;br /&gt;&lt;br /&gt;의료계 내부에선 &amp;quot;김씨가 평소 관상동맥 협착이 있었고, 자다가 관상동맥 경련으로 관상동맥이 갑자기 완전히 막혀 심장 근육이 괴사하는 심근경색증을 일으켜 수면 중 죽음을 맞은 것 아니냐&amp;quot;는 견해도 나오고 있다. 고령자는 활동량이 적어 심장근육에 혈액을 공급하는 관상동맥이 70% 가량만 막혀 있을 경우 일상생활 중 가슴 통증을 느끼지 못하고 지낼 수 있다고 한다. 이 때문에 고령층의 경우 정기적인 심장 검진의 필요성도 제기되고 있다.&lt;br /&gt;
+        ◎공감언론 뉴시스 positive100@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>AMD 자일링스, ASIC 기반 알베오 미디어 가속기 &apos;MA35D&apos; 공개</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118722770/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118722770/1</guid>
+      <pubDate>2023-04-06T22:16:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118722726.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;AMD가 FPGA(Field programmable gate array, 프로그래밍을 지원하는 반도체) 대신 ASIC(Application Specific Integrated Circuit, 주문형 반도체)를 기반으로 하는 미디어 가속기, 알베오 MA35D(Alveo MA35D)를 선보인다. 미디어 가속기는 비디오 프로세싱 및 스트리밍 등에 사용되는 데이터 서버용 하드웨어며, 미디어 가속기에 5나노 공정 기반의 ASIC 반도체가 탑재되는 것은 업계 최초다.  FPGA는 특수한 하드웨어 기술 언어를 통해 모든 신호를 실시간으로 변경·처리하는 반도체로, 투입하는 작업과 용도에 맞춰 논리를 구축해서 사용한다. 반면 ASIC은 특정 목적에 맞춰 설계된 집적 회로로, 특정 수요와 활용도에 맞춰 구성을 설계하고 제작한다.   ASIC는 특정 목적만 수행하므로 전력 소모대 성능비가 우수하다는 장점이 있지만, 규모의 경제 실현이 어려워 가격대가 높다. 또한 실시간으로 논리를 수정할 수 있는 FPGA와 다르게, ASIC</content:encoded>
+    </item>
+    <item>
+      <title>‘daum.ai 14억원에 팝니다’ 도메인 선점 장사 돌아오나</title>
+      <link>https://www.khan.co.kr/it/it-general/article/202304062222015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=it_news</link>
+      <guid>https://www.khan.co.kr/it/it-general/article/202304062222015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=it_news</guid>
+      <pubDate>2023-04-06T22:22:01.000Z</pubDate>
+      <content:encoded>
+        챗GPT 등 인공지능 열풍 이후‘.ai’ 도메인 등록 사이트 급증&lt;br /&gt;
+        최근 당근마켓에 판매글 게시‘사이버스쿼팅’ 악용 우려 나와&lt;br /&gt;
+        &lt;br /&gt;
+        챗GPT 같은 생성형 인공지능(AI) 열풍에 ‘.ai’ 도메인(인터넷 주소)을 선점하려는···
+      </content:encoded>
+    </item>
+    <item>
+      <title>정부 “반도체·디스플레이·차세대 전지에 160조원 집중 투자”</title>
+      <link>https://www.khan.co.kr/it/it-general/article/202304062222035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=it_news</link>
+      <guid>https://www.khan.co.kr/it/it-general/article/202304062222035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=it_news</guid>
+      <pubDate>2023-04-06T22:22:03.000Z</pubDate>
+      <content:encoded>
+        과기정통부, 비상경제장관회의에서 ‘3대 주력기술 초격차 전략’ 발표&lt;br /&gt;
+        &lt;br /&gt;
+        한국의 주력 3대 기술인 반도체와 디스플레이, 차세대 전지에 향후 5년간 총 160조원의 민관 연구·개발(R&amp;amp;D) 자금이 집중 투입된다.&lt;br /&gt;
+        ···
+      </content:encoded>
+    </item>
+    <item>
+      <title>WHO 비상대응팀장 “매일 코로나 확진자 발표, 이제는 비효율적”</title>
+      <link>https://www.donga.com/news/list/article/all/20230407/118723928/1</link>
+      <guid>https://www.donga.com/news/list/article/all/20230407/118723928/1</guid>
+      <pubDate>2023-04-07T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/07/118723925.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“확진자 수를 매일 집계해 보고하는 건 비용과 노동력이 굉장히 많이 드는 일입니다. 신종 코로나바이러스 감염증(코로나19) 발생 상황을 포괄적이면서도 비용 효율적으로 감시하는 방향을 모색해야 합니다.”  마이클 라이언 세계보건기구(WHO) 비상대응팀장(58)은 지난달 29일 스위스 제네바에서 한국 기자단과 가진 인터뷰에서 이같이 밝혔다. 라이언 팀장은 역학을 전공한 의사이자 공중보건 전문가다. 그가 비상대응팀은  WHO 내에서 국제 코로나19 팬데믹 대응체계를 담당하는 부서다.  현재 한국 방역당국은 매일 아침 전날 발생한</content:encoded>
+    </item>
+    <item>
+      <title>미세먼지가 폐암 일으키는 원리는 ‘유전자 돌연변이’</title>
+      <link>https://www.donga.com/news/It/article/all/20230407/118723746/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230407/118723746/1</guid>
+      <pubDate>2023-04-07T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/07/118723743.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;초미세먼지를 포함한 대기오염이 폐암을 유발하는 원리가 밝혀졌다. 대기오염이 폐암 유발 유전자 돌연변이를 만들어내 염증 반응을 악화시켜 폐암으로 이어진다는 분석이다. 한국, 대만, 캐나다, 영국 등 4개국에서 폐암에 걸린 환자들을 대상으로 미세먼지 노출 수준을 분석한 결과다.   찰스 스완턴 영국 프랜시스크릭연구소 연구원 연구팀은 지름이 2.5μm(마이크로미터·1μm는 100만분의 1m) 이하인 초미세먼지(PM2.5)가 폐암을 유발하는 원리를 찾아 연구 결과를 국제학술지 ‘네이처’에 5일(현지 시간) 발표했다.    학계에 따르면 전 세계에서 대기오염으로 인한 질병으로 매년 25만 명이 사망하는 것으로 추정된다. 가장 좋은 해결책은 대기오염 원인 자체를 완전히 제거하는 것이지만 단시간 내에 이를 달성하기는 쉽지 않다. 이에 대기오염 유발 질병의 발병 원리와 치료법을 찾는 게 중요한 해결책으로 떠오르고 있다.   폐암 발병 원인 중 하나는 ‘상피세포성장인자(EGFR)’와 ‘케이라스(KRAS)’라는 단백질에</content:encoded>
+    </item>
+    <item>
+      <title>우주정거장서 암치료 신약 후보물질 개발… 지구보다 8년 빨랐다</title>
+      <link>https://www.donga.com/news/It/article/all/20230407/118723739/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230407/118723739/1</guid>
+      <pubDate>2023-04-07T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/07/118723738.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 11월 미국 바이오 스타트업 ‘마이크로퀸’은 단백질 ‘TMBIM’을 겨냥한 난소암과 유방암 치료 신규 파이프라인(신약 후보물질)을 발굴했다고 발표했다. 마이크로퀸은 후보 약물을 암 세포에 적용해 96시간 만에 암세포를 100% 없애는 결과를 얻었다. 쥐를 대상으로 한 동물 실험에서도 종양 부피가 4일 만에 91% 감소했다.   마이크로퀸의 연구는 세포 내부 환경 조절 단백질 TMBIM을 암 세포 사멸을 유도하는 ‘스위치’로 활용할 수 있다는 점에서 학계의 이목을 끌었다. 특히 이 연구 결과가 우주 공간에서 얻어낸 성과라는 점이 학계를 놀라게 했다. 우주가 의학은 물론 인류의 미래를 바꿀 획기적 발견을 연구하는 공간으로 떠오르고 있다.   ● 우주공간 미세중력 환경, 의학 연구에 용이  마이크로퀸의 실험은 지구 상공 약 350km의 국제우주정거장(ISS)에서 이뤄졌다. 지구에서 실험하는 것과 비교해 결과물 도출에 시간을 약 8년 앞당겼다는 게 마이크로퀸의 분석이다.    TMBIM은 오래전부터 과학</content:encoded>
+    </item>
+    <item>
+      <title>워즈니악 “AI개발 6개월 중단을”… 빌 게이츠 “문제 해결책 아냐”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20230407/118723700/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20230407/118723700/1</guid>
+      <pubDate>2023-04-07T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/07/118724119.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“GPT-4를 능가하는 인공지능(AI) 시스템의 개발을 6개월간 중단해야 한다.”(스티브 워즈니악 애플 공동창업자 등) “AI 개발을 일시 중단한다고 문제가 해결되지 않는다.”(빌 게이츠 마이크로소프트 공동창업자) ‘챗GPT’로 대표되는 생성형 AI가 사회 전반에 큰 변화를 가져오며 전 세계 정보기술(IT) 리더들을 중심으로 AI 개발에 속도 조절이 필요하다는 주장이 나오고 있다. 반면 AI에 대한 공포심이 과장돼 있다며 개발 중단이 근본적인 해결책이 될 수 없다는 반대 측 주장도 팽팽히 맞서고 있다. ● ‘AI 개발 6개월 중단’ 두고 IT 업계 찬반 6일 관련 업계에 따르면 딥러닝AI(DeepLearning.AI) 창립자이자 스탠퍼드대 겸임교수인 앤드루 응은 8일(현지 시간) 온라인으로 ‘AI 개발을 6개월간 중단하는 것이 왜 나쁜 생각인가’를 주제로 토론회를 연다. AI 전문가인 메타의 얀 르쾽 부사장 겸 수석 과학자 등이 참가한다.  이 토론회는 지난달 28일 미국 비영리단체</content:encoded>
+    </item>
+    <item>
+      <title>우리나라 최초 달 궤도선 ‘다누리’ 발사 성공 기념우표</title>
+      <link>https://www.donga.com/news/It/article/all/20230406/118723376/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230406/118723376/1</guid>
+      <pubDate>2023-04-07T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/06/118723374.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;6일 서울 중구 서울중앙우체국 우표박물관에서 우리나라 최초 달 궤도선 다누리 기념우표가 공개됐다. 과학기술정보통신부 우정사업본부는 다누리의 성공적인 발사를 축하하기 위해 기념우표 62만4000장을 7일 발행한다.</content:encoded>
+    </item>
+    <item>
+      <title>삼성 ‘갤럭시 S23 시리즈’ 글로벌 흥행</title>
+      <link>https://www.donga.com/news/Economy/article/all/20230406/118723349/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20230406/118723349/1</guid>
+      <pubDate>2023-04-07T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/07/118723894.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자의 최신 스마트폰 ‘갤럭시 S23 시리즈’(사진)가 전작 대비 유럽에서는 50%, 중남미 주요 국가에서는 70% 많이 팔리고 있는 것으로 나타났다. 6일 삼성전자에 따르면 2월 17일 글로벌 판매를 시작한 갤럭시 S23 시리즈의 판매량은 유럽에서는 전작의 1.5배, 인도와 중동에서는 각각 1.4배, 1.5배에 달한다. 브라질, 멕시코 등 중남미 주요 국가에서는 1.7배가량의 판매 성과를 낸 것으로 집계됐다. 한국에서도 갤럭시 S23 시리즈는 100만 대가 넘게 팔렸는데, 이는 전작과 비슷한 속도다. 노태문 삼성전자 모바일경험(MX) 사업부장(사장)은 2월 미국 샌프란시스코에서 연 ‘갤럭시 언팩 2023’에서 “전작 대비 두 자릿수 이상의 판매 성장을 목표로 하고 있다”고 밝힌 바 있다. 삼성은 한국, 미국, 유럽, 동남아, 중남미, 인도 등 130여 개국에서 갤럭시 S23 시리즈를 출시했다. 일본에서도 20일 공식 출시한다. 삼성전자 일본법인은 6일 ‘갤럭시 언팩’ 행사를 온</content:encoded>
+    </item>
+    <item>
+      <title>&amp;#039;든든한 재산&amp;#039; 유튜브 채널…거래할 땐 &amp;#039;이것&amp;#039; 조심</title>
+      <link>http://www.newsis.com/view?id=NISX20230405_0002255016</link>
+      <guid>http://www.newsis.com/view?id=NISX20230405_0002255016</guid>
+      <pubDate>2023-04-07T03:44:44.000Z</pubDate>
+      <content:encoded>&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235020_web.jpg?rnd=20230405145413&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0001235020_web.jpg?rnd=20230405145413&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;【서울=뉴시스】강운지 리포터 = 유튜브 채널이 새로운 형태의 재산으로 여겨지면서 최근 채널을 매매 및 증여하는 사례가 늘어나고 있다. 하지만 아직 거래 관행이나 문화가 확립돼 있지 않아 알려지지 않아 자칫하면 세금 관련 문제가 생길 수도 있다. &lt;br /&gt;&lt;br /&gt;한국은 유튜브 영상을 제작하는 사람도, 소비하는 사람도 넘쳐나는 나라다. 글로벌 시장조사기관 스태티스타에 따르면 지난 1월 국내 유튜브 사용자는 약 4600만명에 달했다. 총인구의 약 90퍼센트가 유튜브를 이용하는 셈이다. 또 2021년에는 한국의 &amp;#039;인구 대비 유튜버 수&amp;#039;가 세계에서 가장 많은 것으로 드러나기도 했다.&lt;br /&gt;&lt;br /&gt;즉 많은 사람에게 유튜브는 일종의 &amp;#039;직장&amp;#039;이며, 잘 관리한 유튜브 채널은 지속적인 수입을 얻을 수 있는 든든한 자산으로 여겨진다.&lt;br /&gt;&lt;br /&gt;유튜브 채널 수익은 광고, 멤버십(유료 구독자), 후원, 유튜브 스토어 등에서 발생하는데, 일반적으로 구독자 및 조회수가 많을수록 높은 수익이 발생한다. 일부 인기 유튜버는 한 달에 광고 수익으로만 수천만원에서 수억원을 벌기도 한다.&lt;br /&gt;&lt;br /&gt;이에 따라 &amp;#039;채널 매매&amp;#039;도 빈번히 이루어진다. 유튜브 채널 &amp;#039;신사임당&amp;#039; 사례가 대표적이다. 2020년 7월 전업투자자 &amp;#039;디피&amp;#039;는 유튜버 주언규로부터 신사임당 채널을 20억원에 인수했다. 당시 신사임당 채널은 183만명의 구독자를 보유 중이었으며, 조회수만으로 월 8000만원의 수입을 올렸던 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;온라인 유튜브 채널 거래소까지 등장했다. 유튜브 빅데이터 분석 업체인 &amp;#039;소셜러스&amp;#039;다. 소셜러스는 구독자 수와 조회수, 채널 성장률, 월간 조회수 수익, 향후 예측 수익 등 다양한 데이터를 이용해 채널 가치를 분석한 후, 이를 판매자에게 연결해 준다.&lt;br /&gt;&lt;br /&gt;유튜버의 수가 증가하고 유튜브 채널을 재산으로 간주하는 인식이 보편화되면서, 이 같은 채널 거래는 점점 늘어날 것으로 예상된다.&lt;br /&gt;&lt;br /&gt;하지만 아직 명확한 거래 문화와 인식이 확립돼 있지 않아 세금과 관련한 문제가 발생하기도 한다. 특히 정해진 금액 없이 채널의 명의를 이전할 경우 문제가 생길 가능성이 커진다.&lt;br /&gt;&lt;br /&gt;국세청은 지난 2월 인플루언서 및 유튜버 등에 대한 세무조사에 착수했다. 그중 한 주식 유튜버는 미성년 자녀가 1인 주주인 법인을 설립한 후, 자신의 채널과 유료 구독자를 무상 이전한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;이런 문제가 발생한 이유는 유튜브 채널을 매매나 증여할 때 거래 사항을 파악하기 어렵기 때문으로 분석된다.&lt;br /&gt;&lt;br /&gt;국세청 관계자 A씨는 &amp;quot;신용카드 거래는 세금 계산서가 발행되고 부동산의 경우 등기로 잡히는 데 비해, 유튜브 채널은 주식의 형태도 아니다 보니 (세금 탈루 사실이)외부로 드러나기 어렵다&amp;quot;면서 &amp;quot;보통 국세청에서 분석한 후 문제가 있으면 조치하는 방식&amp;quot;이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;그렇다면 유튜버는 어떤 방식으로 채널의 가치를 계산해야 할까?&lt;br /&gt;&lt;br /&gt;국세청 관계자 B씨는 유튜브 채널 및 유료 구독자의 가치를 환산하는 방식에 대해 &amp;quot;시가를 평가하는 게 맞다&amp;quot;고 전했다. 구체적으로는 &amp;quot;감정평가사 등으로부터 가치 평가를 받을 수 있지만, 만약 그것이 불가능할 경우 상증세법(상속세 및 증여세법)의 무체재산권 평가 방식을 이용할 수 있다&amp;quot;고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;무체재산권을 평가하는 방법은 상증세법 시행규칙 제19조에 명시돼 있다. 기본적으로 연도별 수입이 확정된 경우를 대상으로 하지만, &amp;#039;수입 금액이 확정되지 않은 경우&amp;#039; 혹은 &amp;#039;최근 3년간 수입이 없거나, 장래 수입이 하락할 것이 명백할 경우&amp;#039; 등의 상황에 따른 안내 사항도 나와 있다. 채널 거래를 앞둔 모든 국내 유튜버가 알아둬야 할 내용이다.&lt;br /&gt;&lt;br /&gt;◎튜브가이드 제보&lt;br /&gt;▶이메일 : tubeguide@newsis.com&lt;br /&gt;&lt;br /&gt;강운지 리포터(kuj0102@newsis.com)&lt;br /&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이제는 감기 환자 급증…팬데믹 기간 주춤했던 각종 바이러스 기승</title>
+      <link>https://www.donga.com/news/Society/article/all/20230407/118725050/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20230407/118725050/1</guid>
+      <pubDate>2023-04-07T05:46:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/04/07/118725031.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;코로나19 일일 확진자가 1만명대로 안착해 유행 안정세가 이어지는 가운데 이제는 급성호흡기감염증, 이른바 ‘감기’가 기승을 부리고 있다.  일상 회복이 본격화되면서 팬데믹 기간 주춤했던 각종 호흡기 바이러스가 활개를 치는 모습이다. 인플루엔자(계절독감) 역시 학령층 사이에서 유행해 가족·사회 간 전파로 이어지고 있다.  7일 질병관리청의 2023년 13주차(3월 26일~4월 1일) 감염병 표본감시에 따르면 이 기간 급성호흡기감염증 입원환자는 1802명에 달한다.  질병청은 전국 220개 병원급 이상 표본감시 의료기관의 급성호흡기감염증 입원환자를 집계했다.  개학이 시작된 9주차(2월 26일~3월 3일) 802명을 시작으로 10주차 973명, 11주차 1135명, 12주차 1493명으로 점차 증가하고 있다.  13주차를 기준으로 과거 입원환자 수를 비교하면 2022년 109명, 2021년 220명, 2020년 141명, 2019년 1182명에 비해 많다.  특히 코로나19 유행 기간인 2020~2022년보</content:encoded>
+    </item>
+    <item>
+      <title>&amp;quot;IT하길 참 잘했다&amp;quot;…&amp;#039;성공한 공대언니&amp;#039;가 건네는 응원</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257003</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257003</guid>
+      <pubDate>2023-04-07T06:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236135_web.jpg?rnd=20230406161501&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236135_web.jpg?rnd=20230406161501&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;【서울=뉴시스】송혜리 기자 = &amp;quot;결국엔 실력이 있어야 합니다. 이건 남자 여자 따질 문제가 아니라고 봐요. 우리 후배들은 잘하고 있고, 잘해나갈 겁니다.&amp;quot;&lt;br /&gt;&lt;br /&gt;이보다 든든한 응원이 있을까. IT여성기업인협회를 이끌고 있는 박현주 회장의 말이다. &lt;br /&gt;&lt;br /&gt;한 평생 IT인으로, 사업가로, 현장에서 두 주먹 불끈쥐고 감내해 온 자신을 반추하며 후배 IT기업인들에 건네는 당부이자 성원이다. 한편으론 젊은 날의 그 자신에게 보내는 위로 같기도 하다. &lt;br /&gt;&lt;br /&gt;박 회장은 시큐어소프트 보안연구소 개발실장 출신으로 모바일 보안업체 엠큐릭스 대표를 거쳐 자동차 분야 사물인터넷(IoT) 보안업체 시옷 대표로 재직 중이다. 지난해 IT여성기업인협회 제9대 회장에 취임했다.&lt;br /&gt;&lt;br /&gt;꽃비가 내린 지난 5일 &amp;#039;성공한 공대언니&amp;#039; 박현주 회장을 만나고 왔다.&lt;br /&gt;&lt;br /&gt;◆&amp;quot;멘토가 필요한 IT여성기업인들에 도움되고 싶었다&amp;quot;&lt;br /&gt;&lt;br /&gt;IT여성기업인협회는 우리나라 정보기술(IT) 분야 여성을 지원하기 위해 설립된 여성 경제인 단체다. 최초에 &amp;#039;IT하는 여성&amp;#039;의 권익 향상 위해 탄생한 단체이지만, IT에 투신한 서로를 응원하고 격려하면서 잘 헤쳐나갈 수 있도록 돕는 지원군에 가깝다.&lt;br /&gt;&lt;br /&gt;박 회장은 지난해 이 협회의 9대 회장으로 취임했다. 한평생 IT인으로 살아온 자신의 노하우를 후배들에게 전수해 주고 싶은 마음이 컸다. &lt;br /&gt;&lt;br /&gt;모든 초보 사업자가 그렇다곤 하지만, 여성 사업가들은 더욱 사업 초기에 좌충우돌, 시행착오를 많이 겪는다.  2030 여성IT기업인들은 점차 증가하는 반면 현재 활동하는 4050 선배들이 많지 않아 꿀팁은 둘째치고 단순한 팁을 얻을 수 있는 방법이나 멘토를 만나기도 녹록치 않다.&lt;br /&gt;&lt;br /&gt;박 회장은 &amp;quot;멘토를 찾기도, 멘토 역할을 해줄 수 있는 사람도 많지 않다&amp;quot;면서 &amp;quot;이야기 들어보면 단순하게는 정부 연구개발 참여를 위해 제안서 쓰는 것조차 알려줄 사람이 없다고 한다&amp;quot;고 설명했다. 그러면서 &amp;quot;사업을 막 시작한 청년 후배들이나, 뒤늦게 어떠한 연유로 사업을 시작하게 된 분들에게 든든한 멘토가 돼 주고 싶었다&amp;quot;고 말했다.  &lt;br /&gt;&lt;br /&gt;이런 박 회장의 진심 덕분에(?) 그는 더 바빠졌다.&lt;br /&gt;&lt;br /&gt;박 회장은 국민경제자문회의, 국가데이터정책위원회, 규제자유특구위원회, 과학기술정보통신부 인터넷주소정책위원회의 민간위원을 맡고 있다. 게다가 협회 살림을 본격적으로 챙기기 시작하면서는 그야말로 눈코뜰새 없어졌다. &lt;br /&gt;&lt;br /&gt;박 회장은 &amp;quot;두 배가 아니라 한 다섯배는 바빠진 것 같다&amp;quot;면서 웃었다. &lt;br /&gt;&lt;br /&gt;지난해 박 회장은 &amp;#039;IT여성기업의 스케일업과 지속성장&amp;#039;이라는 미래비전을 선포하고 ▲새로운 성장동력 모색 위한 비즈니스융합 ▲지역 확대 및 전국 협업 인프라 구축 ▲ICT 여성 인재 양성 지원 ▲여성 기업인을 위한 정책 제안 및 참여 ▲IT여성 스타트업 적극 육성을 통한 상생과 협력 추진 등의 5대 스케일업 전략을 발표했다. &lt;br /&gt;&lt;br /&gt;이 전략을 바탕으로 협회는 지난해 양적·질적 성장을 이뤄냈다. &lt;br /&gt;&lt;br /&gt;지난 2021년 400여개였던 회원사는 480여개로 늘었다. 당초 박 회장이 목표로 밝혔던 500개사 돌파에 근접했다. 정부 지원사업도 예년에 비해 8배 늘었으며, 제1회 it여성 기업인의 날도 과학기술정보통신부 장관이 참석한 가운데 치뤘다.    &lt;br /&gt;&lt;br /&gt;특히, 전국 회원사 간 소통과 신속한 지원 그리고 멘토링을 위한 4개 분과를 신설한 것이 의미있는 성과다. &lt;br /&gt;&lt;br /&gt;현장에서 필요한 정책을 수렴해 정부에 건의하는 ▲디지털정책분과와 기술교류를 위한 ▲디지털융합분과, 아울러 기존 ESG(환경·사회·지배구조)분과를 확장한▲지속가능발전목표(SDGs) 분과에 사업계획서 작성 등 실질적인 멘토링을 지원하는 ▲디지털청년창업분과를 더했다.&lt;br /&gt;&lt;br /&gt;박 회장은 &amp;quot;전국 회원들이 이사회 때 잠깐 만나는 게 전부다 보니, 기술 융합 혹은 교류 이런 것이 전무했다&amp;quot;면서 &amp;quot;협회 네트워킹이 강화되다 보니 최근엔 한 콘텐츠 기업과 온라인 플랫폼 개발 기업이 만나 사업적으로 콜라보 하는 사례도 나왔다&amp;quot;고 설명했다. &lt;br /&gt;&lt;br /&gt;올해는 질적 성장에 집중할 예정이다. 지난해 신설한 4개 분과가 동력이 될 예정이다. &lt;br /&gt;&lt;br /&gt;박 회장은 &amp;quot;협회가 실질적으로 회원사들의 어려움을 덜어주고 가려운 곳을 긁어주는 역할을 할 수 있도록 꾸려갈 예정&amp;quot;이라며 &amp;quot;가령 &amp;#039;나는 청년스타트업이 아니지만 사업 계획서 쓰는 걸 잘 모른다&amp;#039; 이런 어디다 물어보기 어려운 것들을 협회가 지원할 것&amp;quot;이라고 말했다.&lt;br /&gt;&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236136_web.jpg?rnd=20230406161519&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236136_web.jpg?rnd=20230406161519&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;◆&amp;quot;IT 하기 잘했다&amp;quot;…후배들엔 &amp;quot;실력이 기본&amp;quot;강조&lt;br /&gt;&lt;br /&gt;박 회장은 원래 미대에 가고 싶었다고 했다. 수학을 좋아해서 이과를 간 것이 결국 평생을 IT인으로 살게 했다. &lt;br /&gt;&lt;br /&gt;박 회장은 &amp;quot;수학을 좋아해서 이과를 갔고, 기본적으로 논리적인 것들을 좋아한다&amp;quot;면서 &amp;quot;그리고 똑같이 반복되는 것을 좋아하지 않는데, IT는 똑같은 기술을 가지고도 여러가지 적용을 하면서 변화하는데 그게 참 매력적이고 재미있다&amp;quot;고 말했다. 그는 &amp;quot;IT하기 참 잘했다고 생각한다&amp;quot;고 말했다. &lt;br /&gt;&lt;br /&gt;박 회장은 &amp;quot;IT는 정말 재미있는 분야이고, 가능성이 무궁무진한 분야라 딸들도 IT를 시켜보려고 했는데 결국 꼬시지를 못했다&amp;quot;면서 웃었다.  &lt;br /&gt;&lt;br /&gt;후배들 이야기를 할 땐 요즘말로 눈에서 꿀이 떨어졌다. &lt;br /&gt;&lt;br /&gt;삼삼오오 모여 밤 늦게까지 스타트업 대표로서의 고민을 서로 나누기도 하고, 더러는 협회장실 문을 두드려 도움을 청하기도 했다. 박 회장은 치열하게 고민하고 또 도전하고 결국 결과물을 만들어내는 당찬 후배들의 모습이 기특하기만 하다고.&lt;br /&gt;&lt;br /&gt;박 회장은 &amp;quot;정말 잘하고, 똑똑하다&amp;quot;며 &amp;quot;실력있는 후배들을 보면 신통하고, 재밌다&amp;quot;고 말했다.&lt;br /&gt;&lt;br /&gt;박 회장은 갈수록 IT는 여성에게 유리한 영역이 될 것이라고 설명했다. 여성은 IT기업 경영에 필요한 트렌드를 읽는 눈이 뛰어나며 부드러운 소통 능력도 갖췄기 때문이다. 다만 그는 &amp;quot;실력을 갖추라&amp;quot;는 당부의 말도 잊지 않았다. &lt;br /&gt;&lt;br /&gt;박 회장은 &amp;quot;결국엔 실력이 있어야 한다&amp;quot;면서 &amp;quot;스스로 배움을 게을리 하면 안된다, 실력이 제일 중요하다&amp;quot;고 강조했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 chewoo@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>누누티비는 차단, &amp;#039;O토끼&amp;#039;는 도망 중…&amp;quot;200원 쌓여 수천억 손해 본다&amp;quot;</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257267</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257267</guid>
+      <pubDate>2023-04-07T06:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236282_web.jpg?rnd=20230406175002&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/06/NISI20230406_0001236282_web.jpg?rnd=20230406175002&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;[서울=뉴시스]윤현성 기자 = 정부가 OTT(온라인동영상서비스) 콘텐츠 불법유통 사이트인 &amp;#039;누누티비&amp;#039; 뿌리뽑기에 나섰다. 누누티비에 대한 1일 1회 사이트주소(URL) 차단에 나서기로 한 것. 불법 사이트들이 방문자에 노출되는 광고물로 수익을 내는 만큼 접근 자체를 막는다는 목표다.&lt;br /&gt;&lt;br /&gt;과학기술정보통신부가 누누티비 차단 전면에 나서면서 OTT 콘텐츠 불법 유통에 제동이 걸리자 수년 전부터 콘텐츠 유출에 골머리를 썩어왔던 웹툰·웹소설 업계에서는 볼멘소리가 나오고 있다. 정부가 나서서 콘텐츠 불법 유통 사이트를 강하게 단속할 수 있음에도 웹툰 불법 유통은 여전히 기업들이 자체 대응 중인 형편이고, 민간 대응의 한계로 수년째 불법 사이트가 활개치고 있기 때문이다.&lt;br /&gt;&lt;br /&gt;7일 업계에 따르면 과기정통부는 KT, SK브로드밴드, LG유플러스 등 인터넷회선사업자(ISP)들에게 누누티비 URL 차단 횟수를 기존 주 2회에서 1일 1회로 변경하도록 했다. 지난해 12월부터 누누티비 URL 차단을 적용하고 국내 OTT 관련 콘텐츠를 일괄 삭제토록 했지만, 누누티비 측이 이를 제대로 이행하지 않았기 때문이다. &lt;br /&gt;&lt;br /&gt;여전히 누누티비가 OTT 콘텐츠들을 게시하고 있긴 하지만 정부가 강경 대응에 나선 만큼 불법 유통 문제가 개선될 것이라는 기대가 커지고 있다.&lt;br /&gt;&lt;br /&gt;◆5년 전 &amp;#039;밤토끼&amp;#039; 검거됐지만…불법 유통 웹툰 조회수, 합법 플랫폼보다 많다&lt;br /&gt;&lt;br /&gt;이같은 콘텐츠 불법 유통의 시초는 웹툰, 웹소설업계에서 앞서 나타난 바 있다. 지난 2018년 운영자 검거에 성공하며 사이트가 사라진 &amp;#039;밤토끼&amp;#039;가 대표적이다. 밤토끼 폐쇄 이후 불법 유통 사이트의 뿌리가 뽑힐 것이라는 기대가 나왔지만 5년이 지난 현재도 여전히 웹툰 불법 유통 사이트는 &amp;#039;O토끼&amp;#039;와 같은 이름으로 명맥을 이어가고 있다.&lt;br /&gt;&lt;br /&gt;한국콘텐츠진흥원이 발표한 &amp;#039;2022년 웹툰 사업체 실태조사&amp;#039;에 따르면 2021년 웹툰 불법유통 시장 규모는 8427억원 수준으로 전년(5488억원) 대비 53% 가량 늘었다. &lt;br /&gt;&lt;br /&gt;페이지 뷰(PV)의 경우에도 합법 웹툰 플랫폼의 총 PV는 286억건, 불법 플랫폼은 334억건에 달했다. 더욱이 외국어로 번역돼 유통되거나 규모가 작은 불법 사이트까지 합하면 수치가 더 늘어날 것으로 분석됐다.&lt;br /&gt;&lt;br /&gt;밤토끼 폐쇄 이후에도 웹툰 불법 유통이 활개치자 네이버웹툰, 카카오웹툰 등 대형 플랫폼들은 자체적인 차단에 나서고 있다.&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2018/05/23/NISI20180523_0000149838_web.jpg?rnd=20180523172123&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2018/05/23/NISI20180523_0000149838_web.jpg?rnd=20180523172123&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;업계 1위 사업자인 네이버웹툰의 &amp;#039;툰레이더&amp;#039; 기술이 대표적이다. 불법 유통을 위해서는 당연히 합법 플랫폼에서 원본 웹툰을 캡처해야만 한다. 툰레이더는 웹툰 이미지에 보이지 않는 사용자 식별 정보를 삽입해 불법 유출·의심 계정을 걸러내고, 이들을 차단하는 방법으로 유출을 방지하는 방법이다. &lt;br /&gt;&lt;br /&gt;툰레이더가 불법 유출을 완전히 막을 수는 없지만, 계정 차단을 통해 1차 불법사이트로 유출되는 소요 시간을 3주 가량 지연시킴으로써 &amp;#039;유료 회차&amp;#039;의 불법 유통을 막는다는 전략이다.&lt;br /&gt;&lt;br /&gt;이같은 자체 기술 활용과 더불어 모니터링, 신고, 콘텐츠 삭제 등의 조치까지 병행하고 있음에도 불법 유통을 막기는 역부족이라는 게 웹툰 업계의 입장이다. 카카오에 따르면 이같은 방법으로 삭제 조치한 콘텐츠가 1년간 600만건을 웃돌지만 불법사이트들은 여전히 난립하고 있는 실정이다. 웹툰이 영상물 대비 원본 콘텐츠 확보가 쉽고, 용량도 작아 공유·관리 비용이 더 낮은 만큼 OTT보다 불법 유통이 더 쉽다는 문제도 있다.&lt;br /&gt;&lt;br /&gt;◆웹툰 불법 유통 피해, OTT보다 적을까…&amp;quot;1인당 月 유료 결제 규모 OTT와 비슷&amp;quot;&lt;br /&gt;&lt;br /&gt;이용자 인식의 문제도 웹툰 불법 유통을 근절하는 데 걸림돌이 되고 있다. &lt;br /&gt;&lt;br /&gt;웹툰은 기본 구조가 무료 서비스이고 유료 대여·구매도 편당 200~500원 수준에 그친다. 그러다보니 매월 1~2만원의 이용료를 내야 하는 OTT와 비교했을 때 불법 사이트 이용에 대한 &amp;#039;불법 행위 인식&amp;#039;이 낮은 편이다.&lt;br /&gt;&lt;br /&gt;하지만 월 이용료로 환산하면 웹툰 불법 유출의 피해 규모도 OTT에 필적한다는 게 업계의 설명이다. &lt;br /&gt;&lt;br /&gt;소비자 데이터 플랫폼 오픈서베이의 &amp;#039;웹툰·웹소설 트렌드 리포트 2023&amp;#039;에 따르면 웹툰 이용자 10명 중 7명은 유료 결제 경험이 있으며, 월 평균 지출 금액은 1만2000원으로 집계됐다. 넷플릭스의 &amp;#039;스탠다드 요금제(월 1만3500원)과 비슷한 수준이다.&lt;br /&gt;&lt;br /&gt;네이버웹툰은 툰레이더를 통해 보호한 콘텐츠 저작물의 경제적 가치가 연간 2000억원에 이를 것으로 추산했는데, 불법 유통을 사전에 원천 차단할 경우 연간 3000억원 가치의 저작물을 보호할 수 있을 것이라고 보고 있다.&lt;br /&gt;&lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/03/31/NISI20230331_0001231233_web.jpg?rnd=20230331133612&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/03/31/NISI20230331_0001231233_web.jpg?rnd=20230331133612&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;◆민간 기업 자체 대응은 한계 분명…&amp;#039;URL 차단&amp;#039; 등 정부 지원 필요&lt;br /&gt;&lt;br /&gt;하지만 개별 기업이 누누티비의 사례처럼 사이트 URL을 차단해 불법 유통을 원천 봉쇄하기는 사실상 불가능하기에 정부의 지원이 필요하다는 주장이 나온다.&lt;br /&gt;&lt;br /&gt;누누티비 유입 경로는 직접 URL을 입력해서 접속하는 비율이 약 80%로 가장 많은 것으로 알려졌다. 누누티비는 URL 주소 내의 숫자를 변경하는 식으로 접속 차단을 회피하고 있는데, 웹툰 불법 공유 사이트도 이와 똑같은 방식을 사용하고 있다. &lt;br /&gt;&lt;br /&gt;이처럼 불법 사이트 URL 차단이 핵심적인 문제 해결책이 될 수 있는 만큼 기존에 웹툰 콘텐츠 불법 유출 문제를 전담하던 문화체육관광부, 방송통신심의위원회 외에 과기정통부의 지원이 필요할 것으로 전망된다.&lt;br /&gt;&lt;br /&gt;한 업계 관계자는 &amp;quot;밤토끼 같은 사이트로 인해 웹툰업계가 수년째 골머리를 앓고 있는 것과 달리 누누티비는 과기정통부의 참전으로 곧바로 실질적인 차단이 이뤄지고 있다&amp;quot;며 &amp;quot;웹툰 유료서비스가 고작 200, 300원 수준으로 보이지만 전체 피해 규모는 수천억원에 달한다. 누누티비와 웹툰 불법 사이트의 구조가 크게 다르지 않은 만큼 비슷한 지원이 이뤄지면 확실한 근절 효과가 있을 것&amp;quot;이라고 말했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 hsyhs@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>&amp;#039;후쿠시마산&amp;#039; 표시않고 파는 사케…어떻게 생각하십니까</title>
+      <link>http://www.newsis.com/view?id=NISX20230406_0002257269</link>
+      <guid>http://www.newsis.com/view?id=NISX20230406_0002257269</guid>
+      <pubDate>2023-04-07T08:01:00.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0019845355_web.jpg?rnd=20230405114449&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/05/NISI20230405_0019845355_web.jpg?rnd=20230405114449&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]송종호 기자 = 국내 한 유명 주류 수입업체가 후쿠시마산 사케(일본식 청주)를 수입하면서 공식 홈페이지에 후쿠시마현 소속 시(市) 단위만 표기해 국내에 유통하고 있는 것으로 파악됐다. &lt;br /&gt;&lt;br /&gt;같은 업체에서 수입하는 다른 일본 주류의 경우 현 단위를 모두 표기한 것과 달라 시민단체 등에서 “소비자 기만 행위”라는 지적을 받고 있다. &lt;br /&gt;&lt;br /&gt;7일 뉴시스 취재 결과 해당 업체는 일본 주류 수십종을 수입하면서 후쿠시마현에 위치한 주조장에서 제조한 2종은 기초지자체인 시 단위만 공개하고 있다.&lt;br /&gt;&lt;br /&gt;예를 들어 A사케는 생산지역을 후쿠오카현 이토시마시로 표기하는 반면 후쿠시마산 사케는 후쿠시마현을 빼고 소속 시 단위만 표기하고 있다.&lt;br /&gt;&lt;br /&gt;그 때문에 소비자 입장에서는 홈페이지에서 생산지역을 확인하더라도 해당 사케가 후쿠시마현에서 생산된 제품이라는 사실을 모를 수 있다. &lt;br /&gt;&lt;br /&gt;후쿠시마현은 일본 광역지자체인 43개 현 가운데 하나로 2011년 발생한 동일본 대지진으로 후쿠시마 제1원전에서 방사능이 대량으로 방출됐다. 그 여파로 후쿠시마산 수산물은 현재까지 수입이 금지되고 있다. 다만 주류, 가공식품 등에 한해 방사능 검사를 받고 방사능이 검출되지 않으면 수입을 허용하고 있다. &lt;br /&gt;&lt;br /&gt;해당 업체는 지난 2021년 후쿠시마산 사케를 수입했고, 가장 최근 수입일은 지난달 24일이다. 해당 사케는 이 업체를 통해 총 12차례 국내에 들어왔다. &lt;br /&gt;&lt;br /&gt;시민단체는 해당 업체가 후쿠시마에 위치한 주조장에서 만들어진 사케만 생산지역에서 후쿠시마를 표기하지 않은 것은 문제가 있다고 봤다. &lt;br /&gt;&lt;br /&gt;시민방사능감시센터 관계자는 “후쿠시마를 표기를 하지 않은 것은 소비자의 알권리를 침해하는 것”이라며 “소비자를 기만하는 행위”라고 지적했다.&lt;br /&gt;&lt;br /&gt;이에 대해 해당 업체는 ”수입 식품 표기 등은 관련 법률을 준수하고 있다“며 ”홈페이지에 다른 일본 주류와 달리 현 단위인 후쿠시마를 표기하지 않은 이유는 확인이 필요하다“고 말했다. &lt;br /&gt;&lt;br /&gt;식약처는 ”사실과 다르게 표기했다면 위반이지만 자율로 표시하는 항목을 표시하지 않은 것을 위반이라 얘기하기는 어렵다“고 밝혔다. &lt;br /&gt;&lt;br /&gt;하지만 소비자 및 일본 주류를 취급하는 자영업자들은 후쿠시마산 유통에 대해서 우려를 지우지 못했다. &lt;br /&gt;&lt;br /&gt;서울에서 일본식 주점을 운영하는 B씨는 ”방사능 검사를 통과했다고 하더라도 후쿠시마산이라는 것을 알면 손님들에게 추천하지 못할 것“이라며 ”업장에서도 해당 사실을 알고서 들여놓는 곳은 없을 것“이라고 말했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 song@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>웹3 게임사 &amp;#039;디랩스&amp;#039;, 멤버십 어드벤처패스 NFT 발행</title>
+      <link>http://www.newsis.com/view?id=NISX20230407_0002257626</link>
+      <guid>http://www.newsis.com/view?id=NISX20230407_0002257626</guid>
+      <pubDate>2023-04-07T08:59:38.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/07/NISI20230407_0001236468_web.jpg?rnd=20230407085229&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/07/NISI20230407_0001236468_web.jpg?rnd=20230407085229&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스] 오동현 기자 = 웹3 게임 개발사 디랩스 게임즈는 자사 게임 이용자에게 게임 내 혜택을 주는 어드벤처패스 대체불가토큰(NFT)의 발행을 시작했다고 7일 밝혔다.&lt;br /&gt;&lt;br /&gt;어드벤처패스는 게임 내 혜택을 제공하는 NFT로 ▲럼블 레이싱 스타 게임의 얼리 액세스 제공 ▲특별 인게임 아이템 지급 ▲게임 내 NFT 에어드랍 ▲디랩스 게임 1종에 대한 패틀 패스 1시즌 이용 티켓 제공 등 다양한 혜택을 제공할 예정이다. &lt;br /&gt;&lt;br /&gt;어드벤처패스 NFT는 총 3433개를 발행한다. 미국 현지 시간으로 6일 오후 7시 3000개의 NFT를 &amp;#039;사전 예약 고객 판매&amp;#039;로 선보일 예정이며 4시간 안에 판매가 완료되지 않으면 대기명단 및 일반 고객에게 기회가 돌아간다. 총 3433개의 패스 중 433개는 디랩스의 내부 물량으로 보유하게 된다.&lt;br /&gt;&lt;br /&gt;디랩스가 선보일 웹3게임 &amp;#039;럼블 레이싱 스타&amp;#039;는 잔디 깎는 기계인 론모어를 이용해 전 세계 플레이어들과 경쟁하는 멀티플레이어 레이싱 게임이다. 다양한 트랙, 독특한 아이템과 스킬, 프로필 사진(PFP) NFT와의 연동 등을 지원해 NFT를 통해 이용자의 개성을 표현 가능하도록 했다.&lt;br /&gt;&lt;br /&gt;서정호 디랩스 사업본부장은 &amp;quot;디랩스가 제공하는 게임들에 대한 특별한 혜택이 주어지는 어드벤처 패스를 통해 단순히 지갑 속에 보유하고 있는 NFT가 아닌 게임 내 다양한 혜택을 이용자에게 부여할 것&amp;quot;이라고 전했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 odong85@newsis.com
+      </content:encoded>
+    </item>
+    <item>
+      <title>LGU+, 커머스 플랫폼 &amp;#039;U+콕&amp;#039; 친구 추천시 할인쿠폰 준다</title>
+      <link>http://www.newsis.com/view?id=NISX20230407_0002257634</link>
+      <guid>http://www.newsis.com/view?id=NISX20230407_0002257634</guid>
+      <pubDate>2023-04-07T09:00:00.000Z</pubDate>
+      <content:encoded>
+        &lt;p&gt;&lt;a href=&quot;http://image.newsis.com/2023/04/07/NISI20230407_0001236466_web.jpg?rnd=20230407085204&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://image.newsis.com/2023/04/07/NISI20230407_0001236466_web.jpg?rnd=20230407085204&quot; width=&quot;130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;[서울=뉴시스]윤정민 기자 = LG유플러스가 오는 12일까지 데이터 커머스 플랫폼 &amp;#039;유플러스(U+)콕&amp;#039;에서 친구를 추천하면 경품을 증정하는 이벤트를 진행한다고 7일 밝혔다.&lt;br /&gt;&lt;br /&gt;유플러스콕은 빅데이터 기반으로 고객에게 필요한 맞춤형 상품을 1대 1 제안하는 모바일 쇼핑 플랫폼이다. LG유플러스는 지난해 말 기준 누적 이용자 수가 530만명을 돌파했다고 전했다.&lt;br /&gt;&lt;br /&gt;1만여개의 상품을 정상가 대비 최대 94% 할인된 가격으로 제공하는 것이 특징이다. 멤버십 VIP 이상 등급 고객에게는 3% 추가 할인이 적용된다.&lt;br /&gt;&lt;br /&gt;LG유플러스는 보다 많은 고객에게 유플러스콕 최저가 혜택 경험 기회를 제공하기 위해 오는 12일까지 유플러스콕 앱에서 친구를 추천하면 친구와 추천인에게 모두 2000원 앱 전용 할인쿠폰을 증정하는 이벤트를 진행한다. 또한 가장 많은 친구를 추천한 고객 50명을 선정해 5만원 상당의 할인쿠폰을 추가 증정할 예정이다.&lt;br /&gt;&lt;br /&gt;이벤트 참여를 원하는 고객은 친구 추천 이벤트 페이지에서 추천코드를 발급받아 친구에게 공유한 후, 친구가 상품 구매 시 결제 화면에서 추천인 추천코드를 입력하면 된다. 친구가 구매한 상품 배송이 완료되면 할인쿠폰이 자동 지급된다. 쿠폰 사용기한은 발급일로부터 60일이다.&lt;br /&gt;&lt;br /&gt;김태훈 LG유플러스 광고사업단장(상무)는 &amp;quot;유플러스콕을 사용하는 고객이 경험헌 &amp;#039;초저가 소비 혜택&amp;#039;을 더 많은 고객과 공유하기 위해 친구 추천 이벤트를 마련하게 됐다&amp;quot;며 &amp;quot;앞으로도 많은 고객 분들이 유플러스콕을 통한 생활 속 소비 혜택을 더 많이 느끼실 수 있도록 높은 품질의 가격 혜택을 갖춘 상품을 지속 확대할 것&amp;quot;이라고 말했다.&lt;br /&gt;
+        ◎공감언론 뉴시스 alpaca@newsis.com
       </content:encoded>
     </item>
   </channel>
