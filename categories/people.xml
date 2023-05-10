@@ -1,79 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>경향신문 - 인물</title>
-    <link>https://www.khan.co.kr/rss/rssdata/people_news.xml</link>
-    <description>경향신문 - 인물</description>
-    <lastBuildDate>2023-05-09T00:09:55.835Z</lastBuildDate>
-    <item>
-      <title>방통위 상임위원 이상인씨</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119134392/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119134392/1</guid>
-      <pubDate>2023-05-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/04/119134387.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;윤석열 대통령이 3일 방송통신위원회 상임위원(차관급)에 이상인 변호사(64·사진)를 임명했다. 지난달 임기 만료로 퇴임한 김창룡 상임위원의 후임이다. 이 신임 위원은 대법원 재판연구관, 인천지법 부장판사 등을 지낸 뒤 변호사 사무실을 열었다.</content:encoded>
-    </item>
-    <item>
-      <title>임호영 한미동맹재단 회장 취임</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119134385/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119134385/1</guid>
-      <pubDate>2023-05-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/04/119134381.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;임호영 전 한미연합사령부 부사령관(64·예비역 대장·사진)이 한미동맹재단 신임 회장으로 1일 취임했다고 재단 측이 3일 밝혔다. 임 신임 회장은 제6사단장과 제5군단장, 합참 전략기획본부장 등을 지냈다.</content:encoded>
-    </item>
-    <item>
-      <title>피아니스트 선우예권, 한독 수교 140주년 홍보대사 위촉</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119134379/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119134379/1</guid>
-      <pubDate>2023-05-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/04/119134377.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계적 피아노 콩쿠르 ‘밴 클라이번 콩쿠르’ 한국인 최초 우승자인 피아니스트 선우예권(사진)이 한독 수교 140주년 기념 홍보대사가 됐다. 주독일 한국대사관은 2일(현지 시간) 위촉식을 열고 선우예권에게 위촉장을 수여했다.</content:encoded>
-    </item>
-    <item>
-      <title>전경련, 장애영아원에 선물-지원금</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119134374/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119134374/1</guid>
-      <pubDate>2023-05-04T03:00:00.000Z</pubDate>
-      <content:encoded>전국경제인연합회는 3일 초록우산 어린이재단과 공동으로 경기 광주 한사랑장애영아원에서 ‘경제계가 함께하는 5월의 크리스마스’ 캠페인을 개최했다고 밝혔다. 이날 행사에서 전경련은 초록우산 어린이재단 한사랑장애영아원 어린이 40명에게 선물과 지원금을 전달했다. 이번 행사는 5월 가정의 달을 맞아 소외계층 어린이들에게 크리스마스와 같은 행복한 하루를 선물하고 이들에 대한 경제계의 관심과 지원이 연중 이어지길 바라는 취지에서 기획됐다.</content:encoded>
-    </item>
-    <item>
-      <title>에쓰오일, 사회적 기업에 1억5000만원</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119134365/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119134365/1</guid>
-      <pubDate>2023-05-04T03:00:00.000Z</pubDate>
-      <content:encoded>에쓰오일은 3일 서울 마포구 본사에서 사회적 기업 지원 사업 기부금 전달식을 열고 기부금 1억5000만 원을 전달했다고 밝혔다. 기부금은 열매나눔재단을 통해 선발된 5개 친환경 분야 사회적 기업의 사업화 자금, 네트워크 형성 지원금 등으로 사용될 예정이다.</content:encoded>
-    </item>
-    <item>
-      <title>류현진, 백혈병어린이재단에 1억</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119134359/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119134359/1</guid>
-      <pubDate>2023-05-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/04/119134358.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 메이저리그(MLB) 류현진(36·토론토·사진)이 한국백혈병어린이재단에 1억 원을 기부했다. 재단은 “류현진이 어린이날을 앞두고 ‘조금이나마 도움이 되고 싶다’며 기부금을 전했다”고 3일 밝혔다. 류현진은 지난해에도 이 재단에 1억 원을 기부했다.</content:encoded>
-    </item>
-    <item>
-      <title>가톨릭문학상 이해인 수녀</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119134344/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119134344/1</guid>
-      <pubDate>2023-05-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/04/119134342.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;가톨릭신문사가 제정한 한국 가톨릭문학상 제26회 본상 수상작에 이해인 수녀(사진)의 시 편지집 ‘꽃잎 한 장처럼’이, 신인상에는 이주란 작가의 장편소설 ‘수면 아래’가 각각 선정됐다. 시상식은 11일 오후 4시 서울 중구 정동 프란치스코 교육회관에서 열린다. 본상 수상자에게는 상금 3000만 원을, 신인상 수상자에게는 1000만 원을 수여한다.</content:encoded>
-    </item>
-    <item>
-      <title>김영수 PBA 총재 소강체육대상</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119134339/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119134339/1</guid>
-      <pubDate>2023-05-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/04/119134334.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;김영수 프로당구협회(PBA) 총재(81·사진)가 3일 서울 중구 코리아나호텔에서 열린 제15회 소강체육대상 시상식에서 대상을 수상했다. 문화체육부 장관, 한국농구연맹(KBL) 총재, 2014년 인천 아시아경기 조직위원장 등을 지낸 김 총재는 2019년 PBA 총재를 맡아 프로당구를 세계 최고의 실력을 갖춘 선수들이 활약하는 무대로 만들고, 국내 당구 발전과 대중화에 기여했다는 평가를 받았다.</content:encoded>
-    </item>
-    <item>
-      <title>尹대통령, 신임 소방청장에 남화영 소방청 차장 임명</title>
-      <link>https://www.donga.com/news/Politics/article/all/20230504/119146073/1</link>
-      <guid>https://www.donga.com/news/Politics/article/all/20230504/119146073/1</guid>
-      <pubDate>2023-05-04T16:14:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/04/119146055.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;윤석열 대통령은 4일 신임 소방청장(차관급)에 남화영 소방청 차장(59)을 인선했다.  대통령실은 이날 오후 보도자료를 통해 이같이 밝혔다.  소방청 차장이던 남 신임 청장은 지난해 10월부터 소방청장 직무대리로 업무를 수행해 왔다.  부산대 물리학과를 졸업한 남 신임 청장은 문경소방서장, 제주특별자치도 소방안전본부장 등을 역임한 뒤 소방청에서 운영지원과장, 소방정책과장, 소방정책국장 등을 지냈다.  (서울=뉴스1)</content:encoded>
-    </item>
-    <item>
-      <title>대한체육회 새 사무총장에 윤성욱 전 국무 2차장</title>
-      <link>https://www.donga.com/news/People/article/all/20230504/119149904/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230504/119149904/1</guid>
-      <pubDate>2023-05-04T21:55:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/04/119149899.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;윤성욱 전 국무조정실 국무 2차장이 대한체육회 새 사무총장을 맡는다.대한체육회는 4일 서울 송파구 올림픽파크텔에서 제21차 이사회를 열어 윤 신임 사무총장 임명을 의결했다.경기고와 연세대 경영학과를 졸업한 윤 사무총장은 1991년 행정고시에 합격하며 공직에 입문했다.주로 기획재정부에 재직하면서 예산·행정 전문가로 평가 받았다.2021년 2월 인사 때 차관급인 국무 2차장에 임명됐으며 윤석열 정부 출범 이후 공직에서 물러났다.박춘섭 전임 사무총장은 한국은행 금융통화위원으로 자리를 옮긴 상태였다.이사회는 이기흥 회장 임기 후반부를 맞아 부회장과 이사도 추가로 선임했다.강신성 전 대한봅슬레이스켈레톤경기연맹 회장, 김오영 경남도체육회장, 조현재 국민체육진흥공단 이사장이 부회장을 맡는다.김인호 대한스키협회 회장, 박현 대한핸드볼협회 부회장, 이규생 인천시체육회 회장, 이정관 대한근대5종연맹 부회장, 이혁렬 대한바이애슬론연맹 회장은 이사가 됐다. 체</content:encoded>
-    </item>
+    <title>동아일보 - 사람속으로</title>
+    <link>https://rss.donga.com/inmul.xml</link>
+    <description>동아일보 - 사람속으로</description>
+    <lastBuildDate>2023-05-10T00:10:19.914Z</lastBuildDate>
     <item>
       <title>[부고]박영순 별세 外</title>
       <link>https://www.donga.com/news/People/article/all/20230505/119150641/1</link>
@@ -122,27 +52,6 @@
       <guid>https://www.donga.com/news/People/article/all/20230505/119150573/1</guid>
       <pubDate>2023-05-05T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/05/119150851.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;9세 여아의 유괴를 막아낸 한 광주 시민이 ‘포스코히어로즈’로 선정됐다. 포스코청암재단은 이철 씨(42·사진)를 포스코히어로즈로 선정해 상패와 장학금을 전달했다고 4일 밝혔다. 포스코히어로즈펠로십은 의로운 일을 한 이들이나 그 자녀에게 장학금을 주는 사회공헌활동이다.</content:encoded>
-    </item>
-    <item>
-      <title>‘일타 강사’ 조정식, 모교 고려대에 5억</title>
-      <link>https://www.donga.com/news/People/article/all/20230505/119150562/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230505/119150562/1</guid>
-      <pubDate>2023-05-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/05/119150561.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대학수학능력시험(수능) 영어 ‘일타 강사’(1등 스타강사)로 유명한 조정식 메가스터디 강사(사진)가 모교인 고려대에 장학금 5억 원을 기부했다. 법학과 출신인 조 강사는 4일 서울 성북구 고려대에서 열린 장학기금 기부 약정식에서 “후배들이 꿈을 잃지 않고 글로벌 경쟁력을 갖춘 인재로 자라날 수 있도록 응원하고 싶다”고 밝혔다. 장학기금은 해외 교환학생으로 파견되는 학생들에게 지급될 예정이다.</content:encoded>
-    </item>
-    <item>
-      <title>“故김지하 시인, 그는 화가로도 뛰어났습니다”</title>
-      <link>https://www.donga.com/news/People/article/all/20230505/119150552/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230505/119150552/1</guid>
-      <pubDate>2023-05-05T03:00:00.000Z</pubDate>
-      <content:encoded>“지하를 시인으로만 아는 분이 많지만, 그는 화가로도 뛰어났습니다.”   4일 서울 종로구 백악미술관. 고 김지하 시인(1941∼2022) 추모 서화전 ‘꽃과 달마, 그리고 흰 그늘의 미학’ 총괄을 맡은 유홍준 전 문화재청장이 말했다. 이에 임진택 연출가와 이근배 시인(전 대한민국예술원 회장), 염무웅 문학평론가 등 고인의 친구 50여 명이 손뼉을 치며 화답했다. 유 전 청장이 “나도 그림을 그리지만, 지하처럼 재능이 없었다”고 농담을 건네자 여기저기서 웃음이 터져 나왔다.   김 시인의 1주기(8일)를 앞두고 열린 이번 전시에서는 고인이 생전 친구들에게 선물한 그림 40여 점을 볼 수 있다. 고인은 ‘타는 목마름으로’, ‘오적’ 등 시로 유명하지만 1980년대부턴 붓글씨와 그림에도 몰두했다. 매화, 난초를 그린 것은 물론이고 달마도와 인물화에도 능숙했다. 대표적 작품이 경제학자 박현채(1934∼1995)를 그린 그림(1982년)이다. 유 전 청장은 “박현채가 파리채를 들고 파리(잘못된 근대화)를 내쫓는</content:encoded>
-    </item>
-    <item>
-      <title>“브로드웨이서 한국인 女작곡가 인정 기뻐”</title>
-      <link>https://www.donga.com/news/People/article/all/20230505/119150546/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20230505/119150546/1</guid>
-      <pubDate>2023-05-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/05/119150542.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“백인 남성 중심의 브로드웨이에서 한국 여성 작곡가로서 실력을 인정받아 기쁩니다.” 미국 뮤지컬계의 아카데미상인 토니상 음악상 후보에 아시아 여성 최초로 이름을 올린 헬렌 박 씨(37·사진)는 3일(현지 시간) 동아일보 인터뷰에서 “한국인이 용기 있게 한국인의 이야기를 해도 된다는 격려 같았다”고 말했다.  박 씨는 미 브로드웨이 뮤지컬 ‘KPOP’으로 공동 작곡가인 맥스 버넌과 함께 이번 토니상 음악상 후보에 올랐다. 뮤지컬 ‘KPOP’은 브로드웨이 최초로 K팝을 소재로 한 작품이다. 오프브로드웨이에서 평단과 관객의 극찬을 받았다. 하지만 지난해 말 브로드웨이 진출 정기공연 2주 만에 조기 종영되며 아쉬움을 남긴 바 있다. 짧은 공연 기간에도 음악성을 인정받아 후보에 올랐다. 아시아 여성으로는 처음이라 뉴욕타임스(NYT) 등 미 언론도 그의 후보 지명에 주목했다. 박 씨는 “쇼가 짧게 끝나도 작품이 끝난 것은 아니고 계속 이어갈 수 있을 것이란 희망이 생긴다. 8년간의 노력을 인정</content:encoded>
     </item>
     <item>
       <title>[온라인 라운지]강성학 고려대 명예교수, 시어도어 루즈벨트 리더십 연구서 출간</title>
@@ -285,17 +194,6 @@
       <content:encoded>동아비즈니스리뷰(DBR)가 챗GPT 비즈니스 실전 활용법을 다루는 ‘챗GPT 디자인 캔버스 워크숍’을 개최합니다. 챗GPT를 대표 주자로 하는 생성형 AI는 이른바 스마트폰 혁명 이후 비즈니스 패러다임의 판을 뒤흔드는 트렌드로 전 세계에서 주목받고 있습니다. 시 쓰기, 보고서 작성, 프로그래밍 코드까지 짜주는 챗GPT의 등장은 세계 경제 지형을 바꾸는 분기점이 될 것으로 전망됩니다. 이번 워크숍에서는 DBR과 AI 솔루션 기업인 알고리즘랩스가 직접 개발한 챗GPT 디자인 캔버스를 기반으로 챗GPT를 나만의 업무 비서로 활용하는 방법과 비즈니스 업무 개선을 위한 프레임워크를 알려드립니다. 워크숍은 국내 최고 수준의 AI 전문가인 손진호 알고리즘랩스 대표와 함께하는 실습으로 진행됩니다. 비즈니스 실무에서의 챗GPT 활용 방안을 고민 중이라면 이번 워크숍에 많은 관심을 바랍니다.● 대상: 챗GPT를 비즈니스에 바로 활용하고 싶은 기업 임직원과 일반인● 교육 일시: 2023년 5월 9일(화</content:encoded>
     </item>
     <item>
-      <title>“잊혀가는 재일교포 할배·할매 얼굴, 그림으로 담아올게요”</title>
-      <link>https://www.khan.co.kr/people/people-general/article/202305080600025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/people/people-general/article/202305080600025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2023-05-08T06:00:02.000Z</pubDate>
-      <content:encoded>
-        7월 일본 찾는 상명대 ‘메모리 오브 코리아 팀’&lt;br /&gt;
-        &lt;br /&gt;
-        충남 천안 상명대의 한 강의실에서 지난 3일 ‘메모리 오브 코리아’ 팀의 고경일 교수와 재학생 이상민·김지성·이유경·박수빈씨(오른쪽부터)가 독립운동가 등···
-      </content:encoded>
-    </item>
-    <item>
       <title>국방부, 국방홍보원장에 채일 前 KBS 기자 선임</title>
       <link>https://www.donga.com/news/Politics/article/all/20230508/119182728/1</link>
       <guid>https://www.donga.com/news/Politics/article/all/20230508/119182728/1</guid>
@@ -315,63 +213,6 @@
       <guid>https://www.donga.com/news/Society/article/all/20230508/119194520/1</guid>
       <pubDate>2023-05-08T18:38:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/08/119194518.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이석연 전 법제처장(동서대 석좌교수·사진)은 12일 몽골에서 현지 국회의원과 고위공직자 400여 명을 대상으로 특강을 한다. 강의주제는 ‘한국 부패방지제도의 현황과 몽골 반부패정책에 대한 제언’이다. 몽골 정부는 올해와 내년을 ‘부패와의 전쟁의 해’로 선포하고 정부 차원의 반부패 활동을 전개하고 있다. 이번에 고위 관리들에게 부패 퇴치와 관련한 경험을 공유하고 전수하기 위해 이 전 처장을 초청했다.</content:encoded>
-    </item>
-    <item>
-      <title>한·미 과학자들, 파킨슨병 근본적 치료할 실마리 찾았다</title>
-      <link>https://www.khan.co.kr/people/people-general/article/202305082212005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/people/people-general/article/202305082212005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2023-05-08T22:12:00.000Z</pubDate>
-      <content:encoded>
-        정인경 교수팀·미 국립노화연구소&lt;br /&gt;
-        세계 최초 ‘후성 유전체 3D’ 작성&lt;br /&gt;
-        발병 연관 신규 유전자 656개 제시&lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        한국과 미국 과학자들이 대표적인 퇴행성 뇌 질환인 파킨슨병을 근본적으로 치료할 수 있는 실마리···
-      </content:encoded>
-    </item>
-    <item>
-      <title>서울시, 효행실천 개인 30명·단체 4곳 표창</title>
-      <link>https://www.khan.co.kr/people/people-general/article/202305082212015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/people/people-general/article/202305082212015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2023-05-08T22:12:01.000Z</pubDate>
-      <content:encoded>
-        서울시는 8일 오후 중구 장충체육관에서 어버이날 기념식을 열고 효행자와 장한 어버이, 효 실천 단체 등에 효행실천유공 표창을 수여했다고 밝혔다.&lt;br /&gt;
-        &lt;br /&gt;
-        올해 51회째를 맞은 기념식에는 매년 평소 웃어른을 공경하고···
-      </content:encoded>
-    </item>
-    <item>
-      <title>MLB 특급 투수 바이다 블루 별세</title>
-      <link>https://www.khan.co.kr/people/obituary/article/202305082212025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/people/obituary/article/202305082212025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2023-05-08T22:12:02.000Z</pubDate>
-      <content:encoded>1970년대 미국 프로야구 메이저리그(MLB)에서 활약했던 바이다 블루가 세상을 떠났다. 오클랜드 애슬레틱스 구단은 8일 블루가 향년 73세로 별세했다고 공식 발표했다. 정확한 사인은 알리지 않았다. ‘화염 방사기’···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사 - 2023년 5월 9일</title>
-      <link>https://www.khan.co.kr/people/personnel_shift/article/202305082212035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/people/personnel_shift/article/202305082212035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2023-05-08T22:12:03.000Z</pubDate>
-      <content:encoded>
-        ■국토교통부 ◇과장급 전보 △생활물류정책팀장 지동선&lt;br /&gt;
-        &lt;br /&gt;
-        ■문화체육관광부 ◇과장급 임용 △체육국 국제체육과장 명수현 △해외문화홍보원 기획운영과장 김진희 △국립중앙극장(과장직위) 조현나&lt;br /&gt;
-        &lt;br /&gt;
-        ■국방부 ◇승···
-      </content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고 - 2023년 5월 9일</title>
-      <link>https://www.khan.co.kr/people/obituary/article/202305082212045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/people/obituary/article/202305082212045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2023-05-08T22:12:04.000Z</pubDate>
-      <content:encoded>
-        ■김만종씨 별세, 최형철 한국일보 신문국 에디터 겸 논설위원 장인상=8일 오전 6시55분 경기도의료원 파주병원. 발인 10일 오후 1시 (031)940-9370 &lt;br /&gt;
-        &lt;br /&gt;
-        ■박간란씨 별세, 송인헌 충북 괴산군수·삼헌·길헌·금헌····
-      </content:encoded>
     </item>
     <item>
       <title>“입양시기 놓치기 전, 아이에게 새 가정을”</title>
@@ -421,6 +262,182 @@
       <guid>https://www.donga.com/news/People/article/all/20230508/119196744/1</guid>
       <pubDate>2023-05-09T03:00:00.000Z</pubDate>
       <content:encoded>◇김종문 씨 별세·연수 영주가톨릭병원 이사장 민수 연하 씨 부친상·손태승 전 우리금융그룹 회장 장인상·장혜란 최진경 씨 시부상·상헌 씨 조부상=7일 서울성모병원, 발인 10일 오전 7시 20분  02-2258-5940   ◇김형백 씨 별세·장성우 프로야구 kt wiz 선수 장인상=7일 부산광역시의료원, 발인 10일 오전 5시 30분 051-607-2979   ◇박간란 씨 별세·송인헌 충북 괴산군수 삼헌 길헌 금헌 경자 지연 씨 모친상=8일 충북 괴산성모병원, 발인 10일 오전 6시 30분 043-833-4411</content:encoded>
+    </item>
+    <item>
+      <title>기시다 ‘마음 아프다’ 발언에…日전문가 “불충분하지만 분명한 진전”</title>
+      <link>https://www.donga.com/news/Inter/article/all/20230509/119200923/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20230509/119200923/1</guid>
+      <pubDate>2023-05-09T10:13:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/09/119200920.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일본의 한일 관계 전문가들은 기시다 후미오 일본 총리가 7일 한일 정상회담에서 “혹독한 환경에서 많은 분이 고통스럽고 슬픈 일을 겪은 데 대해 마음이 아프다”라고 밝힌 데 대해  긍정적으로 평가하면서도 한국 강제동원 피해자와 시민단체들이 원하는 수준에는 미치지 못했다고 지적했다. 그러면서도 일본 정부가 지금보다 더 적극적으로 한일 관계 개선에 나서 동아시아 정세 구축에 역할을 해야 한다고 말했다. 한국 전문가인 일본 대학 교수 3명에게 한일 정상회담 평가와 향후 과제를 들어 봤다. 기미야 다다시(木宮正史) 도쿄대 대학원 교수  한국인의 시각에서 볼 때 기시다 총리의 유감 표명에 불만이 있다는 것은 이해한다. 다만 3월 윤석열 대통령 방일 때 기시다 총리 발언(“역대 내각 입장을 전체적으로 계승”)과 비교하면 진전이 있었던 것도 사실이다. 과거사 문제를 두고 어느 한쪽에서 깔끔하게 해결한다는 것은 어려운</content:encoded>
+    </item>
+    <item>
+      <title>“오디션만 1000번, 브로드웨이서 동양인 편견 깨고 다양한 역할 선보일게요”</title>
+      <link>https://www.khan.co.kr/people/people-general/article/202305091456001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/people-general/article/202305091456001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-09T14:56:00.000Z</pubDate>
+      <content:encoded>
+        미국 브로드웨이에서 뮤지컬 배우로 활동 중인 황주민씨. 본인 제공&lt;br /&gt;
+        &lt;br /&gt;
+        동양인 배우가 설 수 있는 무대가 극히 적은 미국 브로드웨이에서 경력을 차곡차곡 쌓아가는 한국인 배우가 있다. 지난 8년간 그가 본 오디션은 ···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[온라인 라운지]사단법인 북한인권정보센터 창립 20주년 기념식</title>
+      <link>https://www.donga.com/news/Politics/article/all/20230509/119207826/1</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20230509/119207826/1</guid>
+      <pubDate>2023-05-09T15:09:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/09/119207824.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사단법인 북한인권정보센터(NKDB·이사장 신영호)는 9일 서울 중구 프레스센터 20층에서 창립 20주년 기념 행사를 열었다. 북한에서 자행되는 인권 실태에 대한 기록분석, 보관을 목적으로 2003년 설립된 이 단체는 현재까지 2만여 명의 북한이탈주민에 대한 조사와 증언을 분석해 8만 5391건의 인권침해 기록과 5만 5065의 인물정보를 보관하고 있다. 북한인권 침해 정보 관련 세계 최대 데이터베이스를  구축해 세계 각국과 단체들의 북한 인권 운동에 밑거름을 제공해 왔다.NKDB 임순희 본부장은 “북한인권 개선을 위해 앞으로의 20년은 북한인권의 탈정치화와 북한인권에 대한 보편적인 국민인식의 제고를 위해 북한인권박물관 운영, 북한인권기록물 유네스코 등재 작업에 그간 쌓은 역량을 쏟을 예정이다. 북한인권 피해 당사자와 그 가족의 이익과 요구를 우선하며 북한이탈주민 스스로 당사자로서 인권 활동의 중심에 설 수 있도록 돕겠다”</content:encoded>
+    </item>
+    <item>
+      <title>김은선, 내년 4월 베를린필 데뷔…동양인 여성 지휘자 최초</title>
+      <link>https://www.donga.com/news/Culture/article/all/20230509/119208696/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20230509/119208696/1</guid>
+      <pubDate>2023-05-09T15:37:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/09/119208640.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 샌프란시스코오페라(SFO) 음악감독인 지휘자 김은선이 내년 4월 베를린 필하모닉 무대에 데뷔한다.  9일 베를린 필하모닉에 따르면 김은선은 내년 4월18일부터 20일까지 베를린 필하모닉 콘서트홀 무대에 오른다.  김은선은 미국 출신 소프라노 타마라 윌슨이 부르는 쇤베르크의 모노드라마 ‘기대’와 라흐마니노프 교향곡 3번으로 베를린 필하모닉을 지휘한다.  김은선은 지난 2021년 8월 SFO 음악감독에 취임하며 전 세계의 주목을 받았다. SFO는 뉴욕 메트로폴리탄 오페라에 이어 북미에서 두 번째로 큰 오페라단으로, 미국 주요 오페라단을 여성이자 아시아 출신이 이끄는 건 최초였다. 그는 그해 12월 뉴욕타임스가 선정한 ‘문화계 샛별’에 넷플릭스 ‘오징어게임’의 배우 이정재와 함께 이름을 올리기도 했다.  연세대와 동대학원을 졸업하고 독일 슈투트가르트 음대에서 지휘를 공부한 그는 2008년 스페인 헤수스 로페스 코보스 오페라 지휘 콩쿠르에서 우승하며 국제 무대에 이름을 알렸다. 2010년엔 스페인 마드리드</content:encoded>
+    </item>
+    <item>
+      <title>에쓰오일, 신임 CEO에 알 히즈아지 전 아람코아시아 사장</title>
+      <link>https://www.khan.co.kr/people/personnel_shift/article/202305091552001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/personnel_shift/article/202305091552001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-09T15:52:00.000Z</pubDate>
+      <content:encoded>
+        에쓰오일 안와르 알 히즈아지 최고경영자(CEO). 에쓰오일 제공.&lt;br /&gt;
+        &lt;br /&gt;
+        에쓰오일(S-OIL)은 9일 임시 주주총회와 이사회를 열어 새 대표이사 최고경영자(CEO)에 안와르 알 히즈아지 전 아람코 아시아 사장을 선임했다고 밝혔···
+      </content:encoded>
+    </item>
+    <item>
+      <title>‘베를린 필 지휘 데뷔’ 김은선 “뜻깊은 쇤베르크 150주년 기뻐”</title>
+      <link>https://www.donga.com/news/Culture/article/all/20230509/119209672/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20230509/119209672/1</guid>
+      <pubDate>2023-05-09T16:17:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/09/119209670.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 샌프란시스코 오페라(SFO) 음악감독으로 활약해 온 지휘자 김은선 씨(43)가 독일의 대표적 명문 악단으로 꼽히는 베를린 필하모닉 오케스트라(BPO) 정기연주회에 내년 4월 데뷔한다. 그는 4월 18~20일 베를린 필하모니 대공연장에서 열리는 베를린 필 연주회에서 소프라노 타마라 윌슨 협연으로 쇤베르크 ‘기대’를, 메인곡으로 라흐마니노프의 교향곡 3번을 지휘한다. SFO 음악감독실에서 9일 전화를 받은 그는 “내년이 쇤베르크 탄생 150주년이고 ‘기대’ 초연 100주년이 되는 해다. 의미깊은 콘서트를 지휘하게 되어 스스로도 기대가 크다”고 밝혔다. “‘기대’는 구조가 복잡하고 인간의 내면을 치밀하게 표현한 곡인만큼 해석하기 쉽지 않죠. 열심히 연구하면서 자신감을 키워가는 중입니다. 라흐마니노프 교향곡 3번은 다른 오케스트라에서 여러 차례 지휘해온 곡이어서 베를린 필이 어떤 색깔을 낼 지 매우 궁금해요.” 김 씨는 베를린 필하모닉 오케스트라 수석지휘자인 키릴 페트렌코가 2011년</content:encoded>
+    </item>
+    <item>
+      <title>“장례식 때 아리랑 불러달라” 룩셈부르크 6·25 참전용사 별세</title>
+      <link>https://www.khan.co.kr/people/obituary/article/202305092213005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/obituary/article/202305092213005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-09T22:13:00.000Z</pubDate>
+      <content:encoded>6·25전쟁의 최대 격전지였던 비무장지대(DMZ) 백마고지 전투에서 생존한 룩셈부르크 참전용사 질베르 호펠스가 지난달 24일(현지시간) 세상을 떠났다. 향년 90세. 생전 한국에 대한 관심과 애착이 남달랐던 고인은 ···</content:encoded>
+    </item>
+    <item>
+      <title>우크라 참상 알린 AP 기자들 ‘퓰리처상’</title>
+      <link>https://www.khan.co.kr/people/news/article/202305092213015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/news/article/202305092213015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-09T22:13:01.000Z</pubDate>
+      <content:encoded>
+        병원 폭격·학살 현장 등 취재 보도&lt;br /&gt;
+        “가짜뉴스 반박·인도적 지원 기여”&lt;br /&gt;
+        &lt;br /&gt;
+        2022년 3월 우크라이나 남부 도시 마리우폴에서 러시아의 산부인과 병동 폭격으로 부상당한 임산부를 구급요원들이 들것에 실어 나르고···
+      </content:encoded>
+    </item>
+    <item>
+      <title>카이스트 이사장에 김명자 전 장관</title>
+      <link>https://www.khan.co.kr/people/news/article/202305092213025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/news/article/202305092213025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-09T22:13:02.000Z</pubDate>
+      <content:encoded>한국과학기술원(KAIST·카이스트)은 지난달 21일 열린 제281회 임시이사회에서 김명자 전 환경부 장관(사진)을 이사장으로 선임했다고 9일 밝혔다.</content:encoded>
+    </item>
+    <item>
+      <title>에쓰오일 새 CEO에 알 히즈아지</title>
+      <link>https://www.khan.co.kr/people/personnel_shift/article/202305092213035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/personnel_shift/article/202305092213035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-09T22:13:03.000Z</pubDate>
+      <content:encoded>에쓰오일(S-OIL)은 9일 임시 주주총회와 이사회를 열어 새 대표이사 최고경영자에 안와르 알 히즈아지 전 아람코아시아 사장(사진)을 선임했다고 밝혔다.</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사 - 2023년 5월 10일</title>
+      <link>https://www.khan.co.kr/people/personnel_shift/article/202305092213045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/personnel_shift/article/202305092213045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-09T22:13:04.000Z</pubDate>
+      <content:encoded>
+        ■행정안전부 ◇과장급 전보 △상황담당관 이일령 △안전감찰담당관 정종훈 △자연재난대응과장 박정호 △복구지원과장 강성희 △10·29참사피해자지원단 소통협력지원과장 정우철 &lt;br /&gt;
+        &lt;br /&gt;
+        ■문화체육관광부 ◇고위공무원···
+      </content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고 - 2023년 5월 10일</title>
+      <link>https://www.khan.co.kr/people/obituary/article/202305092213055/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/obituary/article/202305092213055/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-09T22:13:05.000Z</pubDate>
+      <content:encoded>■이상열씨 별세, 동훈 광주신세계 대표이사·현영씨 부친상=9일 0시30분 경남 마산의료원. 발인 11일 오전 6시40분 (055)249-1716</content:encoded>
+    </item>
+    <item>
+      <title>[부고]안석흠 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216561/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216561/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>◇안석흠 씨 별세·건모 동서부동산 대표 학모 베리굿로지스 대표 순모 정모 씨 미모 전 강원도의원 양모 씨 부친상·김정식 육용복 씨(Redondo Beach Postal Annex Owner) 배연호 연합뉴스 강원취재본부 부장 황원중 한솥도시락 강대점 대표 장인상=8일 강원 춘천시 강원대병원, 발인 11일 오전 8시 033-254-5611   ◇이상열 씨 별세·동훈 광주신세계 대표이사 현영 씨 부친상= 9일 경남 창원시 마산의료원, 발인 11일 오전 6시 40분 055-249-1716</content:encoded>
+    </item>
+    <item>
+      <title>KAIST 이사장에 김명자 前장관</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216557/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216557/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/10/119216552.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;김명자 전 환경부 장관(78·국민통합위원회 고문·사진)이 9일 KAIST 신임 이사장으로 선임됐다. 1971년 KAIST 설립 이후 여성 이사장이 선임된 건 이번이 처음이다. 김 이사장은 서울대 화학과를 졸업하고 미국 버지니아대에서 박사를 받았다. 김대중 대통령 정부 최장수 장관으로 환경부 장관(1999∼2003년)을 지냈으며, 2016년 한국과학기술단체총연합회 최초 여성 회장으로 선출돼 과학기술계를 이끌었다. 김 이사장의 임기는 3년 후인 2026년 5월 8일까지다.최지원 기자 jwchoi@donga.com</content:encoded>
+    </item>
+    <item>
+      <title>이상원 양형위원장 “국민 법 감정 폭넓게 수렴”</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216549/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216549/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/10/119216548.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대법원 양형위원장으로 새로 위촉된 이상원 서울대 법학전문대학원 교수(사진)가 9일 “국민의 건전한 상식과 법 감정을 폭넓게 수렴하고 이를 양형기준에 합리적으로 반영하는 방안을 늘 고민하겠다”고 말했다. 이 위원장은 이날 대법원에서 열린 제124차 양형위 회의에서 신임 양형위원들에게 임명장과 위촉장을 수여하며 이같이 밝혔다. 이 위원장은 “사회 변화와 기술 발전에 따라 범죄 양상과 이에 대한 국민의 인식이 변하고 있다”며 “양형위가 수행해야 할 역할과 책임을 무겁게 받아들인다”고 강조했다.   판사 출신인 이 위원장은 서울대 아시아태평양법연구소장과 한국형사소송법학회 회장, 대검찰청 인권위원, 양형위 양형위원 등을 역임했다.김자현 기자 zion37@donga.com</content:encoded>
+    </item>
+    <item>
+      <title>“입양아는 버려진 게 아닌, 생명 지켜진 아이”</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216544/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216544/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/10/119216541.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“입양아는 ‘버려진 아이’가 아닌 생명이 ‘지켜진 아이’다.”    입양 가족인 국민의힘 최재형 의원(67·사진)이 11일 ‘입양의 날’을 앞두고 가진 인터뷰에서 가정에서의 아동 보호와 입양에 대한 인식 전환을 강조했다. 최 의원은 두 딸이 중고교생이던 중년의 나이에 두 아들을 입양했다.   최 의원은 9일 국회 의원회관에서 진행한 인터뷰에서 “생모가 낳은 아이를 키울 수 없어서 포기했다는 점보다는 그 생명을 지켰다는 점에 주목해야 한다”며 “생모의 마음은 가정의 보호 안에서 잘 자라길 기대하면서 소중한 생명을 우리 사회에 맡긴 것일 텐데 입양아에 대한 인식의 전환이 필요하다”고 밝혔다.   국회 보건복지위원회 소속인 최 의원은 현행 입양 제도와 관련해 공공 책임성 강화를 과제로 꼽았다. 최 의원은 “그동안 입양 절차를 민간이 주도해왔는데 공공의 책임성을 더 강화해야 한다”며 “‘헤이그 국제 아동입양 협약’(헤이그 협약) 비준을 위해서는 국가가 책임지고 전체 입양 과정을 관리해야 한다”고 말했다. 아동매</content:encoded>
+    </item>
+    <item>
+      <title>구자열 무협회장, 日 관서경제동우회 만나</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216537/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216537/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/10/119216536.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구자열 한국무역협회 회장(가운데)이 9일 일본 오사카에서 관서지역 3대 경제단체 중 하나인 관서경제동우회와 간담회를 갖고 가쿠모토 게이지 대표간사(왼쪽), 미야베 요시유키 국제교류위원장과 기념사진을 찍고 있다. 구 회장은 “두 차례의 양국 정상회담 이후 한일관계에 훈풍이 불어 양국의 경제 협력이 가속화되고 있다”고 말했다.한국무역협회 제공</content:encoded>
+    </item>
+    <item>
+      <title>초대 보훈부 장관 후보에 박민식씨</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216529/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216529/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/10/119216527.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;윤석열 대통령이 박민식 국가보훈처장(58·사진)을 초대 국가보훈부 장관 후보자로 지명했다고 대통령실이 9일 밝혔다. 박 후보자는 국회 인사청문회를 통과하면 다음 달 출범할 보훈부 장관으로 임명된다.    부산 출신의 박 후보자는 서울대 외교학과를 졸업하고 외무고시와 사법시험에 합격한 뒤 사법연수원 25기로 약 10년 동안 검사 생활을 했다. 국민의힘 전신인 한나라당과 새누리당 소속으로 18, 19대 국회의원(부산 북-강서)을 지냈다.</content:encoded>
+    </item>
+    <item>
+      <title>[인사]행정안전부 外</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216524/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216524/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>◇행정안전부 〈전보〉 ▽과장급 △상황담당관 이일령 △안전감찰담당관 정종훈 △자연재난대응과장 박정호 △복구지원과장 강성희 △10·29참사피해자지원단 소통협력지원과장 정우철   ◇문화체육관광부 △장관정책보좌관 최성희 △기획조정실 정책기획관 신은향   ◇한국전기안전공사 △부사장 황호준</content:encoded>
+    </item>
+    <item>
+      <title>“가수 싸이는 몰라도 흠뻑쇼 알아… 문화가 돼”</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216387/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216387/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/10/119216384.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“콘셉트가 지속되면 스타일이 되고, 그러면 문화가 돼요. 이젠 가수 싸이(사진)를 잘 모르는 사람들도 여름엔 ‘흠뻑쇼’에 가는 게 하나의 문화가 돼 가고 있다고 생각합니다.”   3일 디즈니플러스를 통해 공개된 ‘싸이 흠뻑쇼 2022’는 9개 도시에서 35만 명의 관객이 참여한 지난해 흠뻑쇼를 생생하게 담아낸 콘서트 라이브 필름이다. 2011년 시작된 흠뻑쇼는 싸이가 월드컵 기간 거리 응원을 보고 착안한 페스티벌로 관객이 물에 젖은 채 즐기는 게 특징이다. 9일 화상으로 만난 싸이는 “(쇼가) 10년 만에 무럭무럭 잘 자라줬다”고 했다.   이번 공연 실황 영상의 관전 포인트는 현장음. 싸이는 “다른 공연물에 비해 관객 소리가 크게 잡혔다. 현장감을 한껏 느끼실 수 있을 것”이라고 했다. 춤과 노래, 무대 기획과 연출까지 모두 도맡는 그는 “가수 싸이가 무대에서 걱정 없이 뛰어놀 수 있게 연출자 박재상(싸이의 본명)은 집요하고 고통스러운 준비 시간을 갖는다”고 했다.   흠뻑쇼 관객의 평균 연령은 25세</content:encoded>
+    </item>
+    <item>
+      <title>지휘자 김은선 “베를린 필 어떤 색깔 낼지 궁금”</title>
+      <link>https://www.donga.com/news/People/article/all/20230510/119216374/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20230510/119216374/1</guid>
+      <pubDate>2023-05-10T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/05/10/119216368.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 샌프란시스코 오페라(SFO) 음악감독으로 활약해온 지휘자 김은선 씨(43·사진)가 독일의 대표적 명문 악단으로 꼽히는 베를린 필하모닉 오케스트라(BPO) 정기연주회에 내년 4월 데뷔한다.   그는 4월 18∼20일 베를린 필하모니 대공연장에서 열리는 베를린 필 연주회에서 소프라노 타마라 윌슨 협연으로 쇤베르크의 ‘기대’를, 메인곡으로 라흐마니노프의 교향곡 3번을 지휘한다.   SFO 음악감독실에서 9일 전화를 받은 그는 “내년이 쇤베르크 탄생 150주년이고 ‘기대’ 초연 100주년이 되는 해다. 의미 깊은 콘서트를 지휘하게 되어 스스로도 기대가 크다”고 밝혔다.    “‘기대’는 구조가 복잡하고 인간의 내면을 치밀하게 표현한 곡인 만큼 해석하기 쉽지 않죠. 열심히 연구하면서 자신감을 키워가고 있습니다. 라흐마니노프 교향곡 3번은 다른 오케스트라에서 여러 차례 지휘해온 곡이어서 베를린 필이 어떤 색깔을 낼지 매우 궁금해요.”   김 씨는 베를린 필하모닉 오케스트라 수석지휘자인 키릴 페트렌코가 2011</content:encoded>
+    </item>
+    <item>
+      <title>“오디션 1000번…이제 토니상 후보들과 호흡 맞춰요”</title>
+      <link>https://www.khan.co.kr/people/people-general/article/202305100600025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/people/people-general/article/202305100600025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2023-05-10T06:00:02.000Z</pubDate>
+      <content:encoded>
+        뮤지컬 ‘앤줄리엣’ 프랑수아 역&lt;br /&gt;
+        배우 황주민 서면 인터뷰&lt;br /&gt;
+        &lt;br /&gt;
+        미국 브로드웨이에 있는 스티븐 손드하임 극장에서 지난달 23일 열린 &amp;lt;앤줄리엣&amp;gt; 공연에서 황주민씨(오른쪽)가 공연이 끝난 뒤 무대에 올라 관객···
+      </content:encoded>
     </item>
   </channel>
 </rss>
