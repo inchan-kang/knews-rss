@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>통일뉴스 - 오피니언</title>
-    <link>https://www.tongilnews.com/rss/S1N9.xml</link>
-    <description>통일뉴스 - 오피니언</description>
-    <lastBuildDate>2023-06-07T00:07:49.160Z</lastBuildDate>
+    <title>통일뉴스 - 전체기사</title>
+    <link>https://www.tongilnews.com/rss/allArticle.xml</link>
+    <description>통일뉴스 - 전체기사</description>
+    <lastBuildDate>2023-06-08T00:08:34.934Z</lastBuildDate>
     <item>
       <title>북 외무성, “끝까지 초강력 대응”</title>
       <link>http://www.tongilnews.com/news/articleView.html?idxno=206569</link>
@@ -376,13 +376,6 @@
       <content:encoded></content:encoded>
     </item>
     <item>
-      <title>한미 ‘워싱턴 선언’ 이후 윤 정부가 해야 할 일</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=207933</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=207933</guid>
-      <pubDate>2023-05-07T23:13:23.000Z</pubDate>
-      <content:encoded>곽태환 (전 통일연구원 원장/경남대 초빙 석좌교수) 윤석열-바이든 한미정상회담(4.26)에서 안보, 경제 문제 등 현안에 심도 있는 논의를 진행한 단독회담과 확대회담 후 한미정상 공동성명을 발표하였다. 특히 이번 국빈방문의 핵심이슈는 한미동맹 70주년을 맞이하여 한미 간 확장 억제와 관련하여 ‘워싱턴 선언’(Washington Declaration) 발표를 통해 제기됐다.이 선언의 핵심내용은 한미 ‘핵 협의 그룹’(NCG-Nuclear Consultative Group)의 신설과 전략 핵잠수함(SSBN), 최첨단 전략자산의 한반도</content:encoded>
-    </item>
-    <item>
       <title>재외동포청, 본청은 인천, 통합민원실은 광화문에</title>
       <link>http://www.tongilnews.com/news/articleView.html?idxno=207937</link>
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=207937</guid>
@@ -395,13 +388,6 @@
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=207954</guid>
       <pubDate>2023-05-10T17:13:15.000Z</pubDate>
       <content:encoded>뉴욕=김수복 통신원 / 6.15미국위원회 대표 ‘6.15공동선언실천 미국위원회’(이하 6.15미국위원회)가 준비했던 ‘민족자주통일기원 남북유엔대표부 인간띠잇기’ 행사는 쏟아지는 폭우로 인해서 뉴욕 그랜드센트럴 역(Grand Central Station) 실내 광장으로 자리를 급히 옮겼다.비가 온다는 일기예보를 보고 행사를 연기해야 한다는 주장이 있었지만 항공편과 호텔을 예약한 분들이 여럿이 있어서 예정대로 4월 29일 뉴욕 함마슐드 광장에서 행사를 진행하기로 했었다.그런데 행사 당일 아침에 너무 큰 비가 쏟아졌다. 행사를 그대로 진</content:encoded>
-    </item>
-    <item>
-      <title>윤석열 정권 1년, 통일외교안보정책 총점검 및 출구전략</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=207959</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=207959</guid>
-      <pubDate>2023-05-10T19:17:07.000Z</pubDate>
-      <content:encoded>5월 10일은 윤석열 대통령 취임 1주년이다. 윤석열 정부는 공정, 상식, 통합의 정치, 가치외교를 공약으로 내걸고 출범하였다. 본고에서는 특히 가치외교를 내걸고, 비핵화, 평화, 번영을 구체적 국정 정책으로 삼은 지난 1년 간의 통일외교안보정책을 점검하고, 향후 그 출구전략이 무엇인지 짚어본다.윤석열 정부의 외교통일안보정책에서 가장 비판의 대상이 되는 두 번의 사건은 한일정상회담(3.6-7/5,7-8)과 한미정상회담(4.26)이다. 한일정상회담 및 한미정상회담 중심으로 세 가지 문제점(일제과거사면책/한미일안보동맹/후쿠시마원전오염수</content:encoded>
     </item>
     <item>
       <title>한국이 붙잡았다는 ‘안보선언’, 실제로는 살만 데는 뜨거운 손</title>
@@ -488,25 +474,11 @@
       <content:encoded>정해랑 / 주권자전국회의 공동대표, 21세기 민족주의포럼 대표 58년 개띠 노동자의 이야기를 다시 이어가겠습니다다시 봄이 왔습니다.자연의 봄은 시간이 되면 오지만 역사의 봄은 그렇지 않나 봅니다.하지만 역사의 봄이 오는 데 함께 했던 사람들은 괜히 들뜨지도 않고, 쉽게 좌절하지도 않습니다.지금의 상황을 저는 꽃샘추위라고 부르고 싶습니다.물론 며칠 만에 끝나는 꽃샘추위는 아니겠지요.그러나 우여곡절과 고통스러운 시간을 겪으면서도 민족은, 민중은 의연한 발걸음을 이어왔습니다.우리 이야기의 주인공 신돌석씨도 그 중 한 사람입니다.맨 앞에</content:encoded>
     </item>
     <item>
-      <title>한미일 정상 ‘2분 회담’...“3국 공조 새로운 수준으로”</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=208045</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208045</guid>
-      <pubDate>2023-05-22T08:34:24.000Z</pubDate>
-      <content:encoded>히로시마 주요 7개국(G7) 정상회의에 참석 중인 한미일 정상들이 21일 오후 2분 남짓 만났다. 대통령실은 보도자료를 통해 이 짧은 만남을 “한미일 정상회담”이라고 불렀다. 이어 “이번 회담에서 세 정상은 지난 1월 기시다 총리의 미국 방문, 한일 관계에 새로운 장을 여는 계기를 마련한 3월 윤 대통령의 일본 방문, 4월 윤 대통령의 미국 국빈방문, 이번 달 초 기시다 총리의 한국 방문 이후 열리는 한미일 정상회담임을 상기하고, 3국 간 공조를 새로운 수준으로 발전시켜 나가기로 했다”고 발표했다.“대북억지력 강화를 위해서는 물론,</content:encoded>
-    </item>
-    <item>
       <title>수령과 우상: 북에 ‘우상’ 수령은 없다</title>
       <link>http://www.tongilnews.com/news/articleView.html?idxno=208049</link>
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=208049</guid>
       <pubDate>2023-05-22T16:25:05.000Z</pubDate>
       <content:encoded>김광수: (북)정치학 박사/ 사, 부산평화통일센터 하나 이사장/ &lt;통일로 평화를 노래하라&gt; 저자 북의 ‘수령’ 개념만큼 핫한 이슈는 아마도 이 지구상에는 없을 것이다. 또한, 그러함에도 이 ‘수령’ 개념만큼 제대로 이해하지 못하는 개념단어도 없을 것이다. 개념 자체는 아주 단순하지만, 그만큼 여러 정치적 이해관계가 얽히고설켜 있다는 말과도 같다. 해서, 북의 ‘수령’ 개념을 이해하자면 다음과 같은 전제는 꼭 필요하다. ‘수령’ 정의를 수용하고, 못하고는 그 수용자의 철학적 자세와 사유적 믿음 체계에 따른 사회과학적 자유이다. 하지만</content:encoded>
-    </item>
-    <item>
-      <title>권영세, &apos;원칙있는 남북관계 정립&apos; 1년 자평..&apos;억제·단념 여전히 유효&apos;</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=208051</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208051</guid>
-      <pubDate>2023-05-22T22:07:05.000Z</pubDate>
-      <content:encoded>권영세 통일부장관이 지난 1년간 &apos;북한의 눈치를 보지 않고 할말은 하면서, 우리가 해야 할 일은 분명하게 하는 원칙있는 남북관계를 정립했다&apos;는 자평를 내놓았다.권 장관은 22일 오후 서울시 종로구 삼청동 남북회담본부에서 출입기자단과 취임 1주년 간담회를 갖고 지난 1년에 대한 평가와 함께 북의 변화를 촉구하는 메시지도 발표했다.지난 1년간 &quot;북한의 핵위협과 도발이 계속되면서 한반도 정세가 좀처럼 진전되지 못하고 있는 점은 무척 아쉽게 생각한다&quot;고 하면서도 &quot;하지만 어려운 상황속에서도 &apos;이어 달리기&apos; 기조아래 역대 정부의 성과를 계승</content:encoded>
     </item>
     <item>
       <title>중국, “핵심 관심사에 엄정한 입장 표명”</title>
@@ -600,27 +572,6 @@
       <content:encoded></content:encoded>
     </item>
     <item>
-      <title>간첩?</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=208105</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208105</guid>
-      <pubDate>2023-05-30T13:14:47.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>“일본 군함 입항 및 PSI 훈련 단호히 반대한다”</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=208106</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208106</guid>
-      <pubDate>2023-05-30T13:53:34.000Z</pubDate>
-      <content:encoded>욱일기를 단 일본 해상자위대 군함이 부산에 입항하고, 미국 전략핵잠수함(SSBN)의 부산 입항 소식도 전해지고 있는 가운데, 부산평화와통일을여는사람들(부산평통사)은 28일부터 1인시위를 벌이고 있다.부산평통사는 28일자와 30일자 보도자료를 통해 “우리는 일본 군함 입항 및 PSI 훈련을 단호히 반대한다”고 밝혔다.29일 오전 일본 해상자위대 호위함 ‘하마기리함’이 부산 백운포 해군작전기지에 입항했고, 이 군함은 31일 제주 남방 앞바다에서 한국 주관으로 실시하는 이스턴 엔데버 23(EASTERN ENDEAVOR) PSI 훈련에 참</content:encoded>
-    </item>
-    <item>
-      <title>“북, 동창리서 우주발사체 발사” [합참]</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=208107</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208107</guid>
-      <pubDate>2023-05-31T07:38:38.000Z</pubDate>
-      <content:encoded>북한이 31일 아침 우주발사체로 위성을 쏘아올렸으나, 실패한 것으로 보인다. 지난 29일 국제해사기구(IMO)에 31일부터 다음달 11일 사이에 위성을 발사하겠다고 통보한지 이틀 만이다. 31일 남측 합동참모본부(합참)은 “우리 군은 오늘(5.31) 06시 29분경 북한 평안북도 동창리 일대에서 남쪽방향으로 발사된 &quot;북 주장 우주발사체&quot; 1발을 포착하였다”고 밝혔다.평안북도 철산군 동창리에는 서해위성발사장이 있다. 합참은 “동 발사체는 백령도 서쪽 먼바다 상공을 통과하였고, 우리 군은 정상적인 비행여부를 확인 중”이라며 “우리 군은</content:encoded>
-    </item>
-    <item>
       <title>“북, 동창리서 우주발사체 발사” [합참]</title>
       <link>http://www.tongilnews.com/news/articleView.html?idxno=208107</link>
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=208107</guid>
@@ -633,27 +584,6 @@
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=208108</guid>
       <pubDate>2023-05-31T09:58:05.000Z</pubDate>
       <content:encoded>31일 더불어민주당 박성준 대변인이 “출근길 위급문자 오발령, 국민 불안 조장하는 아마추어 정권의 현실”이라고 성토했다.북한의 발사 12분 뒤인 6시 41분 서울특별시가 “오늘 6시 32분 서울지역에 경계경보 발령”이라는 ‘위급 재난 문자’를 발송했으나, 7시 03분 행정안전부가 “06:41 서울특별시에서 발령한 경계경보는 오발령 사항”이라고 바로잡은 소동을 겨냥한 것이다. 박 대변인은 “국민을 안심시켜야 할 정부가 거꾸로 불안을 조장하고 있으니 대체 무엇을 하자는 것인가. 한심하다”고 꼬집었다. “출범 1년이 지나도 조금도 실력이</content:encoded>
-    </item>
-    <item>
-      <title>야, “출근길 위급문자 ‘오발령’ 아마추어 정권” 성토</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=208108</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208108</guid>
-      <pubDate>2023-05-31T09:58:05.000Z</pubDate>
-      <content:encoded>31일 더불어민주당 박성준 대변인이 “출근길 위급문자 오발령, 국민 불안 조장하는 아마추어 정권의 현실”이라고 성토했다.북한의 발사 12분 뒤인 6시 41분 서울특별시가 “오늘 6시 32분 서울지역에 경계경보 발령”이라는 ‘위급 재난 문자’를 발송했으나, 7시 03분 행정안전부가 “06:41 서울특별시에서 발령한 경계경보는 오발령 사항”이라고 바로잡은 소동을 겨냥한 것이다. 박 대변인은 “국민을 안심시켜야 할 정부가 거꾸로 불안을 조장하고 있으니 대체 무엇을 하자는 것인가. 한심하다”고 꼬집었다. “출범 1년이 지나도 조금도 실력이</content:encoded>
-    </item>
-    <item>
-      <title>북, 군사정찰위성 탑재 운반로켓 발사 실패..&apos;빠른 기간내 2차 발사&apos;</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=208109</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208109</guid>
-      <pubDate>2023-05-31T10:03:25.000Z</pubDate>
-      <content:encoded>북한은 31일 군사정찰위성 &apos;만리경-1호&apos;를 탑재한 신형위성운반로켓 &apos;천리마-1&apos;형을 발사했으나 2단계 엔진 이상으로 서해에 추락했다고 밝혔다.[조선중앙통신]은 이날 &quot;조선민주주의인민공화국 국가우주개발국은 2023년 5월 31일 6시 27분 평안북도 철산군 서해위성발사장에서 예정되였던 군사정찰위성 《만리경-1》호를 신형위성운반로케트 《천리마-1》형에 탑재하여 발사하였다&quot;며 &quot;발사된 신형위성운반로케트 《천리마-1》형은 정상비행하던중 1계단 분리후 2계단 발동기의 시동비정상으로 하여 추진력을 상실하면서 조선 서해에 추락하였다&quot;고 보도했</content:encoded>
-    </item>
-    <item>
-      <title>북 새 세대 창작가들, 특색 있는 산업미술 도안들 창작</title>
-      <link>http://www.tongilnews.com/news/articleView.html?idxno=208112</link>
-      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208112</guid>
-      <pubDate>2023-05-31T10:45:16.000Z</pubDate>
-      <content:encoded>최근 북한 조선산업미술창작사에서 다양한 주제의 새롭고 특색 있는 산업미술 도안들을 내놓기 위한 창작사업이 활발히 벌어지고 있다고 북한 웹사이트 [조선의 오늘]이 31일 보도했다.사이트에 따르면, 지난해 많은 전문가들의 관심을 모았던 ‘여성옷전시회-2022’ 마크 도안과 새 학생교복 도안, 대성산아이스크림공장의 제품상표 도안, 새 형의 객차 도안들을 비롯한 여러 도안들은 이곳 창작사의 20대, 30대의 젊은 창작가들이 창작한 것들.이들 새 세대 창작가들은 창작사 일꾼의 지도방조 밑에 소묘와 채색과 같은 미술실기훈련을 많이 하여 창작적</content:encoded>
     </item>
     <item>
       <title>7090 민주화운동 세대, &apos;역대 최악 정부에 맞서...더 나은 미래 물려주자&quot;</title>
@@ -1034,14 +964,14 @@
       <content:encoded>변학문 / 겨레하나 평화연구센터 소장 ‘누구나’ 받을 수 있는 상북이 2021년 7월 최우수발명가상을 제정하여 2022년부터 2.16과학기술상 시상식에서 2.16과학기술상, 국가 최우수 과학자, 기술자와 함께 시상하고 있다. 기존 2.16과학기술상, 과학기술혁신상, 국가 최우수 과학자, 기술자는 전문가인 과학자, 기술자에게만 주는 상이다. 그러나 북이 매년 3~5명 정도를 선정하겠다고 밝힌 최우수발명가상은 이름 그대로 최우수발명을 한 사람이라면 누구나, 즉 과학자, 기술자뿐 아니라 노동자, 농민, 사무원, 학생, 간부 등도 받을 수</content:encoded>
     </item>
     <item>
-      <title>한국, 2023-2025 유엔 안보리 비상임이사국 진출</title>
+      <title>한국, 2024-2025 유엔 안보리 비상임이사국 진출</title>
       <link>http://www.tongilnews.com/news/articleView.html?idxno=208157</link>
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=208157</guid>
       <pubDate>2023-06-07T07:38:38.000Z</pubDate>
       <content:encoded>우리 나라가 6일(현지 시간) 유엔 안전보장이사회(안보리) 비상임이사국으로 선출됐다. 임기는 2024-2025년이며 이번이 세 번째다.외교부는 7일 보도자료를 통해 “우리나라는 6월 6일 서울시간 밤 11시 뉴욕 유엔 본부에서 실시된 유엔 안전보장이사회(안보리) 이사국 선거에서 알제리, 시에라리온, 슬로베니아, 가이아나와 함께 2024-25년 임기 비상임이사국으로 선출되었다”고 밝혔다.우리 나라는 아태그룹 소속으로 투표에 참여한 192개 회원국 중 3분의 2 이상인 180개국의 찬성표를 얻어 1996-97년, 2013-14년에 이어</content:encoded>
     </item>
     <item>
-      <title>한국, 2023-2025 유엔 안보리 비상임이사국 진출</title>
+      <title>한국, 2024-2025 유엔 안보리 비상임이사국 진출</title>
       <link>http://www.tongilnews.com/news/articleView.html?idxno=208157</link>
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=208157</guid>
       <pubDate>2023-06-07T07:38:38.000Z</pubDate>
@@ -1053,6 +983,76 @@
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=208158</guid>
       <pubDate>2023-06-07T08:58:05.000Z</pubDate>
       <content:encoded>‘10.29 이태원 참사 유가족협의회’와 ‘10.29 이태원 참사 시민대책회의’가 7일 서울 여의도 국회 앞에서 농성에 돌입한다. “6월 중 행정안전위원회에 진상규명 특별법 처리를 촉구하”기 위해서다.“지난 4월 20일 21대 국회 최다의원인 183명이 공동으로 10.29이태원참사진상규명특별법을 발의했지만, 숙려기간을 한참 지난 오늘까지도 관련 소관상임위인 행정안전위원회에 안건 상정조차 되지 않았다”며 “국회가 진정성 있는 응답을 내놓으려면 적어도 6월 중 반드시 행정안전위원회는 특별법을 처리해야 한다”고 밝혔다.유가족협의회 등은</content:encoded>
+    </item>
+    <item>
+      <title>남북미 3자 간 먼저 대화여건 조성해야!</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208161</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208161</guid>
+      <pubDate>2023-06-07T11:52:16.000Z</pubDate>
+      <content:encoded>곽태환 (전 통일연구원 원장/한반도미래전략연구원 이사장) 최근 연합뉴스와 서면 인터뷰(6.4)에서 성 김 미 대북특별대표는 북한과의 비핵화 협상 재개 문제와 관련, &quot;북한이 전례 없이 많은 탄도미사일을 발사하는 상황에서도 우리는 외교에 계속 전념하고 있다&quot;라고 강조하면서 &quot;우리는 제3자를 통해서도, 직접적으로도, 구두로도, 서면으로도 이런 메시지를 보냈고 여기에는 인도주의적 협력과 코로나19 관련 지원에 대한 구체적인 제안도 포함됐다&quot;라고 밝혔다. 그러면서 &quot;현재까지 북한은 아무 답이 없으며 대화에 관심이 있다는 징후도 계속해서 보</content:encoded>
+    </item>
+    <item>
+      <title>남북미 3자 간 먼저 대화여건 조성해야!</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208161</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208161</guid>
+      <pubDate>2023-06-07T11:52:16.000Z</pubDate>
+      <content:encoded>곽태환 (전 통일연구원 원장/한반도미래전략연구원 이사장) 최근 연합뉴스와 서면 인터뷰(6.4)에서 성 김 미 대북특별대표는 북한과의 비핵화 협상 재개 문제와 관련, &quot;북한이 전례 없이 많은 탄도미사일을 발사하는 상황에서도 우리는 외교에 계속 전념하고 있다&quot;라고 강조하면서 &quot;우리는 제3자를 통해서도, 직접적으로도, 구두로도, 서면으로도 이런 메시지를 보냈고 여기에는 인도주의적 협력과 코로나19 관련 지원에 대한 구체적인 제안도 포함됐다&quot;라고 밝혔다. 그러면서 &quot;현재까지 북한은 아무 답이 없으며 대화에 관심이 있다는 징후도 계속해서 보</content:encoded>
+    </item>
+    <item>
+      <title>광주민중항쟁은 제 민족운동의 원점</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208159</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208159</guid>
+      <pubDate>2023-06-07T11:55:48.000Z</pubDate>
+      <content:encoded>김이혜 6.15일본지역위원회 대표단/ 재일한국민주통일연합 도쿄본부 사무국장 [‘오월에서 통일로’ 2023민족평화포럼]6.15공동선언실천 남측위원회(이하 6.15남측위원회 / 상임대표의장 이홍정)와 6.15공동선언실천 남측위원회 광주본부는 6.15공동선언실천 해외측위원회의 민주통일인사들과 함께 [‘오월에서 통일로’ 2023민족평화포럼]을 광주에서 개최하였습니다.5.18 광주민중항쟁은 자주와 민주, 평화, 통일을 향한 사회운동의 실천적, 정신적 기둥이 되었고, 이는 국내 뿐 아니라 해외 동포들에게도 깊은 영향을 미쳐 해외 민주평화통일운</content:encoded>
+    </item>
+    <item>
+      <title>좌절된 친일 청산의 상징 [반민특위 터]</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208162</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208162</guid>
+      <pubDate>2023-06-07T15:36:45.000Z</pubDate>
+      <content:encoded>‘시민모임 독립’과 ‘지도에 역사를 새기는 사람들’(약칭, 지역사)가 선정한 6월 근현대사적지는 [반민특위 터](서울시 중구 남대문로 84)이다. 이들 두 단체는 선정 이유를 다음과 같이 밝혔다.1949년 6월 6일, 이승만 정권은 반민특위 (반민족행위특별조사위원회) 본부를 습격합니다. 한국 현대사의 흐름을 결정짓는 사건이었습니다. 친일세력 청산은 좌절됐습니다. 사리사욕을 위해 민족을 팔았던 세력은 기사회생합니다. 한때나마 백척간두에 몰렸던 그들이었습니다.민족대표 33인이었지만 변절했던 최린은 “나를 광화문 네거리에서 사지를 찢어</content:encoded>
+    </item>
+    <item>
+      <title>민주당, 기준치 180배 ‘세슘 우럭’에 “이래도 괴담?”</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208163</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208163</guid>
+      <pubDate>2023-06-07T16:09:18.000Z</pubDate>
+      <content:encoded>“기준치 180배의 ‘세슘 우럭’이 잡혀도 후쿠시마 오염수를 두둔하려고 합니까?”일본 정부의 후쿠시마 원전 오염수 해양 방류 계획이 논란을 빚고 있는 가운데 ‘세슘 우럭’ 문제가 불거지자 더불어민주당은 모든 수단을 총동원해서 방류를 막아야 한다고 촉구했다.강선우 더불어민주당 대변인은 7일 서면브리핑을 통해 “일본 정부의 ‘후쿠시마 오염수 방류’가 코앞”이라며 “오염수 방류를 위한 해저터널을 완공했고, 하루 만에 6천 톤 가까운 해수를 채웠다. 당장 다음 달부터 일본이 후쿠시마 오염수를 바닷물에 섞어 버릴 수 있게 된 것이다”고 우려</content:encoded>
+    </item>
+    <item>
+      <title>민주당, 기준치 180배 ‘세슘 우럭’에 “이래도 괴담?”</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208163</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208163</guid>
+      <pubDate>2023-06-07T16:09:18.000Z</pubDate>
+      <content:encoded>“기준치 180배의 ‘세슘 우럭’이 잡혀도 후쿠시마 오염수를 두둔하려고 합니까?”일본 정부의 후쿠시마 원전 오염수 해양 방류 계획이 논란을 빚고 있는 가운데 ‘세슘 우럭’ 문제가 불거지자 더불어민주당은 모든 수단을 총동원해서 방류를 막아야 한다고 촉구했다.강선우 더불어민주당 대변인은 7일 서면브리핑을 통해 “일본 정부의 ‘후쿠시마 오염수 방류’가 코앞”이라며 “오염수 방류를 위한 해저터널을 완공했고, 하루 만에 6천 톤 가까운 해수를 채웠다. 당장 다음 달부터 일본이 후쿠시마 오염수를 바닷물에 섞어 버릴 수 있게 된 것이다”고 우려</content:encoded>
+    </item>
+    <item>
+      <title>국가안보실,「윤석열 정부의 국가안보전략」발간</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208164</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208164</guid>
+      <pubDate>2023-06-07T16:20:46.000Z</pubDate>
+      <content:encoded>7일 국가안보실이 「윤석열 정부의 국가안보전략」(아래 ‘국가안보전략’)을 발간했다고 밝혔다.‘국가안보전략’은 외교·통일·국방 등 외교안보 분야 정책 방향을 제시하는 지침서다. 정부가 들어설 때마다 각 정부의 기조에 맞춰 새로 발간해왔다. 윤석열 정부가 발간한 ‘국가안보전략’은 총 8개장, 107쪽 분량이다. 국가안보실은 “미·중간 전략경쟁의 심화, 북한의 핵·미사일 능력 고도화, 신안보 이슈(공급망 불안·기후변화·팬데믹·사이버 위협 등)의 부상과 같은 급변하는 안보환경을 심도있게 평가”하고, “이같은 안보환경 변화에 대응하여 윤석열</content:encoded>
+    </item>
+    <item>
+      <title>국가안보실,「윤석열 정부의 국가안보전략」발간</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208164</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208164</guid>
+      <pubDate>2023-06-07T16:20:46.000Z</pubDate>
+      <content:encoded>7일 국가안보실이 「윤석열 정부의 국가안보전략」(아래 ‘국가안보전략’)을 발간했다고 밝혔다.‘국가안보전략’은 외교·통일·국방 등 외교안보 분야 정책 방향을 제시하는 지침서다. 정부가 들어설 때마다 각 정부의 기조에 맞춰 새로 발간해왔다. 윤석열 정부가 발간한 ‘국가안보전략’은 총 8개장, 107쪽 분량이다. 국가안보실은 “미·중간 전략경쟁의 심화, 북한의 핵·미사일 능력 고도화, 신안보 이슈(공급망 불안·기후변화·팬데믹·사이버 위협 등)의 부상과 같은 급변하는 안보환경을 심도있게 평가”하고, “이같은 안보환경 변화에 대응하여 윤석열</content:encoded>
+    </item>
+    <item>
+      <title>[통일죽비] 북측의 이유 있는 항변들</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208168</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208168</guid>
+      <pubDate>2023-06-08T01:52:58.000Z</pubDate>
+      <content:encoded>북측이 지난달 31일 쏘아올린 군사정찰위성이 실패했다. 북측은 “빠른 기간 내에 제2차 발사를 단행할 것”이라고 밝혔지만, 아직 발사 일정을 공개하지 않아 언제 진행될지 예측하기가 쉽지 않다. 북측으로서는 지난 2016년 위성발사 성공 이후 7년 만에 다시 발사한 회심의 일착이기에 이번 실패에 낙심이 클 것이다. 어쨌든 북측은 위성발사 2시간 30분 만에 그 실패를 ‘쿨하게’ 공식 인정했다. 이런 분위기 속에서도 북측은 외부에 대해 몇 가지 할 말을 쏟았다. 실패는 실패고 따질 것은 따지겠다는 것이다.◆ 먼저 미국에 대한 비판이다.</content:encoded>
+    </item>
+    <item>
+      <title>[통일죽비] 북측의 이유 있는 항변들</title>
+      <link>http://www.tongilnews.com/news/articleView.html?idxno=208168</link>
+      <guid>http://www.tongilnews.com/news/articleView.html?idxno=208168</guid>
+      <pubDate>2023-06-08T01:52:58.000Z</pubDate>
+      <content:encoded>북측이 지난달 31일 쏘아올린 군사정찰위성이 실패했다. 북측은 “빠른 기간 내에 제2차 발사를 단행할 것”이라고 밝혔지만, 아직 발사 일정을 공개하지 않아 언제 진행될지 예측하기가 쉽지 않다. 북측으로서는 지난 2016년 위성발사 성공 이후 7년 만에 다시 발사한 회심의 일착이기에 이번 실패에 낙심이 클 것이다. 어쨌든 북측은 위성발사 2시간 30분 만에 그 실패를 ‘쿨하게’ 공식 인정했다. 이런 분위기 속에서도 북측은 외부에 대해 몇 가지 할 말을 쏟았다. 실패는 실패고 따질 것은 따지겠다는 것이다.◆ 먼저 미국에 대한 비판이다.</content:encoded>
     </item>
   </channel>
 </rss>
