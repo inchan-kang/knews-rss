@@ -3,21 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2023-09-16T00:10:01.288Z</lastBuildDate>
-    <item>
-      <title>“사진기자도 속았다!”…‘포토샵 생성형 AI’ 기술 [청계천 옆 사진관]</title>
-      <link>https://www.donga.com/news/It/article/all/20230914/121180425/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230914/121180425/1</guid>
-      <pubDate>2023-09-14T14:17:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/09/14/121180362.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“헐 이거 직접 찍은 것임?”타사 사진기자에게 불꽃놀이 가득한 여의도 사진을 보냈더니 이색적인 풍경에 놀란 반응이 나왔다가, 이내 “불꽃 쏜 적이 있나?”라며 긴가민가한 반응을 보였다. 불꽃축제 기간도 아닐뿐더러 평소 볼 수 없는 앵글의 사진이었기 때문이다. 당연히 위의 사진은 불꽃을 합성한 가짜다. 어도비 포토샵(Adobe Photoshop)의 ‘생성형 채우기’ 도구를 활용했다.어도비사는 올해 초 생성형 AI툴인 파이어플라이(Firefly)가 통합된 포토샵 베타를 공개했다. ‘생성형 채우기’ 도구를 쓰면 포토샵의 생성형 AI를 활용할 수 있다. 사용자는 간단한 단어나 문장을 입력해 이미지에 원하는 콘텐츠를 간편하게 추가·확장 또는 제거할 수 있다. 위의 불꽃놀이 사진도 원본 사진 바깥쪽에 빈 공간을 만들어 선택하고 “Fireworks(불꽃놀이)”를 적은 후 엔터만 눌렀더니 결과물이 완성됐다.생성형 채우기를 사용하다 보니 재밌는 사진들을 만들어 볼 수 있을 것 같아 이런저런 시도를</content:encoded>
-    </item>
-    <item>
-      <title>리니지W, 요정 클래스 리부트… 기념 이벤트도 진행</title>
-      <link>https://www.donga.com/news/It/article/all/20230914/121182008/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20230914/121182008/1</guid>
-      <pubDate>2023-09-14T15:13:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/09/14/121181967.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;엔씨소프트(이하 엔씨)는 멀티플랫폼 MMORPG 리니지W가 ‘요정’ 클래스의 리부트 등 콘텐츠 업데이트를 진행했다고 14일 밝혔다.  요정 클래스 이용자는 ▲스턴 상태에서 생존력을 높이는 ‘엘리멘탈 배리어’ ▲시전자의 HP를 지속 회복하는 ‘엘리멘탈 큐어’ ▲상대의 능력치를 저하하는 ‘워터 디지즈’ ▲워터 디지즈 스펠의 효과가 강화된 ‘워터 디지즈: 스피릿’ 등 4종의 신규 스펠과 속성별로 개선된 13종의 스펠을 사용할 수 있다.  엔씨는 업데이트를 기념해 다양한 이벤트를 진행한다. 이용자는 ‘노을지는 요정마을’ 이벤트에 참여해 오는 27일까지 매일 2시간씩 이벤트 던전에 입장할 수 있다. 던전의 몬스터를 처치해 얻은 ‘떨어진 낙엽’으로 아이템을 구매할 수 있다.  ‘대정령의 반지’ 이벤트도 오는 27일까지 진행된다. 이용자는 상점에서 아데나(게임 내 재화)로 대정령의 반지를 구매 후 강화 단계에 따라 다양한 보상을 획득할 수 있다. ‘몽환의 섬’, ‘몽환의 낙원’의 전 지역에서 강화 주문서를 획득해 반</content:encoded>
-    </item>
+    <lastBuildDate>2023-09-17T00:09:03.748Z</lastBuildDate>
     <item>
       <title>매독 환자 쏟아지는 日, 성병전문의 부족 비상…韓 봤더니 깜짝</title>
       <link>https://www.donga.com/news/It/article/all/20230914/121182088/1</link>
@@ -353,6 +339,20 @@
       <guid>https://www.donga.com/news/It/article/all/20230915/121204927/1</guid>
       <pubDate>2023-09-16T01:40:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/09/15/121200098.9.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)의 시대가 시작되면서 데이터센터 구축이 정보기술(IT) 기업의 주요한 경쟁력이 되고 있다. 더 빠르게 많은 데이터를 적은 전력으로 처리할 수 있는 기술이 관건이다. 처리 속도를 높이기 위해 그래픽처리장치(GPU)를 넘어선 신경망처리장치(NPU) 개발 경쟁이 뜨겁고, 많은 데이터를 한꺼번에 처리할 수 있는 고대역폭 메모리(HBM)에 대한 관심도 뜨겁다. 하지만 이게 다가 아니다. 이런 칩들이 들어간 컴퓨터 서버를 연결하는 제대로 된 통신선도 필요하다.   미국의 거대 빅테크들이 운영하는 데이터센터는 초당 400Gb(기가비트)를 처리할 수 있는 통신선이 필요하다. 구리선으로는 이런 초고속 데이터를 2m 이상 보내기 힘들다. 그런데 수십만 개의 컴퓨터 서버가 설치되는 데이터센터에서 서버들 간 거리는 3∼5m가 주를 이룬다. 어쩔 수 없이 광통신을 쓰는데, 전력 사용량이 많고 가격이 비싼 것이 흠이다.   포인투테크놀로지(대표이사 박진호)는 세계에서 처음으로 플라스틱 재질의 선을 통해 데이터를 초</content:encoded>
+    </item>
+    <item>
+      <title>“사막에 가면 힘이 넘쳐요” 사막마라톤 5700km 뛴 ‘오지 레이서’[양종구의 100세 시대 건강법]</title>
+      <link>https://www.donga.com/news/It/article/all/20230915/121197848/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20230915/121197848/1</guid>
+      <pubDate>2023-09-16T12:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/09/16/121208654.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2002년 모로코 사하라사막마라톤 250km를 6박7일간 달린 뒤 2019년까지 사막을 달렸다. 50km, 100km, 160km 울트라마라톤은 물론 9박10일간 560km를 달리는 호주 아웃백 레이스 등 전 세계의 극지 마라톤은 거의 다 참가했다. 그래서 ‘오지 레이서’란 별명도 붙었다. 유지성 아웃도어스포츠코리아(OSK) 대표(52)가 4년 만에 250km를 달리는 사막마라톤에 도전한다. 24일(현지시간)부터 30일까지 6박 7일간 칠레 아타카마사막을 질주한다. 이번이 250km 사막마라톤만 24번째 도전이다. 2020년 확산된 신종 코로나바이러스 감염증(코로나19)이 없었다면 몇 차례는 더 사막을 찾았을 터다.“1990년대 말 아프리카 리비아에서 건축 설계사로 일할 때 방송으로 사막을 달리는 사람들을 보고 이해가 가지 않았으면서도 ‘나도 해보면 좋겠다’는 생각을 했었죠. 달리기보다는 단지 낙타를 타고 사막을 건너는 로망을 가지고 있었죠. 건축 일에서 비전을 찾지 못하고 한국에</content:encoded>
+    </item>
+    <item>
+      <title>세계신문협회(WAN), 언론사 권리 위한 ‘글로벌 AI 원칙’ 발표</title>
+      <link>https://www.donga.com/news/It/article/all/20230916/121209557/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20230916/121209557/2</guid>
+      <pubDate>2023-09-16T15:08:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/09/16/120805833.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계신문협회(WAN-IFRA)는 지난 6일 ‘글로벌 AI 원칙’을 발표했다. 이번 ‘글로벌 AI 원칙’은 지난 6월 말 세계신문협회 이사회 결정에 따라 추진된 것으로, WAN은 각국 언론에 초안을 공유하고 동의 서명을 받았다. 원칙에는 한국 신문협회를 포함해 △미국 뉴스미디어연합 △유럽 신문발행인협회 △영국 미디어협회 △일본신문협회 등 각국 언론 기관 및 단체 26개가 동참했다.이번 원칙은 △지적 재산권 △투명성 △책임성 △품질 및 완전성 △공정성 △안전성 △설계 및 지속 가능한 개발과 관련된 12가지 주요 사항을 규정하고 있다.WAN은 원칙 제정 배경으로 “콘텐츠 제작자가 양질의 콘텐츠를 지속적으로 제작·배포할 수 있도록 보장하는 동시에 신뢰할 수 있는 AI 시스템의 책임감 있는 개발을 촉진하는 것이 목표”라고 밝혔다.뉴스미디어연합(NMA)의 다니엘 코피(Danielle Coffey) 회장 겸 CEO는 “양질의 저널리즘과 창의적 콘텐츠 생산·제공을 위해 노력해온 언론사의 지적 재산</content:encoded>
     </item>
   </channel>
 </rss>
