@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>여성신문 - 연예</title>
-    <link>http://www.womennews.co.kr/rss/S1N16.xml</link>
-    <description>여성신문 - 연예</description>
-    <lastBuildDate>2023-11-17T00:07:35.298Z</lastBuildDate>
+    <title>여성신문 - 오피니언</title>
+    <link>http://www.womennews.co.kr/rss/S1N12.xml</link>
+    <description>여성신문 - 오피니언</description>
+    <lastBuildDate>2023-11-18T00:10:57.687Z</lastBuildDate>
     <item>
       <title>설리, ‘낙태죄 폐지’에 “영광스러운 날” 지지 발언</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=188242</link>
@@ -530,20 +530,6 @@
       <content:encoded></content:encoded>
     </item>
     <item>
-      <title>[아내를 위한 레시피] 아내 간병하기</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=241960</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=241960</guid>
-      <pubDate>2023-11-03T09:00:00.000Z</pubDate>
-      <content:encoded>아내가 입원했다.고열에 속이 거북하다며 병원 다녀온다더니 “신우신염” 진단을 받고 그대로 병실을 잡은 것이다. 오진이었다. 충수염을 오진해 귀한 일주일을 허비한 탓에 종합병원으로 옮겨 4시간에 걸쳐 장 절제수술까지 받아야 했다.- 적어도 열흘은 입원해야 한대.수술을 마치고 병실에 돌아온 아내가 잔뜩 인상을 쓰며 중얼거렸다. 말인즉슨, 그동안 내가 병실에서 자면서 수발해야 한다는 얘기다. 직장 다니는 아이들한테 병원을 지키라고 할 수는 없다.- 맛없는 병원 밥 먹지 않아서 좋겠네.이전 병원에서는 병원 반찬이 입에 맞지 않아 내가 서너</content:encoded>
-    </item>
-    <item>
-      <title>[쉬운 우리말 쓰기] “I am 신뢰예요”… 신조어는 누가 만드나</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=241932</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=241932</guid>
-      <pubDate>2023-11-03T09:00:00.000Z</pubDate>
-      <content:encoded>지난 1주일, 펜싱 전 국가대표 남현희(45)씨의 재혼 발표를 실은 월간지 인터뷰 기사가 알려진 이후 예비신랑인 전창조씨에 관한 뉴스가 무게감 있게 다뤄지며 세상이 떠들썩했다. 미담으로 시작한 스타플레이어의 결혼 소식은 전씨를 둘러싼 루머가 나오며 남씨의 스토킹 신고로 촉발됐고, 사건은 매 시간 전씨의 신상에 관한 상세한 내용과 함께 과거 전력, 그리고 투자유치 사기 등 매일 새로운 뉴스가 보태지며 일파만파 확대되는 상황을 거의 실시간으로 보여줬다. 15세 연하의 재혼 상대에 대한 성별 논란에다 51억원 통장잔고와 사업자금 대출 유</content:encoded>
-    </item>
-    <item>
       <title>[쉬운 우리말 쓰기] 정부, ‘제로 트러스트’ 구축해 사이버 안보 강화한다</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242048</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242048</guid>
@@ -614,13 +600,6 @@
       <content:encoded>9일 추위가 잠시 주춤하겠으나 밤부터 비가 내린 뒤 기온이 뚝 떨어질 것으로 보인다.기상청은 이날 전국이 대체로 흐리고 밤부터 비가 내리겠다고 예보했다. 밤부터 전국 곳곳에 5~10mm, 광주전남은 5~30mm 비가 내릴 것으로 예상된다. 아침 최저기온은 2~13도 분포를 보였다. 낮최고기온은 15~22도로 예보됐다.기상청은 이날 평년(최저기온 1~10도, 최고기온 13~18도)과 비슷하겠으나 밤부터 찬공기가 남하하면서 다시 평년보다 2~5도 가량 낮아질 것으로 전망했다. 기상청은 10일부터 내륙을 중심으로 아침 기온이 0도 안팎이</content:encoded>
     </item>
     <item>
-      <title>미 민주당, ‘임신중지권’ 쟁점 대선 전초전 완승</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242220</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242220</guid>
-      <pubDate>2023-11-09T10:11:00.000Z</pubDate>
-      <content:encoded>미국 민주당이 7일(현지시간) 버지니아 주의회 선거와 오하이오 주민투표, 켄터키 주지사 선거에서 승리를 거뒀다. 특히 ‘임신중지권’이 핵심 쟁점이던 3개 선거에서 모두 이긴 것이어서 내년 대선의 경쟁에서도 자신감을 얻게 됐다.AP통신 등에 따르면 민주당 소속 앤디 베시어 켄터키 주지사는 재선에 성공했다. 베시어는 2019년 선거에서 공화당 현직 맷 베빈을 49.2% 대 48.8%로 간신히 이겼다. 첫 선거 승리는 격차가 1%포인트 미만인 신승이었지만, 이번엔 격차를 5%포인트까지 벌렸다. 켄터키는 2020년 대선 당시 트럼프 전 대</content:encoded>
-    </item>
-    <item>
       <title>국민의힘 혁신위, ‘여성·청년’ 방점 둔 3호 혁신안 논의</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242224</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242224</guid>
@@ -654,13 +633,6 @@
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242246</guid>
       <pubDate>2023-11-10T07:09:43.000Z</pubDate>
       <content:encoded>10일 아침 중부 내륙 일부지역이 영하권으로 떨어지는 추운 날씨를 보이고 있다. 남해안과 동남해안 지역에는 비가 내리고 있다.기상청은 이날 중부지방은 대체로 맑겠고, 남부지방과 제주도는 대체로 흐리다가 차차 맑아지겠다고 예보했다.제주와 창원, 부산, 경남 남해안, 울산, 포항 등 남해 동부지역과 동해 남부해안 지역에는 5mm에서 최고 20mm의 비가 내릴 것으로 보인다.아침 최저 기온은 서울 2도, 인천 2도, 춘천 5도, 강릉 11도, 대전 5도, 광주 10도, 전주 8도, 대구 13도, 부산 17도, 제주 14도 등 -1~17도</content:encoded>
-    </item>
-    <item>
-      <title>미 “이스라엘, 가자 북부 매일 4시간씩 교전중지”</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242248</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242248</guid>
-      <pubDate>2023-11-10T07:40:04.000Z</pubDate>
-      <content:encoded>이스라엘이 하루에 4시간씩 가자북부에서 교전을 중지하기로 약속했다고 백악관이 밝혔다.존 커비 국가안보회의(NSC) 전략소통조정관은 9일(현지시각) 브리핑에서 “우리는 이스라엘로부터 (교전) 중지 기간 동안 이 지역에 군사작전이 없을 것이라고 들었다. 이 조치는 오늘부터 시행된다”고 말했다.커비 조정관은 “이는 올바른 방향으로 가는 조치라고 믿는다”며 민간인들의 교전 지역 탈출과 가자지구 내 인도적 물자 전달, 하마스에 억류된 인질 구축 등에 도움이 될 것으로 본다고 설명했다.커비 조정관은 “첫 통로는 지난 며칠간 4~5시간 동안 열</content:encoded>
     </item>
     <item>
       <title>러시아, 일본과의 핵무기 군축 협정 철회 통보</title>
@@ -845,41 +817,6 @@
       <content:encoded>이스라엘군이 13일(현지시각) 하마스가 가자지구에서 통제력을 잃었다고 주장했다.타임스오브이스라엘 등에 따르면 요아브 갈란트 이스라엘 국방부 장관은 이날 전황 평가를 마치고 “이제 가자지구에서 이스라엘군을 제지할 수 있는 세력은 없다. 우리 군은 가자지구의 모든 곳에 진격했다”면서 “하마스는 가자지구에서 통제력을 잃었다”고 밝혔다.갈란트 장관은 “테러리스트들은 남쪽으로 도망치고 있으며, 민간인들이 하마스의 기지를 약탈하고 있다”며 “그들은 이제 더는 (하마스) 정부를 신뢰하지 않는다”고 말했다.갈란트 장관은 또 “최근 우리는 하마스의</content:encoded>
     </item>
     <item>
-      <title>수능 당일 은행 영업시간 오전 10시부터 오후 5시까지</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242354</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242354</guid>
-      <pubDate>2023-11-14T11:22:46.000Z</pubDate>
-      <content:encoded>은행들이 수능 당일인 16일 오전 10시부터 오후 5시까지로 영업시간을 변경해 운영한다.은행연합회는 14일 “2024학년도 대학수학능력시험이 시행되는 16일 원활한 교통 소통을 위해 은행 영업시간을 오전 10시부터 오후 5시까지로 변경한다”고 밝혔다.시험일 아침 수험생, 감독관, 학부모 등의 이동으로 인해 교통 수요가 급증할 것으로 예상되기 때문이다.단, 공항, 공단지역, 시장, 기관 입점 등 점포 입지나 고객 특성에 따라 영업시간을 탄력적으로 운영하는 점포에 대해서는 해당 은행에 확인 필요하다.</content:encoded>
-    </item>
-    <item>
-      <title>지난해 96만명 집 한채 이상 구입... 유주택→무주택 37만명</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242358</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242358</guid>
-      <pubDate>2023-11-14T15:53:00.000Z</pubDate>
-      <content:encoded>지난해 11월 1일 기준 주택 소유자 중 직전 1년간 1채 이상의 집을 사들인 사람은 96만2천명으로 나타났다.통계청이 14일 발표한 2022년 주택소유통계에 따르면 전체 주택 1915만6천채 중 개인이 소유한 주택은 1643만2채로 85.8%를 차지했다. 개인 소유 주택수는 전년(1624만2처호)보다 19만채(1.2%) 증가하였으나, 그 비중은 전년(86.3%)보다 0.6%p 감소했다.지난해 1채를 산 사람은 91만7천명(95.4%), 2채는 3만2천명(3.3%), 3채 이상은 1만2천명(1.3%)이었다. 무주택자였다가 주택 소유</content:encoded>
-    </item>
-    <item>
-      <title>현정은 회장, 쉰들러 맞서 현대엘리베이터 경영권 분쟁 끝낼까</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242361</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242361</guid>
-      <pubDate>2023-11-14T16:15:00.000Z</pubDate>
-      <content:encoded>현정은 현대그룹 회장이 다국적 기업인 ‘쉰들러 홀딩 아게’(Schindler Holding AG·쉰들러)와의 현대엘리베이터 경영권 분쟁을 끝날 수 있을지 이목이 쏠리고 있다.현대엘리베이터가 지난 7일 만료를 앞둔 자사주 신탁 계약 중 일부 물량에 대해 만료 기간을 연장했다.적대적 지분과의 경영권 분쟁은 누그러진 모양새지만 자사주주 비중을 유지하며 지분 방어 효과를 누리고, 향후 지주사 전환에 활용할 수 있는 가능성을 열어둔 것으로 보인다.14일 업계에 따르면 현대엘리베이터는 지난 5월 8일 한국투자증권에 1000억원 규모의 신탁운용</content:encoded>
-    </item>
-    <item>
-      <title>고용노동부, 대유위니아 협력업체에 지원금 지급</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242365</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242365</guid>
-      <pubDate>2023-11-14T16:32:00.000Z</pubDate>
-      <content:encoded>정부가 법정관리에 들어간 대유위니아의 협력업체들의 고용 안정을 위해 지원금을 지급한다.이정식 고용노동부(이하 고용부) 장관은 14일 오후 광주광역시 광산구의 하남산업단지관리공단을 찾아 협력업체 간담회를 열고 피해상황을 직접 점검한 뒤 지원방안을 논의했다.이번 간담회는 위니아전자 등 대유위니아그룹 4개 계열사가 연이어 법정관리를 신청하면서 유동성 위기를 맞은 협력업체를 지원하기 위해 마련됐다. 지난 8일 기준으로 이들 계열사 관련 피해가 접수된 협력사는 총 325개사로, 미회수 대금은 총 800억원으로 집계됐다.고용부는 이 위기가 임</content:encoded>
-    </item>
-    <item>
-      <title>중소 브랜드 공기청정기 필터교체 비용 최대 10대 차이</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242369</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242369</guid>
-      <pubDate>2023-11-14T17:41:00.000Z</pubDate>
-      <content:encoded>중소기업 상표를 달고 판매되는 공기청정기의 필터 교체 비용이 최대 10배까지 차이 나는 것으로 조사됐다.한국소비자원은 중소·중견기업이 제조한 소형 공기청정기 8개 제품에 대한 비교 평가 결과를 14일 공개했다.각 제품의 한해 필터 교체 비용은 가장 싼 경우가 1만 5000원, 가장 비싼 제품은 18만 4800원이었다.제조사가 권장하는 제품별 필터 교체 주기는 6개월에서 12개월로 차이가 있었다.공기청정기를 하루 평균 7시간가량 사용할 경우 발생하는 연간 전기요금도 가장 싼 제품이 8000원, 가장 비싼 경우가 3만 2000원으로 최</content:encoded>
-    </item>
-    <item>
       <title>민주당 “윤 대통령, 청년이 국정 동반자라면서…예산 마구 삭감”</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242373</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242373</guid>
@@ -894,17 +831,10 @@
       <content:encoded>갈수록 극심해지는 불평등의 심화 등 문제 해결을 위한 ‘기본사회포럼’이 14일 출범했다.사단법인 기본사회·기본소득정책연구소·사회민주당·열린민주당과 용혜인 기본소득당 의원은 이날 국회에서 출범식을 열었다.기본사회포럼은 “우리는 갈수록 극심해지는 사회 양극화, 불평등의 심화, 기후 위기와 같은 다양한 문제에 직면해 있다”며 “청년은 자력으로 주거 공간을 마련할 수 없게 됐으며 부모의 사회경제적 지위가 자녀의 교육 기회와 성취에 불평등을 초래하고 있다”고 지적했다.그러면서 “‘기본사회’는 이러한 문제들을 해결하기 위한 가장 근본적인 해결</content:encoded>
     </item>
     <item>
-      <title>뉴욕증시, 물가상승률 둔화에 상승...나스닥 2.37%↑</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242381</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242381</guid>
-      <pubDate>2023-11-15T07:12:12.000Z</pubDate>
-      <content:encoded>뉴욕증시가 지난달 미국의 물가상승률이 둔화되면서 일제히 상승 마감했다.14일(현지시각) 뉴욕증권거래소에서 우량주 중심의 다우존스30 산업평균지수는 전장 대비 489.83포인트(1.43%) 오른 3만4827.70에 거래를 마쳤다.대형주 위주인 스탠더드앤푸어스(S&amp;P) 500 지수는 전날보다 84.15포인트(1.91%) 상승한 4495.70에 장을 닫았다.기술주 중심의 나스닥 지수도 전 거래일에 비해 326.64포인트(2.37%) 급등한 1만4094.38에 폐장했다.이날 미 노동부는 10월 소비자물가가 전년 같은 기간보다 3.2% 올랐</content:encoded>
-    </item>
-    <item>
-      <title>[날씨]수능 예비소집일 큰 추위없어...내일 전국 곳곳 비</title>
+      <title>[날씨]수능 예비소집일 큰 추위 없어...내일 전국 곳곳 비</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242383</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242383</guid>
-      <pubDate>2023-11-15T07:40:19.000Z</pubDate>
+      <pubDate>2023-11-15T07:40:00.000Z</pubDate>
       <content:encoded>2024학년도 대학수학능력시험일인 15일 큰 추위는 없겠으나 시험 당일인 16일에는 비가 내리면서 낮부터 기온이 낮아질 것으로 보인다.기상청은 이날 중부지방(강원영동 제외)과 전라권, 제주도는 가끔 구름 많겠으나, 강원영동과 경상권은 대체로 맑겠다고 예보했다.아침 최저기온은 영하 2~7도로 평년(최저기온 -1~8도)과 비슷한 분포를 보였다.낮 최고기온은 11~16도로 예상된다.강원도 강릉평지, 동해평지, 태백, 삼척평지, 속초평지, 고성평지, 양양평지, 강원남부산지, 경상북도 포항, 경주, 부산, 울산에는 건조주의보가 내려졌다.기상</content:encoded>
     </item>
     <item>
@@ -950,53 +880,11 @@
       <content:encoded>이복현 금융감독원장이 지난주부터 시행 중인 공매도 전면 금지 조치와 관련해 시장 불안 조성 행위에 대한 철저히 대응하겠다고 예고했다.이 원장은 14일 오전 임원 회의에서 “국내 증시 전체 종목에 대한 한시적 공매도 전면 금지 발표는 국내 증시 변동성 확대와 글로벌 투자은행(IB)의 대규모 불법 무차입 공매도 사례 적발 등을 감안한 조치”라며 이같이 밝혔다.그러면서 “유튜브 등을 통해 사실과 다른 통계 수치를 언급하는 등 확인되지 않는 루머를 유포하는 시장 불안 조성 행위가 발생하는 데 대해 심각한 우려가 있다”고 말했다.이 원장은</content:encoded>
     </item>
     <item>
-      <title>쯔쯔가무시 환자 4주간 5배 급증... &quot;야외 진드기 조심&quot;</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242397</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242397</guid>
-      <pubDate>2023-11-15T14:02:15.000Z</pubDate>
-      <content:encoded>야외활동이 늘면서 털진드기가 옮기는 &apos;쯔쯔가무시증&apos; 환자가 최근 4주간 5배 이상 급증한 것으로 나타났다.15일 질병관리청에 따르면 11월 첫째 주 발생한 쯔쯔가무시증 환자는 784명으로 4주 전에 비해 5.4배 늘었다.병의 매개체가 되는 털진드기 수도 3.2배 증가했다.쯔쯔가무시증은 털진드기 유충에 물린 후 발생하는 병으로 감염병의 예방 및 관리에 관한 법률에 따른 3급 법정감염병으로 지정됐다.10일 이내 발열, 오한, 두통, 근육통, 발진 등의 증상이 발생하며 물린 자리에 검은 딱지가 생기는 특징이 있다.치명률은</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 고액·상습체납자 공개... 개인 최고 190억원 체납</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242399</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242399</guid>
-      <pubDate>2023-11-15T14:06:51.000Z</pubDate>
-      <content:encoded>서울시가 지방세를 1천만원 이상 1년 넘게 내지 않은 고액·상습 체납자 명단을 공개했다. 명단에 새로 오른 개인·법인 중 가장 많은 세금을 밀린 사람의 체납액이 190억원에 달했다.서울시는 고액·상습 체납자 1만4172명의 이름, 상호(법인명), 나이, 주소(영업소), 체납액 정보를 서울시 누리집에 공개했다고 15일 밝혔다. 총 체납액은 1조6413억원에 이른다.명단에는 기존 공개 대상자 1만2872명에 1300명이 신규로 포함됐다. 개인이 931명(625억원 체납), 법인이 369개(287억원 체납)다. 신규 공개 인원 1300명</content:encoded>
-    </item>
-    <item>
       <title>중기부 &quot;창조경제혁신센터로 지역 창업 생태계 견인&quot;</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242400</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242400</guid>
       <pubDate>2023-11-15T14:43:00.000Z</pubDate>
       <content:encoded>중소벤처기업부(이하 중기부)는 15일 지방시대위원회와 포항 체인지업그라운드에서 전국 19곳 창조경제혁신센터 센터장과 파트너 대기업이 참여하는 간담회를 열고 창조경제혁신센터 발전 방안을 논의했다.발전 방안으로는 개방형 혁신체계 개편, 혁신센터 간 원팀 구축을 통한 지역 스타트업 공동보육 체계 도입, 자생력 강화 방안 등이 제시됐다.이영 중기부 장관과 우동기 지방시대위원장은 체인지업그라운드 등 포항 지역 혁신 클러스터 현장을 시찰하고 지역 스타트업 밸류체인(가치사슬) 조성 내용, 지역 기업의 역할과 성과에 대해 청취했다.우 위원장은 “</content:encoded>
-    </item>
-    <item>
-      <title>중기부 &quot;창조경제혁신센터로 지역 창업 생태계 견인&quot;</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242400</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242400</guid>
-      <pubDate>2023-11-15T14:43:00.000Z</pubDate>
-      <content:encoded>중소벤처기업부(이하 중기부)는 15일 지방시대위원회와 포항 체인지업그라운드에서 전국 19곳 창조경제혁신센터 센터장과 파트너 대기업이 참여하는 간담회를 열고 창조경제혁신센터 발전 방안을 논의했다.발전 방안으로는 개방형 혁신체계 개편, 혁신센터 간 원팀 구축을 통한 지역 스타트업 공동보육 체계 도입, 자생력 강화 방안 등이 제시됐다.이영 중기부 장관과 우동기 지방시대위원장은 체인지업그라운드 등 포항 지역 혁신 클러스터 현장을 시찰하고 지역 스타트업 밸류체인(가치사슬) 조성 내용, 지역 기업의 역할과 성과에 대해 청취했다.우 위원장은 “</content:encoded>
-    </item>
-    <item>
-      <title>주 6일·하루 17시간 ‘격무’ 시달리는 간병인… “환자·보호자에 구타당하기도”</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242402</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242402</guid>
-      <pubDate>2023-11-15T14:57:40.000Z</pubDate>
-      <content:encoded>병원에서 근무하는 간병노동자들이 일주일 평균 6일, 하루 평균 17시간의 장시간 노동에 시달린다는 조사 결과가 나왔다. 뿐만 아니라 환자 또는 보호자에 의한 비인격적 대우 및 언어·신체폭력에 노출돼있다.정수창 서울시립대학교 도시보건대학원 연구원은 15일 보건복지자원연구원과 공공운수노조 의료연대본부, 더불어민주당 우원식 의원이 공동 주최한 국회 토론회에서 이러한 내용의 &apos;간병노동자 건강실태조사 결과&apos;를 발표했다.조사는 올해 6월부터 7월까지 서울대병원·경북대병원·대구동산병원·충북대병원·강원대병원 등 5개 병원에서 근무하</content:encoded>
-    </item>
-    <item>
-      <title>주 6일·하루 17시간 ‘격무’ 시달리는 간병인… “환자·보호자에 구타당하기도”</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242402</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242402</guid>
-      <pubDate>2023-11-15T14:57:40.000Z</pubDate>
-      <content:encoded>병원에서 근무하는 간병노동자들이 일주일 평균 6일, 하루 평균 17시간의 장시간 노동에 시달린다는 조사 결과가 나왔다. 뿐만 아니라 환자 또는 보호자에 의한 비인격적 대우 및 언어·신체폭력에 노출돼있다.정수창 서울시립대학교 도시보건대학원 연구원은 15일 보건복지자원연구원과 공공운수노조 의료연대본부, 더불어민주당 우원식 의원이 공동 주최한 국회 토론회에서 이러한 내용의 &apos;간병노동자 건강실태조사 결과&apos;를 발표했다.조사는 올해 6월부터 7월까지 서울대병원·경북대병원·대구동산병원·충북대병원·강원대병원 등 5개 병원에서 근무하</content:encoded>
-    </item>
-    <item>
-      <title>귀뚜라미, ‘온라인 공식 인증 판매점’ 운영</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242401</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242401</guid>
-      <pubDate>2023-11-15T14:58:00.000Z</pubDate>
-      <content:encoded>귀뚜라미가 보일러 부실시공 근절과 안전한 온라인 구매를 위한 ‘온라인 공식 인증 판매점’ 제도를 도입한다.(주)귀뚜라미(대표 김학수)는 소비자 권익 보호를 위해 ‘온라인 공식 인증 판매점’ 제도를 운영한다고 15일 밝혔다.가정용 보일러의 인터넷 판매 확대에 따라, 귀뚜라미는 소비자가 안심하고 제품 구매를 할 수 있도록 엄선한 유통업체를 ‘온라인 공식 인증 판매점’으로 지정한다. 귀뚜라미 온라인 공식 인증 판매점에는 인증 배너와 엠블럼이 부여되며 정품 판매와 책임 시공을 보증한다.온라인 시장에서 귀뚜라미보일러 제품을 구매할 때는 제품</content:encoded>
     </item>
     <item>
       <title>귀뚜라미, ‘온라인 공식 인증 판매점’ 운영</title>
@@ -1013,60 +901,11 @@
       <content:encoded>한국인의 지난달 유튜브 사용시간이 1044억분을 넘긴 것으로 조사됐다. 올해 월간 집계에서 1000억분을 넘긴 달이 속출했다. 유튜브 사용 시간이 더 늘어날 것이라는 전망이 나온다.모바일 애플리케이션(앱)과 리테일을 분석하는 ‘와이즈앱·리테일 굿즈’는 15일 한국인 스마트폰 사용자를 대상으로 유튜브 사용 시간을 조사해 발표했다. 조사는 iOS와 안드로이드 운영체제 사용자 5120만명을 대상으로 진행됐다.와이즈앱에 따르면 지난 10월 유튜브 사용시간은 1044억분이다. 지난해 10월 913억분에서 1년간 100억분 이상 증가했다. 특</content:encoded>
     </item>
     <item>
-      <title>한국인 유튜브 사용 시간 1044억분 넘겨... 카카오톡 3.3배</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242403</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242403</guid>
-      <pubDate>2023-11-15T14:59:24.000Z</pubDate>
-      <content:encoded>한국인의 지난달 유튜브 사용시간이 1044억분을 넘긴 것으로 조사됐다. 올해 월간 집계에서 1000억분을 넘긴 달이 속출했다. 유튜브 사용 시간이 더 늘어날 것이라는 전망이 나온다.모바일 애플리케이션(앱)과 리테일을 분석하는 ‘와이즈앱·리테일 굿즈’는 15일 한국인 스마트폰 사용자를 대상으로 유튜브 사용 시간을 조사해 발표했다. 조사는 iOS와 안드로이드 운영체제 사용자 5120만명을 대상으로 진행됐다.와이즈앱에 따르면 지난 10월 유튜브 사용시간은 1044억분이다. 지난해 10월 913억분에서 1년간 100억분 이상 증가했다. 특</content:encoded>
-    </item>
-    <item>
       <title>[취업정보] 동래여성새로일하기센터, 구직데이 일일 무료특강 개최</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242406</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242406</guid>
       <pubDate>2023-11-15T15:58:27.000Z</pubDate>
       <content:encoded>동래여성인력개발센터(이숙련 관장) 동래여성새로일하기센터에서는 여성가족부 지원으로 미취업 여성구직자를 대상으로 구직데이 일일 무료특강을 2회 개최한다.동래여성새로일하기센터는 15일 1회차는 ‘챗GPT 자소서를 부탁해!’로 지난 14일 오후 2시~5시에 진행됐다고 밝혔다.챗GPT를 활용해 경력단절 여성이 작성하기 힘들어하는 자기소개서를 작성하는 노하우를 알려주며, 직무에 챗GPT를 활용하는 요령을 익힘으로써 구직자 역량을 강화할 수 있는 특강이었다.2회차는 ‘3시간에 끝내는 SNS홍보 꿀팁!’으로, 오는 30일 오후 2시부터 5시까지</content:encoded>
-    </item>
-    <item>
-      <title>[취업정보] 동래여성새로일하기센터, 구직데이 일일 무료특강 개최</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242406</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242406</guid>
-      <pubDate>2023-11-15T15:58:27.000Z</pubDate>
-      <content:encoded>동래여성인력개발센터(이숙련 관장) 동래여성새로일하기센터에서는 여성가족부 지원으로 미취업 여성구직자를 대상으로 구직데이 일일 무료특강을 2회 개최한다.동래여성새로일하기센터는 15일 1회차는 ‘챗GPT 자소서를 부탁해!’로 지난 14일 오후 2시~5시에 진행됐다고 밝혔다.챗GPT를 활용해 경력단절 여성이 작성하기 힘들어하는 자기소개서를 작성하는 노하우를 알려주며, 직무에 챗GPT를 활용하는 요령을 익힘으로써 구직자 역량을 강화할 수 있는 특강이었다.2회차는 ‘3시간에 끝내는 SNS홍보 꿀팁!’으로, 오는 30일 오후 2시부터 5시까지</content:encoded>
-    </item>
-    <item>
-      <title>‘범죄피해자 원스톱 솔루션센터’ 첫발… 한동훈 &quot;1초 망설임도 없이 피해자 편&quot;</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242409</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242409</guid>
-      <pubDate>2023-11-15T16:27:00.000Z</pubDate>
-      <content:encoded>범죄피해자가 경제, 법률, 심리, 복지, 금융 등 다양한 도움을 한 곳에서 받을 수 있는 &apos;범죄피해자 원스톱 솔루션센터&apos;가 내년 7월 출범한다.한동훈 법무부 장관과 오세훈 서울시장은 15일 동작구 서울여성플라자에서 &apos;범죄피해자 원스톱 솔루션센터 설치·운영을 위한 업무협약&apos;을 체결했다.이번 협약은 정부가 국정과제로 추진하는 범죄피해자 원스톱 지원체계 구축의 하나로 이뤄졌다. 법무부와 서울시가 협력해서 범죄피해자에게 필요한 다양한 지원을 한 공간에서 제공하는 것을 주목적으로 한다.양 기관은 협약에 따라 내년</content:encoded>
-    </item>
-    <item>
-      <title>‘범죄피해자 원스톱 솔루션센터’ 첫발… 한동훈 &quot;1초 망설임도 없이 피해자 편&quot;</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242409</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242409</guid>
-      <pubDate>2023-11-15T16:27:00.000Z</pubDate>
-      <content:encoded>범죄피해자가 경제, 법률, 심리, 복지, 금융 등 다양한 도움을 한 곳에서 받을 수 있는 &apos;범죄피해자 원스톱 솔루션센터&apos;가 내년 7월 출범한다.한동훈 법무부 장관과 오세훈 서울시장은 15일 동작구 서울여성플라자에서 &apos;범죄피해자 원스톱 솔루션센터 설치·운영을 위한 업무협약&apos;을 체결했다.이번 협약은 정부가 국정과제로 추진하는 범죄피해자 원스톱 지원체계 구축의 하나로 이뤄졌다. 법무부와 서울시가 협력해서 범죄피해자에게 필요한 다양한 지원을 한 공간에서 제공하는 것을 주목적으로 한다.양 기관은 협약에 따라 내년</content:encoded>
-    </item>
-    <item>
-      <title>사랑의친구들, ‘2024 사랑의 떡국 바구니’ 모금</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242410</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242410</guid>
-      <pubDate>2023-11-15T16:57:52.000Z</pubDate>
-      <content:encoded>사랑의친구들(회장 김성애)은 ‘2024 사랑의 떡국 바구니’ 나눔을 위한 후원금을 모금한다.1998년부터 시작해 올해로 26년째 진행되는 이 캠페인은 해마다 설을 앞두고 전국의 지역아동센터를 비롯 조손가정·독거노인·소년소녀가장·장애우가정·다문화가정 등 어려운 이웃을 찾아가 떡국 바구니를 직접 전달해주는 봉사활동이다.바구니에는 떡국 떡·쇠고기·멸치 등 설 명절 떡국을 끓여 먹을 수 있는 재료를 담는다. 후원금은 바구니 1개당 3만원이다.후원계좌(국민은행 : 070-25-0040-131/ 하나은행 : 611-021356-624/ 예금주</content:encoded>
-    </item>
-    <item>
-      <title>사랑의친구들, ‘2024 사랑의 떡국 바구니’ 모금</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242410</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242410</guid>
-      <pubDate>2023-11-15T16:57:52.000Z</pubDate>
-      <content:encoded>사랑의친구들(회장 김성애)은 ‘2024 사랑의 떡국 바구니’ 나눔을 위한 후원금을 모금한다.1998년부터 시작해 올해로 26년째 진행되는 이 캠페인은 해마다 설을 앞두고 전국의 지역아동센터를 비롯 조손가정·독거노인·소년소녀가장·장애우가정·다문화가정 등 어려운 이웃을 찾아가 떡국 바구니를 직접 전달해주는 봉사활동이다.바구니에는 떡국 떡·쇠고기·멸치 등 설 명절 떡국을 끓여 먹을 수 있는 재료를 담는다. 후원금은 바구니 1개당 3만원이다.후원계좌(국민은행 : 070-25-0040-131/ 하나은행 : 611-021356-624/ 예금주</content:encoded>
-    </item>
-    <item>
-      <title>세계여성이사협회 창립 7주년 포럼 “ESG, 수탁자책임 원칙 이행 중요한 시험지”</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242408</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242408</guid>
-      <pubDate>2023-11-15T16:58:00.000Z</pubDate>
-      <content:encoded>세계여성이사협회 한국지부(회장 권선주)는 창립 7주년을 맞아 ‘ESG시대, 이사회의 바람직한 역할’을 주제로 15일 오전 서울 용산구 이태원 몬드리안 호텔에서 포럼을 개최했다.이번 포럼은 세계 3대 연기금 중 하나인 네덜란드공적연금의 운용사 APG(All Pension Group)에서 아시아지역 책임투자를 총괄하고 있는 박유경 전무가 주제 발표자로 나서 APG의 지속 가능한 투자 원칙과 그 이행 현황에 대해 소개했다.박 전무는 “ESG는 더 이상 이야기하는 주제가 아니라, 이행하고 실천하는 주제”임을 강조하고, 특히 최근 법 개정으</content:encoded>
     </item>
     <item>
       <title>세계여성이사협회 창립 7주년 포럼 “ESG, 수탁자책임 원칙 이행 중요한 시험지”</title>
@@ -1083,48 +922,6 @@
       <content:encoded>대통령실이 내년 4월 총선을 앞두고 여성 인재 찾기에 나서고 있다.15일 대통령실에 따르면 최근 윤석열 대통령은 참모들에게 “내가 모르는 사람이어도 좋다”며 “1970년대 여성 인재 풀을 대거 확충하라”고 지시했다.현재 19개 부처 장관 가운데 여성은 김현숙 여성가족·이영 중소벤처기업부·한화진 환경부 장관 3명뿐이다.6명의 대통령실 수석 중에서 여성은 김은혜 홍보수석이 유일하다.대통령실 수석비서관급 인사는 이달 말부터 순차적으로 이뤄질 것으로 보인다. 대통령실 신임 대변인에 기자 출신 김수경(47) 현 대통령실 통일비서관이 유력 검</content:encoded>
     </item>
     <item>
-      <title>윤 대통령 “70년생 여성 인재 대거 확충하라”… 외연 확장하는 대통령실</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242412</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242412</guid>
-      <pubDate>2023-11-15T17:12:00.000Z</pubDate>
-      <content:encoded>대통령실이 내년 4월 총선을 앞두고 여성 인재 찾기에 나서고 있다.15일 대통령실에 따르면 최근 윤석열 대통령은 참모들에게 “내가 모르는 사람이어도 좋다”며 “1970년대 여성 인재 풀을 대거 확충하라”고 지시했다.현재 19개 부처 장관 가운데 여성은 김현숙 여성가족·이영 중소벤처기업부·한화진 환경부 장관 3명뿐이다.6명의 대통령실 수석 중에서 여성은 김은혜 홍보수석이 유일하다.대통령실 수석비서관급 인사는 이달 말부터 순차적으로 이뤄질 것으로 보인다. 대통령실 신임 대변인에 기자 출신 김수경(47) 현 대통령실 통일비서관이 유력 검</content:encoded>
-    </item>
-    <item>
-      <title>국무위원 배우자들, ‘사랑의 선물’ 제작 동참</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242411</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242411</guid>
-      <pubDate>2023-11-15T17:17:00.000Z</pubDate>
-      <content:encoded>국무위원 배우자들과 15개국 주한외교대사 배우자 등이 대한적십자사가 진행한 ‘사랑의 선물’ 제작에 동참했다. 대한적십자사 본사 여성봉사특별자문위원회와 수요봉사회는 15일 오전 서울 중구 대한적십자사 서울사무소 4층 앙리뒤낭홀에서 ‘2023 사랑의 선물’을 제작했다고 밝혔다.2023 사랑의 선물은 지난달 31일 서울 강남구 삼성동 코엑스에서 열린 ‘2023 적십자 바자’ 수익금으로 마련됐다. 어르신용 3000세트는 넥워머 등 방한용품과 커피믹스, 사탕, 통조림 등 생활용품, 온누리상품권(2만원권) 등으로 구성됐다. 이날 제작한 사랑의</content:encoded>
-    </item>
-    <item>
-      <title>국무위원 배우자들, ‘사랑의 선물’ 제작 동참</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242411</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242411</guid>
-      <pubDate>2023-11-15T17:17:00.000Z</pubDate>
-      <content:encoded>국무위원 배우자들과 15개국 주한외교대사 배우자 등이 대한적십자사가 진행한 ‘사랑의 선물’ 제작에 동참했다. 대한적십자사 본사 여성봉사특별자문위원회와 수요봉사회는 15일 오전 서울 중구 대한적십자사 서울사무소 4층 앙리뒤낭홀에서 ‘2023 사랑의 선물’을 제작했다고 밝혔다.2023 사랑의 선물은 지난달 31일 서울 강남구 삼성동 코엑스에서 열린 ‘2023 적십자 바자’ 수익금으로 마련됐다. 어르신용 3000세트는 넥워머 등 방한용품과 커피믹스, 사탕, 통조림 등 생활용품, 온누리상품권(2만원권) 등으로 구성됐다. 이날 제작한 사랑의</content:encoded>
-    </item>
-    <item>
-      <title>‘아동 성범죄자&apos; 김근식 항소심 징역 5년… &apos;화학적 거세&apos;는 기각</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242413</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242413</guid>
-      <pubDate>2023-11-15T17:37:00.000Z</pubDate>
-      <content:encoded>미성년자 성범죄 범행이 추가로 밝혀지면서 만기출소 하루 전 다시 구속 기소돼 실형을 선고받은 김근식(55)이 항소심 재판에서 원심보다 늘어난 징역 5년을 선고받았다. &apos;화학적 거세&apos;는 기각됐다.15일 법조계에 따르면 수원고법 제3-2형사부(김동규·허양윤·원익선)는 김근식에게 13세미만 아동 강제추행 혐의에 대해 원심보다 2년 늘어난 징역 4년을, 공무집행방해와 상습폭행 혐의에 대해서는 징역 1년을 각각 선고했다.또 김근식의 정보를 5년간 공개할 것과 200시간의 성폭력 치료프로그램 이수, 아동·청소년·장애인 관련 기관</content:encoded>
-    </item>
-    <item>
-      <title>‘아동 성범죄자&apos; 김근식 항소심 징역 5년… &apos;화학적 거세&apos;는 기각</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242413</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242413</guid>
-      <pubDate>2023-11-15T17:37:00.000Z</pubDate>
-      <content:encoded>미성년자 성범죄 범행이 추가로 밝혀지면서 만기출소 하루 전 다시 구속 기소돼 실형을 선고받은 김근식(55)이 항소심 재판에서 원심보다 늘어난 징역 5년을 선고받았다. &apos;화학적 거세&apos;는 기각됐다.15일 법조계에 따르면 수원고법 제3-2형사부(김동규·허양윤·원익선)는 김근식에게 13세미만 아동 강제추행 혐의에 대해 원심보다 2년 늘어난 징역 4년을, 공무집행방해와 상습폭행 혐의에 대해서는 징역 1년을 각각 선고했다.또 김근식의 정보를 5년간 공개할 것과 200시간의 성폭력 치료프로그램 이수, 아동·청소년·장애인 관련 기관</content:encoded>
-    </item>
-    <item>
-      <title>대통령실 새 대변인에 김수경·뉴미디어비서관에 최지현 거론</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242415</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242415</guid>
-      <pubDate>2023-11-15T17:53:00.000Z</pubDate>
-      <content:encoded>대통령실 신임 대변인에 김수경 현 대통령실 통일비서관이 거론되고 있다. 최지현 부대변인은 뉴미디어비서관으로 승진이 임용될 수 있다.김 비서관은 서울대 언어학과를 졸업했다. 2000~2004년까지 동아일보 기자로 일했고 유학을 떠나 2013년 미국 스탠퍼드대에서 사회학 박사 학위를 취득했다. 고려대 국제대학원 연구교수, 통일연구원 연구위원 등을 지낸 그는 한신대 사회복지학과 교수로 재직하다가 지난 7월 대통령실 통일비서관에 임명됐다.최 부대변인은 서울대 법대를 졸업하고 김앤장 등에서 변호사로 일했다. 윤석열 정부 출범이후 대외협력비서</content:encoded>
-    </item>
-    <item>
       <title>대통령실 새 대변인에 김수경·뉴미디어비서관에 최지현 거론</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242415</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242415</guid>
@@ -1139,60 +936,11 @@
       <content:encoded>강민정 더불어민주당 의원이 15일 내년 총선 불출마를 선언했다. 강 의원은 지난 14일 불출마 확인서를 당에 제출했다.강 의원은 이날 자신의 페이스북을 통해 “더 젊고 유능하며 오로지 공익에 헌신할 각오를 가진 이들이 국회에 들어와 일하도록 하는 것이 필요하다”고 밝혔다.그는 “국회의원은 정년이 보장된 공무원이 아니다”라며 “한 번 국회의원이 되면 당연히 다음 선거에 출마해 자신의 자리를 유지하는 게 고정관념이 된 현실이 저는 우리 정치의 한계를 보여주는 일 중 하나”라고 말했다.그러면서 “정치인이 된다는 것은 참으로 무거운 자리”</content:encoded>
     </item>
     <item>
-      <title>강민정 민주당 의원, 내년 총선 불출마…“젊고 유능한 이들 국회 들어와야”</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242416</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242416</guid>
-      <pubDate>2023-11-15T18:07:33.000Z</pubDate>
-      <content:encoded>강민정 더불어민주당 의원이 15일 내년 총선 불출마를 선언했다. 강 의원은 지난 14일 불출마 확인서를 당에 제출했다.강 의원은 이날 자신의 페이스북을 통해 “더 젊고 유능하며 오로지 공익에 헌신할 각오를 가진 이들이 국회에 들어와 일하도록 하는 것이 필요하다”고 밝혔다.그는 “국회의원은 정년이 보장된 공무원이 아니다”라며 “한 번 국회의원이 되면 당연히 다음 선거에 출마해 자신의 자리를 유지하는 게 고정관념이 된 현실이 저는 우리 정치의 한계를 보여주는 일 중 하나”라고 말했다.그러면서 “정치인이 된다는 것은 참으로 무거운 자리”</content:encoded>
-    </item>
-    <item>
-      <title>[인터뷰] ‘문단 내 성폭력’ 박진성 시인, 끝내 감옥으로… “여성들의 연대가 해냈다”</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242370</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242370</guid>
-      <pubDate>2023-11-15T18:25:39.000Z</pubDate>
-      <content:encoded>17세 청소년이었던 습작생에 성희롱을 일삼고, 피해자가 이를 온라인상에 고발하자 ‘허위 미투’라며 피해자를 ‘무고범’으로 몰아가는 등 지독한 2차 가해를 자행했던 박진성(45) 시인이 지난 8일 대전지방법원에서 ‘허위사실적시 명예훼손’으로 1년 8개월 실형을 선고받고 법정 구속됐다. 피해자의 최초 고발 이후 7년, 그중 재판만 4년을 거친 결과였다.가해자가 인터넷에 유포한 신상정보로 ‘98년생 김현진’으로 알려진 피해자 곁에는 든든한 조력자들이 있었다. 직장 내 성희롱 피해 경험자로 성범죄 피해자들의 편에서 싸워온 이은의 변호사,</content:encoded>
-    </item>
-    <item>
-      <title>[인터뷰] ‘문단 내 성폭력’ 박진성 시인, 끝내 감옥으로… “여성들의 연대가 해냈다”</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242370</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242370</guid>
-      <pubDate>2023-11-15T18:25:39.000Z</pubDate>
-      <content:encoded>17세 청소년이었던 습작생에 성희롱을 일삼고, 피해자가 이를 온라인상에 고발하자 ‘허위 미투’라며 피해자를 ‘무고범’으로 몰아가는 등 지독한 2차 가해를 자행했던 박진성(45) 시인이 지난 8일 대전지방법원에서 ‘허위사실적시 명예훼손’으로 1년 8개월 실형을 선고받고 법정 구속됐다. 피해자의 최초 고발 이후 7년, 그중 재판만 4년을 거친 결과였다.가해자가 인터넷에 유포한 신상정보로 ‘98년생 김현진’으로 알려진 피해자 곁에는 든든한 조력자들이 있었다. 직장 내 성희롱 피해 경험자로 성범죄 피해자들의 편에서 싸워온 이은의 변호사,</content:encoded>
-    </item>
-    <item>
       <title>“극심한 폭우·폭염에 여성농민 피해 더 커… 성인지적 대책 마련해야“</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242414</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242414</guid>
       <pubDate>2023-11-15T19:19:00.000Z</pubDate>
       <content:encoded>기후위기로 인한 폭우나 폭염 등 재난이 심각한 수준으로 치달으며 날씨에 큰 영향을 받는 농업 종사자들의 피해가 커지고 있다. 특히 그중에서도 여성 농민에게 재난 피해의 어려움이 집중되고 있어 대책 마련이 필요하다는 현장의 목소리가 나왔다.15일 서울 여의도 국회에서 열린 ‘기후재난과 여성농민’ 토론회에서는 이번 여름 극심한 수해나 병충해 피해를 입은 농민들의 한탄이 쏟아져 나왔다.충남 논산에 귀농한지 8년차를 맞은 유화영 농부는 올여름 극심한 폭우로 농작물 수해 피해를 입었다.그는 “이번 여름비에 제가 농사짓는 2200평이 손바닥</content:encoded>
-    </item>
-    <item>
-      <title>“극심한 폭우·폭염에 여성농민 피해 더 커… 성인지적 대책 마련해야“</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242414</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242414</guid>
-      <pubDate>2023-11-15T19:19:00.000Z</pubDate>
-      <content:encoded>기후위기로 인한 폭우나 폭염 등 재난이 심각한 수준으로 치달으며 날씨에 큰 영향을 받는 농업 종사자들의 피해가 커지고 있다. 특히 그중에서도 여성 농민에게 재난 피해의 어려움이 집중되고 있어 대책 마련이 필요하다는 현장의 목소리가 나왔다.15일 서울 여의도 국회에서 열린 ‘기후재난과 여성농민’ 토론회에서는 이번 여름 극심한 수해나 병충해 피해를 입은 농민들의 한탄이 쏟아져 나왔다.충남 논산에 귀농한지 8년차를 맞은 유화영 농부는 올여름 극심한 폭우로 농작물 수해 피해를 입었다.그는 “이번 여름비에 제가 농사짓는 2200평이 손바닥</content:encoded>
-    </item>
-    <item>
-      <title>시각장애 첼리스트 김보희, BMF 국제음악콩쿠르 결선 진출...아시아 여성 유일</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242419</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242419</guid>
-      <pubDate>2023-11-15T23:14:20.000Z</pubDate>
-      <content:encoded>시각장애인 첼리스트 김보희(파라스타엔터테인먼트 소속)가 ‘2023 BMF 국제음악콩쿠르’ 결선 진출자 최종 후보로 선정됐다. 유일한 아시아 여성 후보다.김보희는 오는 25일(현지시간) 미국 뉴욕 맨해튼 마크 A. 스코르카 홀(Marc A. Scorca Hall)에서 연주할 예정이다.BMF 국제음악콩쿠르는 벨라 음악 재단(Bella Music Foundation)이 격년 개최하며, 전 세계 시각장애인 솔로 클래식 악기 연주자, 작곡가, 성악가들이 모여 실력을 겨루는 국제 음악 콩쿠르다. 김보희는 2013년 뷰티풀 마인드 뮤직아카데미</content:encoded>
-    </item>
-    <item>
-      <title>김서형·김선영·한효주… 제59회 대종상영화제 빛낸 여성들</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242420</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242420</guid>
-      <pubDate>2023-11-16T00:16:00.000Z</pubDate>
-      <content:encoded>제59회 대종상영화제가 성황리에 막을 내렸다. 다양한 장르와 역할을 아우르며 열연한 여성들이 수상의 영예를 안았다. 스릴러 영화 ‘비닐하우스’ 주연을 맡은 김서형이 여우주연상을 거머쥐었다. 어디서나 존재감을 보여주는 김선영(‘콘크리트 유토피아’)과 한효주(‘무빙’)가 각각 여우조연상과 시리즈 여우상을 받았다. 신인여우상은 ‘다음 소희’ 김시은에 돌아갔다.김서형은 “’비닐하우스’는 여러 사회 문제를 보여주고 있는 작품이다. 자기 자신을 돌보지 못한 채 여러 사회 문제 매달려 삶을 영위해야 하는 한 여자의 이야기이기도 하다. 이 작품의</content:encoded>
-    </item>
-    <item>
-      <title>[날씨] 수능일 전국에 비...낮부터 추워져</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242422</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242422</guid>
-      <pubDate>2023-11-16T06:49:04.000Z</pubDate>
-      <content:encoded>2024학년도 대학수학능력시험일인 16일 전국 곳곳에 비가 내리겠으며 낮부터 추워질 것으로 보인다.기상청은 이날 전국이 대체로 흐리고 비가 내리겠다고 예보했다.오전 서쪽 지역부터 비가 시작돼 오후에 전국으로 확대될 것으로 예상된다. 예상강수량은 5~30mm이다.아침 최저기온은 2~11도 분포를 나타냈다.기상청은 낮부터 찬공기가 남하하면서 기온이 떨어질 것으로 전망했다. 낮 최고기온은 낮최고기온은 6~16도로 평년(최고기온 10~16도)보다 낮아질 것으로 보인다.강원도 강릉평지, 동해평지, 태백, 삼척평지, 속초평지, 고성평지, 양양</content:encoded>
     </item>
     <item>
       <title>[날씨] 수능일 전국에 비...낮부터 추워져</title>
@@ -1270,13 +1018,6 @@
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242368</guid>
       <pubDate>2023-11-16T08:30:00.000Z</pubDate>
       <content:encoded>김수영 전 양천구청장은 “풀뿌리 생활 정치로 정쟁뿐인 여의도 정치를 바꾸겠다”라며 제22대 총선 서울 양천구을 출마를 선언했다.김 전 구청장은 13일 서울 양천구 일대에서 여성신문과 만나 “작년 지방선거가 끝나고 뉴스 시사 패널로 출연하면서 정치를 깊게 들여다보니 자괴감이 들었다”며 이같이 밝혔다.그는 “주부로, 자연인으로 돌아와서 보니 물가가 너무 많이 올라 당장 살기 힘든데 정작 여의도에선 ‘홍범도 장군 흉상을 철거하네 마네’하는 답답한 소리만 한다”며 “그래서 전직 단체장들과 함께 시국 토론 등 정기적으로 만나며 내년 총선에서</content:encoded>
-    </item>
-    <item>
-      <title>[여성세무사들의 세금이야기] 1세대 2주택인데 비과세?</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242396</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242396</guid>
-      <pubDate>2023-11-16T09:00:00.000Z</pubDate>
-      <content:encoded>양도소득세는 원칙적으로 1세대 1주택자에 한해 비과세 규정을 적용하고 있으나 이사목적으로 일시적으로 2주택이 되거나 상속에 의하여 본인의 의사와 무관하게 2주택이 된 경우 및 노부모 봉양, 혼인 등으로 2주택이 된 경우 등에 대해서 비과세 특례를 인정한다.일시적으로 1세대 2주택에 해당되는 경우국내에 1주택을 소유한 1세대가 그 주택(종전주택)을 양도하기 전에 다른 주택(신규주택)을 취득하여 일시적으로 2주택이 된 경우, 종전주택을 취득한 날부터 1년 이상이 지난 후 신규주택을 취득하고, 신규주택을 취득한 날부터 3년 이내에 1세대</content:encoded>
     </item>
     <item>
       <title>[전예현의 청년과 함께] 청년 바리스타는 커피 축제가 두렵다?</title>
@@ -1284,6 +1025,13 @@
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242352</guid>
       <pubDate>2023-11-16T09:00:00.000Z</pubDate>
       <content:encoded>“손님들이 몰려오는 날에는 하루에 커피를 300잔 이상 뽑은 적도 있어요. 커피 축제가 성공하길 바라지만, 솔직히 제 손목은 너무 아프네요.” (강릉 A커피매장 청년 바리스타)“커피를 추출하고 음료를 담으려면 시간이 걸리잖아요. 그런데 대기 시간이 길어지면 손님들은 불평하며 소리 지르고, 어떤 어른들은 우리에게 욕을 해요. 제발 그러지 않았으면…” (B쇼핑몰 음료 매대 청년 아르바이트생)화려한 축제의 이면에는 고단한 청춘들이 있다. 장비 나르고, 행사장 안내를 진행하고, 쓰레기를 치우는 일에 젊은 아르바이트생들이 자주 동원된다. 축</content:encoded>
+    </item>
+    <item>
+      <title>[여성세무사들의 세금이야기] 1세대 2주택인데 비과세?</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242396</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242396</guid>
+      <pubDate>2023-11-16T09:00:00.000Z</pubDate>
+      <content:encoded>양도소득세는 원칙적으로 1세대 1주택자에 한해 비과세 규정을 적용하고 있으나 이사목적으로 일시적으로 2주택이 되거나 상속에 의하여 본인의 의사와 무관하게 2주택이 된 경우 및 노부모 봉양, 혼인 등으로 2주택이 된 경우 등에 대해서 비과세 특례를 인정한다.일시적으로 1세대 2주택에 해당되는 경우국내에 1주택을 소유한 1세대가 그 주택(종전주택)을 양도하기 전에 다른 주택(신규주택)을 취득하여 일시적으로 2주택이 된 경우, 종전주택을 취득한 날부터 1년 이상이 지난 후 신규주택을 취득하고, 신규주택을 취득한 날부터 3년 이내에 1세대</content:encoded>
     </item>
     <item>
       <title>[전예현의 청년과 함께] 청년 바리스타는 커피 축제가 두렵다?</title>
@@ -1426,11 +1174,11 @@
       <content:encoded>불면증, 수면 중 호흡장애, 과다수면증 등 수면장애를 가진 진료인원이 110만명에 달한 것으로 조사됐다. 수면장애에는 다양한 원인이 있는 만큼 생활습관을 되돌아보고 개선하는 것이 중요하다.국민건강보험공단이 16일 공개한 2018~2022년 수면장애 환자의 건보 진료 현황에 따르면 진료인원은 2018년 85만5025명에서 지난해 109만8819명으로 24만3794명(28.5%)이 증가했다.지난해 여성 환자가 62만3816명으로 남성 환자(47만5003명)보다 많았다. 그러나 5년 간 증가율은 남성(33.6%)이 여성(24.9%)보다</content:encoded>
     </item>
     <item>
-      <title>정부·지자체, 안전계획에 ‘재난피해자 인권 가이드라인’ 적용한다</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242435</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242435</guid>
+      <title>조용병 전 신한금융지주 회장, 차기 은행연합회장 단독 추천</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242438</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242438</guid>
       <pubDate>2023-11-16T12:30:00.000Z</pubDate>
-      <content:encoded>정부와 지자체가 국가인권위원회(위원장 송두환) 권고에 따라 재난피해자 인권에 기반한 안전관리계획을 수립한다.인권위는 국무총리, 행정안전부장관, 17개 광역지방자치단체장이 ‘재난피해자 권리보호를 위한 인권 가이드라인’을 국가안전관리기본계획, 시･도안전관리계획, 시･군･구안전관리계획 수립지침 등에 포함하겠다는 답변을 받았다고 16일 밝혔다.앞서 지난 3월 인권위는 재난피해자를 보호할 의무가 있는 중앙행정기관 및 지방자치단체에게 재난피해자의 인권에 기반한 안전관리계획을 수립할 것을 권고했다.이에 대해 국무총리(국무조정실)는 국가안전관리기</content:encoded>
+      <content:encoded>은행연합회는 16일 차기 은행연합회장 후보로 조용병 전 신한금융지주 회장을 사원총회에 단독 추천했다.은행연합회는 이날 회장후보추천위원회 제3차 회의와 이사회를 개최하고, 제3차 회장후보추천위원회에서는 제2차 회의에서 정한 후보군 개개인의 자질과 능력 등에 대해 논의했다.은행연합회는 이사회가 조용병 전 신한금융지주 회장을 제15대 은행연합회장 후보로 선정하고 만장일치로 의결했다고 밝혔다.은행연합회는 조용병 후보자가 금융산업에 대한 폭넓은 이해와 탁월한 통찰력을 바탕으로 은행산업이 당면한 현안을 해결하고 대내외 불확실성에 직면한 은행산</content:encoded>
     </item>
     <item>
       <title>정부·지자체, 안전계획에 ‘재난피해자 인권 가이드라인’ 적용한다</title>
@@ -1443,15 +1191,15 @@
       <title>조용병 전 신한금융지주 회장, 차기 은행연합회장 단독 추천</title>
       <link>http://www.womennews.co.kr/news/articleView.html?idxno=242438</link>
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242438</guid>
-      <pubDate>2023-11-16T12:30:29.000Z</pubDate>
+      <pubDate>2023-11-16T12:30:00.000Z</pubDate>
       <content:encoded>은행연합회는 16일 차기 은행연합회장 후보로 조용병 전 신한금융지주 회장을 사원총회에 단독 추천했다.은행연합회는 이날 회장후보추천위원회 제3차 회의와 이사회를 개최하고, 제3차 회장후보추천위원회에서는 제2차 회의에서 정한 후보군 개개인의 자질과 능력 등에 대해 논의했다.은행연합회는 이사회가 조용병 전 신한금융지주 회장을 제15대 은행연합회장 후보로 선정하고 만장일치로 의결했다고 밝혔다.은행연합회는 조용병 후보자가 금융산업에 대한 폭넓은 이해와 탁월한 통찰력을 바탕으로 은행산업이 당면한 현안을 해결하고 대내외 불확실성에 직면한 은행산</content:encoded>
     </item>
     <item>
-      <title>조용병 전 신한금융지주 회장, 차기 은행연합회장 단독 추천</title>
-      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242438</link>
-      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242438</guid>
-      <pubDate>2023-11-16T12:30:29.000Z</pubDate>
-      <content:encoded>은행연합회는 16일 차기 은행연합회장 후보로 조용병 전 신한금융지주 회장을 사원총회에 단독 추천했다.은행연합회는 이날 회장후보추천위원회 제3차 회의와 이사회를 개최하고, 제3차 회장후보추천위원회에서는 제2차 회의에서 정한 후보군 개개인의 자질과 능력 등에 대해 논의했다.은행연합회는 이사회가 조용병 전 신한금융지주 회장을 제15대 은행연합회장 후보로 선정하고 만장일치로 의결했다고 밝혔다.은행연합회는 조용병 후보자가 금융산업에 대한 폭넓은 이해와 탁월한 통찰력을 바탕으로 은행산업이 당면한 현안을 해결하고 대내외 불확실성에 직면한 은행산</content:encoded>
+      <title>정부·지자체, 안전계획에 ‘재난피해자 인권 가이드라인’ 적용한다</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242435</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242435</guid>
+      <pubDate>2023-11-16T12:30:00.000Z</pubDate>
+      <content:encoded>정부와 지자체가 국가인권위원회(위원장 송두환) 권고에 따라 재난피해자 인권에 기반한 안전관리계획을 수립한다.인권위는 국무총리, 행정안전부장관, 17개 광역지방자치단체장이 ‘재난피해자 권리보호를 위한 인권 가이드라인’을 국가안전관리기본계획, 시･도안전관리계획, 시･군･구안전관리계획 수립지침 등에 포함하겠다는 답변을 받았다고 16일 밝혔다.앞서 지난 3월 인권위는 재난피해자를 보호할 의무가 있는 중앙행정기관 및 지방자치단체에게 재난피해자의 인권에 기반한 안전관리계획을 수립할 것을 권고했다.이에 대해 국무총리(국무조정실)는 국가안전관리기</content:encoded>
     </item>
     <item>
       <title>여성과총, 17일 20주년 기념식·2023 연차대회 개최</title>
@@ -1613,6 +1361,258 @@
       <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242451</guid>
       <pubDate>2023-11-16T16:01:00.000Z</pubDate>
       <content:encoded>단식투쟁으로 자신이 근무하던 콜센터의 노동자 전원복직을 이끈 이하나 상담사와 가정방문점검 노동자들의 권익 향상에 기여한 민주노총 금속노조 LG케어솔루션지회가 ‘올해의 여성노동운동상’ 공동수상의 영예를 안았다.한국여성노동자회(한국여노)와 김경숙열사기념사업회는 지난 15일 서울특별시 동작구 스페이스 살림에서 제10회 ‘김경숙상’ 시상식을 개최했다.김경숙상은 1979년 YH무역 여성노동자들의 파업 당시 경찰의 진압으로 사망한 김경숙 열사의 뜻을 기리기 위해 2014년 제정된 것으로, 성평등 노동가치에 헌신한 이들에게 감사와 연대의 마음을</content:encoded>
+    </item>
+    <item>
+      <title>트랜스해방전선, 18일 트랜스젠더 추모의 날 집회</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242453</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242453</guid>
+      <pubDate>2023-11-16T16:05:21.000Z</pubDate>
+      <content:encoded>11월 20일 트랜스젠더 추모의 날을 맞아 시민사회단체 등은 오는 18일 이태원 광장에서 ‘단결 트젠, 용산은 젠더땅’ 집회 및 행진을 개최한다.트랜스해방전선은 2018년부터 해당 장소에서 트랜스젠더 혐오에 희생된 트랜스젠더 동료들을 추모하고, 현재를 살아가는 성소수자와 지지자들에게 안부를 묻기 위한 집회를 진행해오고 있다.이번 행사는 성소수자들에게 특별한 공간인 용산(이태원)이라는 지역에서 트랜스젠더라는 이유로 가해지는 혐오와 차별적 제도를 규탄하는 의미를 담은 공연 및 행진 등으로 구성됐다.행사 당일 추모 공연은 △게이인권운동단</content:encoded>
+    </item>
+    <item>
+      <title>트랜스해방전선, 18일 트랜스젠더 추모의 날 집회</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242453</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242453</guid>
+      <pubDate>2023-11-16T16:05:21.000Z</pubDate>
+      <content:encoded>11월 20일 트랜스젠더 추모의 날을 맞아 시민사회단체 등은 오는 18일 이태원 광장에서 ‘단결 트젠, 용산은 젠더땅’ 집회 및 행진을 개최한다.트랜스해방전선은 2018년부터 해당 장소에서 트랜스젠더 혐오에 희생된 트랜스젠더 동료들을 추모하고, 현재를 살아가는 성소수자와 지지자들에게 안부를 묻기 위한 집회를 진행해오고 있다.이번 행사는 성소수자들에게 특별한 공간인 용산(이태원)이라는 지역에서 트랜스젠더라는 이유로 가해지는 혐오와 차별적 제도를 규탄하는 의미를 담은 공연 및 행진 등으로 구성됐다.행사 당일 추모 공연은 △게이인권운동단</content:encoded>
+    </item>
+    <item>
+      <title>한국미혼모가족협회 ‘2023 김장, 오직 한돈과 함께’ 캠페인</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242454</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242454</guid>
+      <pubDate>2023-11-16T16:41:56.000Z</pubDate>
+      <content:encoded>(사)한국미혼모가족협회(대표 김민정)은 지난 11일 협회 사무실에서 회원들과 함께한 겨울 동안 귀한 양식이 될 김장 김치 담그기 행사를 진행했다.이번 행사는 한돈자조금이 진행하는 사회공헌사업의 일환인 ‘2023 김장, 오직 한돈과 함께’ 캠페인에 선정돼 수육용 한돈 3kg을 지원받았으며, 김장에 참여한 협회 운영위원, 회원, 봉사자들이 참여해 김장을 마친 후 수육을 함께 나누며 더 풍성한 김장하기 시간을 보냈다.행사에 참여한 한 협회 회원은 “코로나19 이후 오랜만에 얼굴을 맞대고 김장을 함께 하고, 맛있는 수육과 함께 직접 담근</content:encoded>
+    </item>
+    <item>
+      <title>한국미혼모가족협회 ‘2023 김장, 오직 한돈과 함께’ 캠페인</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242454</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242454</guid>
+      <pubDate>2023-11-16T16:41:56.000Z</pubDate>
+      <content:encoded>(사)한국미혼모가족협회(대표 김민정)은 지난 11일 협회 사무실에서 회원들과 함께한 겨울 동안 귀한 양식이 될 김장 김치 담그기 행사를 진행했다.이번 행사는 한돈자조금이 진행하는 사회공헌사업의 일환인 ‘2023 김장, 오직 한돈과 함께’ 캠페인에 선정돼 수육용 한돈 3kg을 지원받았으며, 김장에 참여한 협회 운영위원, 회원, 봉사자들이 참여해 김장을 마친 후 수육을 함께 나누며 더 풍성한 김장하기 시간을 보냈다.행사에 참여한 한 협회 회원은 “코로나19 이후 오랜만에 얼굴을 맞대고 김장을 함께 하고, 맛있는 수육과 함께 직접 담근</content:encoded>
+    </item>
+    <item>
+      <title>반기문 “ESG는 선택 아닌 필수… 여성의 유리천장 해소해야”</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242452</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242452</guid>
+      <pubDate>2023-11-16T17:09:00.000Z</pubDate>
+      <content:encoded>기업이 국제사회 문제 해결에 동참하고 지속 가능한 발전을 이끌어갈 수 있도록 방향을 제시하는 자리가 마련됐다.유엔글로벌콤팩트 한국협회(이하 UNGC)는 국내 최대 규모 기업 지속가능성 컨퍼런스, ‘코리아 리더스 서밋 2023 (Korea Leaders Summit 2023)’을 16일 그랜드 하얏트 서울에서 개최했다.이동건 UNGC 회장은 개회사에서 “UNGC는 국내 기업의 지속가능성 향상과 사회적 책임 확산을 위해 지난 16년간 많은 노력을 해왔다”고 말했다.이동건 회장은 “지난 8년간, 우리는 2030년 지속가능발전목표(SDGs</content:encoded>
+    </item>
+    <item>
+      <title>반기문 “ESG는 선택 아닌 필수… 여성의 유리천장 해소해야”</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242452</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242452</guid>
+      <pubDate>2023-11-16T17:09:00.000Z</pubDate>
+      <content:encoded>기업이 국제사회 문제 해결에 동참하고 지속 가능한 발전을 이끌어갈 수 있도록 방향을 제시하는 자리가 마련됐다.유엔글로벌콤팩트 한국협회(이하 UNGC)는 국내 최대 규모 기업 지속가능성 컨퍼런스, ‘코리아 리더스 서밋 2023 (Korea Leaders Summit 2023)’을 16일 그랜드 하얏트 서울에서 개최했다.이동건 UNGC 회장은 개회사에서 “UNGC는 국내 기업의 지속가능성 향상과 사회적 책임 확산을 위해 지난 16년간 많은 노력을 해왔다”고 말했다.이동건 회장은 “지난 8년간, 우리는 2030년 지속가능발전목표(SDGs</content:encoded>
+    </item>
+    <item>
+      <title>유네스코 본부 간 세븐틴 “함께라면 절대 길을 잃지 않아”</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242455</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242455</guid>
+      <pubDate>2023-11-16T17:10:31.000Z</pubDate>
+      <content:encoded>그룹 세븐틴이 지난 14일(이하 현지시간) 프랑스 파리 유네스코 파리 본부에서 열린 ‘제13회 유네스코 청년포럼’에서 스페셜 세션을 부여받아 연설과 공연을 펼쳤다.유네스코한국위원회(사무총장 한경구)는 “전 세계 청년들에게 교육의 중요성을 알리기 위해 세븐틴과 함께 추진해 온 ‘고잉투게더’(#GoingTogether) 캠페인의 성과와 메시지가 제13회 유네스코 청년포럼을 통해 큰 울림을 줬다”고 밝혔다.‘유네스코 청년포럼’은 젊은 세대가 직접 목소리를 내는 행사로 유네스코 총회 기간 열린다. 한국 아티스트가 이 행사에서 스페셜 세션을</content:encoded>
+    </item>
+    <item>
+      <title>윤 대통령, 헌법재판관에 정형식 대전고법원장 지명</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242458</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242458</guid>
+      <pubDate>2023-11-16T17:32:11.000Z</pubDate>
+      <content:encoded>윤석열 대통령은 16일 헌법재판관 후보에 정형식(62·사법연수원 17기) 대전고등법원장을 지명했다.김대기 대통령비서실장은 이날 오후 용산 대통령실에서 “윤 대통령이 유남석 전 헌법재판소장의 후임 헌법재판관으로 정 법원장을 지명했다”고 밝혔다.대통령실은 정 후보자에 대해 “1988년 수원지법 성남지원 판사로 임관한 이래 35년 동안 서울고등법원과 수원고등법원 부장판사로 재직하며, 해박한 법리와 공정한 재판 진행으로 정평이 나 있는 법관”이라고 평가했다.서울 출신인 정 후보자는 서울대 법대를 졸업하고 1985년 27회 사법 시험에 합격</content:encoded>
+    </item>
+    <item>
+      <title>윤 대통령, 헌법재판관에 정형식 대전고법원장 지명</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242458</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242458</guid>
+      <pubDate>2023-11-16T17:32:11.000Z</pubDate>
+      <content:encoded>윤석열 대통령은 16일 헌법재판관 후보에 정형식(62·사법연수원 17기) 대전고등법원장을 지명했다.김대기 대통령비서실장은 이날 오후 용산 대통령실에서 “윤 대통령이 유남석 전 헌법재판소장의 후임 헌법재판관으로 정 법원장을 지명했다”고 밝혔다.대통령실은 정 후보자에 대해 “1988년 수원지법 성남지원 판사로 임관한 이래 35년 동안 서울고등법원과 수원고등법원 부장판사로 재직하며, 해박한 법리와 공정한 재판 진행으로 정평이 나 있는 법관”이라고 평가했다.서울 출신인 정 후보자는 서울대 법대를 졸업하고 1985년 27회 사법 시험에 합격</content:encoded>
+    </item>
+    <item>
+      <title>백화점 전광판에 ‘성폭행 예고글’ 파문… 온라인 넘어 오프라인까지</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242464</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242464</guid>
+      <pubDate>2023-11-16T18:01:00.000Z</pubDate>
+      <content:encoded>서울 중구 롯데백화점 본점 전광판에 성범죄를 암시하는 글이 올라왔다. 그동안 논란이 됐던 강력범죄 예고글은 대부분 온라인 커뮤니티에 게시됐으나 이제 오프라인에서도 범죄를 암시하는 글이 올라와 파문이 일고 있다. 16일 온라인 커뮤니티와 업계에 따르면 지난 14일 오후 10시쯤 롯데백화점 외벽 전광판에 “나 한국 여자 다 강간할 거야”라는 문구가 등장했다. 같은 뜻의 ‘I’m going to rape every women in Korea‘라는 영어 문장도 함께 노출됐다. 해당 전광판은 성탄절 및 연말 맞이 이벤트로, 전광판 앞 QR코</content:encoded>
+    </item>
+    <item>
+      <title>백화점 전광판에 ‘성폭행 예고글’ 파문… 온라인 넘어 오프라인까지</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242464</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242464</guid>
+      <pubDate>2023-11-16T18:01:00.000Z</pubDate>
+      <content:encoded>서울 중구 롯데백화점 본점 전광판에 성범죄를 암시하는 글이 올라왔다. 그동안 논란이 됐던 강력범죄 예고글은 대부분 온라인 커뮤니티에 게시됐으나 이제 오프라인에서도 범죄를 암시하는 글이 올라와 파문이 일고 있다. 16일 온라인 커뮤니티와 업계에 따르면 지난 14일 오후 10시쯤 롯데백화점 외벽 전광판에 “나 한국 여자 다 강간할 거야”라는 문구가 등장했다. 같은 뜻의 ‘I’m going to rape every women in Korea‘라는 영어 문장도 함께 노출됐다. 해당 전광판은 성탄절 및 연말 맞이 이벤트로, 전광판 앞 QR코</content:encoded>
+    </item>
+    <item>
+      <title>터치포굿-신세계면세점, 친환경 핫팩 전국 18곳 복지시설에 전달</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242465</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242465</guid>
+      <pubDate>2023-11-16T18:05:10.000Z</pubDate>
+      <content:encoded>업사이클 전문 사회적기업 ‘터치포굿’과 신세계면세점 임직원 봉사단이 겨울철을 앞두고 난방비 부담으로 어려움을 겪는 이웃을 위해 전기 없이 사용가능한 반영구 친환경 핫팩을 제작했다.터치포굿과 신세계면세점 봉사단은 함께 에너지 소외계층을 위해 친환경 핫팩을 제작해 16일 전국 18곳의 기관에 전달했다고 밝혔다.이번 활동을 위해 터치포굿과 신세계면세점은 전 직원이 참여해 친환경 핫팩 500개를 손수 제작했다. 제작된 친환경 핫팩은 따뜻한 물을 주머니에 담아 쓰는 형태로, 반영구적인 사용이 가능하며 화상방지용 커버가 함께 전달됐다.양사는</content:encoded>
+    </item>
+    <item>
+      <title>터치포굿-신세계면세점, 친환경 핫팩 전국 18곳 복지시설에 전달</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242465</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242465</guid>
+      <pubDate>2023-11-16T18:05:10.000Z</pubDate>
+      <content:encoded>업사이클 전문 사회적기업 ‘터치포굿’과 신세계면세점 임직원 봉사단이 겨울철을 앞두고 난방비 부담으로 어려움을 겪는 이웃을 위해 전기 없이 사용가능한 반영구 친환경 핫팩을 제작했다.터치포굿과 신세계면세점 봉사단은 함께 에너지 소외계층을 위해 친환경 핫팩을 제작해 16일 전국 18곳의 기관에 전달했다고 밝혔다.이번 활동을 위해 터치포굿과 신세계면세점은 전 직원이 참여해 친환경 핫팩 500개를 손수 제작했다. 제작된 친환경 핫팩은 따뜻한 물을 주머니에 담아 쓰는 형태로, 반영구적인 사용이 가능하며 화상방지용 커버가 함께 전달됐다.양사는</content:encoded>
+    </item>
+    <item>
+      <title>김주영 하이브 CHRO, 후배 여성들에게 “문제 회피말고 주변에 도움 청하라” 조언</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242462</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242462</guid>
+      <pubDate>2023-11-16T18:07:17.000Z</pubDate>
+      <content:encoded>기업 여성 임원으로 구성된 사단법인 WIN(Women in INnovation)이 주관하는 ‘제29회 차세대 여성리더 컨퍼런스’가 지난 15일 서울 서초구 JW 메리어트 호텔에서 열렸다.이번 컨퍼런스에서는 ‘나는 함께 일하고 싶은 동료인가?’라는 질문을 전제로 주제 ‘성장과 성숙의 사이’에 대한 논의가 오갔다. 또한 각 업계와 기업에서 여성리더로 자리잡고 있는 멘토 34명과 멘티 240명이 참석해 열성적으로 토의에 참여했다.서지희 WIN 회장의 오프닝으로 컨퍼런스가 시작된 가운데 김주영 하이브(HYBE) CHRO, 이미연 한국투자신</content:encoded>
+    </item>
+    <item>
+      <title>김주영 하이브 CHRO, 후배 여성들에게 “문제 회피말고 주변에 도움 청하라” 조언</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242462</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242462</guid>
+      <pubDate>2023-11-16T18:07:17.000Z</pubDate>
+      <content:encoded>기업 여성 임원으로 구성된 사단법인 WIN(Women in INnovation)이 주관하는 ‘제29회 차세대 여성리더 컨퍼런스’가 지난 15일 서울 서초구 JW 메리어트 호텔에서 열렸다.이번 컨퍼런스에서는 ‘나는 함께 일하고 싶은 동료인가?’라는 질문을 전제로 주제 ‘성장과 성숙의 사이’에 대한 논의가 오갔다. 또한 각 업계와 기업에서 여성리더로 자리잡고 있는 멘토 34명과 멘티 240명이 참석해 열성적으로 토의에 참여했다.서지희 WIN 회장의 오프닝으로 컨퍼런스가 시작된 가운데 김주영 하이브(HYBE) CHRO, 이미연 한국투자신</content:encoded>
+    </item>
+    <item>
+      <title>&quot;업무 유사하면 임금 같아야&quot;… 단기직 차별한 업체 ‘27억’ 철퇴</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242461</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242461</guid>
+      <pubDate>2023-11-16T18:07:41.000Z</pubDate>
+      <content:encoded>시간제 근로자와 통상 근로자가 실질적으로 유사한 업무를 수행하고 있다면 수당을 포함한 임금을 차별 없이 지급해야 한다는 법원 판단이 나왔다.16일 법조계에 따르면 수원지법 민사17부(부장판사 맹준영)는 최근 기아자동차 화성·광주·광명 공장 구내식당에서 시간제 근로자로 일한 조리원 보조 67명이 구내식당 위탁 운영업체를 상대로 제기한 손해배상 소송에서 원고 승소 판결을 했다.위탁 업체가 조리원 보조에게 27억원 상당의 미지급 임금을 지급하라고 명령한 것이다.앞서 조리원 보조원들은 &quot;주된 업무 차이가 없음에도 업체가 통상 근로자인 조리</content:encoded>
+    </item>
+    <item>
+      <title>&quot;업무 유사하면 임금 같아야&quot;… 단기직 차별한 업체 ‘27억’ 철퇴</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242461</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242461</guid>
+      <pubDate>2023-11-16T18:07:41.000Z</pubDate>
+      <content:encoded>시간제 근로자와 통상 근로자가 실질적으로 유사한 업무를 수행하고 있다면 수당을 포함한 임금을 차별 없이 지급해야 한다는 법원 판단이 나왔다.16일 법조계에 따르면 수원지법 민사17부(부장판사 맹준영)는 최근 기아자동차 화성·광주·광명 공장 구내식당에서 시간제 근로자로 일한 조리원 보조 67명이 구내식당 위탁 운영업체를 상대로 제기한 손해배상 소송에서 원고 승소 판결을 했다.위탁 업체가 조리원 보조에게 27억원 상당의 미지급 임금을 지급하라고 명령한 것이다.앞서 조리원 보조원들은 &quot;주된 업무 차이가 없음에도 업체가 통상 근로자인 조리</content:encoded>
+    </item>
+    <item>
+      <title>AI로 만든 마법과 거짓말...아트센터 나비 특별기획전 ‘생성세대’</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242457</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242457</guid>
+      <pubDate>2023-11-16T22:51:01.000Z</pubDate>
+      <content:encoded>챗GPT를 쓸수록 놀란다. 데이터 정리·분석 능력이 소름 돋을 정도다. 그래서 인공지능(AI)이 그럴싸한 거짓말도 잘한다는 걸 종종 잊는다. 민세희 작가는 이 점에 주목했다. 생성형 AI와의 채팅에서 출발한 미디어아트 작업 ‘데이터 추론’은 태양에서 바라본 다른 행성들과 브라질 BR-101 고속도로의 교통 사고 사진을 보여준다. 이 사진들은 진짜일까?이번엔 화이트큐브 미술관에 분홍 액체가 밀려든다. 물에 반쯤 잠긴 사람들이 서로 얼싸안거나 탄성을 지르고 있다. 김민영 작가의 ‘분홍 홍수’는 진짜 같지만 AI로 만든 이미지다. 작가는</content:encoded>
+    </item>
+    <item>
+      <title>‘학폭 의혹’ 서예지, 광고료 일부 반환...손배 책임은 없어</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242470</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242470</guid>
+      <pubDate>2023-11-16T23:24:42.000Z</pubDate>
+      <content:encoded>옛 연인 가스라이팅·학교폭력 등 의혹 속 광고 계약을 해지당한 배우 서예지가 광고주에게 손해배상까지 할 책임은 없다는 법원 판단이 나왔다. 서예지 측은 학교폭력 의혹은 사실이 아니라고 재차 강조했다.소속사 골드메달리스트는 16일 공식 입장문을 내고 “지난 10일 (광고주인) 유한건강생활과의 소송에서 서예지 배우에 대해 제기된 학교폭력 등 의혹은 사실로 밝혀지지 않은 일방적 의혹임을 확인받았다”라고 밝혔다.또 “의혹의 제기 자체로 인해 광고주의 신뢰가 깨졌다는 이유로 약정에 따른 모델료 일부 반환을 인용받았을 뿐”이라며 “이러한 내용</content:encoded>
+    </item>
+    <item>
+      <title>청주시향 첫 여성 상임지휘자...김경희 숙명여대 교수</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242468</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242468</guid>
+      <pubDate>2023-11-16T23:38:00.000Z</pubDate>
+      <content:encoded>김경희(64) 숙명여대 교수가 충북 청주시립교향악단 제11대 예술감독 겸 상임지휘자로 위촉됐다. 청주시향 최초의 여성 상임지휘자다.김 신임 상임지휘자는 숙명여대 작곡과를 졸업하고 독일 베를린 국립예술대학에 아시아 여성 최초로 입학해 지휘를 전공했다. 과천시립교향악단과 전주시립교향악단에서 지휘봉을 잡았고, 한국지휘자협회장, 숙명여대 학장을 지냈다. 현재 숙명여대 관현악과 교수로 재직 중이다. 김 신임 상임지휘자는 오는 12월21일 청주예술의전당 대공연장에서 취임 기념 음악회를 열고 시민과 만난다. 임기는 2년이다.</content:encoded>
+    </item>
+    <item>
+      <title>국제유가, 수요 둔화 우려에 5% 급락...WTI, 배럴당 73달러</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242473</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242473</guid>
+      <pubDate>2023-11-17T07:02:06.000Z</pubDate>
+      <content:encoded>국제유가가 세계 경기침체에 따른 수요 둔화 우려로 5% 가까이 떨어졌다.16일(현지시각) 뉴욕상업거래소에서 12월 인도분 서부텍사스산원유(WTI)는 배럴당 72.90달러로 전날보다 3.76달러(4.9%) 하락했다.런던 ICE선물거래소에서 12월 인도분 브렌트유도 전 거래일보다 3.76달러(4.6%) 내린 배럴당 77.42달러로 거래를 마쳤다. 모두 7월 6일 이후 4개월 만에 가장 낮은 수준이다. 지난 9월말 기록했던 올해 최고치보다 22% 떨어졌다.재고증가와 세계 경기 둔화에 따른 수요 감소 우려로 사라지면서 급락했다.뉴욕증시는</content:encoded>
+    </item>
+    <item>
+      <title>국제유가, 수요 둔화 우려에 5% 급락...WTI, 배럴당 73달러</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242473</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242473</guid>
+      <pubDate>2023-11-17T07:02:06.000Z</pubDate>
+      <content:encoded>국제유가가 세계 경기침체에 따른 수요 둔화 우려로 5% 가까이 떨어졌다.16일(현지시각) 뉴욕상업거래소에서 12월 인도분 서부텍사스산원유(WTI)는 배럴당 72.90달러로 전날보다 3.76달러(4.9%) 하락했다.런던 ICE선물거래소에서 12월 인도분 브렌트유도 전 거래일보다 3.76달러(4.6%) 내린 배럴당 77.42달러로 거래를 마쳤다. 모두 7월 6일 이후 4개월 만에 가장 낮은 수준이다. 지난 9월말 기록했던 올해 최고치보다 22% 떨어졌다.재고증가와 세계 경기 둔화에 따른 수요 감소 우려로 사라지면서 급락했다.뉴욕증시는</content:encoded>
+    </item>
+    <item>
+      <title>[날씨]수도권 등 첫눈...내륙 영하권 추위</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242474</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242474</guid>
+      <pubDate>2023-11-17T07:25:55.000Z</pubDate>
+      <content:encoded>17일 수도권을 비롯한 전국 곳곳에 첫눈이 내릴 것으로 보인다. 찬공기가 남하하면서 내륙지방을 중심으로 아침기온이 영하권으로 떨어졌다.기상청은 이날 전국이 흐리고 비나 눈이 내리겠다고 예보했다. 제주도 산지에는 대설주의보가 내려졌다.기상청은 일부 지역에는 강풍과 함께 천둥, 번개가 칠 것으로 예상된다며 시설물 관리에 유의할 것을 당부했다.이날 예상 적설량은 1~5cm, 예상 강우량은 제주도 10~40mm, 그 밖의 지역은 5~20mm 이다.이날 아침 기온은 △서울 0.7도 △춘천 -0.7도 △대전 1.0도 △대구 6.1도 △전주 4</content:encoded>
+    </item>
+    <item>
+      <title>[날씨]수도권 등 첫눈...내륙 영하권 추위</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242474</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242474</guid>
+      <pubDate>2023-11-17T07:25:55.000Z</pubDate>
+      <content:encoded>17일 수도권을 비롯한 전국 곳곳에 첫눈이 내릴 것으로 보인다. 찬공기가 남하하면서 내륙지방을 중심으로 아침기온이 영하권으로 떨어졌다.기상청은 이날 전국이 흐리고 비나 눈이 내리겠다고 예보했다. 제주도 산지에는 대설주의보가 내려졌다.기상청은 일부 지역에는 강풍과 함께 천둥, 번개가 칠 것으로 예상된다며 시설물 관리에 유의할 것을 당부했다.이날 예상 적설량은 1~5cm, 예상 강우량은 제주도 10~40mm, 그 밖의 지역은 5~20mm 이다.이날 아침 기온은 △서울 0.7도 △춘천 -0.7도 △대전 1.0도 △대구 6.1도 △전주 4</content:encoded>
+    </item>
+    <item>
+      <title>초고난도 문항 배제에도 국어·수학 불수능... N수생 강세 예상</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242475</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242475</guid>
+      <pubDate>2023-11-17T07:46:00.000Z</pubDate>
+      <content:encoded>교육당국이 2024학년도 대학수학능력시험(수능)에서 초고난도 문항 이른바 킬러문항을 없애겠다고 밝혔으나 국어와 수학의 표준점수가 크게 오를 것으로 전망됐다.국어는 원점수 최소 83점, 수학은 최소 81점을 맞아야 1등급이 될 것으로 예상됐다.최고 표준점수 예측치는 지난해 수능보다 모두 상승해 매우 어려웠던 2022학년도 수준에 근접했다.EBSi 가채점 결과 1등급 예상 점수는 국어는 선택과목 &apos;화법과 작문&apos; 87점, &apos;언어와 매체&apos; 85점으로 나타났다. 수학은 &apos;미적분&apos; 84점을 시작으로</content:encoded>
+    </item>
+    <item>
+      <title>초고난도 문항 배제에도 국어·수학 불수능... N수생 강세 예상</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242475</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242475</guid>
+      <pubDate>2023-11-17T07:46:00.000Z</pubDate>
+      <content:encoded>교육당국이 2024학년도 대학수학능력시험(수능)에서 초고난도 문항 이른바 킬러문항을 없애겠다고 밝혔으나 국어와 수학의 표준점수가 크게 오를 것으로 전망됐다.국어는 원점수 최소 83점, 수학은 최소 81점을 맞아야 1등급이 될 것으로 예상됐다.최고 표준점수 예측치는 지난해 수능보다 모두 상승해 매우 어려웠던 2022학년도 수준에 근접했다.EBSi 가채점 결과 1등급 예상 점수는 국어는 선택과목 &apos;화법과 작문&apos; 87점, &apos;언어와 매체&apos; 85점으로 나타났다. 수학은 &apos;미적분&apos; 84점을 시작으로</content:encoded>
+    </item>
+    <item>
+      <title>이스라엘군 “알시파병원에서 하마스 땅굴 입구 발견”</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242476</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242476</guid>
+      <pubDate>2023-11-17T08:08:07.000Z</pubDate>
+      <content:encoded>이스라엘군이 하마스 사령부와 무기고가 있다고 주장해온 가자지구 알시파병원 경내에서 하마스의 땅굴 입구를 찾아냈다고 16일(현지시각) 밝혔다.이스라엘군은 알시파 병원의 건물과 건물 사이에서 땅굴 입구를 찾아냈다며 영상을 공개했다. 또 이 입구 근처에서 다량의 무기가 실려 있는 하마스의 픽업 트럭도 찾아냈다고 주장했다.이스라엘군은 하마스가 알시파 병원 지하에 작전 본부를 차려 놓고 환자와 의료진 등을 인간 방패로 활용해 왔다고 주장해 왔다. 또 하마스가 지난달 7일 이스라엘 기습 공격 당시 납치한 인질을 이곳에 억류하고 있을 것으로 추</content:encoded>
+    </item>
+    <item>
+      <title>이스라엘군 “알시파병원에서 하마스 땅굴 입구 발견”</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242476</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242476</guid>
+      <pubDate>2023-11-17T08:08:07.000Z</pubDate>
+      <content:encoded>이스라엘군이 하마스 사령부와 무기고가 있다고 주장해온 가자지구 알시파병원 경내에서 하마스의 땅굴 입구를 찾아냈다고 16일(현지시각) 밝혔다.이스라엘군은 알시파 병원의 건물과 건물 사이에서 땅굴 입구를 찾아냈다며 영상을 공개했다. 또 이 입구 근처에서 다량의 무기가 실려 있는 하마스의 픽업 트럭도 찾아냈다고 주장했다.이스라엘군은 하마스가 알시파 병원 지하에 작전 본부를 차려 놓고 환자와 의료진 등을 인간 방패로 활용해 왔다고 주장해 왔다. 또 하마스가 지난달 7일 이스라엘 기습 공격 당시 납치한 인질을 이곳에 억류하고 있을 것으로 추</content:encoded>
+    </item>
+    <item>
+      <title>러시아 매체 &quot;한국인, 러시아군 자원 입대…돈바스 투입됐다&quot;</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242477</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242477</guid>
+      <pubDate>2023-11-17T08:27:56.000Z</pubDate>
+      <content:encoded>한국의 한 청년이 러시아군에 자원입대해 실전에 투입됐다고 러시아 매체가 보도했다.텔레그램, 엑스(X·트위터) 등 소셜미디어에는 최근 러시아 &apos;특별군사작전&apos;에 참가하기 위해 한국에서 왔다는 젊은 남성의 인터뷰 영상이 올라왔다.러시아 매체 &apos;AIF&apos;(논쟁과 사실)가 지난 14일(현지시각)공개한 영상에서 이 남성은 서울을 떠나 돈바스에 도착, 도네츠크 제1군단 소속 국제여단 &apos;퍄트나슈카&apos;에 합류했다고 말했다.영상 속 청년은 방한용품으로 코와 입을 가린 채 영어로 인터뷰에 응했다.푸틴 러시아 대통</content:encoded>
+    </item>
+    <item>
+      <title>러시아 매체 &quot;한국인, 러시아군 자원 입대…돈바스 투입됐다&quot;</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242477</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242477</guid>
+      <pubDate>2023-11-17T08:27:56.000Z</pubDate>
+      <content:encoded>한국의 한 청년이 러시아군에 자원입대해 실전에 투입됐다고 러시아 매체가 보도했다.텔레그램, 엑스(X·트위터) 등 소셜미디어에는 최근 러시아 &apos;특별군사작전&apos;에 참가하기 위해 한국에서 왔다는 젊은 남성의 인터뷰 영상이 올라왔다.러시아 매체 &apos;AIF&apos;(논쟁과 사실)가 지난 14일(현지시각)공개한 영상에서 이 남성은 서울을 떠나 돈바스에 도착, 도네츠크 제1군단 소속 국제여단 &apos;퍄트나슈카&apos;에 합류했다고 말했다.영상 속 청년은 방한용품으로 코와 입을 가린 채 영어로 인터뷰에 응했다.푸틴 러시아 대통</content:encoded>
+    </item>
+    <item>
+      <title>[쉬운 우리말 쓰기] “ ~인 것 같아요”가 너무 많다</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242347</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242347</guid>
+      <pubDate>2023-11-17T08:40:00.000Z</pubDate>
+      <content:encoded>지난 10월, 중국 항저우에서 제19회 아시안게임이 열리는 동안 우리는 많은 대표선수들이 자랑스러운 금메달을 목에 걸고 인터뷰하는 장면을 보며 박수를 보내고 자랑스러워하면서도 불편함을 감출 수가 없었다.“모든 분들에게 감사해서 눈물이 났던 것 같아요. 너무 행복해서 울었던 것 같아요. ~행운이 따르지 않았나 싶었던 것 같아요.” (A선수)“끝까지 완주하려고 노력했던 것 같구요. ~ 인상에 남는 경기였던 것 같고 벅차고 기뻤던 순간이었었던 것 같습니다. ~이길려고 노력했던 것 같고요.” (B선수)“오버페이스 부분이 나왔던 것 같아요.</content:encoded>
+    </item>
+    <item>
+      <title>[쉬운 우리말 쓰기] “ ~인 것 같아요”가 너무 많다</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242347</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242347</guid>
+      <pubDate>2023-11-17T08:40:00.000Z</pubDate>
+      <content:encoded>지난 10월, 중국 항저우에서 제19회 아시안게임이 열리는 동안 우리는 많은 대표선수들이 자랑스러운 금메달을 목에 걸고 인터뷰하는 장면을 보며 박수를 보내고 자랑스러워하면서도 불편함을 감출 수가 없었다.“모든 분들에게 감사해서 눈물이 났던 것 같아요. 너무 행복해서 울었던 것 같아요. ~행운이 따르지 않았나 싶었던 것 같아요.” (A선수)“끝까지 완주하려고 노력했던 것 같구요. ~ 인상에 남는 경기였던 것 같고 벅차고 기뻤던 순간이었었던 것 같습니다. ~이길려고 노력했던 것 같고요.” (B선수)“오버페이스 부분이 나왔던 것 같아요.</content:encoded>
+    </item>
+    <item>
+      <title>문혜숙 KB금융지주 본부 상무 “지속가능경영보고서 정량 평가해야”</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242460</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242460</guid>
+      <pubDate>2023-11-17T09:07:58.000Z</pubDate>
+      <content:encoded>기업이 지속가능경영보고서를 발간할 때 보다 정량적으로 평가해야 한다는 제언이 나왔다.유엔글로벌콤팩트 한국협회(이하 UNGC)는 ‘코리아 리더스 서밋 2023(Korea Leaders Summit 2023)’을 16일일 그랜드 하얏트 서울에서 개최했다.첫 번째 특별 세션에서는 ‘ESG 공시와 기업 대응’을 주제로, 국제사회에서 강화되고 있는 지속가능성 공시기준에 대한 이해를 높이기 위해 한승수 고려대 교수를 좌장으로 백태영 IFRS재단 국제지속가능성기준 위원이 기존 ESG 보고 체계와 ISSB 기준의 상호운용성과 상호보완성을 설명했다</content:encoded>
+    </item>
+    <item>
+      <title>문혜숙 KB금융지주 본부 상무 “지속가능경영보고서 정량 평가해야”</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242460</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242460</guid>
+      <pubDate>2023-11-17T09:07:58.000Z</pubDate>
+      <content:encoded>기업이 지속가능경영보고서를 발간할 때 보다 정량적으로 평가해야 한다는 제언이 나왔다.유엔글로벌콤팩트 한국협회(이하 UNGC)는 ‘코리아 리더스 서밋 2023(Korea Leaders Summit 2023)’을 16일일 그랜드 하얏트 서울에서 개최했다.첫 번째 특별 세션에서는 ‘ESG 공시와 기업 대응’을 주제로, 국제사회에서 강화되고 있는 지속가능성 공시기준에 대한 이해를 높이기 위해 한승수 고려대 교수를 좌장으로 백태영 IFRS재단 국제지속가능성기준 위원이 기존 ESG 보고 체계와 ISSB 기준의 상호운용성과 상호보완성을 설명했다</content:encoded>
+    </item>
+    <item>
+      <title>한국농수산식품유통공사, 주한 대사들과 ‘글로벌 김치의 날’ 선포</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242478</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242478</guid>
+      <pubDate>2023-11-17T09:32:00.000Z</pubDate>
+      <content:encoded>한국농수산식품유통공사(사장 김춘진)는 지난 16일 서울 aT센터에서 주요국 주한 대사들과 BKF(Buy Korean Food) 참여 빅바이어, 김치 유관기관 등과 함께 김치 세계화를 위한 ‘글로벌 김치의 날(Global ‘Kimchi day’)’ 선포식을 개최했다.이 행사에서 김춘진 사장은 영국, 미국, 일본, 베트남, 대만 등 9개국에서 온 K-푸드 바이어 등 12명을 글로벌 김치 홍보대사로 위촉하고, 바이어 대표인 베트남 센트럴리테일의 레 티 응옥 안과 대한민국김치협회 이하연 회장은 김치의 우수성과 가치를 전 세계에 알리고 ‘김</content:encoded>
+    </item>
+    <item>
+      <title>한국농수산식품유통공사, 주한 대사들과 ‘글로벌 김치의 날’ 선포</title>
+      <link>http://www.womennews.co.kr/news/articleView.html?idxno=242478</link>
+      <guid>http://www.womennews.co.kr/news/articleView.html?idxno=242478</guid>
+      <pubDate>2023-11-17T09:32:00.000Z</pubDate>
+      <content:encoded>한국농수산식품유통공사(사장 김춘진)는 지난 16일 서울 aT센터에서 주요국 주한 대사들과 BKF(Buy Korean Food) 참여 빅바이어, 김치 유관기관 등과 함께 김치 세계화를 위한 ‘글로벌 김치의 날(Global ‘Kimchi day’)’ 선포식을 개최했다.이 행사에서 김춘진 사장은 영국, 미국, 일본, 베트남, 대만 등 9개국에서 온 K-푸드 바이어 등 12명을 글로벌 김치 홍보대사로 위촉하고, 바이어 대표인 베트남 센트럴리테일의 레 티 응옥 안과 대한민국김치협회 이하연 회장은 김치의 우수성과 가치를 전 세계에 알리고 ‘김</content:encoded>
     </item>
   </channel>
 </rss>
