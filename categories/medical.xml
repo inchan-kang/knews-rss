@@ -3,266 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2023-12-21T00:10:37.044Z</lastBuildDate>
-    <item>
-      <title>과기정통부, 5G 이동통신 28㎓ 주파수 할당 신청 마감…총 세 곳 지원</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122699559/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122699559/1</guid>
-      <pubDate>2023-12-19T19:17:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122699558.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;스테이지엑스와 세종텔레콤, 마이모바일컨소시엄 등 3개 법인이 제4 이동통신사에 도전장을 냈다.과학기술정보통신부는 5세대(5G) 이동통신 28기가헤르츠(㎓) 신규 사업자 주파수 할당 신청 접수를 19일 오후 6시 마감한 결과 총 3개 법인이 전국단위로 주파수할당을 신청했다고 밝혔다. 스테이지파이브는 주요 기업들과 컨소시엄을 통해 신규법인 ‘스테이지엑스(가칭)’를 설립하는 방식으로 신청했다. 스테이지엑스는 “신규사업자로서 국내 통신시장 경쟁활성화의 포문을 열겠다”며 “서비스, 요금, 품질 등 다각적인 방면에서의 경쟁 촉진을 통해 가계통신비 부담 완화 및 국민 편익 제고에 기여하겠다”고 했다. 앞서 탈락한 경험이 있는 세종텔레콤은 재도전에 나선다. 세종텔레콤은 HD한국조선해양의 조선소에  28㎓ 대역을 활용한 5G 특화망 사업을 진행한 경험을 바탕으로 기업간거래(B2B) 사업에 초점을 맞춘다는 계획이다. 미래모바일은 ‘마이모바일’이라는 이름으로 컨소시엄을 꾸려 신청서를 제출했다.</content:encoded>
-    </item>
-    <item>
-      <title>공공망분리 규제 완화 분위기, 주목 키워드는 ‘DaaS’</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122700756/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122700756/1</guid>
-      <pubDate>2023-12-19T21:16:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122700748.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국제연합(이하 유엔)이 작년 9월에 발표한 보고서에 따르면 한국은 유엔 193개 회원국 중 전자정부 분야에서 3위를 차지하고 있다. 그만큼 행정기관 및 공공기관의 업무에 정보통신 기술을 적극적으로 활용하고 있다는 의미다.    다만, 공공업무의 디지털화가 업무 효율 및 편의성을 크게 향상시키는 것은 사실이지만 해킹에 따른 보안위기의 우려 또한 커지는 것이 사실이다. 이에 대응하기 위한 방법으로 공공기관의 내부 업무망과 외부망(인터넷 등)을 엄격하게 분리해 운용하는 ‘망분리’ 정책이 핵심이다.  국내 망분리 정책은 2006년, 중앙 정부에 ‘물리적 망분리’를 도입하는 것에서부터 시작한다. 당시 정부가 디도스 등 사이버 공격을 수차례 받으며 보안 향상에 대한 필요성이 대두됐기 때문이다. 이후 망분리 정책은 지자체, 공공기관을 거쳐 민간 부문까지 확산됐다.  물리적 망분리 방식은 PC 등의 하드웨어를 업무용과 외부 인터넷용으로 분리하여 사용하는 형태다. 물리적 망분리 방식 도입 시 사용자는 2대의 PC로 업무</content:encoded>
-    </item>
-    <item>
-      <title>네이버-카카오 ‘공룡 플랫폼’ 규제법 만든다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20231220/122701789/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20231220/122701789/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122703071.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;앞으로 네이버, 카카오 같은 거대 플랫폼 기업을 일종의 ‘플랫폼 재벌’로 미리 지정해 관리한다. 이들은 자사 상품 또는 서비스를 우대하거나 경쟁 플랫폼을 방해하는 등의 ‘갑질’이 금지된다. 시장을 선점한 플랫폼 기업들의 반칙과 그로 인한 소상공인, 소비자의 피해를 막겠다는 취지다. 공정거래위원회는 19일 이 같은 내용이 담긴 ‘플랫폼 공정 경쟁촉진법’(가칭) 제정을 추진한다고 밝혔다. 이 법은 시장을 좌우할 정도로 몸집이 큰 소수의 플랫폼 기업을 ‘지배적 플랫폼 사업자’로 사전에 지정해 감시를 강화하는 것이 핵심이다. 지배적 플랫폼 사업자가 되면 자사 상품을 경쟁 사업자의 상품보다 우대하거나 다른 서비스와 함께 거래하도록 강제하는 행위 등이 금지된다. 공정위는 이를 어긴 기업엔 현행법보다 더욱 센 제재를 부과하는 방안을 검토 중이다. 지배적 플랫폼 사업자는 매출액과 이용자 수, 시장점유율 등을 종합적으로 고려해 서비스별로 지정할 방침이다. 구체적인 지정 기준과 금지되는 행위는 관계</content:encoded>
-    </item>
-    <item>
-      <title>국회 ‘온플법’ 속도… 野 “가맹점 향한 갑질도 규제를”</title>
-      <link>https://www.donga.com/news/Politics/article/all/20231219/122701506/1</link>
-      <guid>https://www.donga.com/news/Politics/article/all/20231219/122701506/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122702289.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부가 19일 네이버, 카카오 등 거대 플랫폼을 겨냥한 독과점 규제 정책을 추진하기로 하면서 국회에 계류 중인 온라인 플랫폼 관련 법안(온플법) 논의에도 속도가 붙을 것으로 전망된다. 국민의힘은 해당 내용을 정부와 조율을 거쳐 의원 입법으로 추진하겠다는 방침이다. 다만 더불어민주당은 정부안에 더해 플랫폼과 입점 업체 간 갑을 관계도 함께 규제해야 한다는 입장이라 추후 협상에서 이견 조율이 필요한 상황이다. 민주당 박주민 원내수석부대표는 이날 여야 원내수석부대표와 정책위의장이 참여하는 ‘2+2 협의체’ 회의에 앞서 기자들과 만나 “윤석열 대통령과 공정거래위원회가 (온라인 플랫폼 독점) 규제가 필요하다고 천명한 것을 환영한다”라면서도 “배달 패션 의류 숙박 등 각 영역에서 독점적 지위를 가진 앱까지 포함해 과다 수수료 문제, 불투명한 상품 랭킹 기준 등을 투명화하는, 즉 거래를 공정하게 만드는 포괄적인 온플법 논의를 했으면 좋겠다”고 말했다. 이날 정부가 발표한 플랫폼의 독과점 남용 행</content:encoded>
-    </item>
-    <item>
-      <title>소상공인 “수수료 불공정, 플랫폼 규제 환영”… IT 업계 “정부 자율규제 기조 역행… 당혹”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20231219/122701500/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20231219/122701500/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122702281.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“신용카드 수수료는 최대 2.07%인데 플랫폼 모바일 상품권 수수료는 5∼10%에 이르는 데다 최종 정산까지 60일 가까이 걸립니다.” 이중선 전국가맹점주협의회 사무국장은 19일 본보와의 통화에서 카카오 등 온라인 플랫폼 기업의 모바일 상품권 수수료 문제를 이같이 지적했다. 이 국장은 “수수료 수익은 시장을 독과점하는 플랫폼 기업과 상품권 발행사, 가맹본부 등이 나눠 갖는데 정확히 어떤 비율과 절차로 나누는지도 투명하게 알려주지 않는다”며 “정부가 이러한 문제를 바로잡아야 한다”고 말했다. 그는 공정거래위원회의 플랫폼 규제 움직임에 대해서도 적극 찬성했다. 소상공인과 시민단체들은 대체로 공정위의 플랫폼 기업 규제 입법화 움직임에 대해 긍정적인 반응을 보였다. 참여연대는 성명을 통해 “정부가 늦게나마 플랫폼 규제를 위한 법 제정에 나서겠다고 밝힌 점은 그나마 다행스러운 일”이라면서 “21대 국회에서 시급하게 처리해야 한다”고 주장했다. 전국가맹점주협의회와 참여연대 등 88개 단체는 앞</content:encoded>
-    </item>
-    <item>
-      <title>[단독]“롤스로이스男 사고에 가족 삶 무너져… 마약류 처방 남발 없어야”</title>
-      <link>https://www.donga.com/news/Society/article/all/20231219/122701385/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20231219/122701385/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122703476.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“갑자기 이렇게 가버리면 어떡하니….” 17일 오후 3시, 경북 성주군의 한 봉안당.  배진환 씨(31)는 여동생 유골함과 사진 앞에서 걸음을 멈추더니 참았던 눈물을 쏟아냈다. 한참 오열하던 배 씨는 “지금이라도 동생이 웃는 모습으로 나타날 것만 같다”며 “오빠로서 제대로 해준 것도 없는 만큼, 이제 할 일은 피의자가 제대로 된 처벌을 받을 때까지 지켜보는 것”이라고 다짐했다. 성인 손바닥 크기의 유골함에 잠든 배 씨의 여동생(27)은 올 8월 2일 오후 8시 10분경 퇴근길에 서울 강남구 압구정동 인도를 걷다가 갑자기 돌진한 롤스로이스 차량에 치여 뇌사 상태에 빠졌다가 지난달 25일 사망했다.● 한순간에 일상 무너진 가족들 배 씨는 고인을 ‘세상에서 가장 성실하고 착한 동생’으로 기억했다. 대학 시절 늘 아르바이트를 하며 돈을 모았고, 서울에 취직해 올라올 때도 부모님이나 오빠에게 손을 벌리지 않고 모은 돈으로 자취방을 얻었다. 생일, 결혼기념일 등이 돌아오면 부모님이나 오빠 선물</content:encoded>
-    </item>
-    <item>
-      <title>한파특보에 바다도 꽁꽁… 오늘 충청-전라 폭설 예상</title>
-      <link>https://www.donga.com/news/Society/article/all/20231219/122701366/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20231219/122701366/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122701895.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;19일 인천 강화군 분오리항의 바닷물이 얼어붙으면서 정박한 고깃배들이 꼼짝 못 하고 갇혔다. 이날 전국 최저기온이 영하 12도까지 내려가고 중부지방 일부에는 한파 특보가 발령됐다. 기상청은 19일 오후 중부지방을 시작으로 20일 충청, 전라 등에 많은 눈이 내릴 것으로 내다봤다.</content:encoded>
-    </item>
-    <item>
-      <title>초강력 한파 예고에 방한용품 인기</title>
-      <link>https://www.donga.com/news/Economy/article/all/20231219/122701275/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20231219/122701275/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122697547.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;19일 오후 서울 시내 한 대형마트에서 소비자가 핫팩을 살펴보고 있다. 영하 10도를 넘나드는 강추위가 이어지는 가운데 핫팩, 담요 등 방한용품의 수요가 늘어나고 있다.</content:encoded>
-    </item>
-    <item>
-      <title>삼성전자, 로봇-XR용 차세대 이미지센서 2종 공개</title>
-      <link>https://www.donga.com/news/Economy/article/all/20231219/122701256/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20231219/122701256/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122697473.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자는 19일 모바일, 로봇, 확장현실(XR) 등 첨단 콘텐츠 플랫폼을 위한 이미지센서 ‘아이소셀 비전(ISOCELL Vizion)’의 차세대 제품 2종을 공개했다.  ‘아이소셀 비전 63D’(사진)는 빛의 파장을 감지해 사물의 3차원(3D) 입체 정보를 측정하는 간접 비행시간측정센서(iToF)다. ToF란 박쥐, 돌고래처럼 음파를 통해 주변 및 사물의 입체 정보를 측정하는 기술이다. iToF는 고해상도·고정밀 요구 분야에 특화된 ToF 센서다. 아이소셀 비전 63D에는 업계 최초로 이미지 신호 처리장치(ISP)가 탑재돼 자체적으로 뎁스맵(Depth map) 측정이 가능하다. 뎁스맵은 영상 촬영장치로부터 가깝고 먼 정도를 나타낸 3D 정보다.  ‘아이소셀 비전 931’은 사람의 눈처럼 모든 픽셀을 동시에 빛에 노출해 촬영하는 글로벌 셔터 방식의 이미지센서다. 움직이는 피사체를 왜곡 없이 촬영해야 하는 분야에 최적화됐다. 일반적인 이미지센서는 픽셀을 순차적으로 빛에 노출시켜 촬영한</content:encoded>
-    </item>
-    <item>
-      <title>기능성 음식 시대 열린다… ‘웰니스’ 열풍 타고 시장 커져</title>
-      <link>https://www.donga.com/news/Economy/article/all/20231219/122701072/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20231219/122701072/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122697292.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;심장에 좋은 차, 숙면에 좋은 차, 소화에 좋은 차, 목에 좋은 차…. 지난달 한 식품 전시회에서 폴란드 차 브랜드의 전시관(부스)을 방문하게 되었는데, 순간 약국에 온 듯한 느낌을 받았다. 관계자들은 차의 맛을 설명해 주는 게 아니라 잠은 잘 자는지, 소화는 잘되는지, 내 몸의 불편한 곳을 물어보고 처방을 내려주는 방식으로 차를 권했다. 신선한 방식의 접근인 데다, 몸에 좋다고 하니 왠지 모르게 꼭 그 차를 사야겠다는 생각이 들었던 경험이 있다. 건강에 대한 관심이 많은 시대다. 2000년대 참살이(웰빙) 열풍, 여기에 신종 코로나바이러스 감염증(코로나19) 대유행을 거치며 소비자들은 면역력 개선이나 숙면, 집중력 강화 같은 정신 건강뿐만 아니라 근무 환경 개선, 일과 삶의 균형(워라밸) 추구와 같은 사회적 건강까지 챙기기 시작했다. 특히 최근에는 ‘웰니스’라는 말을 많이 쓴다. 웰빙이라는 말이 ‘몸의 건강’에 집중돼 있다면, 웰니스는 신체적, 정신적, 사회적 건강이 조화를 이루는</content:encoded>
-    </item>
-    <item>
-      <title>출범 앞둔 통합 셀트리온, 글로벌 빅파마로 도약</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122692262/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122692262/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122692218.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;셀트리온그룹이 이달 28일 셀트리온-셀트리온헬스케어 통합 법인 출범을 앞두고 있다. 통합 셀트리온은 한층 강화된 경쟁력으로 글로벌 시장 공략에 박차를 가하고 신성장 동력 확보에 집중할 계획이다. 후속 제품 확대로 명실상부한 글로벌 선두 바이오시밀러 브랜드로 자리매김하고 제품 차별화와 신약 개발에도 집중해 2030년 12조 원 매출을 달성, 글로벌 ‘빅파마’로 도약한다는 포부다. 셀트리온-셀트리온헬스케어의 합병은 셀트리온그룹이 국내외 주주 및 투자자들과 긴밀히 소통하고 셀트리온그룹의 미래가치가 시장에 잘 반영된 결과로 평가된다. 특히 셀트리온그룹은 지난 10월 23일 임시 주주총회에서 합병안을 가결, 11월 14일 예상에 비해 현저히 낮은 주식매수청구권 행사 금액으로 합병 리스크를 완전히 해소해 합병 당위성을 인정받았다. 28일 통합 법인 출범을 거쳐 내년 1월 12일 신주 상장까지 진행되면 합병의 모든 절차가 마무리된다. 셀트리온그룹은 합병이 완료되면 개발부터 판매까지 전체 사업 구</content:encoded>
-    </item>
-    <item>
-      <title>‘생물다양성 보전’ 등 친환경 경영 선도</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122692188/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122692188/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122692176.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;㈜보령(구 보령제약·대표 장두현)이 생물다양성 보전을 비롯해 ESG 경영을 실천하기 위해 다각적으로 노력하고 있다. 보령은 지난 13일 환경부 산하 국립공원공단(이사장 송형근)에 ‘바다제비 서식지 보호’를 위한 사업 지원비를 기부했다고 밝혔다. 이번 기부는 생물다양성 보전을 통해 ESG 경영을 실현하고자 기획했다. 전라남도 신안군 비금면에 있는 ‘칠발도’의 식생 구조를 개선해 바다제비를 보호할 계획이다. 국제적 보호종인 바다제비는 한국, 일본, 러시아, 중국의 무인도에 서식하는 조류다. 전체적으로 어두운 갈색을 띠고 있으며 꽁지가 제비 꽁지와 닮아 바다제비라 불린다. 천연기념물 제332호인 칠발도는 유네스코 생물권 보전지역이자 국립공원 지역으로 바다제비의 주요 번식지 중 하나다. 그러나 1990년대 초부터 쇠무릎이라는 식물이 칠발도에 자생하면서 문제가 되고 있다. 쇠무릎은 끈적이면서도 긴 줄과 같은 열매를 맺는데 여기에 바다제비가 걸려 빠져나오지 못하고 죽는 경우가 자주 발생하고 있</content:encoded>
-    </item>
-    <item>
-      <title>의약품 포트폴리오 확대해 국내 시장 선도</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122692149/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122692149/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682423.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;JW중외제약의 계열사인 JW신약은 클리닉 시장 전문 메이커로 자리매김한 제약사다. 국민의 삶의 질을 높이는 우수한 의약품을 생산 및 공급하며 피부과, 소아과, 이비인후과, 비뇨기과 등 전문 병의원을 대상으로 한 국내 클리닉 시장을 선도해 가고 있다. 더불어 JW중외제약과 공동 마케팅을 통해 오리지널 전문의약품인 이상지질혈증 치료제 리바로(성분명 피타바스타틴), 리바로젯(성분명 피타바스타틴+에제티미브) 등 리바로 패밀리와 당뇨병 치료제인 DPP4 억제제 가드렛(성분명 아나글립틴), 가드메트(성분명 아나글립틴+메트포르민) 등 가드렛 패밀리를 공급하는 등 내과 시장까지 영역을 확대해 가고 있다. JW신약은 유전, 출산, 지루성피부염 등 탈모 발생 원인에 따라 처방 가능한 다양한 탈모 치료제 포트폴리오를 보유하고 있다. 특히 경구형 탈모 치료제로 피나스테리드를 주성분으로 한 ‘모나드 정’과 두타스테리드를 주성분으로 한 ‘네오다트 정’ 등 다양한 제품군을 보유하며 탈모 치료제 시장에서 입지를</content:encoded>
-    </item>
-    <item>
-      <title>“장건강 위해 유산균 찾고 있다면… 생존력 높은 ‘EPS 균주’ 확인하세요”</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122692106/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122692106/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682411.6.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;50대 B 씨는 돌아오지 않는 장 컨디션에 고생하고 있다. 과일, 채소 등 날음식이 문제일 수 있다는 말을 듣고 줄여보려 하지만 쉽지 않다. 자녀가 선물한 프로바이오틱스는 하루 한 번 꾸준히 섭취하고 있지만 이전과 별다른 차이를 느끼지 못한다. 프로바이오틱스는 장내 유익균을 늘리고 유해균을 억제해 건강한 장 환경을 만든다. 최근 몇 년 새 면역력의 70∼80%가 장에 달려 있다는 정보가 확산되면서 프로바이오틱스를 기본으로 섭취하는 사람들이 늘기도 했다. 하지만 정작 효과를 체감하는 경우는 많지 않다. 프로바이오틱스 브랜드가 난립하면서 자신에게 맞는 유산균을 고르기가 더 힘들어졌기 때문이다. 보통 프로바이오틱스 구매에 가장 큰 영향을 미치는 것은 보장 균수다. 식약처 기준 프로바이오틱스의 1일 최대 함량은 100억 CFU(제품 1g당 유산균을 측정하는 단위)다. 프로바이오틱스 보장 균수는 유통기한 내 살아 있는 균수를 의미한다. 보장 균수가 많다고 장에 정착하는 것을 담보하진 않는다.</content:encoded>
-    </item>
-    <item>
-      <title>“제2의 렉라자 등 신약 R&amp;D에 총력… 글로벌 50대 제약회사로 도약할 것”</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122692082/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122692082/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122692029.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난 6월 유한양행 조욱제 사장은 창립 97주년 기념사를 통해 “유한양행은 기술 수출 성과와 렉라자 출시 등을 통해 명실공히 R&amp;amp;D 중심의 글로벌 제약회사로 나아가고 있다”며 “렉라자의 글로벌 블록버스터 신약 육성은 물론 조기에 제2, 3의 렉라자 개발의 성과를 낼 수 있도록 노력할 것”이라고 신약 연구개발 역량 강화를 강조했다. 연구개발 역량 강화를 유한양행의 기업 성장 발전의 핵심 요소로 보는 것이다. 이를 위해 유한양행은 전략 과제의 성공적 임상 진행, 파이프라인 강화, 기반 기술 확보에 지속적으로 힘쓰고 있다. 유한양행은 중장기적으로 글로벌 50대 제약회사가 되는 것을 목표로 하고 있다. 그러기 위해서는 기존 사업의 성장은 물론 혁신 신약 출시를 위해 역량을 집중하고 있다. 조기에 제2, 제3의 렉라자를 출시하기 위해 전략 과제에 투자를 집중하고 지속적으로 우수 파이프라인과 플랫폼 기술을 확보하고 인재를 영입하기 위해 전력을 다한다는 계획이다. 비소세포폐암 신약 렉라자</content:encoded>
-    </item>
-    <item>
-      <title>급성 근육통부터 만성 통증까지… 성분 다른 12개 파스로 증상 개선</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122692006/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122692006/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682437.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 ‘골린이’ ‘테린이’ 등의 신조어가 생겨날 만큼 운동에 대한 현대인들의 관심이 많아졌다. 많아진 관심만큼 운동 후 손목, 발목 등의 관절 고통이나 근육통을 느끼는 사람 또한 늘어나고 있다. 한국인은 갑작스러운 관절염이나 근육통에는 파스를 붙인다. 이에 GC녹십자는 각기 다른 증상에 맞춰 파스를 붙일 수 있는 다양한 제품군을 보유하고 있다. 특히 제형과 성분에 따라 총 12개의 제품으로 구성돼 있어 각기 다른 증상에 효과적인 치료가 가능하다. 파스는 접착력이 좋아 움직임이 많은 부위에 사용하는 플라스터(첩부제)와 수분이 함유돼 피부 자극이 적은 카타플라스마(습포제)로 제형을 분류할 수 있다.  ‘제놀 푸로탑 플라스타’는 오랜 기간 소비자에게 사랑받았던 ‘푸로탑’의 제품력을 강화한 것으로 푸로탑 대비 진통제 성분을 2배 함유해 통증 감소 효과를 높였다. 이외에도 접착력과 피부 투과율이 우수한 ‘제놀 골드’, 손목·발목 등 넓고 굴곡진 관절 부위에 편하게 붙일 수 있는 ‘제놀 롱’,</content:encoded>
-    </item>
-    <item>
-      <title>“하루 한 알, 3가지 원료 담은 건기식으로 관절 건강 챙겨요”</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122691863/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122691863/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682454.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;우리가 자유롭게 움직이고 활동하기 위해서는 건강한 관절이 매우 중요한 요소 중 하나다. 그간 관절 건강기능식품은 관절 기능이 노화된 5060세대가 주로 찾았다면 최근에는 스포츠 활동을 즐기는 젊은 세대에까지 수요가 넓어져 시장 규모가 꾸준히 성장하고 있다. 식약처 자료에 따르면 관절 건기식 시장 규모는 2020년 966억 원에서 2021년 1776억 원으로 약 84% 증가했으며 올해는 3000억 원에 이를 것으로 예상되고 있다. 이처럼 관절 건강의 중요성이 부각되고 있는 가운데 농심이 국내 최초이자 유일하게 관절 건강에 도움을 주는 3가지 원료를 최적화한 ‘관절에쎈크릴’을 내놓아 주목받고 있다.3가지 재료의 최적 조합으로 효능 극대화 농심 관절에쎈크릴은 식약처로부터 기능과 안전성을 인정받은 개별인정형 건기식이다. 기존 관절 건기식은 하나의 재료로 효능을 발휘했다면 농심은 크릴오일 등 3중 복합물을 사용해 그 효과를 극대화했다. 농심 관절에쎈크릴의 주요 원료인 히알루론산은 관절을 구성</content:encoded>
-    </item>
-    <item>
-      <title>제조사마다 맛이 천차만별… 입맛따라 즐기는 ‘황금빛 액체’ 위스키</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122691840/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122691840/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682471.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“위스키는 지극히 개인의 취향을 반영합니다. 가장 좋은 위스키는 비싼 위스키가 아니라 나의 취향에 맞아 내 입을 즐겁게 하는 위스키입니다.” 지난 11월부터 진행 중인 동아일보 위스키 최고위 과정 ‘광화문 살롱’의 박병진 주임교수의 말이다. 어느 순간 주위에 위스키를 좋아한다는 사람들이 많아졌다. 입맛은 제각각이고 위스키 종류는 수천 가지. 본인의 취향만 알아도 선택지는 반으로 줄어든다. 우리가 보통 위스키라고 부르는 것은 ‘스카치위스키’를 말한다. 스카치위스키 역사에서 세무 당국과 증류업자들 간의 투쟁은 빼놓을 수 없다. 세관원은 불법 증류를 막기 위해, 증류업자들은 생계를 위해 서로 쫓고 쫓기며 목숨을 건 싸움을 했다. 이러한 역사를 배경으로 오늘날 피트 향의 황금빛 액체를 얻게 됐다. 17∼18세기가 아이리시와 스카치위스키의 시대였다면 19세기 말은 아메리칸 위스키의 전성기다. 독립전쟁 이후 미국에는 780개의 증류소가 있었다. 미국인은 기상과 동시에 술로 시작해서 ‘잘 때 마</content:encoded>
-    </item>
-    <item>
-      <title>[헬스캡슐] “APOE4 보유자, 망간 과다섭취 땐 인지저하” 外</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122691765/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122691765/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682389.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;■ “APOE4 보유자, 망간 과다섭취 땐 인지저하” 망간은 칼슘, 아연, 마그네슘, 철 등과 함께 우리 몸에 필수적인 미량 미네랄 성분 중 하나로 면역반응, 신진대사, 뇌 기능 등에 관여한다. 망간은 몸에서 부족해도 문제지만 과다 섭취했을 경우 심각한 부작용을 일으킬 수 있다. 특히 알츠하이머병을 유발하는 유전자인 아포지단백 E4(이하 APOE4)가 있는 경우 망간 과다 섭취가 알츠하이머병 관련 인지장애를 유발하는 것으로 나타났다. 한림대 동탄성심병원 정신건강의학과 김지욱 교수(교신 저자·사진), 서국희 교수, 최영민 교수, 진단검사의학과 김현수 교수 연구팀은 ‘APOE4가 있는 노인에서 망간 수치와 인지 저하의 연관성’ 연구를 발표했다. 연구팀은 65∼90세 노인 164명 중 APOE4 유전자가 없는 참가자 134명과 APOE4 유전자가 있는 참가자 30명을 대상으로 혈중 망간 농도와 알츠하이머병 관련 인지 저하와의 연관성을 조사했다. 인지 저하는 여러 기억 검사의 결과를 통해</content:encoded>
-    </item>
-    <item>
-      <title>“네슬레와 손잡고 글로벌 배양육 시장 선점할 것”</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122691679/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122691679/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682397.4.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;바이오 푸드테크 기업 심플플래닛이 글로벌 식품회사 네슬레와 손잡고 배양육으로 해외 진출을 공략하고 있다. 지난 6월 미국 FDA에서 세포 배양 닭고기를 민간 판매 승인하고 네덜란드에서는 유럽 최초로 배양육 시식을 허가함에 따라 배양육 산업은 청신호가 켜졌다. 이러한 흐름에 맞춰 심플플래닛은 배양육 규제가 마련된 해외에 먼저 진출해 배양육 산업을 선점하겠다는 전략이다. 심플플래닛은 세포배양 기술을 활용해 고함량 대체 단백 및 포화지방산 기반의 세포배양 식품 원료를 개발하는 바이오 푸드테크 기업이다. 세포배양 식품의 가장 중요한 기술인 세포 확보 기술과 SCDP(부유세포주화 개발 플랫폼)를 보유하고 있으며 소, 돼지, 닭, 오리, 어류로부터 세포배양 식품 생산을 위한 13종의 특화 세포주를 확보했다. 특히 배양육 생산 단가의 80% 이상을 차지하고 하고 있는 소태아혈청(FBS)을 대체할 수 있는 무혈청 식용 배양액을 개발해 생산 단가 절감에 성공했다. 현재 배양 식품 원료 미니 플랜트</content:encoded>
-    </item>
-    <item>
-      <title>“원스톱 서비스-지속적인 연구… 국내 여성 암 치료 대표병원으로”</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122691669/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122691669/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682404.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;《작년 9월 이대여성암병원이 리모델링 공사를 마무리하고 확대 오픈했다. 새롭게 문을 연 이대여성암병원은 갑상선암센터와 유방암센터를 분리하고 환자 특성에 맞춘 맞춤식 치료를 제공한다. 이대여성암병원 갑상선암센터 권형주 센터장을 만나 그간의 성과를 들어봤다.》</content:encoded>
-    </item>
-    <item>
-      <title>세계 최초 인공관절 로봇 ‘로사’ 이용한 절골 교정술 성공</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122691620/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122691620/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682377.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;저스트병원 관절센터와 고난도수술센터팀은 지난 10월 27일 세계 최초로 타 병원에서 반 인공관절 치환술에 실패한 환자에게 짐머바이오메트사 인공관절 로봇 로사를 통한 인공관절 재수술을 성공적으로 시행했다. 통상적으로 반 인공관절 치환술을 이미 시행받은 환자의 무릎을 재수술하는 데는 까다로운 수술법과 한계점 때문에 지금까지 누구도 이에 도전하거나 성공한 경우가 없어 앞으로 관련 로봇 인공관절 수술에 대한 관심도를 높일 것으로 기대된다. 이번 로봇 인공관절 재수술의 성공은 세계적으로도 매우 드문 경우로 저스트병원 관절센터와 고난도수술센터팀의 압도적인 의술과 로봇 수술에 대한 경험과 숙련도가 바탕이 된 결과물로 평가받고 있다. 저스트병원에서 시행 중인 로봇 인공관절 수술기 로사는 미국 FDA의 승인을 받은 최신식 인공관절 수술기로 환자의 엑스레이 이미지를 3D 영상으로 전환해 개개인의 뼈 모양, 형태, 위치, 각도 등을 확인할 수 있다. 수술 전 시뮬레이션을 통해 환자에게 가장 최적화한 수</content:encoded>
-    </item>
-    <item>
-      <title>글로벌 네트워크-ICT 활용해…해외 환자 사후까지 원스톱 관리</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122691519/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122691519/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682368.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;몽골인 A 씨(48·여)는 현지 병원에서 자궁경부암 진단을 받았다. 하지만 자국의 의료로는 치료가 어렵다고 판단해 한국행을 결심했다. 병원을 알아보던 중 현지 의사에게 차병원을 소개받았다. A 씨는 현지 의사와 분당차병원 부인암센터 김영탁 원장이 함께 참여하는 ICT(정보통신기술) 기반의 원격 협진을 통해 진료받고 차병원의 수술 일정을 잡았다. A 씨는 무사히 수술을 마치고 본국으로 돌아가서도 원격 협진으로 여전히 김 원장의 관리를 받고 있다. 신종 코로나바이러스 감염증(코로나19)으로 막혔던 하늘길이 열리면서 한국을 찾는 외국인 환자의 발길도 늘고 있다. 보건복지부 발표에 따르면 코로나19 유행 이후 감소한 국내 외국인 환자는 지난해 24만8000명으로 코로나19 이전의 절반 수준까지 회복했다. 차병원은 3월 ‘차국제병원’을 오픈했다. 차병원의 각 기관에 존재하던 국제진료팀을 통합해 체계적인 시스템으로 개편한 것. 차국제병원은 외국인 환자가 차병원을 방문하기 전에 상담 과정부터 불</content:encoded>
-    </item>
-    <item>
-      <title>[전문가 칼럼]아슬아슬 빙판길… ‘3대 골절’ 주의하세요</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122690427/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122690427/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122690402.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 날씨가 영하권으로 뚝 떨어지고 눈길과 빙판길 때문에 넘어지면서 골절되는 환자들이 늘고 있다. 특히 골다공증이 있는 노인은 넘어지면서 엉덩방아를 찧거나 손을 짚게 되는데 땅과 닿는 부위에 잘 골절된다. 노화가 진행되면서 뼈의 밀도가 낮아져 뼈가 약해지는 걸 골다공증이라고 한다. 여자는 폐경이 되면서 호르몬 변화로 인해 골밀도가 급격히 떨어진다. 남자는 여자보다 골밀도 감소 속도가 덜하지만 그래도 노화에 따른 골밀도 저하는 막기 힘들다. 골다공증이 있는 경우 경미한 외상에도 골절이 잘 생기는데, 특히 골다공증성 골절이 잘 일어나는 3대 부위는 척추, 고관절(대퇴골), 손목부위(요골)다. 미끄러운 눈길에서나 집 안 문턱에 걸려 넘어지면서 엉덩방아를 찧게 된 이후 통증이 심해 꼼짝할 수 없다면 고관절(정확히는 대퇴골 경부) 골절이 생겼을 가능성이 높다. 아주 살짝 금이 가는 정도면 수술까지 하지 않고 며칠 혹은 몇 주 정도 침대에 누워 있으면 증상이 좋아진다. 하지만 그 이상으로 골절</content:encoded>
-    </item>
-    <item>
-      <title>[전문가 칼럼] WLA 등재… K바이오산업, 국제 신뢰 확보했다</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122690307/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122690307/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682489.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계 각국은 의약품과 의료기기, 식품 등을 국민들이 안전하게 사용할 수 있도록 다양한 장치를 마련하고 있다. 국제기구들은 이러한 장치를 조화롭게 하기 위해 공통된 기준을 만드는 데 많은 공을 들인다. 국제적인 공통 기준을 제정하려면 높은 수준의 과학적 근거가 요구되고, 이를 실제 산업현장에 적용하는 과정에서 많은 비용이 든다. 이런 이유로 국제 공통 기준에 가입할 수 있는 국가는 제한적이며, 그래서 이러한 기준은 소위 ‘선진국들만의 리그’로 여겨진다. 최근 우리나라 식품의약품안전처가 세계보건기구(WHO)의 우수 규제기관 목록(WLA)에 세계 최초로 등재됐다는 반가운 소식을 접했다. WLA는 세계보건기구가 각 국가의 의약품 및 백신 규제기관의 시스템과 업무 수행 능력을 평가, 선정한 ‘우수 의약품 규제기관’을 뜻한다. WHO는 미국, 영국 등 36개국으로 구성된 기존 우수 규제기관 국가 목록(SRA)을 WLA로 대체하는 작업을 3년 전부터 추진해 왔다. 식약처는 WLA 등재에 팔을 걷</content:encoded>
-    </item>
-    <item>
-      <title>겨울철 ‘꿀잠’ 자려면… 유산소운동하고 수면 패턴 유지해야</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122690244/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122690244/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682484.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;주부 이영숙 씨(가명·55)는 12월이 되면서 불면증을 겪기 시작했다. 잠들기 힘들고 자다가 깨면 오전 2, 3시가 일쑤였다. 더구나 다시 잠들기도 힘들었다. 잠을 못 자니 피로해서 하루 종일 집에서 누워서 지내면서 불면증은 더욱 심해졌다. 그렇다고 수면제를 복용하는 것은 부담스럽다. 계속 먹게 될 경우 중독도 염려되고 날이 갈수록 먹는 양도 많아진다는 이야기를 들었기 때문이다. 코슬립수면의원 신홍범 원장은 “겨울이 되면서 해도 짧아지고 날씨가 추워서 외출도 하지 않고 운동도 거의 하지 않게 되는 것과 같은 생활 패턴의 변화가 불면증을 야기한다”면서 “불면증을 잘 파악한 뒤 적당한 수면제 처방은 불면증을 줄이는 데 도움이 된다”고 말했다. 신 원장의 도움말로 불면증과 수면제에 대한 오해와 진실을 알아봤다. 3개월 이상 지속되면 만성불면증  잠들기 힘들고 자다가 자주 깨는 문제, 그 결과 낮 동안 일상생활에 어려움이 있을 때 불면증 증상이 있다고 한다. 그런데 이런 상태가 3주 이상</content:encoded>
-    </item>
-    <item>
-      <title>소아 응급 시스템 마비 수준…  의료수가 대폭 올려 공백 메꿔야[기고/이기형]</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122689865/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122689865/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682514.9.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;예상은 했지만 결국 우려하던 일이 또 벌어졌다. 2024년 상반기 전공의 전기 모집에서 소아청소년과 지원율은 28.6%로 진료 과목 중 최하위를 기록하며 작년과 비슷한 결과를 보였다. 전공의 수련병원 60곳 중 배정된 정원을 채운 곳은 고작 3개 병원에 불과했으며 42개 병원은 단 한 명의 지원자도 없었다. 필자가 몸담고 있는 고려대의료원 3개 병원 소아청소년과의 경우 정원은 9명이지만 단 한 명도 지원하지 않았다. 이제 정년퇴임을 1년 앞둔 원로 교수로서 어쩌다 이런 지경까지 오게 됐는지 일말의 책임감과 함께 참담함을 느낀다. 다가오는 2024년 대학병원 소아청소년과 상황은 정말 심각하다. 소아청소년과 전공의 지원이 급감하기 전에 들어왔던 전공의 4년 차들이 모두 나가게 되면 몇몇 병원을 제외한 전국의 대학병원들은 소아청소년과 전공의가 불과 1∼2명, 심지어 아예 없는 병원도 생길 것이다. 현재도 전공의 대신 교수들이 입원 환자와 응급 환자를 위해 돌아가며 당직 근무를 하는 상황에</content:encoded>
-    </item>
-    <item>
-      <title>퇴행성관절염, 로봇 인공관절 수술로 통증 빠르게 낮춰</title>
-      <link>https://www.donga.com/news/It/article/all/20231219/122689187/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231219/122689187/1</guid>
-      <pubDate>2023-12-20T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/19/122682509.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;무릎 통증을 일으키는 주된 원인은 퇴행성관절염이다. 퇴행성관절염은 무릎관절을 이루는 뼈, 연골, 관절막, 연골판, 인대, 근육 등에 손상이 생기면서 통증이나 운동장애가 생기는 염증성 질환이다. 관절과 인대 손상으로 나타나는 주요 증상은 관절 통증과 부종 또는 뻣뻣해짐 등의 불편감이다. 초기에는 손상된 관절 부위를 움직일 때 국소적으로 증상이 나타나다가 병이 진행되면 움직임과는 상관없이 통증과 불편감을 느끼게 된다. 심한 경우 수면 중에도 통증을 느끼고 걷거나 앉았다 일어서는 등의 일상생활이 불편해지면서 삶의 질이 크게 떨어진다. 연세와병원의 강호 원장(정형외과 전문의)의 도움말로 무릎 퇴행성관절염의 원인과 치료 방법에 대해 알아본다. 퇴행성관절염은 관절 구조의 변형에 따라 1∼4단계로 구분한다. 1단계는 의심 단계로 통증이 간헐적으로 나타난다. 대개 통증을 가라앉히기 위해 진통제를 복용한다. 진통제로 통증이 줄어들지 않으면 비스테로이드성 소염제 계열의 진통제를 복용하게 된다. 소염</content:encoded>
-    </item>
-    <item>
-      <title>‘기온 뚝’ 턱에선 “딱딱딱” 뼈소리…방치하면 ‘이것’ 온다</title>
-      <link>https://www.donga.com/news/Society/article/all/20231220/122702613/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20231220/122702613/1</guid>
-      <pubDate>2023-12-20T05:06:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122702607.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;요즘처럼 기온이 뚝 떨어지면 혈관과 근육이 수축하면서 턱관절 통증이 악화하기 쉽다. 턱관절 장애를 방치하면 두통, 수면 장애 등으로 이어질 수 있어 주의해야 한다.  20일 국민건강보험심사평가원에 따르면 최근 1년간(2022년 2월~2023년 2월) 월별 턱관절 장애 환자 수는 2022년 9월 6만6268명에서 꾸준히 증가해 2023년 2월 7만7459명으로, 겨울철에 가을철보다 급증(약 17%)한 것으로 나타났다.  턱관절 장애란 관절원판(디스크)장애, 관절염, 근육 장애 등 턱관절을 구성하고 있는 뼈, 근육 또는 디스크에 문제가 발생하는 것을 말한다.   이연희 경희대치과병원 구강내과 교수는 “턱관절이 제 기능을 하려면 주변의 인대나 근육이 조화롭게 잘 움직여야 하는데, 추위에 장시간 노출되는 안면부의 혈관과 근육이 수축돼 턱관절 장애가 심해질 수 있다”고 말했다.  입을 벌리거나 다물 때 또는 턱을 움직이거나 음식을 씹을 때 턱관절에서 소리가 나는 증상은 우리나라 인구 3명 중 1명이 겪을 정도로</content:encoded>
-    </item>
-    <item>
-      <title>[날씨]출근길 ‘-12도’ 강추위 계속…경기남서부에 최대 10㎝ 폭설</title>
-      <link>https://www.donga.com/news/Society/article/all/20231220/122702984/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20231220/122702984/1</guid>
-      <pubDate>2023-12-20T06:11:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122702879.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;수요일인 19일은 중부지방을 중심으로 추위가 이어지겠다. 특히 경기남서부 등 서쪽 지역을 중심으로 눈이 최대 10㎝ 올 것으로 예상된다.  기상청은 이날 기압골의 영향에서 벗어나 중국 북부지방에서 확장하는 찬 대륙고기압의 영향을 차차 받아 전국이 대체로 흐릴 것이라고 예보했다.  이날 아침최저기온은 -12~1도, 낮최고기온은 -7~4도로 예상된다  한파 특보가 발효된 경기북부와 강원중·북부내륙에는 아침 기온이 영하 10도로 매우 춥겠다. 그밖의 중부지방과 전북동부, 경북북부내륙에 -10~-5도, 그 밖의 남부지방은 -5도 내외로 예상된다.  주요 도시 예상 최저기온은 △서울 -9도 △인천 -8도 △춘천 -9도 △강릉 -4도 △대전 -6도 △대구 -3도 △전주 -4도 △광주 -2도 △부산 1도 △제주 4도다.  최고기온은 △서울 -5도 △인천 -6도 △춘천 -4도 △강릉 0도 △대전 -2도 △대구 0도 △전주 -2도 △광주 -1도 △부산 3도 △제주 5도로 예상된다.  전날부터 내린 눈은 이날 서쪽 지역을</content:encoded>
-    </item>
-    <item>
-      <title>출근길 ‘-12도’ 강추위…서해안 최대 30㎝ 폭설</title>
-      <link>https://www.donga.com/news/Society/article/all/20231220/122703126/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20231220/122703126/1</guid>
-      <pubDate>2023-12-20T06:42:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122703168.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;수요일인 20일은 충청권, 전라권, 제주도에 가끔 눈이 내리겠다. 한파특보가 발효된 경기북부와 강원중·북부내륙산지에는 아침기온이 -10도 이하로 매우 춥겠다.    기상청은 이날 기압골의 영향에서 벗어나 중국 북부지방에서 확장하는 찬 대륙고기압의 영향을 차차 받아 전국이 대체로 흐릴 것이라고 예보했다.  이날 아침최저기온은 -12~1도, 낮 최고기온은 -7~4도로 예상된다  기상청 지역별상세관측자료(AWS)에 따르면 이날 오전 6시 30분 기준 주요 도시 기온은 △서울 -6.7도 △인천 -6.7도 △춘천 -6.3도 △강릉 -2.0도 △대전 -4.6도 △대구 -0.5도 △전주 -2.0도 △광주 0.4도 △부산 2.4도 △제주 6.7도다.  최고기온은 △서울 -5도 △인천 -6도 △춘천 -4도 △강릉 0도 △대전 -2도 △대구 0도 △전주 -2도 △광주 -1도 △부산 3도 △제주 5도로 예상된다.  전날부터 내린 눈은 이날 서쪽 지역을 중심으로 새벽까지 이어지겠다. 특히 경기남서부와 강원내륙.산지, 충북중.</content:encoded>
-    </item>
-    <item>
-      <title>인스타그램 크리에이터, 月구독료·유료 후원으로 돈 번다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20231220/122703979/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20231220/122703979/1</guid>
-      <pubDate>2023-12-20T08:56:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122703926.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인스타그램은 크리에이터 지원 강화 정책의 일환으로 ▲기프트 ▲구독 ▲보너스 프로그램 등 새로운 수익 창출 기능 세 가지를 한국에 도입한다고 20일 밝혔다.  이번에 도입되는 세 가지 기능은 경제적 보상을 통해 크리에이터들의 자유로운 자기표현을 독려하고, 더 나아가 전 세계 팬들과 연결되며 성장할 수 있도록 마련됐다.  인스타그램 기프트는 릴스 콘텐츠를 통해 팬들로부터 수익을 얻을 수 있는 기능으로, 팬들은 앱에서 ‘스타’를 구매해 좋아하는 크리에이터를 응원할 수 있다. 스타는 크리에이터 팔로우 여부에 관계 없이 시청 중인 릴스 하단에 있는 ‘기프트 보내기’를 통해 자유롭게 보낼 수 있다. 스타가 부족한 경우 별도의 충전 페이지가 팝업한다.   추후 크리에이터는 릴스에서 발생하는 수익 가운데, 팬들로부터 받은 스타 하나당 일정 금액을 정산 받을 수 있다.  월간 구독료로도 수입을 올릴 수 있게 될 전망이다. 인스타그램 구독 기능을 통해 크리에이터는 구독자에게 릴스, 라이브, 스토리 등 독점 콘텐츠를 제공하</content:encoded>
-    </item>
-    <item>
-      <title>코로나 백신 접종률 왜 낮을까 전문가에게 물었더니…“예견된 일”</title>
-      <link>https://www.donga.com/news/Society/article/all/20231220/122704913/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20231220/122704913/1</guid>
-      <pubDate>2023-12-20T09:51:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122706220.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2023~2024절기 코로나19 예방접종이 본격 시행된 지 두 달 만에 새로운 방식의 노바백스‘ 백신 접종이 지난 18일부터 시작됐다. 노바백스 백신을 비롯해 지난 10월부터 접종을 시작한 화이자, 모더나 백신은 최근 유행하고 있는 XBB 변이에 대응할 수 있도록 새롭게 개발됐다. 질병관리청은 “노바백스 백신은 유전자재조합 방식으로 만들어진 합성항원 백신”이라며 메신저리보핵산(mRNA) 백신인 화이자, 모더나 접종을 꺼린 국민들의 백신 접종을 독려했다. 유전자재조합 방식으로 만들어진 합성항원 노바백스 백신은 화이자, 모더나 백신과 어떻게 다른지, mRNA 백신보다 합성항원 백신이 더 안전하다는 말은 뭔지, 코로나19 백신 접종률은 왜 유독 낮은 건지, 대한감염학회 이사장을 지낸 김우주 고려대 구로병원 감염내과 교수와 새 코로나19 백신에 대해 이야기를 나눠봤다. -화이자, 모더나에서 만든 mRNA 백신과 이번 노바백스의 합성항원 백신이 정확히 어떻게 다른가. ▶먼저 백신의 원리를 알</content:encoded>
-    </item>
-    <item>
-      <title>엔씨, TL 크리스마스 이벤트 진행… ‘솔리시움 큰별나무 축제’</title>
-      <link>https://www.donga.com/news/It/article/all/20231220/122705404/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231220/122705404/1</guid>
-      <pubDate>2023-12-20T10:10:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122705379.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;엔씨소프트는 신작 MMORPG ‘쓰론앤리버티(이하 TL)’가 크리스마스 기념 이벤트 ‘솔리시움 큰별나무 축제’를 진행한다고 20일 밝혔다.  이용자는 오는 1월 3일까지 ▲주요 거점 크리스마스 테마 체험 ▲저항군 의뢰 및 파티 인스턴스 던전 보상 강화 ▲기간트리테의 버프 ▲크리스마스 깜짝선물 등 혜택을 받을 수 있다.  먼저 TL의 주요 거점인 캐슬러 마을, 비엔타 마을, 스톤가드 성, 무너진 별빛 천문대, 정화의 탑 등이 크리스마스 테마로 꾸며진다. 거점 진입 시 캐롤이 울리고 산타 옷을 입은 이벤트 NPC도 등장한다.  저항군 의뢰는 기존 보상 외 ‘별나무 리스’를 추가로 제공한다. 마을에 있는 이벤트 NPC를 통해 외형 머리 장식, 희귀한 특수 재료 선택 상자, 희귀한 재질 재료 선택 상자, 우수한 마력가루 등 아이템으로 교환할 수 있다.  파티 인스턴스 던전 ‘파올라의 차원진’을 클리어하면 ‘별나무 장식 구슬’을 추가로 지급한다. 마을의 이벤트 NPC를 통해 ‘아미토이: 큰별나무 새로기’, ‘희귀</content:encoded>
-    </item>
-    <item>
-      <title>한국세라믹기술원 “고성능 SOEC 핵심기술 개발 중” … 해외기관과 기술 고도화 추진</title>
-      <link>https://www.donga.com/news/It/article/all/20231220/122705966/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20231220/122705966/1</guid>
-      <pubDate>2023-12-20T10:29:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122705849.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국세라믹기술원(원장 정연길)은 “지난 몇 년간 수소에너지 관련 연구를 지속적으로 추진한 결과 최근 괄목할 만한 성과가 도출됐다”며 국제연구기관과의 협업을 통해 SOEC(Solid Oxide Electrolysis Cell, 고온수전해) 기술고도화를 추진하고 있다고 밝혔다.   SOEC는 고온 세라믹 부품 소재들을 이용해 고온에서 수증기를 전기분해하는 방식으로,  고효율 차세대 수전해(물 전기분해) 기술이자 그린수소를 생성할 수 있다는 점에서 2050 탄소중립에 부합하는 기술로 주목받고 있다.   한국세라믹기술원 신태호 박사 연구팀은 LSGM((페로브스카이트 결정구조의 산소이온 전도성 세라믹 전해질 소재) )소재를 기반으로 하는 고성능 SOEC 핵심기술을 개발 중이다.   기존의 접촉식 코팅 방식은 기판이 특정 수준의 기계적 강도를 확보해야 했고 이에 따라 고성능의 박판형 전해질 지지형 셀 제조에 어려움이 있었다.   신 박사 연구팀은 SOEC의 대면적 셀 제조 공정의 어려움을 극복하기 위해 핵심기술인</content:encoded>
-    </item>
-    <item>
-      <title>“이 질환 있다면 즉시 금연해야…폐암 위험 49% 높아”</title>
-      <link>https://www.donga.com/news/It/article/all/20231220/122707250/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20231220/122707250/2</guid>
-      <pubDate>2023-12-20T11:28:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122707292.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;만성염증 질환인 류머티즘 관절염을 앓는 환자가 폐암에 걸릴 위험이 비환자보다 49%나 높다는 연구 결과가 나왔다.  삼성서울병원 가정의학과 신동욱·폐식도외과 조종호 교수, 강북삼성병원 조미희 교수 연구팀은 폐암 분야 국제 폐암학회(IASLC) 공식 학술지(Journal of Thoracic Oncology)에 이같은 연구 결과를 올렸다고 20일 밝혔다.  연구팀은 국민건강보험 자료를 활용해 2010년부터 2017년 사이 류머티즘 관절염을 새롭게 진단받은 환자 5만 1899명과 나이와 성별 등 위험 요인을 보정해 맞춘 류머티즘 관절염이 없는 일반인 대조군 25만 9495명을 평균 4.5년간 추적해 결과를 얻어냈다.  연구팀에 따르면 류머티즘 관절염으로 인한 폐암 발병 위험이 증가하는 경향은 환자의 흡연력에 따라 더욱 두드러졌다.  류머티즘 관절염이 아닌 일반인과 비교했을 때 20갑년(매일 담배 1갑씩 20년을 피운 경우) 이상 담배를 피운 환자의 경우 87%나 폐암 발병 위험이 더 높은 것으로 분석됐다.</content:encoded>
-    </item>
-    <item>
-      <title>아프리카TV, 트위치 환영…영구퇴출 BJ 사면은 없다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20231220/122709067/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20231220/122709067/1</guid>
-      <pubDate>2023-12-20T13:09:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122709025.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인터넷방송 스트리밍 플랫폼 아프리카TV가 한국 철수를 결정한 트위치의 스트리머를 유치하고 있다. 다만, 기존에 아프리카TV 플랫폼에서 활동하다 영구 정지돼 트위치로 이적했던 스트리머는 받아들이지 않을 방침이다.   아프리카TV는 트위치에서 플랫폼을 이동하는 스트리머와 유저에 대한 지원책인 ‘트위치 웰컴(Twitch Weclome)’ 프로그램을 발표했다. 트위치 스트리머·유저가 큰 불편 없이 아프리카TV에서 활동할 수 있도록 연속성을 제공하겠다는 것이다.   트위치에는 과거 아프리카TV에서 활동하던 BJ(개인방송진행자)들도 상당하다. 그 중에는 아프리카TV에서 영구 정지 당해 어쩔 수 없이 트위치로 플랫폼을 옮겼던 BJ도 있다. BJ와 스트리머는 각 플랫폼에서 불리는 이름만 다를 뿐 유사하다.   20일 아프리카TV 운영 정책에 따르면 ▲음란 ▲도박 ▲위법행위 ▲저작권 침해 ▲청소년 유해 ▲미풍양속 위배 ▲명예훼손 ▲도방, 대리방송, 타서비스 홍보 등 아프리카TV 자체기준을 위반한 BJ와 이용자는 경고 또</content:encoded>
-    </item>
+    <lastBuildDate>2023-12-22T00:08:35.882Z</lastBuildDate>
     <item>
       <title>프라시아 전기, 에피소드3 ‘결사적 순간’ 업데이트</title>
       <link>https://www.donga.com/news/It/article/all/20231220/122713075/1</link>
@@ -306,11 +47,32 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122718620.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 전세계 기업 및 기관에선 비즈니스 환경을 현대화하는 디지털 전환(Digital Transformation)에 온 힘을 기울이고 있다. 이는 인공지능(이하 AI), 사물인터넷(이하 IoT), 빅데이터, 클라우드 등의 정보통신 기술을 기반으로 업무의 효율성을 극대화하는 것을 뜻한다.    각종 물류 및 유통의 기반이 되는 교통체계에도 디지털 전환은 이루어지고 있다. 최근 각 지방자지단체에 도입되고 있는 지능형 교통체계(Intelligent Transportation Systems, ITS)가 그것이다. 이를테면 스마트 교차로 시스템의 경우, 카메라 및 각종 센서를 활용해 차량의 통행량이나 보행자의 상황, 차량의 종류를 비롯한 각종 정보를 수집하고 분석한다. 이를 토대로 신호기를 적절하게 제어해 최적의 교통환경을 조성할 수 있으며, 더 나아가 자율주행 차량과 데이터를 교환하며 한층 빠르고 안전한 주행을 유도하는 것도 가능하다. 이러한 지능형 교통 체계는 일부 지방자치단체에 도입되어 운용되고 있으며, 향후</content:encoded>
     </item>
     <item>
+      <title>“AI지도로 北 상황도 파악”… AI서 기후·식량 해법 찾는 美스타트업[글로벌 현장을 가다]</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20231220/122718716/1</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20231220/122718716/1</guid>
+      <pubDate>2023-12-20T23:39:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122714987.8.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;《12일(현지 시간) 미국 워싱턴. 인공지능(AI)으로 지도를 제작하는 스타트업 기업 ‘임팩트 옵서버토리’ 스티브 브럼비 최고경영자(CEO)는 회의실에 설치된 스크린 위에 북한 지도를 띄웠다. 지도 속 북한은 평양 등 일부 대도시와 개마고원 인근을 제외하고 대부분 옅은 노란색으로 표시됐다. 나무가 거의 없다는 뜻이다. 도시를 의미하는 붉은색, 경작지인 오렌지색 외에 대부분 산림 지역인 녹색으로 뒤덮인 한국과는 달랐다. 한눈에 휴전선 경계를 파악할 수 있을 정도였다.》임팩트 옵서버토리는 AI를 이용해 매주 세계 지도를 새로 만들고 있다. 단순히 미국과 유럽 정부가 공개하는 인공위성 사진과 민간 상업용 위성사진을 이어 붙인 지도가 아니라 이를 AI가 분석해 도로와 호수, 강 등 지형의 변화는 물론이고 산림과 경작지, 황무지 등을 색깔로 구분한 세계 지도를 만들고 있는 것이다.   브럼비 CEO는 “북한이 주민들을 위해 충분한 식량을 생산하는 데 어려움을 겪고 있다는 것을 알고 있다”며 “북한의 최신 지도는</content:encoded>
+    </item>
+    <item>
       <title>AI發 부실 논문 급증… 올해 1만건 취소, 작년 2배</title>
       <link>https://www.donga.com/news/Economy/article/all/20231221/122719704/1</link>
       <guid>https://www.donga.com/news/Economy/article/all/20231221/122719704/1</guid>
       <pubDate>2023-12-21T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122719681.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;생성형 인공지능(AI) 기술 확산 등의 부작용으로 올해 허위 조작(가짜) 또는 부실 논문이 급증했다. 특히 논문 대필 서비스업체, 일명 ‘논문 공장’이 기승을 부리면서 전 세계 과학계가 ‘학술 사기’에 휘말렸다는 우려도 나온다. 20일 국제 학술지 네이처에 따르면 전 세계 논문 취소(Retraction) 수는 8일 기준으로 1만 건을 넘어섰다. 네이처는 국제 논문 감시 웹사이트 ‘리트랙션 워치’ 등의 데이터를 분석해 이 같은 수치를 12일(현지 시간) 공개했다. 지난해 5380건의 두 배, 2014년 1073건의 10배에 달한다.  올해 취소된 논문 중 8000건 이상은 200여 개 학술지를 발간하는 인도 출판사 ‘힌다위’에서 발생한 사례다. 힌다위가 자체 조사를 진행하면서 생성형 AI를 활용한 사실 등이 적발된 것이다. 네이처는 “최대 수십만 개의 논문이 ‘논문 공장’에서 생산됐을 것”이라고 분석했다.</content:encoded>
+    </item>
+    <item>
+      <title>비염-허리디스크 한약도 건보 적용</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122719461/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122719461/1</guid>
+      <pubDate>2023-12-21T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122719457.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;내년 4월부터 알레르기비염이나 허리 디스크로 한약을 탈 때도 국민건강보험이 적용된다. 한방에 대한 건보 보장성이 점차 확대되면서 의사단체는 “효능이 불분명한 치료에 건보 재정을 낭비한다”며 반발하고 있다. 현대 의료기기 사용과 신종 코로나바이러스 감염증(코로나19) 검사 권한 등을 두고 대립해 온 의사계와 한의계가 또다시 갈등하는 모양새다.● 내년 4월부터 1만6000원에 비염 한약 처방 보건복지부는 20일 건강보험정책심의위원회(건정심)에서 ‘첩약(한약) 건강보험 적용 시범사업’ 확대 방안이 통과됐다고 밝혔다. 복지부는 2020년 11월부터 한의원에서 월경통(생리통)이나 안면신경마비, 뇌혈관 질환 후유증 등으로 한약을 지으면 약값의 절반을 건보로 지원하는 시범사업을 벌여왔다.  내년 4월부터는 이를 확대해 참여기관을 한방병원 등으로 확대하고 본인부담률도 한의원 30%, 한방병원 40%로 각각 내린다. 대상 질환에는 알레르기비염과 요추 추간판 탈출증(허리 디스크), 기능성 소화불량 등</content:encoded>
+    </item>
+    <item>
+      <title>“학과 칸막이 없애고 융합연구원 신설… ‘AI 교수’ 적극 육성할 것”</title>
+      <link>https://www.donga.com/news/Society/article/all/20231220/122719038/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231220/122719038/1</guid>
+      <pubDate>2023-12-21T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/20/122714913.8.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;강원 춘천 한림대는 교육부가 학교당 5년간 1000억 원을 지원하는 역대 최대 규모의 지방대학 지원 사업 ‘글로컬대학’에 선정됐다. 지난달 뽑힌 10곳 중 사립대는 한림대를 포함해 3곳뿐이다. 한림대는 대학 간 통합 모델을 내세운 대다수 대학과 달리 인공지능(AI) 기반의 고등교육 시스템을 구축해 ‘K고등교육모델’을 세계에 선보이겠다고 밝혔다. 선정 과정에서 한림대는 “다른 대학이 보고 함께 따라갈 수 있는 모델 대학이 되면 좋겠다”는 평가를 받은 것으로 알려졌다. 한림대가 글로컬대학 계획서에 써낸 내용은 최양희 총장이 2년 전 취임사에서 밝혔던 것들이다. 최 총장은 글로컬대학에 지원하며 학내 구성원들에게 “한림대가 앞으로 20년간 가야 하는 혁신의 길 중 1단계를 글로컬대학 사업이 지원해주는 것”이라며 “우리는 계속 변화할 것”이라고 강조했다. 14일 서울 중구 웨스틴조선호텔 비즈니스센터에서 최 총장을 만났다. ―한림대는 글로컬대학 계획서에 대학의 학과 칸막이를 해체하고 3개 연구</content:encoded>
     </item>
     <item>
       <title>혼자 할머니 돌보며 학업까지… ‘가족돌봄청소년’ 도와요</title>
@@ -352,7 +114,245 @@
       <link>https://www.donga.com/news/It/article/all/20231221/122721264/1</link>
       <guid>https://www.donga.com/news/It/article/all/20231221/122721264/1</guid>
       <pubDate>2023-12-21T08:21:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122721247.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“버스 기다리는 10분 동안 얼굴 피부가 찢어지는 느낌의 추위입니다.”  21일 오전 경기 등 중부지방을 중심으로 체감기온 영하 20도에 이르는 한파가 불어닥쳤다.   경기 용인시에서 서울 을지로까지 매일 이른 아침시간 광역버스를 타고 출근하는 전모씨(40대)는 “버스정류장까지 가는 길에 찬바람으로 얼굴 피부가 찢어지는 느낌이었다”면서 “한파에 폭행 당하는 기분”이라고 말했다.   출근길에 휴대전화를 꺼내들어 통화를 했다는 A씨(30대)는 “손가락 마디마디가 절단되는 듯한 추위였다”고 표현하기도 했다.   이날 서둘러 출근하는 직장인들은 롱패딩에 목도리와 마스크, 핫팩 등으로 중무장하는 등 올들어 가장 추운 한파에 온몸을 꽁꽁 감쌌다.   수도권기상청에 따르면 아침 최저기온은 -19~-13도로 경기북부는 -15도 안팎의 추위를 기록했다. 경기남부는 수원 -14도, 화성 -13도 등의 기온을 보였다.  오전 7~8시 기준 동두천은 -15.6도, 파주 -15.4도, 양평 -12.7도, 수원 -13도, 이천</content:encoded>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122721247.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt; “버스 기다리는 10분 동안 얼굴 피부가 찢어지는 느낌의 추위입니다.”21일 오전 경기 등 중부지방을 중심으로 체감기온 영하 20도에 이르는 한파가 불어닥쳤다. 경기 용인시에서 서울 을지로까지 매일 이른 아침시간 광역버스를 타고 출근하는 전모씨(40대)는 “버스정류장까지 가는 길에 찬바람으로 얼굴 피부가 찢어지는 느낌이었다”면서 “한파에 폭행당하는 기분”이라고 말했다. 출근길에 휴대전화를 꺼내들어 통화를 했다는 A씨(30대)는 “손가락 마디마디가 절단되는 듯한 추위였다”고 표현하기도 했다. 이날 서둘러 출근하는 직장인들은 롱패딩에 목도리와 마스크, 핫팩 등으로 중무장하는 등 올들어 가장 추운 한파에 온몸을 꽁꽁 감쌌다. 수도권기상청에 따르면 아침 최저기온은 -19~-13도로 경기북부는 -15도 안팎의 추위를 기록했다. 경기남부는 수원 -14도, 화성 -13도 등의 기온을 보였다.오전 7~8시 기준 동두천은 -15.6도, 파주 -15.4도, 양평 -12.7도, 수원 -13도</content:encoded>
+    </item>
+    <item>
+      <title>‘롤드컵 우승상금 10억’ 페이커, 中 연봉 ‘245억’ 거절한 이유</title>
+      <link>https://www.donga.com/news/Culture/article/all/20231221/122722003/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20231221/122722003/1</guid>
+      <pubDate>2023-12-21T09:20:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122722000.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;리그 오브 레전드 E-스포츠팀 ‘티원(T1)’ 소속인 스타 프로게이머 페이커(이상혁)가 중국의 245억원 ‘이적 제안’을 거절한 이유를 털어놨다.  페이커는 지난 20일 방송된 tvN 토크 예능물 ‘유 퀴즈 온 더 블럭’(이하 ‘유퀴즈’)에서 “돈이나 명예보다 좀 더 배우고 성장하는 것에 초점을 뒀다”면서 이렇게 밝혔다. “저희 팀에서도 좋은 대우를 해준다. (자신이 받은) 금액이 알려진 것과 차이가 있을 수도 있다”고 설명했다.   페이커는 현존 세계 최고의 ‘리그 오브 레전드’ 선수다. 올해 ‘제19회 항저우 아시안게임’ e스포츠 리그 오브 레전드에서 금메달을 땄다. 또 최근엔 ‘리그 오브 레전드 월드 챔피언십’(롤드컵)에서 T1의 우승을 이끌었다. 국내 리그 오브 레전드 리그 LCK가 선정하는 ‘올해의 선수’로도 뽑혔다.  페이커는 이번 롤드컵 우승의 의미를 자신이 아닌 팀을 위한 우승에 뒀다. 그는 “명예가 중요했다. 스스로보다는 다른 사람을 위한 목표라면 계속 따라갈 수 있겠더라”고 했다. ‘롤</content:encoded>
+    </item>
+    <item>
+      <title>면역세포를 암세포로 전달하는 ‘드론’ 찾았다…“맞춤형 암치료 기대”</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122722285/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122722285/1</guid>
+      <pubDate>2023-12-21T09:34:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122722276.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;자신이 가진 면역세포를 활용해 암세포를 없애는 방법이 개발됐다. 각종 암을 선택적으로 치료하는 맞춤형 암 치료의 새로운 길을 제시할 것으로 기대된다.  유니스트(UNIST)는 생명과학과 강세병·박성호 교수 공동 연구팀이 ‘자연 살해(NK)’ 세포와 암세포를 동시에 인지해 안전하고 효율적으로 표적 암세포를 공격하는 ‘NK 세포 전달 나노드론(NKeNDs)’을 개발했다고 21일 밝혔다. 연구팀은 실제 동물실험을 통해 NK 세포를 암세포에 도달하게 만들어 암 조직 성장을 억제할 수 있음을 확인했다.  NK 세포는 종양의 특이적인 신호를 탐지하고 강력한 독성으로 암세포를 소멸시키는 항암 면역세포다. 하지만 암세포까지의 이동이 어렵고, 생존하기 어렵다는 문제점을 가진다. 연구팀은 NK 세포를 활성화하고, NK 세포를 특정 암세포로 전달해 사멸을 유도할 수 있는 ‘NK 세포 전달 나노드론’을 설계했다.  연구팀은 NK 세포의 표면 단백질인 CD16과 암세포의 표피에 과도하게 존재하는 표피 성장 인자 수용체를 동시에</content:encoded>
+    </item>
+    <item>
+      <title>웰체크, ‘스마트앱어워드 2023’ 의료 통합 대상 2년 연속 수상</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122722616/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122722616/1</guid>
+      <pubDate>2023-12-21T09:45:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122724091.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;주치의와 함께 집에서도 관리하는 당뇨, 고혈압 앱   엠서클의 만성질환 관리 앱 ‘웰체크’가 양재 aT센터 그랜드홀에서 14일 열린 ‘2023 i-AWARDS KOREA(이하 아이어워즈)’시상식에서 ‘스마트앱어워드 2023 의료 부문 통합 대상’을 수상했다. 지난해에 이어 2년 연속 대상을 수상하는 영예를 안았다.   ‘스마트앱어워드’는 (사)한국인터넷전문가협회(KIPFA)가 주최하는 모바일 어플리케이션 평가 시상식으로 4만명의 인터넷 전문가 및 교수진으로 구성된 평가위원단이 한 해 동안 가장 우수하고 혁신적인 앱 서비스를 선정한다.   ‘의료 통합 대상’은 스마트앱어워드에서 심사하는 의료 서비스 중 가장 권위 있는 상으로 꼽힌다. 웰체크는 ▲서비스 품질성 ▲콘텐츠 신뢰성 ▲UI디자인 직관성 ▲비주얼디자인 완성도 ▲기술 적절성 등에서 높은 평가를 받았다.   ‘웰체크’는 당뇨, 고혈압 환자와 이들을 진료하는 의사, 약사들이 편리하고 안전하게 사용할 수 있는 만성질환관리 앱과, 의료진용 시스템을 제공한다.</content:encoded>
+    </item>
+    <item>
+      <title>플렉스티비, 스트리머 위한 첫 오프라인 간담회 …트위치 웰컴 프로그램 설명</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122723104/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122723104/1</guid>
+      <pubDate>2023-12-21T10:05:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122723073.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;플렉스티비 김지수 대표는 지난 18일 트위치 서버 종료에 따른 스트리머들의 대규모 이적에 대해 트위치 관련 MCN, 에이전시, 스트리머, e스포츠 관계자들과 함께 첫 오프라인 간담회를 진행했다.   이날 김 대표는 트위치 웰컴 프로그램을 설명하며, 트위치 유저들의 문화를 계승·발전할 수 있도록 변화하겠다고 강조했다. 이번 웰컴프로그램은 △스트리머가 트위치 계정 정보 연동후 로그인을 진행하면 트위치 방송자를 상위노출 한다 △두 번째 신규 가입자 2만 명에게 5만5000원 상당의 500렉스씩 지급한다 △스트리머는 기존에 사용하던 구독 뱃지와 구독 이모티콘을 등록할 수 있다 △서드파티를 이용하지 않고 음성후원과 영상후원, 1080p 다시보기를 지원한다 △ 스트리머들은 플렉스티비와 1:1 문의및 소통이 가능하며, 정기적인 온·오프라인 간담회를 진행한다 △스트리머의 정착지원을 위해 수수료율을 대폭 낮춘다는 내용을 담고 있다. 자세한 사항은 플렉스티비 공지사항에서 확인할 수 있다.   김지수 대표는“ 트위치 철수로</content:encoded>
+    </item>
+    <item>
+      <title>삼시세끼는 옛말? 하루 ‘두 끼’ 먹는 한국인 가장 많아</title>
+      <link>https://www.donga.com/news/Economy/article/all/20231221/122722892/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20231221/122722892/1</guid>
+      <pubDate>2023-12-21T10:08:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122722876.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;하루 세 끼보다 두 끼만 챙겨먹는 사람이 더 많은 것으로 나타났다.   21일 롯데멤버스가 최근 발간한 ‘내일, 우리는’ 리포트에 따르면, 한국인의 취식 횟수는 하루 평균 2.4회였다.   지난 9월 8일부터 20일까지 리서치 플랫폼 라임(Lime)에서 성인 남녀 7000명을 대상으로 진행된 식생활 및 장보기 설문(표본오차는 95% 신뢰수준에서 ±1.17%포인트)에서 응답자 과반(53.7%)이 하루 두 끼를 먹는다고 답했다. 하루 세 끼를 먹는다고 답한 응답자는 40.4%였으며, 하루 한 끼는 5.1%, 네 끼 이상은 0.8%였다.  특히 남성보다는 여성의 하루 식사 횟수가 더 적은 것으로 확인됐다. 여성의 경우 하루 두 끼 응답이 57.8%, 세 끼 응답이 36.4%였으나, 남성은 각 49.6%, 44.4%였다.  젊은 층일수록 끼니 수가 줄어드는 경향도 뚜렷했다. 하루 두 끼 취식 응답률이 20대(61.4%)에서 가장 높게 나타났고, 그 다음 30대는 58.8%, 40대는 56.5%, 50대는 53.</content:encoded>
+    </item>
+    <item>
+      <title>[리뷰] 최대 27kg·57인치까지 지원, 카멜마운트 PMA2X 모니터암</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122723044/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122723044/1</guid>
+      <pubDate>2023-12-21T10:12:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122722994.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근에는 32형 이상의 큰 게이밍 모니터를 선호하는 사용자가 많다. 삼성전자 오디세이 네오 G9 같은 대형 커브드 모니터의 경우 화상을 끊어짐 없이 볼 수 있어서 몰입감이 좋고, LG전자 올레드 evo OLED42C3KNA같은 42인치 OLED 모델의 경우 OLED 특유의 뚜렷한 색감과 빠른 응답 속도로 콘솔 게임기 등과 연결하기 좋다. 문제는 모니터의 크기가 커질수록 기본 스탠드가 아닌 제품을 사용하기 어렵고, 거치에 제약이 많아진다는 점이다. 실제로 삼성 오디세이 네오 G9의 경우 기본 스탠드가 아닌 제품을 사용하면 무게 중심이 맞지 않아 파손될 수 있다.   카멜마운트에서 이런 대형 게이밍 모니터와 조합할 수 있는 초고중량 모니터암 PMA2X를 선보였다. 일반적인 고중량 모니터암은 32~40인치, 15Kg 정도까지만 지탱하기 때문에 대형 제품을 사용하기 어렵지만, PMA2X는 최대 57인치에 27Kg까지 지탱하도록 만들어 대형 게이밍 모니터 혹은 텔레비전까지 거치할 수 있다. PMA2X를 직접 설치</content:encoded>
+    </item>
+    <item>
+      <title>‘우울증 스마트폰 진단’ KAIST 인공지능 기술 개발 ‘눈길’</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122723380/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122723380/1</guid>
+      <pubDate>2023-12-21T10:29:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122723340.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;우울증을 스마트폰으로 진단하는 인공지능(AI) 기술이 개발돼 눈길을 끈다.  한국과학기술원(KAIST)은 전기및전자공학부 이성주 교수 연구팀이 사용자의 언어 사용 패턴을 개인정보 유출 없이 스마트폰에서 자동으로 분석해 사용자의 정신건강 상태를 모니터링하는 AI 기술을 개발했다고 21일 밝혔다.  스마트폰을 소지하고 일상적으로 사용하기만 해도 우울증 등 정신건강 상태를 진단할 수 있다.  연구팀은 임상적으로 이뤄지는 정신질환 진단이 환자와의 상담을 통한 언어 사용 분석에서 이뤄지는 점에 착안해 연구를 진행했다.  사용자가 직접 작성한 문자메시지 등 키보드 입력 내용과 스마트폰 마이크에서 실시간으로 수집되는 사용자의 음성 데이터를 기반으로 정신건강 진단을 수행한다.  언어 데이터는 사용자의 민감한 정보를 담고 있을 수 있어 기존에는 활용이 어려웠다.  이에 연구팀은 연합학습 인공지능 기술을 적용, 기기 외부로의 데이터 유출 없이 AI 모델을 학습해 사생활 침해 우려가 없도록 개선했다.  연구팀은 스마트폰 위</content:encoded>
+    </item>
+    <item>
+      <title>방통위, 유튜브·넷플릭스 등 ‘OTT 요금인상’ 실태 점검</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122723587/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122723587/1</guid>
+      <pubDate>2023-12-21T10:35:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122723472.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;방송통신위원회는 최근 유튜브·넷플릭스 등 주요 온라인동영상서비스(OTT)의 요금인상과 관련해 전기통신사업법 금지행위 위반 여부를 점검한다고 21일 밝혔다.  앞서 유튜브는 유튜브 프리미엄 가격을 월 1만450원에서 월 1만4900원으로 인상했고, 넷플릭스는 계정 공유 유료화 정책을 시행하고 베이식 요금제 신규가입을 중단해 사실상 요금인상을 한 바 있다.   전기통신사업법 제50조(금지행위) 및 동법 시행령 제42조는 △전기통신이용자의 이익을 현저히 해치는 방식으로 전기통신서비스를 제공하는 행위 △전기통신사업자가 이용자에게 전기통신서비스의 이용요금, 약정 조건, 요금할인 등의 중요한 사항을 설명 또는 고지하지 아니하는 행위 등을 금지하고 있다.   유튜브와 넷플릭스 요금인상이 해당 규정을 위반했는지 점검한다는 것이다.   방통위 관계자는 “위반행위가 인정되는 경우 사실조사로 전환하고 실제 위반행위가 있으면 관계법령에 따라 처분할 계획”이라고 말했다.  (서울=뉴스1)</content:encoded>
+    </item>
+    <item>
+      <title>롯데정보통신, CES 2024 참가… 차별화된 ‘메타버스’ 기술력 공개 예고</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122724046/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122724046/1</guid>
+      <pubDate>2023-12-21T10:51:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122724024.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;롯데정보통신은 21일 내년 1월 미국 라스베이거스 개최되는 CES 2024(Consumer Electronic Show)에 참가해 고도화된 메타버스와 전기차 충전기 플랫폼을 선보인다고 밝혔다.  3년 연속 CES에 나가는 롯데는 올해에는 더 사실적인 그래픽과 몰입감, 유저 참여 콘텐츠 등 한층 업그레이드된 메타버스 플랫폼을 공개한다고 한다.  가상공간을 초현실적으로 표현하는 메타버스는 세계적으로 드물다. 롯데의 초실감형 메타버스는 국내외 많은 기업 및 정부 관계자들로부터 주목을 받고 있다. 이번에는 자회사명과 동일한 ‘칼리버스’라는 플랫폼 이름과 함께 내년 서비스 오픈을 앞두고 더욱 고도화된 메타버스 기술을 공개할 예정이다.  전기차 충전 통합 플랫폼 자회사 EVSIS 기술력도 선보인다. EVSIS는 최근까지 다양한 인증 획득 작업을 진행하며 글로벌 및 북미시장 확대를 위한 준비를 마쳤다. 이번 CES 2024를 통해 글로벌 파트너들과 다양한 비즈니스 미팅을 가지며 본격적인 시장 진출을 위한 교두보를 마</content:encoded>
+    </item>
+    <item>
+      <title>‘속도조작 의혹’ 페이스북, 최종 승소…대법 “과징금 부당”</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122725849/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122725849/1</guid>
+      <pubDate>2023-12-21T11:49:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122725808.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;방송통신위원회가 페이스북의 ‘접속 속도 고의 지연’에 대해 과징금 처분을 내린 것이 부당하다는 취지의 원심 판결을 대법원이 최종 확정했다.  대법원 2부(주심 이동원 대법관)는 21일 오전 10시20분 페이스북이 방통위를 상대로 제기한 시정명령 등 처분 취소청구 소송에서 과징금 처분을 취소하라고 판결한 원심을 확정했다.   대법원은 “이용자 편의 도모나 이용자의 보호를 이유로 이용의 ‘제한’을 ‘이용 자체는 가능하나, 이용에 영향을 미쳐 이용에 다소간의 지연이나 불편을 초래하게 하는 행위’까지 포함하는 것으로 해석하는 것은 문언의 가능한 의미를 벗어나므로 유추해석금지의 원칙에 반할 여지가 있다”고 설명했다.  이어 “구 전기통신사업법령에서 ‘제한’이라는 용어를 사용하고 있는 다른 규정들에 비추어 보더라도, 이용 자체는 가능하나 이용이 지연되거나 이용에 불편이 초래된 경우는 이용의 ‘제한’에 해당한다고 보기 어렵다”고 판단했다.  지난 2016년 12월 페이스북은 SK텔레콤과 SK브로드밴드, LG유플러스의</content:encoded>
+    </item>
+    <item>
+      <title>‘폭설’ 빙판길 연쇄 추돌사고…계량기 동파 등 한파 피해 잇따라</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122726099/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122726099/1</guid>
+      <pubDate>2023-12-21T12:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122726034.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;21일 역대급 한파와 함께 충남 서해안과 전라권 서부를 중심으로 대설특보가 발효된 가운데 곳곳에서 빙판길 연쇄 추돌사고로 인명 피해가 잇따랐다.   중앙재난안전대책본부에 따르면 이날 오전 6시 현재 무안광주고속도로(나주)와 호남고속도로(정읍), 서해안고속도로(당진)에서 연쇄 교통사고가 집계됐다.  이날 오전 3시30분께 당진 초대리 부근 서해안고속도로 서울 방향에서 공항버스와 25톤 카고트럭 등 차량 9대가 연쇄 추돌하는 사고가 났다.  이 사고로 공항버스 운전기사(50대)는 심정지 상태로 병원으로 이송됐으나 끝내 숨졌다. 승객 12명도 다쳐 인근 병원으로 분산 이송돼 치료받고 있다. 사고 충격으로 정신을 잃은 카고트럭 운전자도 병원으로 이송됐다.  총 27명이 탄 공항버스는 사고 당시 인천국제공항으로 향했던 것으로 조사됐고, 나머지 다치지 않은 승객들은 택시나 당진시가 제공한 버스를 통해 공항으로 이동한 것으로 전해졌다.  경찰은 눈길에 먼저 미끄러진 카고트럭을 공항버스가 추돌하고, 뒤따른 승용차 등의</content:encoded>
+    </item>
+    <item>
+      <title>딥엑스알랩 “3D·AI 기술로 아바타에 인격을 불어 넣습니다”</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122726859/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122726859/1</guid>
+      <pubDate>2023-12-21T12:51:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122726803.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중소벤처기업부 창업진흥원은 글로벌 기업과의 협업으로 국내 유망 기업의 성장을 지원하고 해외 진출 기회를 마련하는 ‘글로벌 기업 협업 프로그램’을 진행하고 있습니다. 서울과학기술대학교는 올해 ‘글로벌 기업 협업 프로그램’을 전담하는 주관기관을 맡아 물밑에서 이들 기업을 지원하고 있습니다. 아마존, 오라클, IBM 등 글로벌 대기업들과 손잡고 세계를 향한 도약을 준비하고 있는 기업들의 얘기를 전합니다.  확장현실(XR) 관련 기술이 발전하면서 다양한 형태의 XR 콘텐츠가 등장하고 있다. 이들 콘텐츠에서 중요한 역할을 하는 것이 아바타(Avatar)다. 아바타는 플랫폼 내 가상현실에서 기업이나 이용자의 대리인 역할을 하는 중요한 요소다. 하지만 기존의 아바타는 미리 입력된 동작이나 말만 반복하는 방식이다. 기술의 한계 탓이다.   3D AI(인공지능) 아바타 생성 및 XR 플랫폼 솔루션을 보유한 기술 스타트업 딥엑스알랩(DeepXRLab)은 아바타에 인격을 부여한다. 생성형 AI를 통해 표정이나 제스처, 감정</content:encoded>
+    </item>
+    <item>
+      <title>대설경보 제주 한라산, 눈 53㎝ 폭설…눈길 사고 잇따라</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122728143/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122728143/1</guid>
+      <pubDate>2023-12-21T14:07:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122728096.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대설특보와 강풍특보가 동시에 내려진 21일 제주에 한라산에 53㎝가 넘는 눈이 쌓였다. 빙판길로 인한 눈길 사고가 잇따르면서 최소 10명이 부상을 입고 병원으로 옮겨졌다.   기상청에 따르면 이날 제주 산지와 중산간, 남부에 대설경보가 발효 중이다. 나머지 지역엔 대설주의보가 내려졌고, 도 전역에 걸쳐 강풍주의보도 내려져 있다.   이날 오후 1시 기준 삼각봉에 53.6㎝의 눈이 쌓였다. 사제비와 한라산 남벽, 어리목 등 인근 산간 지역에서도 50㎝ 내외의 적설량이 기록됐다. 시간당 1~3㎝ 눈이 내리고 있으며, 중산간 이외 지역에서도 8~14㎝의 눈이 쌓였다.  바람도 해안 지역을 중심으로 초속 20m 내외로 매우 강하게 불고 있다. 이날 주요 지점 순간 풍속을 보면 고산 31.5m/s, 월정 24.9m/s, 제주 20.6m/s, 새별오름 17.1m/s, 안덕화순 16.2m/s 등이다.   도로가 얼면서 보행자가 넘어지거나 차량이 충돌하는 등 눈길 사고도 잇따랐다.   제주소방안전본부에 따르면 전날부터</content:encoded>
+    </item>
+    <item>
+      <title>마비노기, 엔진 교체 프로젝트 웹페이지 공개… ‘마비노기 이터니티’</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122728637/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122728637/1</guid>
+      <pubDate>2023-12-21T14:24:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122728614.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;넥슨은 자사 온라인게임 ‘마비노기’ 공식 홈페이지에 엔진 교체 프로젝트 ‘마비노기 이터니티’ 웹페이지를 오픈했다고 21일 밝혔다.  마비노기 이터니티 웹페이지는 엔진 교체 프로젝트 개발 전반을 알리는 공간이다. 언리얼 엔진 교체 과정의 이미지를 모아 볼 수 있는 ‘숏뉴스’와 이용자들에게 개발 비화를 공유하는 ‘개발 기록’으로 구성됐다.  개발 기록에서는 개발진 소개와 기획, 아트, 개발 등 파트별 담당자들이 개발 목표와 콘텐츠 이식 현황, 고충 등을 전달한다. 이를 통해 이용자들과 엔진 교체 이후 마비노기에 대한 공감대를 형성해 나갈 계획이다.  넥슨은 웹페이지 오픈에 맞춰 프로젝트의 시작으로 마비노기의 대표 캐릭터 ‘나오’ 리뉴얼 회고를 비롯해 아트 방향성, 배경 텍스처 제작 과정 등 개발 비화를 담은 글을 공개했다. 앞으로도 다양한 주제로 이용자들과 소통할 예정이다.  민경훈 넥슨 디렉터는 “엔진 교체 현황과 진행 과정을 공유하고자 웹페이지를 개설했다”며 “이용자들의 의견에 귀 기울이며 마비노기가 지</content:encoded>
+    </item>
+    <item>
+      <title>“제2의 네이버·쿠팡은 없다”…플랫폼법에 벤처투자 돈줄 마른다</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122729017/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122729017/1</guid>
+      <pubDate>2023-12-21T14:36:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122729868.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;공정거래위원회가 플랫폼 독과점을 사전 규제하는 ‘플랫폼 경쟁촉진법’(이하 플랫폼법) 제정을 추진하자 벤처캐피탈(VC) 시장에서도 우려의 목소리가 나온다.공정위가 기업의 매출이나 시장점유율 등 일정 수준 이상을 규제 대상으로 지정해 각종 비즈니스를 금지하기 때문에 “규제의 커트라인 이상으로 성장을 추진할 수 없다”는 것이 이유다.21일 정보기술(IT) 업계에 따르면 이준표 소프트뱅크벤처스 대표는 이날 본인 사회관계망서비스(SNS)를 통해 “플랫폼법이 제정되면 우리는 더 이상 네이버나 배달의 민족, 쿠팡 같은 기업을 한국에서 목격하기 어려워질 것”이라고 우려했다.이어 “법이 그대로 도입되면 IT산업과 스타트업 생태계의 경쟁력이 위축되고, 외국 플랫폼 기업에 반사이익을 얻게 해 결국 국가적 손실로 이어질 것”이라고 덧붙였다. 이 대표는 “스타트업에서 출발해 글로벌로 진출하는 네이버, 배민, 쿠팡 등 국내 테크 기업만 대상으로 무작정 고민이 덜 된 규제를 하면 누가 큰 그림을 보고 한국 스</content:encoded>
+    </item>
+    <item>
+      <title>갤럭시 S24, 보라·노랑색으로 나올까…공개 한달 전 ‘색상’까지 유출</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122729752/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122729752/1</guid>
+      <pubDate>2023-12-21T15:03:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122729694.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;다음달 공개될 삼성전자의 플래그십폰 ‘갤럭시 S24’가 기본적인 검은색, 은색과 함께 보라색, 노란색으로 출시될 것이라는 전망이 나왔다.  21일 업계에 따르면 IT매체 안드로이드 헤드라인 등은 갤럭시 S24 기본 모델의 렌더링으로 추정되는 이미지를 공개했다.   공개된 갤럭시 S24의 모습은 올해 초 출시된 갤럭시 S23과 크게 차이를 보이지 않는다. 색상은 총 4종으로, 색상별 명칭은 오닉스 블랙, 마블 그레이, 코발트 바이올렛, 앰버 옐로우로 예상되고 있다.  갤럭시 S23과 달라진 점을 살펴보면 후면 유리 패널이 90도로 딱 떨어지는 게 아니라 약간의 곡선 형태를 보이고 있다. 프레임도 보다 얇아진 형태다.   ‘카메라섬’이라고 불리는 컨투어컷이 없는 카메라 디자인은 그대로 유지됐으며, 일반 모델은 엣지 스크린이 아닌 플랫 스크린이 적용됐다. 프레임은 알루미늄 소재의 얇은 금속 프레임이 장착될 것으로 보인다.  업계에서는 이번에 공개된 4종의 색상 외에도 파란색, 녹색, 주황색 등 온라인몰인 삼성</content:encoded>
+    </item>
+    <item>
+      <title>아이딕션, &quot;스마트폰 기반 신체 계측, 온라인 쇼핑 바꿀 기술&quot;</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122730249/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122730249/1</guid>
+      <pubDate>2023-12-21T15:14:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122730204.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중소벤처기업부 창업진흥원은 글로벌 기업과의 협업으로 국내 유망 기업의 성장을 지원하고 해외 진출 기회를 마련하는 ‘글로벌 기업 협업 프로그램’을 진행하고 있습니다. 서울과학기술대학교는 올해 ‘글로벌 기업 협업 프로그램’을 전담하는 주관기관을 맡아 물밑에서 이들 기업을 지원하고 있습니다. 아마존, 오라클, IBM 등 글로벌 대기업들과 손잡고 세계를 향한 도약을 준비하고 있는 기업들의 얘기를 전합니다.  “회사 창업에 앞서 10년 정도 신체측정과 맞춤 유니폼을 제작하는 일을 했다. 하지만 신체 사이즈 측정이 표준화돼있지 않고 시간도 많이 걸려서 업무 강도가 너무 높았다. 그래서 스마트폰으로 간편하게 측정하는 방법이 없을까 해서 아이딕션을 창업했다”   양재민 대표가 이끌고 있는 아이딕션은 스마트폰 기반의 신체 계측 서비스 및 관련 서비스를 만드는 기업이다. 그가 아이딕션을 설립한 배경 자체가 곧 신체 계측과 관련된 여러 문제점들을 해결하기 위함이고, 현재 모바일 신체 측정 서비스인 ‘사이즈잇’과 의류 표준화</content:encoded>
+    </item>
+    <item>
+      <title>“내가 당뇨병?”…30·40대 2명 중 1명 본인 당뇨환자인지도 모른다</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122730668/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122730668/1</guid>
+      <pubDate>2023-12-21T15:25:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122730365.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;당뇨병을 앓고 있는 30세 이상 성인이 해마다 꾸준히 증가하고 있는 것으로 나타났다. 하지만 30~40대는 성별을 불문하고 자신이 환자임에도 그 사실조차 모르는 경우가 많았고 치료율 또한 현저하게 낮은 것으로 조사됐다.질병관리청이 21일 발간한 ‘국민건강영양조사 기반의 당뇨병 관리지표 심층보고서’에 따르면 2019~2021년 우리나라 30세 이상 성인 당뇨병 유병률은 15.8%로 집계됐다. 그중 남성은 18.3%로 여성(13.5%)보다 약 5%p(포인트) 높았다.여기서 당뇨병 유병률은 △공복혈당이 126mg/dL 이상이거나 △의사 진단을 받았거나 △혈당강하제복용 또는 인슐린 주사를 사용하거나 △당화혈색소 6.5% 이상인 사람의 분율을 말한다.전수조사를 시작한 10년 전부터 흐름을 보면 2011~2012년 12.1%→2013~2015년 12.9%→2016~2018년 13.9%으로 꾸준히 증가해왔다.당뇨병 인지율과 치료율도 2011년 이후 증가 추세다.당뇨병 인지율은 유병자 중 의사로부</content:encoded>
+    </item>
+    <item>
+      <title>던파, 18년 역사 담은 다큐멘터리 3부작 공개… ‘게임 체인저’</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122731198/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122731198/1</guid>
+      <pubDate>2023-12-21T15:38:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122731046.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;넥슨은 ‘던전앤파이터(이하 던파)’의 새로운 유튜브 채널을 열고 18년간의 여정을 담은 다큐멘터리 ‘게임 체인저’ 3부작을 공개했다고 21일 밝혔다.  다큐멘터리는 2008년에 네오플 신입사원으로 입사해 대표이사가 된 윤명진 대표와 초대 디렉터를 역임한 김윤종 대표, 현재 던파를 이끄는 이원만 총괄 디렉터, 던파모바일을 총괄하는 옥성태 디렉터 등이 출연했다.  1부 ‘모험의 시작’은 오락실 게임과 유명 격투 게임 매니아였던 던파 개발진들의 추억에서 시작한다. 3D 그래픽, MMORPG가 주류를 이루던 게임 업계에서 2D 벨트스크롤이라는 생소했던 방식으로 탄생한 던파의 개발 과정과 초창기 개발 과정의 난관을 다뤘다.   키보드로 오락실의 조작감을 구현해 낸 던파는 ‘액션&amp;amp;쾌감’을 슬로건으로 게임 업계에 빠르게 자리 잡았다. 2005년 8월 10일 정식 출시 이후 서비스 1시간 만에 동시 접속자 수 1만 명을 돌파했고 같은 해 12월에는 동시 접속자 수 5만 명을 돌파했다.  김윤종 디렉터는 “이용자</content:encoded>
+    </item>
+    <item>
+      <title>英대법원 “AI는 자연인 아냐…특허권 소유할 수 없어” 최종 판단</title>
+      <link>https://www.donga.com/news/Inter/article/all/20231221/122732180/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20231221/122732180/1</guid>
+      <pubDate>2023-12-21T16:26:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122732274.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;영국 대법원이 인공지능(AI)은 특허권을 소유할 수 없다는 판단을 내렸다. AI를 인간과 같은 법적 행위자(agent)로 볼 수 없다는 판단에서다. 로이터통신 등에 따르면 영국 대법원은 20일(현지 시간) AI 시스템인 ‘다부스(DABUS)’가 고안한 발명품에 특허를 내달라며 미국 과학자 스티븐 세일러가 영국 특허청(IPO)을 상대로 제기한 소송에서 원고의 청구를 기각했다. 대법원은 “영국 특허법에 따르면 ‘발명가’는 기계가 아니라 자연인(natural person·행위능력을 가진 개인이라는 법적 용어)이어야 한다”며 만장일치로</content:encoded>
+    </item>
+    <item>
+      <title>“타임라인 안 보여요”…소셜미디어 X, 일시 먹통</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122732175/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122732175/1</guid>
+      <pubDate>2023-12-21T16:26:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122731872.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;소셜미디어(SNS) X(옛 트위터) 서비스가 21일 오후 한 때 먹통이 되면서 전 세계 이용자들이 불편을 겪었다.   이날 오후 2시40분부터 1시간가량 X 게시물이 보이지 않고 검색이 되지 않는 오류가 발생했다.   X에 접속하면 “타임라인에 오신 것을 환영합니다”라는 문구만 표출되고 이용자 게시물이 올라오지 않았다. 검색 기능 역시 작동하지 않았다.   X에서는 화제인 키워드를 제공하는 트렌드 기능에는 ‘아무것도 안보인다’, ‘#TwitterDown’, ‘#XDown’ 등 서비스 오류를 호소하는 단어가 표출되기도 했다.   정확한 장애 원인은 알려지지 않았다.  (서울=뉴스1)</content:encoded>
+    </item>
+    <item>
+      <title>2주 만에 40도 ‘뚝’… 이상 고온-북극 한파 넘나드는 이유는?</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122732371/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122732371/1</guid>
+      <pubDate>2023-12-21T16:39:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122732365.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;21일에 이어 22일(금)도 아침 최저기온이 영하 20도까지 내려가며 올겨울 가장 큰 추위가 예상된다. 북극 베링해 인근의 한기(寒氣)가 장애물 없이 한반도로 내려오고 있기 때문이다. 12월 초 영상 20도에 이르는 ‘이상 고온’에서 2주 만에 40도 가까이 떨어져 영하 20도 ‘북극 한파’가 온 것이다.● 22일도 영하 20도… 대설 경보까지기상청은 22일 아침 최저기온이 전국 영하 20도~영하5도 사이로 전날(21일)과 비슷한 강도의 혹독한 추위를 전망했다. 서울 영하 15도, 춘천 영하 18도, 대전 영하 14도, 광주 영하 8도, 대구 영하 10도, 부산 영하 7도 등으로 수도권 중부내륙은 영하 15도 이하, 남부도 영하 10도 이하로 내려간다. 아침 기온뿐 아니라 낮 기온도 영하 10도~영하5도 사이다.기상청 관계자는 “바람도 강하게 불면서 체감온도는 실제 기온보다도 5도 이상 낮을 수 있다. 서울의 경우 22일 아침 체감기온이 영하 21도, 낮 체감기온은 영하 1</content:encoded>
+    </item>
+    <item>
+      <title>“뭐했더라” 술먹고 끊겨버린 필름…뇌가 보낸 치매경고?</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122734866/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122734866/1</guid>
+      <pubDate>2023-12-21T18:05:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122734851.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;코로나19가 일상이된 후 맞이하는 첫 연말연시 모임이 많아지면 평소보다 술을 마실 기회가 늘어난다. 이른바 ‘필름이 끊긴다’고 표현되는 블랙아웃(black-out) 현상은 ‘알코올성 치매’의 위험신호여서 주의해야 한다.   21일 의료계에 따르면 치매의 50~60%는 알츠하이머병을 포함한 신경 퇴행성 치매이지만, 과도한 음주로 발생하는 알코올성 치매도 상당수를 차지한다. 알코올성 치매는 65세 미만 젊은 치매 환자의 약 10%를 차지한다.  코로나19 팬데믹으로 인한 사회적 거리두기로 감소했던 술자리가 일상회복의 영향으로 늘어날 가능성이 커져 주의할 필요가 있다. 지난해 국민건강영양조사 결과를 보면 우리나라 성인의 76.9%가 음주자였고, 1회 평균 음주량은 남성 7잔 이상·여성 5잔 이상이었다. 주 2회 이상 음주를 하는 고위험 음주율은 남성 21.3%, 여성 7.0%였다.   알코올성 치매는 알코올 과다 섭취로 뇌가 반복적인 손상을 입으면서 발생한다. 알코올은 단기적으로는 기억·판단 등 사고 과정을</content:encoded>
+    </item>
+    <item>
+      <title>이상찬 울산시 건설주택국장, “디자인은 산업도시 울산의 새로운 성장 기회입니다”</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122735220/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122735220/1</guid>
+      <pubDate>2023-12-21T18:24:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122735133.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난 2023년 1월 16일, 울산시와 산업통상자원부(이하 산업부), 한국디자인진흥원이 울산시 남구 울산대 공장형실험동에서 ‘울산 디자인주도 제조혁신센터(Design-driven Manufacturing Innovation Center, 이하 울산센터)’ 개소식을 개최했다. 개소식에는 서정욱 울산시 행정부시장, 김기환 울산시의회 의장, 이재석 산업부 엔지니어링디자인과장, 윤상흠 한국디자인진흥원장, 오연천 울산대학교 총장 등 50여 명이 참석했다.   디자인주도 제조혁신센터는 디자인 역량이 취약한 중소·중견 제조기업이 디자인을 통해 신상품 기획력과 개발 경쟁력을 높여 새로운 부가가치를 창출할 수 있도록 지원하기 위해 설립한 정부 출연 기관이다. 스마트그린산단 등에 거점센터를 구축, 제조와 디자인을 융합한 제품 개발 지원 프로그램을 운영하고 있다.  울산센터는 서울센터(2019년 6월), 경기센터(2021년 3월), 경남센터(2021년 3월), 경북센터(2021년 11월), 광주센터(2021년 12월), 대</content:encoded>
+    </item>
+    <item>
+      <title>인티그레이션 “격무에 시달리는 개원의들, 진료에만 집중할 수 있게 도울 것”</title>
+      <link>https://www.donga.com/news/It/article/all/20231221/122735803/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231221/122735803/1</guid>
+      <pubDate>2023-12-21T19:42:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122735781.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중소벤처기업부 창업진흥원은 글로벌 기업과의 협업으로 국내 유망 기업의 성장을 지원하고 해외 진출 기회를 마련하는 ‘글로벌 기업 협업 프로그램’을 진행하고 있습니다. 서울과학기술대학교는 올해 ‘글로벌 기업 협업 프로그램’을 전담하는 주관기관을 맡아 물밑에서 이들 기업을 지원하고 있습니다. 아마존, 오라클, IBM 등 글로벌 대기업들과 손잡고 세계를 향한 도약을 준비하고 있는 기업들의 얘기를 전합니다.  “의료인들이 진료에만 집중할 수 있는 환경을 만들면 결국 그 혜택은 의료 소비자들에게도 돌아갈 겁니다”  의료인 대상 플랫폼 서비스 기업인 인티그레이션의 정희범, 송언의 공동 대표의 말이다. 인티그레이션은 플랫폼을 통해 커뮤니티, 커머스, 교육, 경영 지원 솔루션 등을 제공하며 예비 의료인 및 의료인들이 업무 역량과 효율을 제고할 수 있도록 돕고 있다. 현재 한의사 플랫폼인 메디스트림, 치과의사 플랫폼 모어덴, 치과위생사 플랫폼 치즈톡 등을 운영하고 있다.   한의사 출신인 정희범 대표는 의료인인 동시에 자</content:encoded>
+    </item>
+    <item>
+      <title>[양종구의 100세 시대 건강법]“망가진 몸 되살려 준 산… 평생 오르며 건강한 노년 즐길 겁니다”</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20231221/122737152/1</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20231221/122737152/1</guid>
+      <pubDate>2023-12-21T23:39:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122737147.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;강원 평창군 미탄면에서 태어나 산과 함께 어린 시절을 보냈다. 산에서 뛰어노는 게 일이었다. 사업하다가 몸이 망가지자 다시 산을 찾았다. 건강을 되찾은 뒤 지금은 히말라야 안나푸르나 트레킹까지 즐기고 있다. 축산물 생산 도급업체 ㈜부성 임영순 회장(68)은 산을 타며 즐거운 노년을 만들어가고 있다. “20대 후반이었습니다. 사업하면서 접대를 많이 하다 보니 어느 순간 몸이 힘들었죠. 체중이 92kg까지 나갔고 고혈압에 당뇨까지 나왔죠. 어느 날 친구 따라 산에 갔는데 너무 좋은 겁니다. 개울이 흐르고, 꽃과 나무, 바위…. 어릴 때 기억이 솔솔 났죠. 그때부터 산을 다시 타기 시작했죠. 지금은 체중 76∼78kg을 유지하고 있습니다. 고혈압과 당뇨도 없습니다.” 주거지인 강원 원주시에서 가까운 치악산을 자주 올랐다. 평일엔 1만2000보에서 1만5000보를 걷고 주말엔 산을 오르는 루틴을 반복하고 있다. 그는 “산은 한번 타면 1∼2시간에 끝낼 수 없고 4∼6시간을 타야 한다. 오르</content:encoded>
+    </item>
+    <item>
+      <title>따뜻함, 떨림… 센서가 사람 피부처럼 느낀다</title>
+      <link>https://www.donga.com/news/It/article/all/20231222/122737946/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231222/122737946/1</guid>
+      <pubDate>2023-12-22T03:00:00.000Z</pubDate>
+      <content:encoded>국내 연구팀이 사람 피부처럼 다양한 촉각을 동시에 느끼는 시스템 기술을 개발했다.    한국기계연구원은 임현의 나노융합장비연구부장 연구팀이 실시간으로 촉각 정보를 제공하는 다중 촉각 감지 시스템을 개발해 국제학술지 ‘소프트 로보틱스’에 19일 발표했다고 밝혔다.   해당 시스템은 사람의 피부가 다양한 종류의 촉감을 감지해 뇌로 전달하는 원리를 모사해 개발됐다. 4개의 촉각센서, 신호처리, 전달, 분석을 담당하는 모듈로 구성돼 있으며 온열감, 표면 거칠기, 미끄럼 등의 촉감을 식별하고 이를 바탕으로 복잡한 동작을 구분할 수 있다.    시스템은 몸에 착용하는 형태의 기기를 만들어 촉각을 감지하기에 유리하다. 연구팀은 3차원(3D) 프린팅 기술로 구부러지기 쉬운 유연한 형태의 전극을 만들어 전자 모듈부의 FPCB와 연결했다. FPCB는 유연한 소재로 제작한 인쇄회로기판이다. FPCB를 적용한 기기는 몸의 굴곡에 맞춰 다양한 형태로 구부러질 수 있기 때문에 온도, 진동, 전단력, 수직 압력을 감지하는 네 가지</content:encoded>
+    </item>
+    <item>
+      <title>‘여인의 눈물’ 香 풀어놓자 싸움 멈춘 남성들</title>
+      <link>https://www.donga.com/news/It/article/all/20231222/122737940/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231222/122737940/1</guid>
+      <pubDate>2023-12-22T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/22/122737935.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;흔히 여성이 눈물을 흘리면 마음이 약해진다고 한다. 속설처럼 여겨지는 이 같은 현상이 실제로 가능하다는 연구 결과가 제시됐다. 여성의 눈물 냄새에 노출된 남성은 공격적인 행동이 줄어든다는 것이다. 공격성과 관련된 뇌 활동도 실제로 감소한 것으로 나타났다. 샤니 아그론 이스라엘 바이츠만연구소 박사후연구원 연구팀은 여성의 눈물에는 남성의 공격성을 차단하는 화학물질이 포함돼 있다는 연구 결과를 21일 국제학술지 ‘플로스 바이올로지’에 공개했다. 설치류 실험을 통해 암컷의 눈물 냄새가 수컷의 공격성을 차단한다는 점은 이미 확인된 사실이다. 동물에게는 흔하게 나타나는 현상으로, 연구팀은 인간에게도 이 같은 현상이 나타나는지 확인하기 위해 게임 실험을 설계했다. 연구팀은 먼저 건강한 성인 남성 실험 참가자 51명에게 게임을 하게 한 뒤 게임을 하는 동안 상대의 부정행위로 공격적인 행동이 생기도록 유도했다. 동시에 6명의 여성으로부터 채취한 눈물 또는 식염수 냄새에 노출되도록 했다. 눈물과 식염</content:encoded>
+    </item>
+    <item>
+      <title>진실 찾겠다며 검색창 켠 당신… ‘가짜뉴스의 늪’ 더 깊이 빠진다</title>
+      <link>https://www.donga.com/news/It/article/all/20231222/122737930/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20231222/122737930/1</guid>
+      <pubDate>2023-12-22T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/22/122737929.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인터넷 검색엔진이 일명 ‘가짜뉴스’로 불리는 허위정보를 사실로 믿게 하는 데 영향을 미치는 것으로 나타났다. 정보의 정확성을 판단하기 위해 인터넷 검색엔진 등 온라인 도구를 활용하는 경우가 많지만 인터넷 검색을 하는 사람들이 그렇지 않은 사람들보다 허위 주장을 사실로 평가할 가능성이 오히려 높다는 것이다. 온라인 공간에서 확산되는 무분별한 정보에 대한 비판적 사고력을 기를 수 있는 ‘디지털 리터러시’ 교육이 필수적이라는 진단이 제기된다.● 검색했는데도 거짓정보 믿을 가능성 높아져 케빈 애슬릿 미국 플로리다대 교수 연구팀은 이 같은 내용을 담은 연구 결과를 20일(현지 시간) 국제학술지 ‘네이처’에 발표했다. 연구팀은 3006명을 대상으로 진행한 실험에서 이 같은 결론을 내렸다. 연구팀은 미국에 거주하는 실험 참가자를 대상으로 뉴스의 정확도를 평가하도록 요청했다. 허위정보를 포함한 13개의 뉴스 기사에 대해 ‘사실’, ‘거짓’, ‘오해의 소지가 있음’, ‘거짓 여부를 판단할 수 없음’</content:encoded>
+    </item>
+    <item>
+      <title>한파 취약 가구 챙기는 尹</title>
+      <link>https://www.donga.com/news/Politics/article/all/20231222/122737502/1</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20231222/122737502/1</guid>
+      <pubDate>2023-12-22T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/22/122737793.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;윤석열 대통령이 한파가 닥친 21일 서울 중랑구 중화동의 한파 취약 가구를 방문해 홀몸노인에게 목도리를 걸어 주고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>“허브 언다, 온풍기 총동원”… 화훼-축산농가, 한파-폭설과 사투</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122737363/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122737363/1</guid>
+      <pubDate>2023-12-22T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/22/122737823.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“한파가 이어지는 바람에 자식 같은 허브들이 얼거나 검게 변색되고 있습니다.” 21일 충남 홍성군 홍동면 비닐하우스에서 만난 이정환 페퍼앤허브초록농장 대표(42)는 “영하 10도 안팎의 한파가 일주일째 이어지고 전날(20일)부터 20cm 가까운 폭설이 내리면서 주력 상품인 로즈메리, 애플민트 등 허브류 생산과 배송에 차질이 막대하다”고 하소연했다. 비닐하우스에 열풍기를 가동하며 재배한 허브를 배송하는 것도 문제다. 이 대표는 “하루 만에 소비자에게 가야 하는데 한파 때문에 배송이 일주일까지 걸린다고 하자 환불 요청이 이어지고 있다”며 “오늘은 제대로 보내줄 자신이 없어 피눈물 흘리는 심정으로 제가 100여 건의 주문을 취소했다”고 했다. ● 한파·폭설과 사투 펼치는 농가들 한파에 시달리는 충남 서해안 허브·화훼농가들은 적정 온도 유지를 위해 온풍기와 열풍기 등을 총동원하고 있다. 적정 온도를 지키지 못하면 상품성이 떨어지고, 크리스마스 대목에 매출을 올릴 수 없기 때문이다. 그러다</content:encoded>
+    </item>
+    <item>
+      <title>개업 외과의, 대형병원 수술 참여 쉬워진다</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122737307/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122737307/1</guid>
+      <pubDate>2023-12-22T03:00:00.000Z</pubDate>
+      <content:encoded>수술실을 떠나 동네의원을 차렸던 외과 의사가 파트타임으로 대형병원에서 수술에 참여하는 게 쉬워진다. 산간이나 도서지역 등 의료취약지에는 대학병원 전문 치료팀을 주기적으로 파견해 중증 진료 공백을 채운다. 보건복지부는 21일 경북도청에서 지역 의료계 및 지방자치단체 관계자들과 ‘지역 및 필수의료 혁신을 위한 간담회’를 열고 이 같은 ‘공유형 필수의료 인력 운영체계’ 도입 방안을 발표했다. 이 방안이 시행되면 필수의료 인력이 소속 병의원에 구애받지 않고 탄력적으로 환자를 진료할 수 있게 된다. 이를 위해 개원의가 일주일에 1, 2일 인근 종합병원에서 수술에 참여하는 등의 ‘개방병원’ 제도를 확대한다. 경기 고양시 일산차병원이 인근 정형외과 의원에서 전문의를 초빙해 척추 수술을 하고 있는데, 이런 사례가 확대되도록 지원한다. 개방병원 제도는 2009년 도입됐지만 의료분쟁 발생 시 책임이나 수익 분배 등에 대한 가이드라인이 미비해 올 9월 기준 참여 병원이 전국 105곳에 불과하다. 복지부</content:encoded>
+    </item>
+    <item>
+      <title>[신문과 놀자!/눈에 쏙쏙 디지털 이야기]세계 최강 슈퍼컴퓨터는 美‘프런티어’… 한국은 9위예요</title>
+      <link>https://www.donga.com/news/Society/article/all/20231221/122736973/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231221/122736973/1</guid>
+      <pubDate>2023-12-22T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/21/122733537.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난달 미국 덴버에서 슈퍼컴퓨팅콘퍼런스(SC·Supercomputing Conference)가 개최되었습니다. SC는 고성능컴퓨팅(HPC·High-Performance Computing) 분야의 세계 각국 전문가들이 모여 다양한 아이디어와 최신 연구 결과, 기술 동향을 공유하는 행사로 매년 6월과 11월 두 차례 열립니다. 이 기간에 전 세계 슈퍼컴퓨터의 성능을 평가한 순위인 톱500을 발표합니다(결과는 www.top500.org에서 확인할 수 있습니다). 여기서 우리나라는 국가별 보유대수 순위에서 총 12대로 이탈리아와 함께 공동 7위, 성능 기준으로는 9위를 기록했습니다. 세계에서 가장 빠른 슈퍼컴퓨터로는 미국 오크리지국립연구소에서 테니스 코트 2개 크기의 공간을 차지하고 있는 ‘프런티어(Frontier)’가 이름을 올렸습니다. 지난해 6월부터 4회 연속 세계 1위라고 합니다.● 세계 1위 슈퍼컴퓨터는 미국의 프런티어 슈퍼컴퓨터는 이름 그대로 컴퓨터 중의 최강자라고 할 수 있습니</content:encoded>
+    </item>
+    <item>
+      <title>[날씨]내일 체감 -20도 ‘최강 한파’ 계속…눈은 오전부터 그쳐</title>
+      <link>https://www.donga.com/news/Society/article/all/20231222/122739864/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20231222/122739864/1</guid>
+      <pubDate>2023-12-22T09:04:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2023/12/22/122739847.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;토요일인 23일에는 새벽까지 전라 서해안에 눈이나 비가 내리다 그치겠다. 제주에는 밤까지 눈이나 비가 내리겠다.   아침 최저기온은 -17도에, 체감은 -20도를 밑돌겠다. 낮부터 기온은 차차 올라가지만 여전히 평년 기온을 밑돌며 춥겠다.  22일 기상청에 따르면 23일에는 전국이 대체로 맑다가 오후부터 구름이 많아지거나 흐려지겠다.  아침 최저기온은 -17~-4도, 낮 최고기온은 -3~5도가 예상된다.   아침까지는 강추위가 이어지다가 낮부터 기온이 다소 올라간다. 낮 기온은 이날(-9~2도)보다 3~6도 높겠다. 다만 기온은 평년(최저기온 -9~2도, 최고기온 3~10도)보다 여전히 낮겠다.  주요 도시 예상 최저기온은 △서울 -12도 △인천 -11도 △춘천 -16도 △강릉 -8도 △대전 -12도 △대구 -8도 △전주 -10도 △광주 -7도 △부산 -5도 △제주 2도다.  최고기온은 △서울 -2도 △인천 -2도 △춘천 -1도 △강릉 3도 △대전 0도 △대구 2도 △전주 1도 △광주 2도 △부산 5도</content:encoded>
     </item>
   </channel>
 </rss>
