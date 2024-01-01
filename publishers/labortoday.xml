@@ -3,14 +3,7 @@
     <title>매일노동뉴스 - 전체</title>
     <link>https://www.labortoday.co.kr/rss/allArticle.xml</link>
     <description>매일노동뉴스 - 전체</description>
-    <lastBuildDate>2023-12-31T00:09:54.134Z</lastBuildDate>
-    <item>
-      <title>출퇴근 시간 입력하면 임금 ‘자동계산’</title>
-      <link>http://www.labortoday.co.kr/news/articleView.html?idxno=219010</link>
-      <guid>http://www.labortoday.co.kr/news/articleView.html?idxno=219010</guid>
-      <pubDate>2023-12-27T16:38:04.000Z</pubDate>
-      <content:encoded>출·퇴근 시간과 휴무일을 입력하면 각종 수당을 포함한 임금이 자동계산되는 임금명세서 작성 프로그램이 27일 공개됐다. 지난해 4월 고용노동부가 만든 임금명세서 작성 프로그램의 업그레이드 버전이다. 과거 프로그램은 사업주가 가산수당과 공제항목 등 정보를 직접 입력, 계산하는 시스템이었다.노동부는 “고도화된 임금명세서 작성 프로그램으로 사업주들의 편의성이 크게 높아지고 근로자도 본인의 임금 내역 확인이 더욱 쉬워질 전망”이라고 설명했다.이날부터 내년 1월22일까지 시범운영한 뒤 발견되는 문제를 지속적으로 보완할 계획이다.해당 프로그램은</content:encoded>
-    </item>
+    <lastBuildDate>2024-01-01T00:07:49.675Z</lastBuildDate>
     <item>
       <title>4명 이하 농어업 노동자, 원하면 고용보험 가입</title>
       <link>http://www.labortoday.co.kr/news/articleView.html?idxno=219011</link>
@@ -447,6 +440,13 @@
         &lt;p&gt;
         고용노동부는 29일 8시간 추가근로제 일몰에 따라 사업장에 부여한 계도기간을 내년 1월1일부터 12월31일까지 1년 연장한다고 밝혔다. 8시간 추가연장근로 제도는 2018년 주 52시간 상한제를 도입하면서 영세사업장의 충분한 준비 기간
       </content:encoded>
+    </item>
+    <item>
+      <title>[새해에 바뀌는 노동제도] 최저임금 9천860원, 6+6 육아부모휴직제 시행</title>
+      <link>http://www.labortoday.co.kr/news/articleView.html?idxno=219062</link>
+      <guid>http://www.labortoday.co.kr/news/articleView.html?idxno=219062</guid>
+      <pubDate>2023-12-31T11:15:39.000Z</pubDate>
+      <content:encoded>새해에는 최저임금이 시간당 9천860원으로 전년보다 240원 오르고 ‘6+6 부모육아휴직제&apos;가 시행된다. 6+6 부모육아휴직제는 자녀 생후 18개월 내 부모가 동시 혹은 순차적으로 육아휴직을 사용하면 부모 각각에 육아휴직급여를 최대 450만원을 지원하는 제도다.최저임금 인상 효과 저하육아휴직 지원은 확대2024년 최저임금은 9천860원으로 올해보다 2.5% 인상된다. 월급으로 환산하면 206만740원(소정근로 월 209시간 기준)이다. 정기상여금과 현금성 복리후생비 전체는 최저임금에 산입된다. 3개월마다 지급하는 정기상여금을 매달</content:encoded>
     </item>
   </channel>
 </rss>
