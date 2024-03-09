@@ -3,77 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2024-03-08T00:09:53.912Z</lastBuildDate>
-    <item>
-      <title>행안부, UAE와 디지털정부 협력 강화…“한국 IT기업 중동 진출 노력”</title>
-      <link>https://www.donga.com/news/Inter/article/all/20240306/123841653/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20240306/123841653/1</guid>
-      <pubDate>2024-03-06T15:17:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123841647.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;행정안전부가 아랍에미리트(UAE)와 디지털정부 협력을 강화하기로 했다. UAE 측은 디지털정부 구축 과정에서 한국의 정보통신(IT) 기업들과 협업하며 발전하고 싶다는 의사를 밝혔다. 5일(현지 시간) 이상민 행안부 장관은 세계 최초 인공지능(AI) 분야 장관인 UAE 인공지능·디지털경제부 오마르 알 올라마 장관과 만나 디지털정부 분야의 AI 활용에 대해 논의했다. UAE는 2022년 유엔 전자정부 평가에서 우리나라와 같은 ‘매우 높음’ 등급(13위)을 받는 등 디지털 신흥 강국으로 꼽힌다. UAE 정부는 AI와 폐쇄회로(</content:encoded>
-    </item>
-    <item>
-      <title>日정부 ‘라인야후’에 “네이버 자본관계 재검토하라”…라인야후 임원 보수 반납</title>
-      <link>https://www.donga.com/news/Inter/article/all/20240306/123843851/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20240306/123843851/1</guid>
-      <pubDate>2024-03-06T16:18:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123843849.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일본 정부가 일본의 ‘국민 메신저’ 라인(LINE) 운영사인 ‘라인야후’에 대해 모회사인 한국 네이버와의 자본 관계 재검토를 포함한 경영 체제 개선을 요구했다. 일본 정부가 특정 기업에 자본 관계 재검토를 요청한 건 매우 이례적이다.일본 총무성은 4일 이데자와 다케시(出沢剛) 라인야후 사장을 불러 전기통신사업법상 통신 비밀 누설을 지적하며 네이버와의 자본 관계 수정 등을 요청하는 행정 지도서를 전달했다. 총무성은 라인야후 일본 측 주주인 소프트뱅크 사장도 불러 라인야후 요청이 있으면 적절히 검토하라고 구두로 요청한 것으로 전해졌다.라인야후는 네이버와 일본 소프트뱅크가 각각 50%씩 출자한 합작 조인트벤처 ‘A홀딩스’가 지분 64.4%를 보유하고 있다. 일본에서 가장 널리 쓰이는 메신저 라인과 일본 최대 포털인 야후를 운영한다. 일본에서 라인을 월 1회 이상 사용하는 사람 수는 9600만 명에 이른다.일본 정부는 라인야후가 네이버에 시스템 개발과 운용, 보수 등을 위탁하며 개인정보 관</content:encoded>
-    </item>
-    <item>
-      <title>NAS 보안을 강화하는 8가지 보안 수칙</title>
-      <link>https://www.donga.com/news/It/article/all/20240306/123844521/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240306/123844521/1</guid>
-      <pubDate>2024-03-06T16:53:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123844504.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;개인과 기업이 생산하는 데이터가 늘어나면서 ‘네트워크 결합 스토리지(NAS)’를 주요 데이터 백업 매체로 활용되고 있다. NAS는 데이터를 저장할 뿐 아니라 네트워크를 통한 웹 호스팅, 웹 애플리케이션, 미디어 스트리밍 등 다양한 서비스를 지원한다. 그만큼 해커의 접근이 용이하다. 이에 한국인터넷진흥원(KISA)과 과학기술정보통신부가 NAS 사용자를 위한 보안 수칙을 발표했다. 이용자가 보다 안전한 환경에서 데이터를 보호하고 디지털 기술을 활용하도록 하기 위함이다.    강력한 보안이 필요한 NAS  NAS는 데이터를 저장하고 네트워크를 통해 공유할 수 있는 스토리지 장치다. 대용량 파일이나 다수의 파일을 저장하고 별도 디바이스를 통해 언제 어디서나 접근할 수 있는 것이 장점이다. 최근에는 단순한 저장장치를 넘어 웹 호스팅, 미디어 스트리밍 등에도 활용되고 있다.   문제는 네트워크를 통한 외부 노출로 인해 해커의 접근이 쉬워진다는 점이다. 특히 데이터 백업, 미디어 스트리밍, 원격 액세스 등 제조사가</content:encoded>
-    </item>
-    <item>
-      <title>“오래 앉아있는 사람들, 하루 9000보 걸어야 심혈관질환 사망률↓”</title>
-      <link>https://www.donga.com/news/It/article/all/20240306/123844594/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20240306/123844594/2</guid>
-      <pubDate>2024-03-06T16:55:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123844602.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오랜 시간 앉아서 생활하는 사람들은 하루에 9000보에서 1만 보를 걸으면 심혈관 질환 발생률과 이로 인한 사망률을 줄일 수 있다는 연구 결과가 해외에서 나왔다.  5일(현지시간) 호주 시드니대 연구진은 성인 7만여 명을 대상으로 3년 이상 추적 조사한 결과 이 같은 결과가 나왔다고 밝혔다.  지금까지 앉아서 많은 시간을 보내는 사람들은 심혈관 질환으로 인한 사망에 이를 확률이 높다는 연구나 걷기가 심혈관 질환 발병률을 낮춰준다는 연구 결과는 많이 나온 바 있다.  하지만 앉아서 생활하는 데 익숙한 사람들이 어떻게 운동하면 효과를 얻을 수 있는가에 대해선 분석된 바가 없다.  연구진은 이번 연구를 진행하고자 UK 바이오뱅크를 통해 평균 연령 61세의 성인 7만 2174명의 데이터를 분석했다. 참가자 비율은 남·여 비율은 42:58 이었다. 또 참가자들에게 7일간 손목에 가속도계 장치를 착용하게 하고 신체 활동을 측정하면서 좌식 생활을 하는지 여부를 판단한 후 6년 이상 신체활동과 건강 상태에 대한 지속적</content:encoded>
-    </item>
-    <item>
-      <title>확률형 아이템 표시의무제도 사후관리…“자체등급분류사업자 협력 절실”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240306/123844559/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240306/123844559/1</guid>
-      <pubDate>2024-03-06T16:56:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123844501.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이달 22일부터 게임 확률형 아이템 표시의무제도가 시행되자 정부가 자체등급분류사업자와 사후 관리에 협력한다.  게임물관리위원회는 제도 시행에 앞서 협력 체계를 논의하는 간담회를 업계와 가졌다고 6일 밝혔다.  제도에 따라 확률형 아이템을 제공하는 모든 게임물은 아이템 유형과 확률정보 등을 투명하게 공개해야 한다.  이후 관리에는 자체등급분류사업자의 협조가 필요하다. 문체부 장관이 지정한 이들 사업자는 게임물을 자체적으로 등급 분류할 수 있다.  이날 현장에는 자체등급분류사업자 10개 사가 참여했다. 삼성전자(005930)·스마일게이트홀딩스·원스토어(377360) 등 국내 기업 3곳과 애플코리아·한국 닌텐도·구글 LLC 등 외국계 기업 7곳이 있다.  게임위는 이들 기업에 △확률형 아이템 모니터링 대상으로 선정된 게임물 관리 △문체부 장관 시정명령을 위반한 게임물의 사후 조치 등에 협조해달라고 강조했다.  또 의무 준수에 있어 국내 게임사와 해외 게임사 간 역차별이 발생하지 않도록 업계에 당부했다.  김규</content:encoded>
-    </item>
-    <item>
-      <title>이르면 3월 중순부터 번호이동시 지원금 최대 50만원 받는다</title>
-      <link>https://www.donga.com/news/It/article/all/20240306/123844591/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240306/123844591/1</guid>
-      <pubDate>2024-03-06T16:58:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123844589.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이르면 3월 중순부터 소비자들이 휴대전화 통신사를 바꾸는 번호이동을 할 때 통신사로부터 최대 50만 원까지 지원받을 수 있게 된다. 방송통신위원회는 6일 열린 국무회의에서 ‘이동통신단말장치 유통구조 개선에 관한 법률(단말기 유통법) 시행령’ 일부개정안을 의결했다고 밝혔다. 정부가 가계의 통신비 부담을 낮추기 위해 통신사들이 번호이동을 하는 소비자의 부담 비용을 지원하는 ‘전환지원금’을 지급할 수 있도록 한 것이다. 통신 서비스 소비자들의 차별을 금지하는 ‘단통법’이 사실상 사라지게 된 셈이다.  기존에는 소비자 차별 금지를 이유로 통신사들이 번호이동 고객들에게 지원금을 줄 수 없었다. 하지만 이번에 시행령이 개정되면서 통신사가 최대 50만 원 이내에서 자율적으로 지원금을 지급할 수 있게 됐다.    정부는 이번 조치로 통신사들이 지원금 경쟁에 나서면서 자연스럽게 가계 통신비를 낮추는데 기여할 것으로 기대하고 있다. 하지만 일부에서는 단통법 시행 이전 같은</content:encoded>
-    </item>
-    <item>
-      <title>러시아 “中과 2035년까지 달에 ‘원자력발전소’ 건설 검토”</title>
-      <link>https://www.donga.com/news/Inter/article/all/20240306/123844806/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20240306/123844806/1</guid>
-      <pubDate>2024-03-06T17:09:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123834201.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘2035년 달에 원자력발전소가 세워진다?’러시아가 5일(현지 시간) “중국과 함께 2035년까지 달에 원자력발전소(원전)를 건설하는 프로젝트를 검토하고 있다”고 발표했다. 지난달 미국이 민간기업 최초로 달 착륙에 성공하자, 러시아와 중국 등도 미래 우주 경쟁에 잰걸음을 내는 모양새다. 로이터통신에 따르면 유리 보리소프 러시아 연방우주공사(로스코스모스) 사장은 이날 “우리는 중국 동료들과 함께 2033년부터 2035년까지 달 표면에 발전소를 건설하는 프로젝트를 진지하게 고려하고 있다”고 밝혔다. 그는 “태양광 패널은 달 정착에 충분한 전력을 공급할 수 없지만 원자력은 가능하다”며 “이는 매우 중대한 도전으로 인간이 개입하지 않고 자동 모드로 진행돼야 한다”고도 했다. 아울러 러시아는 핵 추진 화물 우주선을 건설할 계획도 공개됐다. 보라소프 사장은 “원자로 냉각 방법을 찾는 게 관건이 될 것”이라며 “나머지 프로젝트와 관련된 모든 기술적 문제는 해결됐다”고 설명했다.지난달 블</content:encoded>
-    </item>
-    <item>
-      <title>박상욱 과학기술수석 “내년 R&amp;D 예산 증액, 적정하면 한도 없다”</title>
-      <link>https://www.donga.com/news/Politics/article/all/20240306/123845369/1</link>
-      <guid>https://www.donga.com/news/Politics/article/all/20240306/123845369/1</guid>
-      <pubDate>2024-03-06T17:24:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123845277.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;박상욱 대통령비서실 과학기술수석이 6일 내년 R&amp;amp;D(연구개발) 예산 증액 방침과 관련해 “한도를 두고 작업하지 않는다”고 말했다.  박 수석은 이날 세종 과학기술정보통신부 기자실을 방문해 “올해 신규 사업 시행으로 R&amp;amp;D 예산 규모가 엄청나게 커지는 것을 두려워하지 않는다”며 이같이 말했다.  이어 “내년부터 R&amp;amp;D 예산을 대폭 증액하겠다는 목표를 위해 R&amp;amp;D 투자 시스템 개혁 과제를 완수해야 한다”고 덧붙였다.  윤석열 대통령이 내년 R&amp;amp;D 예산을 대폭 늘리겠다고 공언한 것에 발맞춰 예산을 증액하는 방향으로 사업 추진을 하고 있음을 드러낸 것이다.  박 수석은 “국가 전략기술에만 R&amp;amp;D를 할 수 없다. 모든 과학기술 분야가 예산 증액 대상이 될 것”이라면서 “R&amp;amp;D 연구자들이 하는 기초과학 등의 분야는 우리나라의 과학기술 생태계를 유지하기 위해 필요한 몸통이다. 특정 전략기술에만 R&amp;amp;D 예산이 집중되고 타 분야는 소외되는 것은 어불성설”이라고 강</content:encoded>
-    </item>
-    <item>
-      <title>사람 개입 없는 AI 면접 시, ‘불합격’ 불복 가능해진다</title>
-      <link>https://www.donga.com/news/Society/article/all/20240306/123848202/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20240306/123848202/1</guid>
-      <pubDate>2024-03-06T20:26:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123848935.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;앞으로 인공지능(AI) 만으로 진행한 면접에서 불합격한 사람은 설명·재검토를 요구하거나 결정에 불복할 수 있다.개인정보보호위원회(개보위)는 6일 이런 내용을 담은 ‘개인정보보호법’ 개정안이 15일부터 시행된다고 밝혔다. 개정안은 AI가 개인정보를 처리할 때 정보 주체에게 기준과 절차 등을 투명하게 공개하는 한편, 당사자가 요구하면 어떤 기준과 절차에 따라 결정을 내렸는지 설명토록 하는 내용이 담겼다.개보위 관계자는 “AI 등이 내리는 ‘자동화된 결정’에 대한 대응권이 마련되는 것”이라고 설명했다. ‘자동화된 결정’이란 사람이 개입하지 않은 채 AI 등이 개인정보를 다루면서 당사자 권리와 의무에 영향을 주는 결정을 내린 경우를 뜻한다. 예를 들어 ‘AI 면접관’이 지원자의 당락을 결정하는 경우가 대표적이다. 개정안 시행 후 ‘AI 면접관’이 합격 여부를 결정했다면 불합격자는 설명이나 재검토를 요구할 수 있고, AI의 결정에 불복할 수도 있다. 공공기관이 AI를 적용한 부정수급 탐지시스</content:encoded>
-    </item>
-    <item>
-      <title>갤럭시 S23에도 적용되는 갤럭시 AI 기능, S22는?</title>
-      <link>https://www.donga.com/news/It/article/all/20240306/123848343/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240306/123848343/1</guid>
-      <pubDate>2024-03-06T20:44:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123848330.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난 1월 출시된 삼성전자 &apos;갤럭시 S24&apos; 시리즈의 주요 키워드는 ‘AI(인공지능)’다. 이전에 출시된 갤럭시 시리즈도 AI를 이용해 사용자 경험을 향상시킨 사례가 있었지만 갤럭시 S24 시리즈는 좀 더 본격적이다.    갤럭시 S24 시리즈는 삼성전자에서 자체 개발한 생성형 AI 모델인 삼성 가우스(Sumsung Gauss)에 기반한 ‘갤럭시 AI’를 적용한 것이 특징이다. 주요 기능으로는 AI를 활용한 실시간 음성 통화 통역 기능, 노트한 내용의 자동 요약, 음성 녹음 데이터의 자동 녹취록 생성, 문자 메시지나 메신저 앱으로 상대방과 소통할 때 자동으로 문장 스타일을 수정하는 기능 등이다. 단순히 신기함을 넘어 실제로 활용성이 높은 기능을 AI를 통해 구현한 것이 특징이다. 이와 더불어 구글에서 개발한 AI 기반 간편 텍스트∙이미지 검색 기능인 ‘구글 서클’ 기능도 갤럭시 S24 시리즈에 처음으로 적용되었다.    다만, 앞서 말한 것처럼 이러한 갤럭시 AI 기능을 이용할 수 있는 스마트폰은 갤럭시</content:encoded>
-    </item>
+    <lastBuildDate>2024-03-09T00:09:30.537Z</lastBuildDate>
     <item>
       <title>KAIST “엔비디아 AI 반도체의 625분의 1 전력 쓰는 제품 개발”</title>
       <link>https://www.donga.com/news/Economy/article/all/20240307/123849957/1</link>
@@ -101,41 +31,6 @@
       <guid>https://www.donga.com/news/It/article/all/20240306/123849537/1</guid>
       <pubDate>2024-03-07T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123844683.10.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;</content:encoded>
-    </item>
-    <item>
-      <title>넥스트 모바일 시장 잡아라… 불붙은 ‘XR 삼국지’</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240306/123849348/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240306/123849348/1</guid>
-      <pubDate>2024-03-07T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123845856.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;스마트폰을 이을 차세대 개인 기기로 꼽히고 있는 확장현실(XR) 시장 주도권을 두고 글로벌 빅테크 경쟁이 격화하고 있다. 메타가 세계 시장 점유율 50%를 차지하고 있는 가운데 애플과 구글이 진입을 본격화하며 메타-애플-구글의 ‘XR 삼국지’로 전개되는 양상이다. 특히 XR 시장의 킬러 콘텐츠 확보를 위해 빅테크 3사가 적극적인 우군 만들기에 나설 것이란 전망도 나온다.● 저커버그 방한도 XR 우군 확보 일환마크 저커버그 메타 최고경영자(CEO)가 지난달 28일 XR 게임 등을 개발하는 국내 스타트업들을 만난 것도 이 연장선으로 해석된다. XR 경쟁이 치열해지는 상황 속에서 콘텐츠 우군을 선제적으로 확보하고 포섭하려는 것이다. 한 국내 XR 게임 개발사 관계자는 “메타뿐만 아니라 구글, 애플과 모두 XR 게임 출시 협력을 진행하거나 논의하고 있다”며 “향후 1∼2년 내에 세 회사의 개발사 확보 경쟁이 정점에 오를 것”이라고 예상했다.  차세대 모바일 기기로 기대를 모았지만 활용성 부</content:encoded>
-    </item>
-    <item>
-      <title>“챗GPT가 본 한국 산업, 탄소 중립은 기회… 공급망 재편은 위기”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240306/123849316/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240306/123849316/1</guid>
-      <pubDate>2024-03-07T03:00:00.000Z</pubDate>
-      <content:encoded>생성형 인공지능(AI) 챗GPT를 통해 100대 상장기업의 경영 메시지를 분석한 결과 ‘디지털 전환 및 AI 확산’은 한국 기업의 기회이자 위기인 것으로 나타났다. 6일 대한상공회의소는 100대 상장기업 중 올해 신년사, 시무식 인사말 등을 공개한 47개 기업의 경영 메시지를 챗GPT로 분석한 결과 24곳(49%)이 지난해보다 올해 경영 상황이 어려울 것으로 예상했다. 지난해보다 나을 것이라는 응답은 25.5%에 그쳤고, 나머지는 메시지에 경제 상황에 대한 언급이 부족해 전망을 알 수 없다고 응답했다. 챗GPT가 분석한 한국 기업의 기회 요인은 ‘탄소중립 기조 강화’ ‘글로벌 시장 확장’ ‘디지털 전환 및 AI 도입에 따른 경쟁력 강화’로 나타났다. 위기 요인은 ‘공급망 재편 및 지정학적 리스크’ ‘고물가·고환율·고유가’ ‘디지털 전환 및 AI 도입 지체’를 꼽았다. 디지털 전환과 AI 도입의 경우 기회이기도 하지만 적절하게 대응하지 못하면 위험 요소가 될 수도 있다고 본 것이다.</content:encoded>
-    </item>
-    <item>
-      <title>“포스코DX, 산업 AI 전문기업으로 성장”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240306/123849277/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240306/123849277/1</guid>
-      <pubDate>2024-03-07T03:00:00.000Z</pubDate>
-      <content:encoded>“철강, 이차전지 소재, 물류 등 중후장대 산업 현장에 특화한 독창적인 인공지능(AI) 기술을 개발 및 확산해 포스코DX가 ‘산업 AI 전문 기업’으로 성장해 나갈 수 있도록 노력하겠다.” 윤일용 포스코DX AI센터장은 6일 서울 광화문 HJ 비즈니스센터에서 미디어 간담회를 열고 인공지능전환(AX) 사업 계획을 발표했다. 윤 센터장은 “산업 현장에서 AX에 대한 리더십을 확보하겠다”고 강조했다. 이를 위해 포스코DX는 기존 AI 조직을 확대 개편해 AI기술센터를 신설했다. 산업현장에서 발생되는 데이터를 기반으로 AI 기술을 적용해 자율화, 무인화, 최적화를 구현함으로써 생산성을 높이고 보다 효율적이고 안전한 현장을 만드는 것이 목표다. AI기술센터는 철강 제조, 이차전지 소재 등 포스코그룹의 중점사업 영역의 AI 기술 수요에도 대응하게 된다. 그동안 스마트팩토리를 구축해 온 포스코DX는 산업 현장의 자율화를 위한 3대 핵심 기능인 인지, 판단, 제어 분야에 AI 기술을 접목해 사람의</content:encoded>
-    </item>
-    <item>
-      <title>삼성전자, AI 공기청정기 출시</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240306/123849089/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240306/123849089/1</guid>
-      <pubDate>2024-03-07T03:00:00.000Z</pubDate>
-      <content:encoded>삼성전자가 인공지능(AI) 기능을 탑재한 프리미엄 공기청정기 ‘비스포크 큐브 에어 인피니트 라인’을 6일 출시했다. 신제품은 4면 360도 방향으로 오염된 공기를 흡입해 깨끗한 공기를 고르게 내보낸다. AI 기술을 적용해 실내 공기질이 좋아지면 알아서 바람 세기를 조절하거나 팬 작동을 멈춰 최대 45%까지 에너지를 절감할 수 있다. 청정 면적 기준 100㎡, 33㎡ 등 2종이 출시되고 가격은 각각 159만9000원, 79만9000원이다.</content:encoded>
-    </item>
-    <item>
-      <title>삼성 AI 로봇청소기 해외 호평… 中 제품과 경쟁</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240306/123849046/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240306/123849046/1</guid>
-      <pubDate>2024-03-07T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123849364.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 올해 초 세계 최대 정보기술(IT)·가전 전시회 ‘CES 2024’에서 선보인 건습식 겸용 로봇청소기 ‘비스포크 제트 봇 콤보’(사진)가 해외에서 좋은 평가를 받고 있다.  지난달 29일 삼성전자에 따르면 미국 IT 전문매체 시넷은 비스포크 제트 봇 콤보를 “일반적인 로봇청소기가 가진 문제점을 극복한 제품”이라고 호평했다. 인공지능(AI)이 탑재된 이 제품은 스스로 바닥 재질을 인식하고 적절한 청소 모드를 설정할 수 있다. 바닥의 얼룩을 인식해 오염 부분을 집중적으로 청소하는 것도 가능하다. 소비자용 IT 전문매체 톰스 가이드는 비스포크 제트 봇 콤보를 ‘CES 2024 최고의 로봇청소기’로 선정하기도 했다. 이 매체는 “바닥 얼룩을 감지한 후 스팀으로 데워진 물걸레를 빠른 속도로 회전해, 바닥 오염과 찌든 때를 효과적으로 제거한다”고 설명했다.  비스포크 제트 봇 콤보에는 물세척·스팀 살균·열풍 건조의 3단계 물걸레 자동 세척 시스템이 적용됐다. 로봇청소기가 걸레질을 마</content:encoded>
     </item>
     <item>
       <title>사람 없는 불길 뛰어든 ‘소방관 비극’…생존자 찾는 ‘음향 센서’로 막는다</title>
@@ -320,7 +215,7 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123871148.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지구 온난화에 대응하기 위해 세계 각국이 탄소 배출을 줄이려는 노력을 하고 있지만 역부족이라는 진단이 속속 나온다. 지난해 11월 제임스 핸슨 미국 컬럼비아대 지구환경과학과 교수 연구팀이 공개한 연구 결과가 대표적이다. 연구팀은 당시 탄소 배출 감축 노력만으로는 지구 온난화를 막기 어렵다는 내용을 담은 데이터 분석 결과를 공개했다. 탄소 배출 감축 외 특단의 대책을 강구해야 한다는 목소리가 높아지고 있다. 과학자들은 지구를 식히기 위한 다양한 공학 아이디어를 잇달아 제시하고 나섰다. 미국 항공우주국(NASA) 과학자들은 2월 말 지구 대기에 얼음을 뿌려 지구 온도를 낮추자는 야심 찬 전략을 공개했다. 이에 앞서 지구로 들어오는 태양에너지를 줄이는 차단막을 띄우거나 성층권에 미세한 입자를 뿌려 햇빛을 반사시키자는 아이디어도 제시됐다. 인위적으로 지구를 식히는 지구공학적 아이디어에 대한 부작용 우려도 나오지만 지구 온난화를 늦추는 최후의 수단 아니냐는 시각도 있다.● 비행기 띄워 성층권</content:encoded>
     </item>
     <item>
-      <title>복귀 전공의에 ‘참의사’ 조롱…전공의판 블랙리스트 논란</title>
+      <title>전공의판 블랙리스트 논란</title>
       <link>https://www.donga.com/news/Society/article/all/20240307/123869032/1</link>
       <guid>https://www.donga.com/news/Society/article/all/20240307/123869032/1</guid>
       <pubDate>2024-03-08T03:00:00.000Z</pubDate>
@@ -353,6 +248,111 @@
       <guid>https://www.donga.com/news/Society/article/all/20240308/123872101/1</guid>
       <pubDate>2024-03-08T09:04:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123872081.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;주말인 9일 최저기온이 -7도까지 떨어지며 춥겠고, 바람이 약간 강하게 불며 체감온도가 -10도 안팎에 머물겠다. 남부 지방에 특히 바람이 강하게 불겠다.  8일 기상청에 따르면 9일 아침 최저기온은 -7~1도, 낮 최고기온은 3~10도가 예상된다.   평년(최저기온 -4~4도, 최고기온 8~12도)보다 기온이 1~4도 낮아 비교적 쌀쌀하겠다. 서울 아침기온이 -3도, 춘천 -6도, 대전·전주 -3도, 부산 -1도 등 전국이 아침에 영하권에 머물겠다.  바람이 약간 강하게 불며 체감온도는 더 낮아 -10도 전후가 예상된다. 일교차가 10도 내외로 크겠어서 환절기 건강관리에 유념해야 한다.  전국이 대체로 맑겠고, 전라권과 제주에 가끔 구름이 많겠다. 전라·제주에는 순간풍속 55~70㎞의 강풍이 불 전망이라 시설물 관리와 안전사고에 각별한 주의가 필요하다.  강원 동해안과 경상 해안에는 너울에 의해 높은 물결이 갯바위나 방파제를 넘는 곳이 있겠다.   미세먼지는 전 권역에서 ‘좋음’이 예상된다.  (서울=</content:encoded>
+    </item>
+    <item>
+      <title>[KESIA 시드팁스] 프렉탈테크놀로지 “검증된 고객과 데이터 갖춘 M&amp;A 거래소 만듭니다”</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123873916/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123873916/1</guid>
+      <pubDate>2024-03-08T10:28:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123873808.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국초기투자기관협회(KESIA)는 중기부 주관 민간주도형 예비창업 지원 프로그램 ‘시드팁스(Seed TIPS)’의 주관 기관이다. 시드팁스는 민관 협력 창업 프로그램 TIPS의 이전 단계 지원 프로그램이다. 전문성을 갖춘 민간 운영사 7곳(인포뱅크, 프라이머 시즌 5, 앤틀러코리아, 소풍벤처스, 엔슬파트너스, 탭엔젤파트너스, 와이앤아처)이 스타트업의 창업팀 구성부터 시드 투자 유치까지 초기 단계 성장을 책임지고 지원한다.  M&amp;amp;A는 기업의 경영권을 인수하거나 두 개 이상의 기업을 하나로 합치는 것을 말한다. 이는 중소기업이나 스타트업이 투자금을 회수하는 방법 중 하나다. 하지만 국내 M&amp;amp;A 시장은 미국, 중국, 일본만큼 활성화되어 있지 않다.   프렉탈테크놀로지를 창업한 심정훈 대표는 그 이유에 대해 M&amp;amp;A 관련 지식 및 정량화된 데이터의 부재를 꼽는다. 적절한 M&amp;amp;A 전략을 세우지 않고 매수자가 원하는 정량화된 데이터를 제공하지 못하니 M&amp;amp;A가 활성화되지 못한다는 설</content:encoded>
+    </item>
+    <item>
+      <title>마니아 장르였던 ‘소울라이크’ 전 세계를 사로잡다[조영준의 게임 인더스트리]</title>
+      <link>https://www.donga.com/news/It/article/all/20240307/123862033/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240307/123862033/1</guid>
+      <pubDate>2024-03-08T11:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/07/123862026.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세상에는 정말 다양한 게임이 있는데요. 일부러 게임을 힘들고, 어렵게 만들어 이용자들을 유혹하는 게임 장르가 있습니다. 이른바 ‘소울라이크’로 불리는 액션 RPG입니다. 게임을 클리어했을 때의 성취감이 여타 장르보다 압도적으로 뛰어나기 때문에 큰 사랑을 받고 있죠,‘소울라이크’ 장르는 흔히 어려운 게임으로 알려져 있습니다. 지나가다 만나는 졸개 수준의 몬스터와도 캐릭터의 목숨을 걸고 대결을 펼쳐야 할 정도이며, 보스 몬스터와 대결은 이걸 사람이 깨라고 만들어 놨나 싶은 생각이 들 정도입니다. 실수 한 번이면 게임 오버로 이어져 긴장의 끈을 놓을 수가 없죠. ‘소울라이크’가 뭐지?이러한 높은 난도라는 특징 때문에 최근 게이머들은 높은 난도를 가진 게임을 ‘소울라이크’ 장르로 부르기도 합니다. 어려운 게임이 나왔다면 그 게임과 제목과 소울이라는 단어를 합쳐 XX 소울이라고 부르면서 말이죠.하지만 그저 단순히 게임이 어렵다고 ‘소울라이크’라고 부르는 것은 아닙니다. 조금 더 자세</content:encoded>
+    </item>
+    <item>
+      <title>“아침에 ‘이것’ 많이 먹으면 외모 매력 떨어져…피부 등에 영향”</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123875532/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123875532/2</guid>
+      <pubDate>2024-03-08T11:20:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123875209.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;아침에 매력적으로 보이길 원한다면 흰 밀가루, 설탕 등 정제 탄수화물 위주의 아침 식사를 피해야 한다는 연구 결과가 나왔다.   6일(현지시간) 영국 일간 가디언 등 외신은 프랑스 몽펠리에 대학 연구팀이 발표한 연구 논문을 인용해 정제 탄수화물에 큰 영향을 받는 혈당과 인슐린의 변화가 얼굴의 매력도에 미묘한 변화를 불러온다고 보도했다.   몽펠리에대 연구팀은 정제 탄수화물이 풍부한 아침식사를 한 사람들이 더 건강한 비정제 탄수화물로 하루를 시작한 사람들보다 이성에 덜 매력적이라는 평가를 받았다는 연구 결과를 발표했다. 정제 탄수화물은 곡물을 몇 차례 도정해 영양이 감소한 음식물을 의미한다. ▲흰쌀 ▲흰 밀가루 ▲설탕 등이 포함된다.  연구팀은 20~30대 남성 52명과 여성 52명를 대상으로 설문조사와 실험을 실시했다. 한 그룹에는 정제된 탄수화물 중심의 아침 식사를 제공했고, 다른 한 그룹에는 비정제 탄수화물 위주의 아침 식사를 제공했다. 두 그룹에게 모두 500칼로리 분량의 식단을 제공했다.   정제</content:encoded>
+    </item>
+    <item>
+      <title>이노와이어리스의 협업 자산, ‘NHN두레이’로 쌓는다</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123876566/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123876566/1</guid>
+      <pubDate>2024-03-08T12:41:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123876527.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;&quot;회사가 성장할수록 회사의 체계도 발맞춰야 한다. 체계를 만드는 데는 여러 방안이 있지만, 사내 업무와 기업 문화를 함께 만드는 데는 협업 툴이 제격이다. 협업 툴은 개인의 업무 능력 향상을 넘어 회사의 자산을 체계적으로 구축하는 틀이자 도구이기 때문이다”   정상혁 팀장은 지난 2003년 이노와이어리스에 입사해 소프트웨어 엔지니어 및 시스템 엔지니어, 전략부서 등을 거치며 회사 전반의 실무를 맡았고, 지금은 연구기획팀 소속으로 연구개발에 대한 관리나 과제 발굴, 협업 관련 업무를 진행한다.  그가 재직한 20여 년 사이 이노와이어리스는 중소기업에서부터 오늘날 연 매출 1400억 원대, 전 세계 8개 국가에 영업 및 기술 지원 조직을 보유하고 있는 중견 기업으로 성장했다. 조직의 성장과 흐름을 지켜본 정상혁 팀장이 말하는 ‘업무 문화와 협력의 방향성’을 직접 들어봤다.  “유무선 이동통신 장비가 주력 사업··· 임직원 70%가 엔지니어”   이노와이어리스는 2000년 설립돼 2005년 코스닥 시장에 상장</content:encoded>
+    </item>
+    <item>
+      <title>GC녹십자엠에스, 박스터 한국법인과 혈액투석액 5년 추가 공급 계약</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123876995/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123876995/1</guid>
+      <pubDate>2024-03-08T13:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123876972.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;GC녹십자엠에스는 미국 제약업체 박스터의 한국법인(박스터 신장사업부)과 혈액투석액(Hemo Dialysis Solution) 장기공급계약을 체결했다고 8일 밝혔다. 체결식에는 사공영희 GS녹십자엠에스 대표와 임광혁 박스터 신장사업부 대표 등 주요 관계자들이 참석했다.   이번 계약은 추가 공급에 해당한다. GS녹십자엠에스는 지난 2019년부터 작년까지 박스터에 혈액투석액을 공급해왔다. 이번 계약으로 오는 2028년 말까지 5년간 혈액투석액 공급을 지속하기로 했다.  2019년 혈액투석액 신공장인 음성 제2공장을 완공한 GC녹십자엠에스는 국내 최대 규모 혈액투석액 플랜트를 보유하고 있다. 국내 혈액투석액 총 공급량의 절반 이상을 생산할 수 있는 규모를 갖췄다.  GC녹십자엠에스 관계자는 “국내 혈액투석액 시장은 인구 고령화로 인한 투석환자 증가와 완치가 불가능한 기존 환자 수명연장에 기인해 매년 약 7%씩 성장하는 추세”라며 “이번 계약이 안정적인 공장 가동과 실적 증대에 긍정적인 영향을 미칠 것으로 기대</content:encoded>
+    </item>
+    <item>
+      <title>“콘서트 VIP석인 줄”…‘갤S24’ 20배 줌, 아이브 멤버 얼굴 선명히 담았다</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123879671/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123879671/1</guid>
+      <pubDate>2024-03-08T15:37:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123879581.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자 인공지능(AI)폰 ‘갤럭시 S24’로 찍은 아이브(IVE) 콘서트 영상이 화제다. 한 관객이 갤럭시 S24 울트라로 20배 줌(확대) 기능으로 영상을 찍었는데 아이브 멤버들의 얼굴이 선명하게 보였기 때문이다.  지난 7일부터 엑스(X, 전 트위터) 등 소셜네트워크서비스(SNS)에서 갤럭시 S24 카메라로 찍은 아이브 콘서트 영상이 확산되고 있다.  한 영상은 지난달 24일(현지시간) 싱가포르 인도어 스타디움에서 열린 아이브 월드투어 콘서트 현장에서 찍은 것으로 추정된다. 촬영자가 무대에서 꽤 먼 곳에 앉았는데도 아이브 각 멤버의 눈·코·입이 선명하게 보였다.  배율이 높아질수록 통상적으로 화질이 떨어진다. 하지만 이번에 갤럭시 S24 울트라로 찍은 영상은 화질도 깔끔해 누가 안유진, 가을, 레이, 장원영, 리즈, 이서인지도 바로 알아볼 수 있을 정도였다.  영상을 본 네티즌은 “저 정도 거리에서 저 정도 화질 나오는 게 믿어지지 않는다”, “VIP석 놓치면 ‘갤럭시 S24’를 들고 가야겠다”는</content:encoded>
+    </item>
+    <item>
+      <title>플랫폼법 재추진에…美 CCIA “사전 지정 방식은 차별적” 우려</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240308/123880129/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240308/123880129/1</guid>
+      <pubDate>2024-03-08T15:53:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123880112.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구글, 메타, 애플 등 글로벌 빅테크들을 회원사로 둔 미국 컴퓨터통신산업협회(CCIA)가 공정거래위원회(공정위) ‘플랫폼 경쟁촉진법’(플랫폼법) 재추진에 대해 공개적으로 우려를 표했다. 최근 공정위가 플랫폼법 재추진 의지를 드러낸 데 따른 것으로 해석된다.  8일 업계에 따르면 CCIA는 7일(현지시각) 성명서를 내고 “한국의 기존 플랫폼경쟁촉진법(PCPA)은 혁신적인 미국 수출기업에 차별적 부담을 부과하고 한국내 경쟁을 해쳤을 것”이라며 “미국의 디지털 수출을 겨냥함으로써 미국 기업, 근로자 및 소비자에게 불이익을 줄 수 있는 위험을 갖고 있다”고 밝혔다.  조나단 맥헤일 CCIA 디지털 무역 담당 부사장은 “특정 기업을 사전 지정해 해당 기업에 임의적이고 차별적인 부담을 초래할 수 있는 방안을 한국 정부가 지속적으로 재고할 것을 촉구한다”고 했다. 공정위 플랫폼법은 유럽연합(EU)의 디지털시장법(DMA)과 유사하게 시장 내 지배적 사업자를 ‘사전 지정‘하는 것을 핵심으로 하는 규제 법안으로 알려졌다.</content:encoded>
+    </item>
+    <item>
+      <title>스페이스X, 우주여객선 ‘스타십’ 이르면 14일 3차 발사 도전</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123881184/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123881184/1</guid>
+      <pubDate>2024-03-08T16:43:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123880932.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국의 민간 우주기업 스페이스X가 쏘아올리는 우주여객선 ‘스타십’이 이르면 다음주 3차 발사 도전에 나선다.   스페이스X는 8일 공식 홈페이지를 통해 스타십이 이르면 오는 14일 3번째 시험 비행을 목표로 규제 당국의 승인을 기다리고 있다고 밝혔다.  스타십은 지난해 4월과 11월 두 차례 시험 비행에 나섰으나 모두 실패한 바 있다. 다만 스타십 발사가 2번 모두 안전한 착륙에는 실패했으나 스페이스X는 2번의 실험 모두 성공적인 결과를 얻었다고 자평했다.   1차 발사에서는 33개의 랩터 엔진 중 6개가 꺼지거나 화염에 휩싸이며 발사 4분 만에 공중 폭발했으나 당시 스페이스X는 사상 최대 크기 로켓을 몇 분 동안이라도 비행시킨 것만으로도 의의가 크다고 강조했다.  2차 발사는 1차 발사 이후 1000가지 이상 기체 업그레이드를 거쳐 진행됐지만 그럼에도 8분만에 실패했다. 하지만 1차 실험보다 비행 시간이 2배 늘었고, 가장 중요한 랩터 엔진 33개가 모두 성공적으로 점화되면서 유의미한 진전을 보였다.</content:encoded>
+    </item>
+    <item>
+      <title>[생성 AI 길라잡이] 챗GPT와 자동차의 만남</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123882862/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123882862/1</guid>
+      <pubDate>2024-03-08T17:47:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123882804.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;※생성 인공지능이 세계를 뜨겁게 달굽니다. 사람만큼, 더러는 사람보다 더 그림을 잘 그리고 글을 잘 쓰는 생성 인공지능. 생성 인공지능을 설치하고 활용하는 방법과 최신 소식을 매주 전합니다.  이용자의 특정한 요구에 따라 결과를 생성하는 생성 AI(Generative AI)는 이미지와 영상 제작뿐만 아니라 음악·미술 등을 창작하고, 프로그램 제작을 위한 코딩까지 돕는 수준으로 발전하고 있습니다. 주목할 만한 또 다른 영역은 생성 AI와 자동차의 만남인데요. 각 제조사는 앞다퉈 운전자가 차 안에서 챗GPT를 활용하도록 연구개발에 매진하고 있습니다. 챗GPT가 자동차를 만나면 어떤 모습일지 살펴보겠습니다.  앞다퉈 챗GPT 접목 추진하는 자동차 제조사  프랑스 자동차 제조사 푸조의 린다 잭슨 CEO는 지난 1월, 온라인으로 진행한 E-라이언 데이 2024에서 올해 추진할 중대 프로젝트 중 하나로 챗GPT 적용을 꼽았습니다.  챗GPT 기술은 푸조의 모든 승용 및 상용차 라인업의 아이-콕핏(i-Cockpit®</content:encoded>
+    </item>
+    <item>
+      <title>공장에서도, 집에서도 사람 대신 척척…범용 로봇 상용화 시대 온다</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123883541/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123883541/1</guid>
+      <pubDate>2024-03-08T18:46:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123883533.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인간을 대체하는 ‘범용 로봇’ 경쟁이 치열해지고 있다. 로봇이 산업 현장의 노동력 부족을 해결하고, 향후 가정까지 침투해 일상 속 가사노동도 대체할 수 있으리란 기대감이 커지면서다.  지난달 23일 블룸버그 통신은 피규어 AI(Figure AI)가 시리즈 B 투자에서 6억 7500만 달러(약 8987억 원)를 유치했다고 보도했다. 피규어 AI는 보스턴 다이나믹스와 테슬라 출신 엔지니어들이 지난 2022년 설립한 로봇 스타트업이다. 지난해 3월 인간 모습을 본뜬 휴머노이드(Humanoid) 로봇인 ‘피규어 01’을 공개하며 주목받았다.   피규어 AI에 몰린 자금 규모만큼이나 주목받은 건 투자자들의 면면이다. 마이크로소프트, 오픈AI, 엔비디아, 아마존, 인텔 등 기술 업계의 거물들이 투자자로 이름을 올렸다. 글로벌 빅테크 기업들이 로봇 스타트업 투자에 나선 건 AI 발전의 다음 수혜지가 로봇일 것이란 기대감이 반영된 것으로 풀이된다.  특히 인간의 모습을 본뜬 휴머노이드 로봇은 인간과 같은 활동 반경에서</content:encoded>
+    </item>
+    <item>
+      <title>[이준호의 스타트업 스튜디오] 스타트업 육성으로 지방 도시를 &apos;실리콘밸리&apos;로!</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123884117/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123884117/1</guid>
+      <pubDate>2024-03-08T20:17:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123884106.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[IT동아]  우리나라 행정구역 중 인구감소 등으로 소멸 위기에 있는 지역을 &apos;소멸 위험&apos; 지역이라 한다. 지방자치단체 가운데 작년 기준 118곳이나 된다. 우리나라 지방자치단체의 절반이 인구가 점차 감소해 지역이 소멸하고 있는 것이다.  지방 소멸은 이미 몇십 년 전부터 저출산과 고령화에 따른 지역 인구감소와 함께, 수도권 인구 편중 현상이 가속화되면서 나타난 현상이다. 정부는 이러한 지방 소멸을 해소하기 위해 교육 지원, 생활 인프라 구축, 주거 지원 등 다각적인 정책을 수립해 운영하고 있다. 하지만 단기간에 정책 효과가 나타나지 않고 있다.  지방 소멸 대응책이 몇 년 안에 가시적인 효과를 내기 위해서는 지방 지역 특성에 맞는 기업을 육성하여 일자리를 창출하는 것이 무엇보다 중요하다. 그러나 현실은 만만치 않은 상황이다.  2023년 3월 중소벤처기업부가 발표한 지역별 벤처투자 규모 및 고용증감 현황에 따르면, 지난해 우리나라에서 벤처투자를 받은 기업은 2703개, 벤처투자 금액은 총 5조7183억</content:encoded>
+    </item>
+    <item>
+      <title>내가 원하는 기업의 공시자료 ‘RSS 피드’로 편하게 보자</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123884265/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123884265/1</guid>
+      <pubDate>2024-03-08T20:23:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123884182.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;투자는 소중한 자산을 투입하는 것으로 신중히 접근하는 자세가 필요하다. 이곳에 돈을 써야 할 ‘근거’가 있어야 한다는 이야기다. 그 근거는 다양한 자료에서 나오는 정보를 토대로 이뤄진다. 뉴스가 될 수도 있고 기업이 주기적으로 공개하는 보고서 등을 참고할 수 있다. 최대한 많은 정보를 수집하고 분석한 결과에 따라 기업의 가치를 판단, 투자를 결정하는데 도움이 된다.  우리나라는 기업의 활동을 온라인으로 빠르고 쉽게 찾아보는 게 가능하다. 금융감독원의 전자공시시스템(DART), 한국거래소의 기업공시채널(KIND)이 각각 운영되어 다양한 정보를 제공한다. 하지만 홈페이지에 접속해 기업을 검색하거나 실시간 정보를 확인하는 번거로움이 있다. 앱을 추가해 설치하는 것도 좋지만, 빠르고 원하는 자료만 보는 방법은 없을까?  전자공시 시스템(DART)에서 ‘RSS 피드’를 지원한다  금융감독원이 운영하는 전자공시시스템(DART – Data Analysis, Retrieval and Transfer System)은 기</content:encoded>
+    </item>
+    <item>
+      <title>“원푸드 다이어트? 반짝 효과 뒤 요요 확률 매우 높아”[베스트 닥터의 베스트 건강법]</title>
+      <link>https://www.donga.com/news/It/article/all/20240308/123884827/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240308/123884827/1</guid>
+      <pubDate>2024-03-09T01:40:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123882485.8.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;《10여 년 전만 해도 비만 의학 교과서에는 ‘지방과 섭취 열량을 줄이는 게 모범적 다이어트’라고 돼 있었다. 시대가 바뀌었다. 지금은 ‘생활방식에 맞고 건강에 지장 없으며 영양학적으로 문제 없다면 좋은 다이어트’라고 규정돼 있다. 여러 다이어트의 장단점을 4회에 걸쳐 분석한다.》    30대 후반 여성 A 씨 체중은 72kg이었다. 다소 비만 체형. A 씨는 2주 후 예정된 중요한 가족 행사를 대비해 체중을 줄이기로 했다. 이후 바나나 위주로 먹었다. 처음에는 하루 세 번, 끼니마다 바나나를 4개씩 먹었다. 나중에는 바나나를 두 끼로 줄이고 나머지 한 끼는 일반식으로 아주 조금만 먹었다.   목표를 이룬 것 같았다. 2주 새 7kg이 빠진 것. 하지만 부작용이 나타났다. 몸이 축축 늘어졌다. 허기를 달래기 위해 여러 음식을 먹기 시작했다. 어김없이 요요현상이 나타났다. 옷이 꽉 끼었다. 두 달 만에 체중은 80kg을 넘어섰다.   A 씨는 국내 비만 의학 1세대 의사로 꼽히는 강재헌 강북삼성병원 가정의</content:encoded>
+    </item>
+    <item>
+      <title>“내 삶의 마감, 내가 정할 수 있게”… 조력 존엄사 헌법소원 낸 이명식 씨[서영아의 100세 카페]</title>
+      <link>https://www.donga.com/news/Society/article/all/20240308/123884613/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240308/123884613/1</guid>
+      <pubDate>2024-03-09T01:40:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123884605.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국에서 죽음의 자기결정권은 어디까지 인정될까. 현재로서는 2016년 제정돼 2018년부터 시행된 연명의료결정법에 따라 ‘임종 단계에 연명치료를 받지 않는 것’까지다. 본인이 사전에 연명의료를 받지 않겠다는 서약을 해 놓거나 본인의 의식이 없다면 가족이 합의해 결정할 수 있다. 주로 심폐소생술, 혈액 투석, 항암제 투여, 인공호흡기 착용 등 현대의학의 힘을 빈 연명과정을 피할 수 있다. 단, 통증관리와 영양공급은 계속된다.임종과정을 인위적으로 ‘늘리지 않는다’는 점에서 ‘소극적 안락사’라고도 불린다. 만약 임종 단계는 아닌 불치병의 경우는 어떻게 될까. 회복될 가망 없이 통증이 이어진다면?죽음의 자기결정권 보장해달라제주도에 사는 전직 공무원 이명식(63) 씨가 이런 경우다. 그는 원인을 알 수 없고 현대의학으로 치료가 불가능한 ‘척수염’ 진단을 받고 5년째 하반신 마비와 극심한 환상통에 시달리고 있다.이런 그가 지난해 12월 조력 존엄사를 입법하지 않은 현 상태는 위헌이라는 헌법소원</content:encoded>
+    </item>
+    <item>
+      <title>AI 로봇, 겉모습부터 마음까지 사람과 닮아간다</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240308/123884360/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240308/123884360/1</guid>
+      <pubDate>2024-03-09T01:40:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123882330.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;《심부름도 하는 ‘똘똘한 AI로봇’“심부름도 하고 가족을 돌보며 감정치유도 해주는 만능 로봇.” 상상 속에서나 그렸던 로봇이 현실이 되고 있다. 로봇이 인공지능(AI)을 만나면서다. ‘잘 만든 로봇 하나가 열 사람 부럽지 않은 시대’를 선점하려는 빅테크들의 경쟁도 치열해지고 있다.》</content:encoded>
     </item>
   </channel>
 </rss>
