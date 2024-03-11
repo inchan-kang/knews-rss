@@ -3,77 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2024-03-10T00:10:22.247Z</lastBuildDate>
-    <item>
-      <title>KAIST “엔비디아 AI 반도체의 625분의 1 전력 쓰는 제품 개발”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240307/123849957/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240307/123849957/1</guid>
-      <pubDate>2024-03-07T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/07/123850273.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;KAIST 연구팀이 최근 세계적으로 수요가 급증하고 있는 인공지능(AI) 반도체를 자체 개발했다. AI 반도체 시장을 독점하고 있는 엔비디아 제품보다 전력을 600배 이상 적게 쓰면서 크기는 더 작은 게 특징이다. 과학기술정보통신부는 6일 유회준 KAIST 인공지능반도체대학원 교수팀이 엔비디아의 그래픽 처리장치(GPU) ‘A100’ 모델보다 전력은 625배 적게 쓰고, 크기는 42분의 1에 불과한 AI 반도체를 개발했다고 밝혔다. 연구진은 개발한 AI 반도체를 활용해 오픈AI의 GPT-2 모델을 구동시킨 결과 언어를 생성하는 데 0.4초밖에 걸리지 않았다고 설명했다. 사용된 전력량은 400mW(밀리와트)였다. 유 교수는 “이론 단계에 머물러 있던 고성능 초저전력 AI 반도체를 실제로 구현하고, GPT-2를 구동시켰다는 점, ‘온디바이스 AI’의 솔루션을 제공했다는 점에서 큰 의의가 있다”고 말했다. 온디바이스 AI는 스마트폰, 전기차 등 기기에서 직접 AI를 구동할 수 있는 기술이다</content:encoded>
-    </item>
-    <item>
-      <title>[이진한 의학전문기자의 메디컬 현장]전공의 갈등 해결책, 이미 논의했던 수련시스템 개편안에 있다</title>
-      <link>https://www.donga.com/news/It/article/all/20240306/123849548/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240306/123849548/1</guid>
-      <pubDate>2024-03-07T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123844676.10.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 미국의 한 전직 의대 교수가 약 1조3000억 원을 미국의 알베르트 아인슈타인 의대에 기부해 모든 의대생 학비가 면제됐다는 소식이 국내에 알려져 화제가 됐다. 알베르트 아인슈타인 의대의 연간 학비는 한국 돈으로 약 8000만 원에 달한다. 이 교수는 “비싼 학비와 경제적 여건 때문에 의사의 꿈을 포기하는 학생들을 보고 장학금 기부를 결정했다”고 밝혔다. 이렇게 혜택을 받은 의대생 중 상당수는 나중에 사회에 나가 기부 대열에 동참하면서 사회적 선순환 구조를 만들 것으로 기대된다. 또 의사가 공무원인 영국의 경우 국가가 의대 등록금, 졸업 후 전공의 수련 비용 등을 지원한다. 심지어 의료 분쟁 시에도 국가가 개입해서 조정한다. 그렇기 때문에 의사들은 국가의 통제 시스템 속에서 묵묵히 본인 일을 충실히 수행할 수 있다. 자본주의 최첨단을 달리는 미국의 경우도 전공의 수련 비용에 주 예산 등이 투입된다. 병원 교수들이 연구와 진료 외에 전공의를 가르치는 것에 보상하는 것이다. 최근 병</content:encoded>
-    </item>
-    <item>
-      <title>[전문의 칼럼]‘치매’와 ‘알츠하이머병’ 혼동 말아야</title>
-      <link>https://www.donga.com/news/It/article/all/20240306/123849545/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240306/123849545/1</guid>
-      <pubDate>2024-03-07T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/06/123844686.10.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;흔한 오해 중 하나가 치매가 병명이란 것이다. 하지만 치매는 병명을 말하는 게 아니라 뇌질환에 의해 인지기능이 저하되고 이로 인해 사회생활이나 직업 활동이 어려운 상태를 말한다. 이런 치매를 유발할 수 있는 질환은 100가지가 넘고 이 중 가장 흔한 질환이 알츠하이머병이다.   대략 70%의 치매가 알츠하이머병에 의해 발생한다. 이는 30% 정도의 치매는 알츠하이머병이 아닌 다른 질환에 의해 발생한다는 의미이기도 하다.   아리셉트, 리바스티그민, 갈란타민 등은 알츠하이머병 치료제로 허가받고 사용되는 약들이다. 알츠하이머병 환자의 뇌에서 감소한 아세틸콜린이란 신경전달물질의 농도를 올려주기 위해 사용된다. 말하자면 ‘알츠하이머병의 인지기능 개선제’인 셈이다.   그렇기 때문에 뇌 내 아세틸콜린이 감소해 있지 않은, 즉 알츠하이머병이 아닌 치매 환자가 사용하는 경우 이상 행동, 심한 소화기 장애, 감정 변화 등의 부작용이 나타날 수 있다. 간혹 루이체치매나 피질하혈관치매에서 일부 효과가 있다며 사용되기도 하</content:encoded>
-    </item>
-    <item>
-      <title>사람 없는 불길 뛰어든 ‘소방관 비극’…생존자 찾는 ‘음향 센서’로 막는다</title>
-      <link>https://www.donga.com/news/Society/article/all/20240307/123852248/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20240307/123852248/1</guid>
-      <pubDate>2024-03-07T08:51:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/07/123861287.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구조대가 재난 현장에 혹시 모를 생존자를 찾으러 들어갔다가 피해를 당하지 않도록 정부가 생존자 수색용 ‘음향 센서’를 개발한다. 올해 실증을 거쳐 내년까지 개발을 완료하고 현장에 보급할 예정이다.7일 행정안전부에 따르면 행안부는 사고 현장에서 구조가 있어야 하는 사람을 찾도록 돕는 ‘이상 음향-음성 탐지 시스템’을 개발 중이다. 지난해 사업을 시작해 올 하반기 실증을 앞두고 있다.건물 붕괴·화재 등의 재난 상황에서 구조 대원이 위험을 무릅쓰고 무리하게 현장에 진입하거나 생존자를 수색하느라 어려움을 겪는 일이 없도록 하는 취지다.생존자 여부가 불확실한 상황에서도 소방·구조대 등이 현장에 진입하는 경우가 적지 않다.지난 1월 경북 문경 화재 때 고 김수광 소방장, 고 박수훈 소방교는 혹시 모를 생존자를 찾아 현장에 진입했다 끝내 빠져나오지 못하고 순직했다.정부가 개발 중인 센서는 인공지능이 건물 내부 음향을 분석해 현장 진입 없이 생존자 여부를 알려준다. 사람이 내는 소리라면 위치가 대</content:encoded>
-    </item>
-    <item>
-      <title>[날씨]8일 아침 최저 -5도 막바지 꽃샘추위…강풍에 체감 더 낮아</title>
-      <link>https://www.donga.com/news/Society/article/all/20240307/123852422/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20240307/123852422/1</guid>
-      <pubDate>2024-03-07T09:04:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/07/123852413.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;금요일인 8일 전국은 대체로 맑겠고 오전까지 전라·제주에 비가 내리는 곳이 있겠다. 찬 공기가 내려오면서 아침기온이 최저 -5도까지 떨어지겠고 전국에 바람이 강하게 불어 체감온도는 더 낮겠다.  7일 기상청에 따르면 8일 한반도는 중국 북부 지방에서 남동쪽으로 이동하는 고기압 영향으로 하늘이 대체로 맑겠다. 예보 규정상 ‘맑음’은 구름이 하늘에 50% 이하일 때를 말한다.  전라권과 제주는 가끔 흐리겠다. 두 지역엔 오전 6시~낮 12시에 빗방울이 떨어지기 시작해 오후까지 이어지는 곳이 있겠다.  아침 최저기온은 -5~3도, 낮 최고기온은 5~12도로 평년(최저기온 -4~4도, 최고기온 8~12도)과 비슷하거나 조금 낮겠다.  춘천 -5도, 서울·대전·전주 -1도 등 중부 지방을 중심으로 아침기온이 영하로 내려가겠다. 바람이 약간 강하게 불며 체감온도는 더 낮겠다. 대부분 지역 순간풍속이 시속 55㎞ 이상으로 강하게 불겠다.  동해 먼바다와 남해 동부 바깥 먼바다, 제주 남쪽 먼바다에는 바람이 매우 강해</content:encoded>
-    </item>
-    <item>
-      <title>동국대 XRVP 랩 “딥테크와 콘텐츠 산업 결합, 스타트업·대학·지역 상생 이끈다”</title>
-      <link>https://www.donga.com/news/It/article/all/20240307/123856072/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240307/123856072/1</guid>
-      <pubDate>2024-03-07T11:24:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/07/123856000.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;충무로는 한국 영화 산업의 메카로 통한다. 한국 영화 업계를 그냥 ‘충무로’라고 통칭할 정도로 상징적인 장소다. 최근에는 영화를 넘어선 영상 산업의 중심지로 영역을 넓히고 있다. 이런 충무로에 확장현실(XR) 기술을 활용한 버추얼 프로덕션(VP) 스튜디오가 새롭게 들어섰다. 바로 동국대학교 충무로영상센터 신관 내 하이 스타트업 타운(HAI STARTUP TOWN)에 위치한 XRVP 랩(Lab)이다.  버추얼 프로덕션은 최근 몇 년 새 영화, 드라마 제작 현장에서 대세로 떠오른 촬영 및 제작 방식이다. 초록색 벽이나 바닥을 배경으로 촬영한 뒤 특수효과를 입히는 종전의 방식과 달리 대형 LED 화면을 활용하는 게 특징이다. LED 화면에 메타버스로 실감나게 구현한 가상 공간을 표시하고, 이를 세트장처럼 활용한다. 영상 제작 업계뿐만 아니라 홈쇼핑 업계 등에서도 활용되는 등 점차 활용도를 넓히고 있다.   동국대의 XRVP 랩은 캠퍼스타운 사업의 일환으로 마련됐다. 캠퍼스타운은 대학과 지자체가 손잡고 창업 기</content:encoded>
-    </item>
-    <item>
-      <title>세계 성인 비만·과체중 25억 명…WHO “전체 성인의 43%”</title>
-      <link>https://www.donga.com/news/Inter/article/all/20240307/123856495/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20240307/123856495/1</guid>
-      <pubDate>2024-03-07T11:42:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/07/123856468.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전 세계 성인 비만·과체중 인구가 25억여 명에 달한다는 조사 결과가 나왔다.  세계보건기구(WHO)는 최근 의학 학술지 랜싯(Lancet)에 실은 ‘1990년~2022년 저체중과 비만에 대한 전 세계 추세’라는 보고서를 통해 이같이 발표했다.   보고서에 따르면 2022년 기준 전 세계 18세 이상 성인 가운데 비만·과체중 인구(18세 이상)는 25억여 명으로 추산됐다. 세계 성인 인구의 43%가 비만 또는 과체중인 것이다.   이 가운데 35%인 8억9000만여 명이 비만 증세를 겪고 있는 것으로 나타났다.  전 세계 성인 중 16%에 달하는 수치다.  WHO는 성인 비만 인구에 어린이와 청소년(5~19세) 비만 1억5900만여 명을 포함한 10억여명 이 비만을 겪고 있다고 설명했다. 성인 비만 인구는 30년 전에 비해 2배 증가했고, 어린이와 청소년 비만 인구는 4배 늘었다.   특히 어린이와 청소년 비만 인구비율은 1990년 2%에서 2022년 8%로 증가했다고 WHO는 분석했다. 비만과 과체중까</content:encoded>
-    </item>
-    <item>
-      <title>‘AICC 전문’ 페르소나AI, 네이버클라우드서 투자 유치</title>
-      <link>https://www.donga.com/news/It/article/all/20240307/123859077/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240307/123859077/1</guid>
-      <pubDate>2024-03-07T13:56:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/07/123859058.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2021년 국내 최초의 구독형 AICC 개발… 자연어 생성과 처리 기술이 핵심 경쟁력   인공지능(AI) 기업 페르소나에이아이(페르소나AI, 대표 유승재)는 네이버클라우드(대표 김유원)로부터 투자를 유치했다고 7일 밝혔다. 투자 금액은 비공개다.   페르소나AI는 2021년 국내 최초의 구독형 인공지능 컨택센터(AICC)를 개발한 기업이다. AICC란 콜센터 등의 고객 접점에 챗봇, 콜봇, 주소봇 등 AI 기술을 적용한 것이다. 산업군이나 규모와 구애받지 않고 대고객 서비스를 제공하는 모든 기업에 적용 가능해 성장성이 크다. 시장조사업체 얼라이드마켓리서치에 따르면 2030년 한국의 AICC 시장 규모는 3억5000만 달러(약 4,650억 원)로 예측된다.   AICC 시장에 일찌감치 뛰어든 페르소나AI는 금융권에서 다수 레퍼런스를 확보하고 원천기술을 고도화했다. 단시간 내 10만 개 이상의 AI 학습 데이터를 자동 생성하는 자연어 생성(NLG) 기술과 한국어 인식률 100%를 달성한 자연어 처리(NLP)</content:encoded>
-    </item>
-    <item>
-      <title>“머스크가 테슬라와 합병 설득”…오픈AI, 과거 이메일 폭로</title>
-      <link>https://www.donga.com/news/Inter/article/all/20240307/123859735/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20240307/123859735/1</guid>
-      <pubDate>2024-03-07T14:22:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/05/123807994.8.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“테슬라가 구글에 대항할 수 있는 유일한 길이다.”2018년 2월 1일 오전 3시52분. 일론 머스크 테슬라 최고경영자(CEO)가 테슬라와 오픈AI의 합병을 종용하는 내용을 담은 이메일을 일리아 수츠케버 등 오픈AI 공동 창업자들에게 보냈다. 당시 머스크와 오픈AI 창업자들은 인간수준의 일반인공지능(AGI)에 도달하려면 비영리 조직의 몇 천억 원 자금으로는 택도 없다는 것을 깨닫고 있었다. 게다가 이들의 경쟁자는 시가총액이 1조 달러(1330조 원)이 넘는 구글이었다. 머스크는 이 이메일에서 “(테슬라와 합병하더라도) 오픈AI가 구글의 대항마가 될 확률은 매우 낮다. 그래도 0%는 아니다”라며 ‘테슬라가 오픈AI의 캐시카우가 돼야 한다’는 이름이 가려진 지인의 이메일을 첨부해 설득하려는 모습을 보였다. 머스크와 샘 올트먼 등이 오픈AI 공동 창업자들로서 동지이던 시절의 이 이메일은 오픈AI가 5일(현지시간) 자사 블로그를 통해 폭로한 내용이다. 머스크가 지난주 오픈</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 인공지능·로봇·철도 분야 고졸 인재 키운다</title>
-      <link>https://www.donga.com/news/Society/article/all/20240307/123859925/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20240307/123859925/1</guid>
-      <pubDate>2024-03-07T14:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/07/123857020.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;교육부는 올해 직업교육 혁신지구 사업에 서울시를 선정했다고 7일 밝혔다.   직업교육 혁신지구 사업은 직업계고와 지역 기업, 대학이 참여해 고졸 인재 성장 경로를 구축하고 지역 수요 맞춤형 고졸 인재 양성을 지원하는 사업이다. 올해는 서울시를 포함해 광역지자체 8곳, 기초지자체 5곳 등 13곳에서 운영한다.   새로 선정된 서울시는 3년간 총 10억원을 지원받아 직업교육 협력체계 구축, 지역인재 성장경로 마련, 지속 가능한 혁신을 위한 기반 조성 등을 추진한다.   특히 교육청에 서울직업교육혁신지원센터를 구축해 인공지능, 로봇, 철도, 콘텐츠 4개 전략 산업 분야 인재를 육성할 예정이다.   또한 산·관·학 협력을 통해 취업처를 발굴하고 선취업 후학습 절차를 개발한다. 직업계고 학생을 대상으로 취업 전 과정을 지원하는 ‘매칭데이(Matching-day) 인(in) 서울’ 등도 운영한다.   이주호 부총리 겸 교육부장관은 “지역의 다양한 주체가 참여해 지역산업에 특화된 고졸 인재를 양성하는 직업교육 혁신지</content:encoded>
-    </item>
+    <lastBuildDate>2024-03-11T00:09:53.148Z</lastBuildDate>
     <item>
       <title>삼성, 동남아 스마트폰 1위 탈환했지만…무서운 中 성장 ‘위기론’</title>
       <link>https://www.donga.com/news/It/article/all/20240307/123860542/1</link>
@@ -353,6 +283,76 @@
       <guid>https://www.donga.com/news/It/article/all/20240308/123884669/1</guid>
       <pubDate>2024-03-09T12:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123884658.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;김현호 매일홀딩스 홍보팀 차장(42)은 2018년 11월 궤양성대장염인 크론병 진단을 받았다. 그해 여름 복통이 계속되며 혈변까지 보게 돼 건강검진을 받았고 결국 서울대병원에 갔더니 크론병이었다. 크론병은 만성 염증성 장질환이다. 입에서 항문까지 소화 기관에 걸쳐 발생한다. 과민성 장증후군, 궤양성 대장염과 증상은 비슷하지만 염증이 장 전체에 침범하며 설사, 복통, 체중 감소, 혈변 등이 한 달 이상 지속된다.“당시 많을 땐 하루 열 번도 넘게 화장실을 갔어요. 피가 하도 많이 나와 ‘이러다 죽는 것 아냐’ 하며 변기를 붙잡고 울기도 했습니다. 새빨갛게 피로 물든 변기를 바라보고 있자니 세 아들이 눈에 밟혔고 아내에게도 미안한 생각이 들었습니다. 그날 밤 비 오는 서울 중랑천을 혼자 달리며 많이 울었습니다. 그런데 달리면서 제가 달라진 것 같아요. 그때 ‘싸워 이기겠다’, ‘더 강해지겠다’라는 마음을 먹었죠. 지금까지의 생활은 버리고 새로운 삶을 살겠다고 다짐했어요.” 20대부터 가</content:encoded>
+    </item>
+    <item>
+      <title>‘AI 대부’ 제프리 힌턴 “10년 내 인간 죽이는 로봇 무기 등장”</title>
+      <link>https://www.donga.com/news/Inter/article/all/20240310/123900205/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20240310/123900205/1</guid>
+      <pubDate>2024-03-10T17:30:00.000Z</pubDate>
+      <content:encoded>‘인공지능(AI)의 대부’로 널리 알려진 제프리 힌턴 토론토대 명예 교수가 “10년 내 자율적으로 인간을 죽이는 로봇 무기가 등장할 것”으로 전망했다.   힌턴 교수는 9일 공개된 니혼게이자이신문과의 인터뷰에서 이같이 내다보며 “1차 대전에서 참화를 초래한 화학무기는 훗날 국제 합의에 의해 금지됐다. 로봇 무기도 조만간 규제할 수 있을 것이다. 하지만 그것이 실현되는 것은 실제로 전장에서 사용돼 보고, 인류가 비참함을 인식한 뒤가 될지도 모른다”고 말했다.   이어 “우리는 누구도 AI에 지배되는 미래를 원하지 않는다. 그 사실이 각국이 AI 무기 규제를 위해 발을 맞추는 밑거름이 된다”며 “핵전쟁이나 마찬가지다. 미국과 구소련은 냉전 속에서 핵전쟁을 회피하는 데 합의할 수 있었다”고 지적했다.   이와 관련해 그는 ‘AI가 인류를 위협할 가능성이 있다’면서 “AI에 목표를 줄 경우 해결책으로 인간에게 불편한 방법을 찾아낼 수 있기 때문”이라고 설명했다.   그는 ‘AI에 기후 변화를 멈추도록 지시했다면</content:encoded>
+    </item>
+    <item>
+      <title>샘 올트먼, 오픈AI CEO 이어 이사회도 복귀…“해임될만한 행동 없어”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240310/123901468/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240310/123901468/1</guid>
+      <pubDate>2024-03-10T18:52:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/10/123901365.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;생성형 AI(인공지능) 열풍을 일으킨 ‘챗GPT’ 개발사 오픈AI가 샘 올트먼 최고경영자(CEO)를 해임 4개월 만에 복귀시키기로 했다. 올트먼 CEO가 해임될 정도의 행동을 하지 않았다는 판단에서다.  10일 CNN 등 외신에 따르면 오픈AI는 8일(현지시간) 온라인 기자회견을 열고 독립적인 조사를 진행한 결과 올트먼 CEO가 해임될 정도의 행동을 하지 않았다는 결론을 내렸다고 밝혔다.  관련 조사를 맡은 로펌 윌머헤일은 오픈AI 이사진과 직원들을 대상으로 대면 조사를 진행하고, 3만건 이상의 문서를 검토한 결과 올트먼과 공동창업자 그렉 브로크만이 오픈AI의 적절한 리더라는 결론을 내린 것으로 알려졌다.  조사 보고서에는 “(해임 사건은) 올트먼 CEO와 이사회가 서로 신뢰를 잃고 관계가 깨진 결과”라며 “이사회가 주요 이해관계자들에게 사전 통지 없이, 또 올트먼 CEO가 이사회의 우려를 해결할 기회도 없이 움직였다”는 내용이 담겼다.  윌머헤일 측은 이사회가 올트먼 CEO를 빠르게 해고함으로써 내부</content:encoded>
+    </item>
+    <item>
+      <title>전공의 면허정지 속도… “주내 1만2000명에 사전통지”</title>
+      <link>https://www.donga.com/news/Society/article/all/20240311/123904022/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240311/123904022/1</guid>
+      <pubDate>2024-03-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/08/123884211.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부가 이번 주 중 병원을 떠난 전공의(인턴, 레지던트) 약 1만2000명에 대한 면허정지 사전통지를 완료하기로 했다. 빠르면 이달 말부터 실제 면허정지 처분이 시작된다. 또 경찰은 고발에 대비해 전공의 수천 명을 동시에 수사하기 위한 채비를 갖췄다. 10일 동아일보 취재를 종합하면 보건복지부는 이번 주에 병원을 이탈한 전공의들에 대한 면허정지 사전통지서 발송을 마칠 계획이다. 8일 오전 11시 기준으로 주요 수련병원 100곳의 전공의 1만2912명 중 병원을 이탈한 전공의는 1만1994명(92.9%)이다. 복지부 관계자는 “이미 사전통지서 발송이 절반 이상 진행된 상황”이라고 밝혔다. 사전통지서에는 ‘의료법에 따른 업무개시명령 위반에 대해 자격정지 3개월 처분이 이뤄질 것’이란 내용이 담겼다. 또 ‘의견이 있으면 20일 내 제출하라’는 내용도 포함됐다. 5일부터 사전통지서가 발송된 만큼 일부 전공의는 25일까지 의견을 제출해야 한다. 송달이 확인됐음에도 의견을 안 내면 의견이 없는</content:encoded>
+    </item>
+    <item>
+      <title>의대 교수들 “14일이 마지노선” 사직 확산 우려</title>
+      <link>https://www.donga.com/news/Society/article/all/20240311/123904016/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240311/123904016/1</guid>
+      <pubDate>2024-03-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/10/123900575.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전공의(인턴, 레지던트)들의 병원 집단 이탈이 병원 교수들의 사직 릴레이로 번지는 모습이다. 전국 의대 교수들도 긴급 총회를 열어 ‘14일이 마지노선’이라는 데 의견을 모으고 공동 대응 방안을 마련하기로 했다. 일부 의대 교수와 전임의들은 온라인에서 시국선언 연대 서명을 진행 중인데 10일 오후 5000명 이상이 서명했다. 10일 의료계와 교육계에 따르면 서울대 의대·병원 교수 비상대책위원회는 11일 서울대병원과 분당서울대병원 등에서 각 병원 교수들이 모인 가운데 총회를 열고 대책을 논의하기로 했다. 비대위 관계자는 “자유 토론 진행 과정에서 집단행동 관련 논의도 나올 수 있을 것”이라고 전했다. 분당서울대병원의 경우 지난달 말 이미 자체 설문조사를 진행했는데 “전공의와 학생들을 보호하기 위해 사직서 제출과 겸직 해제 등 집단행동에 나설 수 있다”는 응답이 84.6%였다. 의대 교수는 학교 강의와 병원 진료를 겸직하는데 겸직을 해제하고 진료를 안 하겠다는 뜻이다. 앞서 서울아산병원,</content:encoded>
+    </item>
+    <item>
+      <title>2차병원 의뢰서 있어야 3차병원 진료… 상급병원 문턱 높인다</title>
+      <link>https://www.donga.com/news/Society/article/all/20240311/123904013/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240311/123904013/1</guid>
+      <pubDate>2024-03-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/11/123904228.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부는 전공의(인턴, 레지던트)가 병원을 이탈하면서 생긴 의료 공백에 대처하면서 동시에 이번 사태를 의료계의 고질적 문제를 해결하는 ‘의료개혁’의 계기로 삼겠다는 방침이다. 이를 위해 상급종합병원(3차 병원) 문턱을 높여 경증 환자의 무분별한 대형병원 이용을 제한하는 의료 전달 체계 개선과 함께 의사 독점 분야 개방, 전공의 수련제도 개편 등에 속도를 내고 있다.● 경증 환자 3차 병원 이용 제한 정부는 전공의 이탈 후 3차 병원을 응급·중증환자 위주로 개편하고 ‘비상진료체계’를 가동 중이다. 이에 따라 3차 병원의 경우 신규 입원 환자는 예전보다 20∼30%, 외래 환자는 30%가량 줄어든 상태다. 보건복지부 관계자는 “줄어든 환자 대부분은 시급성이 떨어지거나 상태가 경증인 경우”라고 설명했다. 3차 병원에서 진료를 제대로 못 받을 것을 우려한 경증 환자들이 1차 병원(동네 의원)이나 2차 병원(중소병원)으로 분산됐다는 뜻이다. 정부는 이번 사태를 계기로 경증 환자가 상급병원을 이</content:encoded>
+    </item>
+    <item>
+      <title>“한국 ICT경쟁력 中에 밀려… AI-이통 부진”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240310/123903152/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240310/123903152/1</guid>
+      <pubDate>2024-03-11T03:00:00.000Z</pubDate>
+      <content:encoded>한국의 정보통신기술(ICT) 경쟁력이 주요 5개국 가운데 4위에 그치며 중국(3위)보다 뒤처졌다는 분석이 나왔다. 특히 인공지능(AI)과 이동통신 분야 기술 경쟁력이 하락한 것으로 조사됐다. 10일 과학기술정보통신부 산하 정보통신기획평가원(IITP)이 발표한 2022년도 주요 국가 ICT 기술수준조사 보고서에 따르면 미국의 기술을 100%로 가정했을 때 한국의 평균 기술 수준은 90%로 주요 5개국 중 4위에 머물렀다. 이 조사는 한국과 미국, 유럽, 중국, 일본 등 5개국을 대상으로 18개 ICT 중점 분야의 기술 경쟁력을 비교 분석한 결과다. 미국 대비 한국의 기술 수준은 2021년(89.6%)보다 0.4%포인트 상승했지만 순위를 뒤집진 못했다. 2022년 미국 대비 중국의 기술 수준은 92.2%로 3위였다. 2021년(91.8%)에 이어 한국을 앞섰다. 미국 대비 기술 수준 2위는 유럽(93.8%)이었고, 일본(88.6%)은 가장 낮은 5위였다.  미국과의 기술 상대 격차는 한</content:encoded>
+    </item>
+    <item>
+      <title>‘한미’ 송영숙 회장 “OCI와 통합, 타협없어… 이번달 주총서 두 아들과 표대결 문제없다”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240310/123903141/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240310/123903141/1</guid>
+      <pubDate>2024-03-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/10/123900333.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“저보다 고(故) 임성기 (한미약품) 선대회장을 잘 아는 사람은 없습니다. OCI와의 통합 결정은 결국은 임 선대회장의 뜻이고, 한미의 방향입니다. 두 아들도 저를 이해하고 돌아올 것이라고 생각합니다.” 한미약품의 창업자 임 선대회장의 아내인 송영숙 한미사이언스 회장이 2020년 취임 후 처음으로 언론 앞에 나서 OCI그룹과의 통합 발표 이후 격화된 모자간 경영권 분쟁에 대해 의견을 밝혔다. 8일 서울 송파구 한미약품 본사에서 기자들과 만난 송 회장은 “지금까지 자식들이 나를 아버지와 함께 한미약품을 50년간 이끌어 온 동료가 아니라 엄마라고만 생각했던 것 같다”며 “하지만 나는 이번 결정을 내릴 수 있는 충분한 자격이 있다. (두 아들과) 타협할 만한 결정이 아니다. 나를 믿고 따라와 달라”며 자신감을 내비쳤다. 한미약품그룹은 올 1월 OCI그룹과 이례적인 ‘그룹 결합’을 발표했다. 송 회장의 딸인 임주현 한미약품 사장과 이우현 OCI홀딩스 회장이 각자대표를 맡는 ‘한 지붕 두 가</content:encoded>
+    </item>
+    <item>
+      <title>화석연료 계속 쓰면… ‘6번째 대멸종’ 현실이 될 수도</title>
+      <link>https://www.donga.com/news/It/article/all/20240310/123903058/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240310/123903058/1</guid>
+      <pubDate>2024-03-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/10/123898173.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서식지가 넓지 않고 몸집이 작은 생물종일수록 멸종 위기에 처할 가능성이 높다는 분석이 나왔다. 기후변화에 따른 극단 기후현상에 노출될 가능성이 높기 때문이다. 향후 국지적인 범위에서 기후가 크게 바뀐다면 ‘6번째 대멸종’이 일어날 개연성도 배제할 수 없다는 지적이다. 에린 소프 영국 옥스퍼드대 지구과학부 교수 공동연구팀은 9200종 이상의 화석 29만 개를 분석해 생물종의 멸종에 영향을 미칠 수 있는 기후변화 요소를 확인하고 연구 결과를 7일(현지 시간) 국제학술지 ‘사이언스’에 발표했다. 체감될 정도의 기후변화가 현실화하는 가운데 생물 멸종에 직접적으로 영향을 미치는 요소가 확인되면서 생물종을 보호하는 전략 수립에 도움이 될 것으로 기대된다. 기후변화는 지구에서 살던 수많은 종들이 단기간에 사라지는 ‘대멸종’의 원인이 됐다. 하지만 구체적으로 어떤 요인들이 기후변화로 인한 생물종의 멸종에 영향을 미쳤는지는 그간 명확히 밝혀지지 않았다. 연구팀은 이전까지 학계에서 주목하지 않았던 각</content:encoded>
+    </item>
+    <item>
+      <title>“믿을 수 없는 속도”… 손상된 산호초, 4년 만에 완전히 회복됐다</title>
+      <link>https://www.donga.com/news/It/article/all/20240310/123903048/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240310/123903048/1</guid>
+      <pubDate>2024-03-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/10/123898168.4.jpeg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;해양 생태계를 유지하는 데 중요한 역할을 하는 산호초가 기후변화로 몸살을 앓고 있다는 사실은 잘 알려져 있다. 2022년 호주 당국에 따르면 세계 최대 산호초 군락인 ‘그레이트 배리어 리프’도 90%가량이 백화 현상으로 피해를 입고 있다. 백화는 해수 온도 상승으로 산호초에 영양을 공급하는 미세조류가 사라지면서 산호초의 석회질이 하얗게 드러나는 현상이다. 기후위기가 가속화하는 가운데 과학자들은 해양 생태계 보호를 위해 산호초 복원 전략을 고심 중이다. 아이너스 랭 영국 엑서터대 지리학과 박사후연구원 연구팀은 손상된 산호초 복구 프로젝트를 통해 4년 만에 건강한 산호초를 형성시킨 연구 결과를 9일(현지 시간) 국제학술지 ‘현대 생물학’에 공개했다. 손상된 산호초 군락은 생각보다 빠르게 복원될 수 있다는 사실을 실증을 통해 최초로 확인했다는 점에서 의미가 크다.● 구조물 이용해 4년 만에 산호 재건 연구팀은 전 세계에서 규모가 가장 큰 산호초 회복 프로젝트인 ‘산호초 재건 프로그램’의</content:encoded>
+    </item>
+    <item>
+      <title>[DBR]지식근로자의 일, AI에만 의존하면 미래는 없다</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240310/123902988/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240310/123902988/1</guid>
+      <pubDate>2024-03-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/10/123880771.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;챗GPT 등 생성형 인공지능(AI)이 빠르게 일상에 침투하면서 AI가 ‘지식근로자’라 불리는 화이트칼라의 업무를 상당 부분 대체할 것이라는 우려가 커지고 있다. 월스트리트저널에 따르면 지난해 미국에서 AI 때문에 없어진 일자리는 이미 4300여 개에 달한다. 더 큰 문제는 AI가 앞으로 얼마나 더 많은 일자리를 대체할지 알 수 없다는 점이다. 이 때문에 우리는 AI가 지식근로자의 일을 얼마나 대체할 것이고, 어떤 일을 주로 대체할 것이며, 반대로 AI가 대체하기 어려운 일은 무엇인지를 잘 알아야 한다. 이를 위해 경영 석학들이 남긴 지식관리에 대한 통찰을 다시 한번 살펴볼 필요가 있다. DBR(동아비즈니스리뷰) 2024년 3월 1호(388호)에 실린 ‘지식경영 연구로 본 화이트칼라의 미래’ 기사를 요약해 소개한다.● 지식관리의 핵심, 암묵지 vs 형식지 경영학에서 지식근로자의 일과 지식경영에 관한 연구는 1990년대에 큰 인기를 끌었다. 지식관리 혹은 지식경영(knowledge ma</content:encoded>
     </item>
   </channel>
 </rss>
