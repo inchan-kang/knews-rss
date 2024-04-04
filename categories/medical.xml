@@ -3,161 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2024-04-03T00:10:15.029Z</lastBuildDate>
-    <item>
-      <title>“MS-오픈AI, 134조원 데이터센터 구축” … AI반도체 폭발적 수요증가 이어질듯</title>
-      <link>https://www.donga.com/news/Inter/article/all/20240331/124249582/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20240331/124249582/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>마이크로소프트(MS)와 오픈AI가 130조 원 이상을 투자해 초대형 슈퍼컴퓨터를 갖춘 대규모 데이터센터 구축 프로젝트를 추진하고 있는 것으로 알려졌다. 기존 데이터센터를 구축한 비용의 100배가 넘는 규모로, 인공지능(AI) 반도체의 폭발적인 수요 증가로 이어질 것이라는 관측이 나온다.    지난달 29일(현지 시간) 미 정보기술(IT) 매체 더 인포메이션은 “MS와 오픈AI가 차세대 인공지능(AI) 시스템을 구동하기 위해 ‘스타게이트’라는 이름의 1000억 달러(약 134조 원) 규모 슈퍼컴퓨터 구축 계획을 수립하고 있다”고 보도했다.    보도에 따르면 양사는 5단계에 걸쳐 슈퍼컴퓨터급 데이터센터 구축 계획을 세웠고, 스타게이트는 마지막 퍼즐인 5단계 구축 계획에 속하는 것으로 알려졌다. 현재는 3단계로 중간단계에 와 있으며 다음 4, 5단계의 막대한 자금에는 상당 부분이 AI 칩 구입과 관련이 있다고 더 인포메이션은 밝혔다. AI전용 칩 수백만 개가 필요하다는 것이다.   최근 외신에 따르면 샘 올</content:encoded>
-    </item>
-    <item>
-      <title>목소리 15초 들으면 복제 AI 공개… “딥페이크 망령 불러내”</title>
-      <link>https://www.donga.com/news/Inter/article/all/20240331/124249564/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20240331/124249564/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/31/124249552.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“힘이란 물체를 움직이고 방향을 바꾸게 하는 것인데….” 물리학 개념인 ‘힘’을 설명하는 15초 분량의 목소리가 흘러나왔다. 이를 들은 인공지능(AI)은 곧장 이 목소리로 생물, 영어 독해, 수학 등 각 분야 강의 샘플을 만들어 냈다. AI가 목소리를 복제한 뒤 그 목소리로 챗GPT가 만든 텍스트를 읽은 것이다. 이는 오픈AI가 지난달 29일(현지 시간) 맛보기(프리뷰) 방식으로 공개한 음성 복제 모델 ‘보이스엔진’의 샘플 사례다. 오픈AI는 보이스엔진이 15초 분량의 사람 목소리만 있으면 거의 똑같게 음성을 복제해 낸다고 밝혔다. AI의 음성 복제 기술 자체가 새로운 것은 아니다. 이미 수많은 스타트업과 기술 기업이 음성 복제에 뛰어든 상태다. 하지만 챗GPT와 같은 강력한 언어 생성 AI 모델과 전 세계 1억8000만 명의 사용자를 보유한 오픈AI가 음성 복제에 뛰어들었다는 점에서 딥페이크(조작된 영상, 이미지, 음성)가 불러올 혼란에 대한 우려를 키우고 있다. 블룸버그통신은 “</content:encoded>
-    </item>
-    <item>
-      <title>“절친 순위 표시 스냅챗, 아이들 불화 조장” 논란</title>
-      <link>https://www.donga.com/news/Inter/article/all/20240331/124249135/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20240331/124249135/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/31/124249130.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;소셜미디어가 미성년자의 정신건강에 악영향을 끼친다는 우려가 커지는 가운데 영미권 10대들에게 인기 있는 ‘스냅챗’이 아이들 교우관계에 불화까지 조장한다는 논란이 불거졌다. ‘절친 순위’를 표시하는 스냅챗의 기능이 불안, 질투심 등을 유발할 수 있다는 것이다.    월스트리트저널(WSJ)은 “최근 스냅챗의 유료 서비스인 ‘친구 태양계(Friend Solar System)’ 기능이 친구 사이를 불편하게 만드는 결과를 낳고 있다”고 지난달 30일 보도했다. 스냅챗은 2000만 명 이상의 미국 청소년들이 사용해 ‘10대들의 소셜미디어’라 부르는 모바일 메신저다.   친구 태양계는 월 3.99달러(약 5400원)를 내고 사용하는 ‘스냅챗 플러스’에 포함된 기능이다. 사용자의 소통 빈도에 따른 친밀도를 태양계 행성에 빗대 보여 주는 방식이다. 사용자 본인은 태양으로 설정돼 있고, 소통이 활발한 이들 순서대로 태양과 가까운 수성, 금성, 지구 등으로 표시된다.    문제는 교우관계에 순위를 매기는 방식이 청소년들에겐</content:encoded>
-    </item>
-    <item>
-      <title>궁지몰린 애플, 中과 협력 강화… “기술 탈취 ‘독사과’ 될 것” 우려</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240331/124248843/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240331/124248843/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/31/124248837.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“중국과 중국인을 사랑한다. 애플은 중국 시장에 대한 투자를 계속할 것이다.” 지난달 25일 ‘중국판 다보스 포럼’이라 불리는 중국발전고위급포럼에 참석한 팀 쿡 애플 최고경영자(CEO)는 외신들과의 인터뷰에서 이같이 말했다. 미국과 유럽연합(EU) 등의 규제로 사면초가에 몰린 애플이 중국 시장 점유율마저 떨어지자 적극 구애에 나선 것이다. 하지만 미중 간 갈등의 골이 깊어지고 중국발 기술 탈취 시도가 늘어나는 상황에서 궁지에 몰린 애플이 중국이라는 ‘독사과’를 베어 무는 것 아니냐는 지적도 나온다.● 中에 전방위적 구애 나선 애플 애플이 가장 강조하는 것은 중국과의 ‘두뇌협력’이다. 지난달 12일 애플은 중국 상하이에 위치한 기존 연구소를 확장하는 동시에 연말까지 선전에 새로운 연구소를 세우겠다고 밝혔다. 이와 관련해 애플은 최근 5년 내 중국 내 연구개발팀의 규모를 두 배로 늘렸고, 해당 팀이 ‘인물사진’ 같은 주요 기능 개발에 핵심적 역할을 해왔다고 강조했다. 홍콩 사우스차이나모</content:encoded>
-    </item>
-    <item>
-      <title>스미싱 1년새 15배 급증… 70%가 공공기관 사칭</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240331/124248750/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240331/124248750/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>‘[경찰교통24] 도로법 위반 벌점 통지서(발송) 내용확인 http://abc.xyz’   경찰이 교통법규를 위반한 운전자에게 보낸 문자처럼 보이지만 사실은 스미싱 문자다. 최근 이처럼 공공기관 등을 사칭하는 스미싱 문자가 크게 늘고 있는 것으로 나타났다.    31일 한국인터넷진흥원(KISA)에 따르면 지난해 스미싱 문자 탐지 건수는 50만3300건으로 2022년 3만7122건에서 15배 가까이로 증가했다. 스미싱 문자는 2020년 95만843건에서 2021년 20만2276건으로 크게 감소했고 2022년에는 더 감소했지만 지난해 큰 폭으로 다시 증가한 것이다. KISA 관계자는 “과거에는 택배 사칭 문자가 절반 이상이었는데 지난해 공공기관이나 지인을 사칭하는 경우가 급속도로 늘었다”고 말했다.   2020년 전체 탐지 건수의 1.3%에 불과했던 공공기관 사칭 문자는 지난해 69.5%(35만10건)를 차지했다. 대개 건강검진 결과나 교통 법규 위반, 쓰레기 무단투기 등의 과태료를 안내하는 것처럼 속여 문</content:encoded>
-    </item>
-    <item>
-      <title>구글 “유튜브-구글검색, 총선 기간 정치 관련 광고 중단”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240331/124248712/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240331/124248712/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>구글이 유권자의 혼란을 방지하기 위해 올해 총선 기간 정치 관련 광고를 게시하지 않기로 했다. 이용자가 선거 관련 정보를 검색할 경우 공신력 있는 출처의 콘텐츠를 우선적으로 연결할 방침이다.    31일 구글코리아는 최근 공식 블로그에 선거와 관련된 방침을 공지하고 “구글은 (올해 국회의원) 선거 기간 동안 정치 관련 광고를 지원하지 않는다”고 밝혔다. 이러한 정책은 유튜브와 구글 검색, 구글 플레이스토어 등 모든 구글 광고에 적용된다.   구글이 수익성을 포기하고 정치 관련 광고를 받지 않기로 한 것은 이 같은 광고들이 유권자를 오도할 가능성이 높다고 판단했기 때문으로 분석된다. 신기술이 선거에 악용되지 않도록 빅테크가 적극 나서야 한다는 책임론도 영향을 미친 것으로 보인다.    구글은 선거와 관련한 정보는 공신력 있는 기관의 데이터를 우선적으로 제공할 방침이다.    구글 홈페이지에서는 투표 방법 및 유권자 등록 방법과 관련한 정보를 안내하는 링크를 제공한다. 유튜브는 선거 기간 동안 정치 관련 검</content:encoded>
-    </item>
-    <item>
-      <title>7년 만에 찾아온 태양의 휴식 시간</title>
-      <link>https://www.donga.com/news/It/article/all/20240331/124248501/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240331/124248501/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/31/124248498.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일주일 뒤인 8일(현지 시간) 2017년에 이어 7년 만에 북미에서 개기일식 현상이 일어난다. 이번 개기일식 관측 기회를 놓치면 20년을 기다려야 해 북미 전역에서 관심이 뜨겁다. 국내 연구자들도 이번 개기일식이 진행되는 동안 태양 코로나 등 관측에 나선다.   개기일식은 태양-달-지구 순서로 늘어설 때 일어난다. 지구에서 봤을 때 태양과 달의 ‘시직경’이 거의 같아 태양이 달에 의해 완전히 가려지는 현상이다. 시직경은 지구에 있는 관측자가 본 천체의 겉보기 지름이다.    이번 개기일식은 멕시코의 태평양 연안에서 시작해 미국 텍사스주, 중서부를 지나 뉴욕 북부와 캐나다 동부를 아우르며 일어난다. 텍사스주 리키시 현지 시간 기준 8일 오후 12시 13분부터 오후 2시 54분까지 2시간 41분간 진행된다. 태양을 완전히 가리는 개기식 지속시간은 4분 26초다. 조경석 한국천문연구원 책임연구원은 “개기식이 4분이 넘는 건 매우 드문 일로 미국에서 같은 현상은 420년 후에나 볼 수 있다”고 설명했다.   개</content:encoded>
-    </item>
-    <item>
-      <title>뇌 안에 ‘바코드’ 있다… 일시적 기억, 특정 패턴으로 저장</title>
-      <link>https://www.donga.com/news/It/article/all/20240331/124248492/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240331/124248492/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/31/124248458.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;특정한 순간을 머릿속에 일시적으로 저장하는 일은 일상에서 매우 중요하다. 출근할 때 차를 어디에 주차했는지 기억나지 않는 경우를 떠올리면 된다. 뇌에서 일시적인 기억들이 어떻게 저장되고 회수되는지는 과학자들의 오랜 관심사였다.  드미트리 아로노프 미국 컬럼비아대 신경과학과 교수 연구팀은 새의 한 종류인 박새가 어떻게 음식을 저장하고 회수하는지를 분석하고 일시적인 기억들이 뇌에서 독특한 신경 바코드 형태로 저장된다는 점을 알아냈다. 연구 결과는 3월 30일 국제학술지 셀에 공개됐다.  ● ‘일화 기억’ 형성에 해마 세포 7% 사용  개인의 특정한 일화에 대한 기억으로 구체적인 시간, 장소, 감정 등과 관련한 사적인 경험에 대한 기억을 ‘일화 기억’이라고 한다. 과학자들은 뇌의 해마 부위가 일화 기억에 관여한다는 사실을 알아냈지만 일화 기억이 정확히 어떻게 뇌에서 암호화되는지는 명확히 밝혀내지 못했다. 언제, 어떤 일화 기억을 떠올리는지 파악하기 어렵기 때문이다.  연구팀은 음식을 저장</content:encoded>
-    </item>
-    <item>
-      <title>세계서 인정받은 ‘사군자추출분말’… 야간뇨-잔뇨감 등 전립선 고민 개선</title>
-      <link>https://www.donga.com/news/It/article/all/20240329/124218557/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240329/124218557/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/29/124210798.4.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;휴온스가 전립선 건강 개별인정형 원료인 ‘사군자추출분말’을 함유한 제품인 ‘전립선 사군자’로 남성 전립선 건강기능식품 시장에서 단연 눈길을 끌고 있다. 특히 올해는 프리미엄 제품으로 리뉴얼한 ‘전립선 사군자 프리미엄’을 출시했다. 전립선 사군자 프리미엄은 기존 전립선 사군자의 △사군자추출분말 △옥타코사놀함유유지 △아연을 주성분으로 한 제품으로 △부원료 19종을 추가 배합했다. 전립선 사군자의 주성분인 사군자추출분말은 12년 만에 식약처 인정을 받은 새로운 개별인정 원료로 전립선암 지표인 ‘PSA 단백질’의 억제력이 높은 천연물 소재로 알려져 있다. 인체 적용 시험을 통해 ‘국제 전립선 증상 점수(IPSS)’ 총점 개선 및 △야간뇨 △요절박 △잔뇨감 △빈뇨 △배뇨 곤란 △배뇨 중단 △배뇨 지연 △생활 불편 △약한 배뇨 등 개별 항목에서 유의미한 결과를 확인했다. 인체 적용 시험에 앞서 동물실험에서도 사군자추출분말을 경구투여했을 때 전립선 무게와 조직 성장 관련 인자가 유의적으로 감소함</content:encoded>
-    </item>
-    <item>
-      <title>‘AACR’서 업계 최다 연구 과제 발표 … 끝없는 R&amp;D로 신약 개발 선봉장 ‘우뚝’</title>
-      <link>https://www.donga.com/news/It/article/all/20240329/124218482/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240329/124218482/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/29/124210805.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한미사이언스(이하 한미그룹)는 핵심 회사 한미약품이 오는 5일부터 10일까지 미국 샌디에이고에서 열리는 ‘미국암연구학회(AACR 2024)’에 참가해 업계 최다 건수인 10개의 신규 연구 과제를 공개한다고 밝혔다. 한미그룹 관계자는 “흔들림 없는 연구개발(R&amp;amp;D)로 한국의 신약 개발을 주도하는 한미의 혁신 과제들을 AACR에서 대거 소개할 수 있게 돼 기쁘다”며 “한미의 미래 가치를 더욱 높여 줄 이번 혁신 과제들이 빠르게 상용화될 수 있도록 회사의 모든 역량을 집중해 나가겠다”고 말했다. 한미약품이 이번 AACR에서 공개하는 연구 과제는 총 10개로 △p53-mRNA 항암 신약 △LAPSIL-2 analog(HM16390) 2건 △EZH1/2 이중저해제(HM97662) 2건 △선택적 HER2 엑손20 삽입 변이 저해제 △IRE1α 저해제(HM100168) △KRAS mRNA 항암 백신 △YAP/TAZ-TEAD 저해제와 함께 북경한미약품이 주도적으로 개발하고 있는 이중항체 플</content:encoded>
-    </item>
-    <item>
-      <title>사회책임경영시스템 구축하고, 재해 현장-의료 소외지역 지원</title>
-      <link>https://www.donga.com/news/It/article/all/20240329/124218415/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240329/124218415/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/29/124210785.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동아쏘시오그룹은 국제적 기준에 부합하는 사회 책임경영 시스템을 구축하고 책임 있는 발전과 미래를 위한 가치 투자에 집중하고 있다. 체계적인 사회 책임경영 실천을 위해 2020년 13개 그룹사 대표이사로 구성된 ‘사회책임협의회’를 신설했으며 연 2회(6월, 12월) 회의를 개최해 그룹 사회 책임경영 관련 사항에 대한 심의 및 의사결정을 하고 있다. 동아쏘시오그룹은 국내 다양한 사회공헌 활동을 통해 지역사회에 희망을 전하고 있다. 2021년부터 임직원의 자발적인 걸음으로 참여하는 건강한 기부 ‘디스타일 워킹’ 캠페인을 진행하고 있다. 지난 2022년에는 3회에 걸쳐 2400여 명의 그룹사 임직원이 참여해 총 4억2000걸음을 달성했다. 임직원의 걸음으로 모인 3억 원의 기부금은 전국재해구호협회 희망브리지를 통해 도움이 필요한 곳에 전달했다. 2019년 4월 발생한 강원도 산불 현장에도 동아쏘시오그룹의 손길이 닿았다. 산불로 피해를 본 주민 지원 활동으로 시작된 ‘봉사약국 트럭’은 재난</content:encoded>
-    </item>
-    <item>
-      <title>약사가 추천하는 영양제… ‘비맥스’로 만성피로 해결</title>
-      <link>https://www.donga.com/news/It/article/all/20240329/124218359/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240329/124218359/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/29/124210773.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;GC녹십자의 ‘비맥스 시리즈’가 지난해 매출 500억 원을 넘어서며 비타민 B군 시장에서 폭발적인 성장세를 보이고 있다. 비맥스는 다른 제약사에 비해 한발 늦게 시장에 진입했지만 적극적인 마케팅을 통해 빠르게 성장했다. 연 매출 100억 원을 달성한 2017년 이후 비맥스는 매년 50%씩 가파르게 성장하고 있다. 비맥스 시리즈는 2012년 출시된 고함량 활성비타민제다. 활성비타민 B군을 포함해 비타민 10여 종과 각종 미네랄이 균형 있게 함유돼 육체 피로, 체력 저하를 개선하고 신경·근육 통증 완화에 효과적이다. 비맥스는 우수한 제품력을 바탕으로 약사들이 적극 추천하는 비타민제로 입소문이 퍼지며 유명해졌다. GC녹십자의 일반의약품(OTC) 중에서도 소비자들에게 높은 인지도와 좋은 반응을 얻고 있는 제품이다. 비맥스는 한국표준협회(KSA) 주최 ‘소비자웰빙환경만족지수(KS-WEI)’ 종합영양제 부문에서 2년 연속 1위를 수상하며 소비자들에게도 제품력을 인증받았다. 또한 최근 산업정책연</content:encoded>
-    </item>
-    <item>
-      <title>ADC 항암제-유전자치료제 등 신약 연구… 파이프라인 넓혀 미래 성장동력 확보</title>
-      <link>https://www.donga.com/news/It/article/all/20240329/124218285/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240329/124218285/1</guid>
-      <pubDate>2024-04-01T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/29/124210760.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;종근당이 신약 개발 범주를 대폭 확대하며 혁신 신약 개발에 속도를 높이고 있다. 2023년 매출액 대비 약 9.14%인 1507억 원을 투자해 세포·유전자 치료제(CGT) 등 첨단 바이오 의약품과 ‘유도미사일 항암제’로 알려진 ADC 항암제 등 신규 모달리티를 모색하며 세상에 없던 신약과 미충족 수요 의약품을 타깃으로 연구개발에 집중하고 있다. 종근당은 지난해 2월 네덜란드 시나픽스와 항체-약물 접합체 기술 도입 계약을 체결하고 관련 플랫폼 기술 3종(글리코커넥, 하이드라스페이, 톡스SYN)의 사용 권리를 확보해 ADC 항암제 개발에 나서고 있다. 2022년 5월에는 세포·유전자 치료제 위탁개발생산(CDMO) 및 차세대 줄기세포치료제 개발 기업 이엔셀과 전략적 투자 및 공동 연구를 위한 양해각서(MOU)를 체결했다. 이어 9월 서울성모병원에 유전자치료제 연구센터 ‘Gen2C’를 개소하고 기존 방법으로 치료제 개발이 어려웠던 타깃의 희귀·난치성 치료제를 개발하고 있다. 연구 및 임상시</content:encoded>
-    </item>
-    <item>
-      <title>“푸바오, 널 한번만 더 볼 수 있다면”…에버랜드, 배웅행사 연다</title>
-      <link>https://www.donga.com/news/Culture/article/all/20240401/124252844/1</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20240401/124252844/1</guid>
-      <pubDate>2024-04-01T09:22:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/01/124252830.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;에버랜드의 자이언트 판다 푸바오가 한국 생활을 마치고 이틀 후인 3일 중국으로 떠난다. 에버랜드는 푸바오가 마지막 주말을 보내고 한국을 떠나는 당일 팬들이 푸바오를 배웅할 수 있는 자리를 마련한다.  1일 에버랜드에 따르면 푸바오는 오는 3일 중국 쓰촨성에 위치한 자이언트판다보전연구센터 워룽선수핑 기지로 이동한다. 중국 외에서 태어난 판다는 만 4세 이전 중국으로 이동해야 한다는 ‘자이언트 판다 보호연구 협약’에 따른 조치다.  푸바오는 에버랜드를 출발해 인천국제공항까지 반도체 수송에 이용되는 ‘특수 무진동차’로 이동한 후 전세기를 타고 중국으로 향할 예정이다. ‘푸바오 할부지’ 강철원 사육사는 전세기에 함께 탑승해 이동을 지원한다.  푸바오와의 작별을 아쉬워하는 팬들을 위해 에버랜드는 푸바오를 태운 차량이 출발하는 오전 10시 40분 배웅의 시간을 마련했다. 다만 차량 내부에 있는 푸바오를 직접 만나볼 수는 없다.  푸바오가 탑승한 차량은 길가에 서 있는 방문객 사이로 판다월드부터 장미원까지 천천히 이</content:encoded>
-    </item>
-    <item>
-      <title>유재석·홍진경 사칭 광고…구글, 경고 없이 영구 정지</title>
-      <link>https://www.donga.com/news/It/article/all/20240401/124252892/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240401/124252892/1</guid>
-      <pubDate>2024-04-01T09:24:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/01/124252660.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;유명인을 사칭한 광고 피해가 잇따르면서 그간 소극적인 자세를 보이던 유튜브가 대응에 나섰다. 사칭 광고를 한 광고주의 계정을 사전 경고 없이 영구 정지하기로 했다.  1일 구글의 광고 정책 페이지에 따르면 구글은 지난달 28일부터 ‘공인, 브랜드, 조직과의 제휴 또는 이들의 지위를 사칭하거나 허위로 암시해 사용자가 금전이나 개인 정보를 제공하도록 유도하는 행위’를 전면 금지했다.  기존 ‘허위 정보를 제공해 사용자를 속이는 광고는 허용되지 않는다’는 정책을 구체적이고 명시적으로 바꿔 28일부터 시행에 들어간 것이다.   특히 구글은 “해당 정책을 위반하는 경우 사전 경고 없이 구글 광고 계정을 정지하고 광고주는 구글 광고 서비스를 다시 이용할 수 없다”고 강조했다. 기존에는 사전 경고 후 해명할 기회를 줬었다.    유튜브 정책에서도 ‘타인의 실명, 이미지 등 다른 사용자들로 하여금 내가 해당 인물이라고 믿게 만드는 콘텐츠’를 게시할 경우 ‘채널 또는 계정이 폐쇄될 수 있다’고 명시했다.  아울러 구글은</content:encoded>
-    </item>
-    <item>
-      <title>수령 100년 노송 80여그루 이식…영동군 송호관광지 ‘신음’</title>
-      <link>https://www.donga.com/news/Society/article/all/20240401/124252995/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20240401/124252995/1</guid>
-      <pubDate>2024-04-01T09:31:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/01/124252932.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“금강을 벗삼아 아름다운 경치를 즐기며 걸을 수 있는 최고의 힐링 코스가 훼손되고 있는 것 같아 안타깝다.”  지난 주말에 영동 송호관광지를 찾은 정세훈 씨(45·대전시 동구)는 이렇게 말하며 씁쓸해했다.   금강 비경과 노송이 어우러진 충북 영동군의 양산팔경 6경인 송호관광지 일대가 신음하고 있다.   1일 영동군과 이 지역 주민들에 따르면 금강유역환경청이 2020년 8월부터 용담댐 방류로 침수피해가 난 양산면 송호리∼봉곡리 구간(길이 1479m) 금강송호지구하천정비사업을 추진하고 있다.  금강 주변 침수피해 예방을 위해 이 구간에 4~5m 높이의 제방(돌망태) 쌓는 것이 핵심이다. 이 사업에 송호리 일대 군도 19호선이 포함돼 송호관광지 내 3만2620㎡(폭 6∼7m)가량이 제방공사 터로 편입된다.   송호관광지 내 수령 100년 이상 된 노송 300여 그루 중 80여 그루도 다른 곳으로 옮겨 심어야 한다.   금강유역환경청은 공사 진행을 위해 박씨 문중 소유 땅과 노송을 사들였다. 지난달부터 노송</content:encoded>
-    </item>
-    <item>
-      <title>엘리하이 키즈, ‘AR 태양계 관찰’ 어플 오픈 …3D 탐험으로 4~7세 과학 호기심 ↑</title>
-      <link>https://www.donga.com/news/It/article/all/20240329/124221721/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240329/124221721/1</guid>
-      <pubDate>2024-04-01T10:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/03/29/124221708.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;메가스터디교육의 유아 스마트학습 엘리하이 키즈가 ‘AR 태양계 관찰’ 어플을 오픈했다고 밝혔다.    ‘AR 태양계 관찰’은 초등 인강 엘리하이에서 먼저 오픈해 인기를 모은 학습 어플로, 3D 증강현실을 통해 직접 본 것처럼 태양계를 생생하게 체험할 수 있는 것이 특징이다.    끌어넣기, 사진 찍기, 돋보기로 확대해 보기 등 다양한 액티비티를 통해 행성의 모양과 특징을 살펴볼 수 있어, 지구과학 내용을 처음 접하는 4~7세 유아들도 우주에 대한 호기심을 키우면서 재밌게 학습할 수 있다.    3D 행성 관찰 학습 후에는 이해도를 점검하는 퀴즈도 함께 제공돼 놀이하듯 학습하면서 자연스럽게 과학 지식을 쌓을 수 있다는 장점이 있다. 또한, 우주선을 획득해 괴물을 물리치는 행성 지키기 미션은 유아들의 학습 동기를 부여하고 공부 재미를 높이는 요소 중 하나로 평가받고 있다.    ‘AR 태양계 관찰’ 어플은 초등 과학 교과서에 나오는 태양계 주요 행성들로 구성돼 있고, 초등 전문가들의 꼼꼼한 감수로 정확한 지</content:encoded>
-    </item>
-    <item>
-      <title>AI가 수시로 안부 확인…보훈부, 국가유공자 고독사 예방 나서</title>
-      <link>https://www.donga.com/news/Politics/article/all/20240401/124253915/1</link>
-      <guid>https://www.donga.com/news/Politics/article/all/20240401/124253915/1</guid>
-      <pubDate>2024-04-01T10:09:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/01/124253779.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;독거 국가유공자들의 고독사를 비롯한 사회적 고립 예방을 위한 인공지능(AI) 기반 안부 인사 지원 앱 서비스가 민·관 협력으로 추진된다.  국가보훈부는 2일 오후 3시 40분, 서울 용산 전쟁기념관 4층 소회의실에서 인공지능(AI) 기반 안부 인사 앱 서비스인 ‘보보안심콜’ 지원 업무협약을 체결한다고 1일 밝혔다.   이날 체결식에는 이희완 차관, 권오형 퀄컴 본사 수석 부사장 겸  아시아태평양지역 총괄사장, 김종성 루키스 대표 등이 참석한다.  ‘보보안심콜’은 기존 독거노인 등을 대상으로 일부 지방자치단체에서 서비스 중인 인공지능(AI) 기반 통합 관리·점검 응용프로그램(앱)을 고령의 독거 국가유공자들의 스마트폰에 설치해 안부를 확인하는 서비스이다.   업무협약에 따라 국가보훈부는 대상자 선정과 응용프로그램(앱) 설치, 퀄컴은 경제적 지원, 루키스는 국가유공자에 맞춘 서비스 지원 등을 각각 담당하게 된다.  특히, ‘보보안심콜’은 국가보훈부의 보훈 인물(캐릭터)인 ‘보보’의 목소리로 국가유공자의 안부를</content:encoded>
-    </item>
-    <item>
-      <title>삼성, 韓서만 ‘갤폴드 울트라’ 출시?…폴더블 라인업 늘릴까</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240401/124253934/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240401/124253934/1</guid>
-      <pubDate>2024-04-01T10:10:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/01/124253889.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 올 하반기 ‘갤럭시 Z 폴드6 울트라’ 모델을 한국을 비롯한 일부 지역에서만 출시할 것이라는 관측이 나왔다.   1일 샘모바일, 폰아레나 등 외신에 따르면 최근 업계에서는 삼성전자 갤럭시 Z 폴드6 울트라의 제품 모델번호로 추정되는 ‘SM-F958’이라는 일련번호가 유출됐다.  그간 삼성전자의 제품번호는 최상위 모델인 울트라 제품의 끝에 숫자 ‘8’을 넣는 식으로 구성돼왔다. 올해 초 출시된 갤럭시 S24 울트라의 제품번호는 ‘SM-S928’이었고, 갤럭시 Z 폴드6 일반 모델은 ‘SM-F956’으로 예상되고 있다.  특히 현재까지 확인된 폴드6 울트라의 전체 모델번호는 ‘SM-F958N’이다. 업계에 따르면 제품번호 끝에 N이 붙었다는 것은 해당 모델이 한국에서만 사용 가능하다는 것을 의미한다. 아직 미국, 유럽 등 주요 시장 버전의 제품번호는 확인되지 않았다.  다만 아직 6세대 폴더블폰이 출시되기까지 수개월의 시간이 남아있고, 제품 개발이 진행 중인 단계인 만큼 한국 외 다른 국가에서도</content:encoded>
-    </item>
-    <item>
-      <title>애플 독점 한국에서도?…공정위, 美 소장 분석 착수</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240401/124253988/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240401/124253988/1</guid>
-      <pubDate>2024-04-01T10:12:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/01/124253944.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 법무부가 애플을 상대로 독점 관련 소송을 제기한 가운데 공정거래위원회가 해당 법리를 우리나라 시장에 적용할 수 있을지 검토에 착수했다.  1일 공정위에 따르면 공정위는 미 법무부가 애플을 상대로 제기한 소송의 소장을 한국 시장에 적용 가능한지 여부에 대한 법리 검토에 나섰다.  미국 법무부는 애플이 ‘셔먼 독점금지법 2조’를 위반했다는 내용의 소송을 제기했다.  아이폰 운영체제인 iOS에 대한 통제권과 아이폰 작동 체계를 이용해 새로운 앱과 클라우드 스트리밍 서비스를 대중으로부터 차단하고, 안드로이드폰 메시지가 아이폰에서 표시되는 방식을 저해하는 방식으로 경쟁사 스마트워치나 간편결제가 아이폰과 연동되는 것을 제한했다는 것이 주된 내용이다.  공정위가 미 법무부가 제기한 소송 관련 법리 검토에 착수하며 우리나라도 플랫폼법 재추진 등 관련 제재에 나설지 관심을 모은다.   애플은 유럽연합(EU)이 디지털시장법(DMA)를 시행하는 데 맞춰 앱스토어를 이용하지 않고도 아이폰·아이패드 등에서 앱을 다운로드</content:encoded>
-    </item>
-    <item>
-      <title>대웅제약-종근당, 신약 펙수클루 공동판매 전선 구축… “시장 주도권 변화 이끈다”</title>
-      <link>https://www.donga.com/news/It/article/all/20240401/124260504/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240401/124260504/1</guid>
-      <pubDate>2024-04-01T15:04:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/01/124260490.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대웅제약이 종근당과 함께 국산 34호 신약 펙수클루 공동판매 전선을 구축한다.  대웅제약은 종근당 P-CAB계열 위식도역류질환 치료제 ‘펙수클루’를 공동판매한다고 1일 밝혔다. 이번 양사가 영업·마케팅 역량을 모아 시너지를 극대화하기 위해 추진됐다. 특히 대웅제약의 경우 이번 전략적 동반자 관계를 통해 펙수클루를 ‘1품1조(1品1兆)’ 제품으로 육성한다는 방침이다. 1품1조 비전은 1개 품목으로 1조 원 매출을 달성한다는 전략이다.  펙수클루는 대웅제약이 지난 2022년 7월 발매한 국산 신약이다. 지난 2월 기준 누적처방액은 776억 원으로 단기간에 국내 블록버스터로 성장했다. 발매 2년차에 위식도역류질환 치료제 시장 2위에 이름을 올렸다. 미란성 위식도역류질환 치료 적응증 하나로 달성한 성과다. 올해 위염 적응증 급여확대와 종근당 공동판매 본격화에 따라 다시 한 번 실적이 크게 성장할 것으로 기대하고 있다.   의약품 통계정보 유비스트에 따르면 작년 4분기 기준 국내 P-CAB계열과 PPI계열 제제</content:encoded>
-    </item>
-    <item>
-      <title>동국제약, 강종한 부사장 등 10명 규모 임원 인사</title>
-      <link>https://www.donga.com/news/It/article/all/20240401/124260722/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240401/124260722/1</guid>
-      <pubDate>2024-04-01T15:13:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/01/124260714.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동국제약은 1일 임원 인사를 단행했다. 김종한 ETC사업본부 부사장 등 총 10명 규모 인사 발령이 이뤄졌다. 발령일자는 2024년 4월 1일부다.  아래는 이번 임원 인사 대상자 명단이다.  ▲강종한 ETC사업본부 부사장  ▲김홍기 재무기획실 전무이사보 ▲박신정 R&amp;amp;D본부 전무이사보 ▲유기웅 신제품개발실 전무이사보 ▲이희자 개발기획실 전무이사보 ▲함명진 헬스케어뷰티(Beauty)사업부문 전무이사보  ▲김종훈 헬스케어온라인사업부문 이사대우 ▲안우진 ETC사업부문 이사대우 ▲이상조 ETC사업부문 이사대우 ▲김민우 품질경영실 이사대우김민범 동아닷컴 기자 mbkim@donga.com</content:encoded>
-    </item>
+    <lastBuildDate>2024-04-04T00:09:07.611Z</lastBuildDate>
     <item>
       <title>LG유플러스 &quot;소상공인 AX 솔루션으로 27년까지 매출 2000억 달성&quot;</title>
       <link>https://www.donga.com/news/It/article/all/20240401/124261390/1</link>
@@ -353,6 +199,160 @@
       <guid>https://www.donga.com/news/Society/article/all/20240403/124291187/1</guid>
       <pubDate>2024-04-03T08:06:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124291184.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;과거에는 치매를 노인이면 겪는 질환으로 생각했지만 최근에는 뇌 질환으로 인식되고 있다. 치매는 질환이므로 적절한 예방과 치료로 치매 속도를 늦추거나 호전될 수 있다.   3일 의료계에 따르면 치매는 정상적으로 생활하던 사람에게 기억력을 비롯해 여러 인지기능의 장애가 나타나 일상생활을 하기 힘들 정도로 심한 영향을 주는 상태를 의미한다.  치매를 유발하는 대표적인 원인은 알츠하이머병과 혈관성 치매이며, 그 외 루이체치매, 전두측두엽 치매 등이 있다. 치매의 호발 연령은 65세 이후이며 85세 이상에서 가장 많다. 그러나 65세 미만에서 발병한 경우도 적지 않으며 이를 조발성(초로기) 치매라고 부른다.   초로기 치매는 알츠하이머병, 혈관성 치매, 전두측두엽치매가 많은 비중을 차지한다. 전두측두엽 치매는 전체 치매의 약 2~5%를 차지하고 있으며 45~64세의 연령층이 전체 전두측두엽 치매 환자의 60%에 해당한다. 통상적으로 노년기 알츠하이머 치매의 생존기간은 진단 후 평균 10년이지만 초로기 치매는 평균</content:encoded>
+    </item>
+    <item>
+      <title>전기저항 0, 전자파도 없다…초전도케이블은 꿈의 전선일까[딥다이브]</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240402/124285186/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240402/124285186/1</guid>
+      <pubDate>2024-04-03T10:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/02/124285176.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;초전도체를 아십니까. 지난해 여름 국내 주식시장을 아주 뜨겁게 달궜던 테마였죠. 초전도체가 ‘전기저항이 0’인 물질이라는 건 이미 아는 사람이 많을 겁니다. 도대체 전기저항이 0이라는 게 어떤 의미일까요. 그게 왜 그렇게 대단할까요. 초전도체 열풍이 지나간 이후이지만 궁금증은 남는데요.산업현장에서 이 초전도체를 오랫동안 다뤄온 전문가를 인터뷰했습니다. 주식시장이 열광했던 상온 초전도체와는 좀 다르지만, 고온 초전도케이블을 개발해 세계 최초로 상용화까지 성공시킨 LS전선의 류철휘 박사입니다.‘옴의 법칙’ 깬 새로운 현상의 발견-초전도 현상이라는 게 전기저항이 0이 된다는 뜻이라고 알고 있는데, 맞나요?“반만 맞췄습니다. 초전도체는 크게 두 가지 특성을 모두 가지고 있어야 해요. 첫 번째는 전기저항이 제로가 되는 거고요. 두 번째는 내부로 침입하는 자기장을 밖으로 밀어내는 특징입니다. 저희는 그중 전기저항이 0이 되는 현상을 극대화해서 초전도케이블을 개발했습니다.”-전기저항이 제로인 게</content:encoded>
+    </item>
+    <item>
+      <title>‘3·3·3’ 양치질 법칙은 옛말…“요즘은 ‘ 0·1·2·3’ 해야 정석”</title>
+      <link>https://www.donga.com/news/Society/article/all/20240403/124293813/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240403/124293813/1</guid>
+      <pubDate>2024-04-03T10:34:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124293803.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그동안 양치질의 정석으로 알려졌던 3·3·3 법칙이 현대인의 식습관과는 어울리지 않는다는 의견이 속속나오고 있다. 간식이나 야식 등을 자주 먹는 현대인에게 삼시 세끼 중심으로 만들어진 3·3·3 법칙이 맞지 않는다는 이유에서다.   3일 치과 및 구강보건산업계에 따르면 하루 세 번, 식후 3분 이내, 3분 동안 양치질하는 3·3·3 법칙은 과거 치아건강에 대한 관심이 낮았던 시기에 만들어졌던 만큼 변화가 필요하다.   생활 수준이 향상되면서 먹거리가 풍부해지고. 시간에 제한 없이 다양한 간식을 섭취하는 만큼 음식을 섭취할 때마다 양치질이 해야 한다는 것이다.   또 잘들기 전에 양치질을 하면 구강 건강은 물론 아침에 일어나서 발생할 수 있는 입냄새를 줄이는 데 도움이 된다.   아울러 잠자리에 들기 전에도 양치질을 해주어야 한다. 자기 전에 양치질하면 구강 건강 유지는 물론 아침에 일어났을 때 입 냄새를 줄이는 효과가 있다,   기본적으로는 탄산음료, 과자, 사탕, 아이스크림 등 당류가 포함된 음식을 먹</content:encoded>
+    </item>
+    <item>
+      <title>올림플래닛, SNU서울병원과 사업 확장 위한 MOU 체결</title>
+      <link>https://www.donga.com/news/It/article/all/20240402/124280492/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240402/124280492/1</guid>
+      <pubDate>2024-04-03T11:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/02/124280281.2.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;몰입형 3D 콘텐츠 및 AI 휴먼 상담 솔루션 서비스 확산   지난 1일 ㈜올림플래닛과 SNU 서울병원이 몰입형 3D 콘텐츠 및 AI 휴먼 상담솔루션 사업 확장을 위한 업무 협약(MOU)을 체결했다고 밝혔다. 업무 협약식에는 올림플래닛 권재현 대표와 SNU 서울병원 서상교 대표원장과 양사 관계자들이 참석했다.   올림플래닛은 ‘엘리펙스(ELYPECS)’를 통해 다양한 산업에 특화된 XR솔루션과 누구나 쉽게 체험할 수 있는 몰입형 콘텐츠 서비스를 제공하고 있다.   양사는 이번 업무협약을 통해 SNU 서울병원의 몰입형 콘텐츠 개설과 AI휴먼 기술을 활용한 의료 상담솔루션 도입을 함께 할 예정이다. 쉽게 말해 몰입형 콘텐츠로 SNU서울병원의 다양한 시설을 체험하고 동시에 3D 영상 및 AI 휴먼 상담 솔루션 도입을 통해 환자들의 수술에 대한 이해를 돕고 차별화된 의료 서비스를 제공할 계획이다.  또한 SNU서울병원은 올림플래닛 임직원 및 가족들의 건강증진과 복지향상을 위해 관절, 족부, 수부, 척추, 내과</content:encoded>
+    </item>
+    <item>
+      <title>“안녕 푸바오, 영원히 기억할게”…푸바오 배웅길</title>
+      <link>https://www.donga.com/news/Society/article/all/20240403/124295434/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240403/124295434/2</guid>
+      <pubDate>2024-04-03T11:32:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124294929.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;용인 푸씨, 푸공주, 푸질머리 등 많은 애칭을 얻으며 사랑받아 온 푸바오가 3일 한국을 떠나 중국으로 향한다. 중국이 아닌 곳에서 태어난 판다는 만 4세가 되기 전에 중국으로 이동해야 한다는 협약에 따른 조치다.  이날 오전 10시 용인 에버랜드에는 수 천명의 팬들이 모였다. 특수 무진동차량에 탑승해 판다월드를 출발한 푸바오는 에버랜드 퍼레이드 동선을 지나 장미원 분수대 앞에서 팬들과 마지막 인사를 나눴다.   이날 푸바오의 중국길에 동행하기로 한 ‘푸바오 할부지’로 알려진 강철원 사육사는 “태어나는 순간부터 많은 사람에게 희망과 행복을 전해주던 푸바오, 제2의 판생을 위해 먼 여행을 떠나야 하는 날이네”라며 “이제 푸바오는 어른 판다로 손색이 없을 정도로 모든 과정을 다 해냈구나. 대견스럽다”고 마지막 말을 전했다. 그러면서 “너는 10년이 지나도 100년이 지나도 할부지의 영원한 아기판다야. 할부지에게 와줘서 고맙고 감사하구나. 푸바오 사랑해”라고 했다. 이 같은 편지를 읽은 후 강 사육사는 팬들에게</content:encoded>
+    </item>
+    <item>
+      <title>“100번 돌려도 안 나와”…확률 규제 전 게임 ‘뽑기’ 오류 속속</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240403/124298614/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240403/124298614/1</guid>
+      <pubDate>2024-04-03T14:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124290651.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;게임 확률형 아이템 정보 공개 의무화 시행에 대비해 자체 전수조사에 나섰던 게임사들의 확률 표시 오류 사례가 속속 나오고 있다. 소비자들이 확률 조작 의혹을 제기하면서 당국 조사 맻 제재 여부에 관심이 쏠리고 있다.  3일 게임업계에 따르면 한 게임 이용자는 지난 1일 공정거래위원회에 웹젠의 모바일 게임 ‘뮤 아크엔젤’에 제기된 확률 조작 의혹에 대한 조사를 진행해달라고 민원을 접수했다. 뮤 아크엔젤은 웹젠이 서비스하고 중국 게임사 ‘37게임즈’가 개발한 MMORPG(다중접속역할수행게임)로 지난 2020년 출시됐다.  앞서 지난달 21일 웹젠은 뮤 아크엔젤 공식 커뮤니티를 통해 일부 콘텐츠 확률 오류 사실을 공지했다. 김우석 뮤 아크엔젤 실장은 “최근 뮤 아크엔젤 자체적으로 확률형 아이템에 대한 전반적인 전수조사를 진행하던 중, ‘축제 룰렛’, ‘지룡의 보물’, ‘세트 보물 뽑기’ 콘텐츠 내 특정 아이템에 대한 획득 가능 회차 및 확정 획득 회차에 대한 확률표기가 실제 게임 내 확률과 상이한 오류를 확인</content:encoded>
+    </item>
+    <item>
+      <title>정부, 내년 혁신 R&amp;D에 1조 투입…연구비·성과 투명 공개</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240403/124298703/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240403/124298703/1</guid>
+      <pubDate>2024-04-03T14:11:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124298613.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부가 내년 3대 게임 체인저 기술 분야로 꼽히는 인공지능(AI), 양자, 첨단바이오를 비롯해 연구개발(R&amp;amp;D) 전반에 대한 투자를 대폭 확대한다. 이와 함께 동일한 기관에 속하는 연구자의 평가 참여를 제한하는 ‘상피제’를 폐지하고 연구비와 성과를 국민에게 공개한다.   과학기술정보통신부는 ‘국가과학기술자문회의 산하 위원회 간담회’를 열고 윤석열 정부 R&amp;amp;D 혁신 성과와 과제를 점검했다고 3일 밝혔다.   현장에는 박상욱 대통령실 과학기술수석과 국가과학기술자문회의 산하 위원회 위원장 및 위원 등 20여명이 참석했다.   간담회에 앞서 이날 오전 용산 청사에서 진행된 내년도 정부 R&amp;amp;D 예산 지원 및 개혁 추진 상황 브리핑에서는 내년도 R&amp;amp;D예산을 역대 최고 수준으로 확대하고  혁신도전형 R&amp;amp;D에 1조원을 편성하겠다는 내용이 공유됐다.   과기정통부는 간담회에서 ‘R&amp;amp;D다운 R&amp;amp;D지원, 이렇게 바뀝니다’와 ‘과학기술 혁신과 미래세대를 위한 2025년 정부R</content:encoded>
+    </item>
+    <item>
+      <title>푸바오 탄 차량 붙잡고 토닥토닥…울컥한 사육사</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124299042/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124299042/2</guid>
+      <pubDate>2024-04-03T14:23:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124300275.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;에버랜드 판다월드에서 태어난 자이언트 판다 ‘푸바오’가 탄 특수차를 붙잡고 마지막 인사를 한 송영관 사육사의 모습이 포착돼 팬들을 울컥하게 만들었다.  푸바오는 3일 오전 10시 40분 특수차에 탑승한 채로 판다월드를 떠나 오전 11시경 장미원 분수대 앞에서 팬들과 인사를 나눴다.  현장에서는 푸바오를 배웅하려는 팬들과 그동안 ‘푸바오큰할부지’로 불렸던 강철원 사육사와 ‘작은할부지’로 불렸던 송영관 사육사가 판다월드 대표로 팬들에게 감사 인사를 전했다.  강 사육사가 푸바오와 중국까지 동행하기 위해 특수차 조수석에 올랐다. 송 사육사는 강 사육사가 차에 오르는 모습을 보고 특수차 문에 두 손과 머리를 기대고 푸바오에게 마지막 인사를 건넸다. 그는 특수차 문을 토닥거리면서 울컥한 모습을 보였다.  이를 현장에서 본 팬들은 눈물을 터트렸고 중계 장면을 같이 지켜본 누리꾼들도 “생이별에 마음이 아프다”, “자식같이 키운 사육사한테는 못 할 짓이다”, “앞으로 루이바오, 후이바오도 푸바오처럼 4년 길러놓으면 데</content:encoded>
+    </item>
+    <item>
+      <title>와이즈넛, 2024 산업지능화컨퍼런스서 ‘제조업의 생성형AI 적용 방안’ 소개</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124299541/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124299541/1</guid>
+      <pubDate>2024-04-03T14:39:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124299360.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;제조 현장의 업무 혁신을 도모할 RAG기반 생성형AI 기술의 중요성 발표  인공지능(AI) 전문기업 와이즈넛(대표 강용성)은 지난 달 29일 ‘2024 산업지능화컨퍼런스’에 참여해 제조업에 적용될 수 있는 생성형AI 기술을 제안했다고 3일 밝혔다.   와이즈넛은 △제조지능화 △데이터플랫폼 △디지털 트윈으로 나뉜 컨퍼런스 세션 중 데이터플랫폼 영역에서 ‘제조업의 생성형AI 적용 방안’을 주제로 발표를 진행했다.   발표를 맡은 와이즈넛 김정민 글로벌 전략사업본부장은 먼저 제조 분야 내 AI 기술 도입 시장이 2023년 31억 9300만달러에서 2028년 208억 7300만 달러로 연평균 45.6%의 가파른 성장가도를 달리고 있으나, 실제 제조AI 도입에 필요한 구조화된 양질의 데이터가 부족하고 전체 데이터의 90%가 다크데이터로서 활용되지 않고 버려지고 있는 시장 현황에 대해 설명했다.   이어 와이즈넛은 다크데이터와 휴먼노하우를 접목해 인사이트를 제공할 수 있는 기술을 연구해 왔으며, 생성형AI 모델에</content:encoded>
+    </item>
+    <item>
+      <title>푸바오 새집은?…여의도 절반 크기 中 ‘판다기지’</title>
+      <link>https://www.donga.com/news/Society/article/all/20240403/124299484/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240403/124299484/1</guid>
+      <pubDate>2024-04-03T14:46:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124299366.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘푸공주’ ‘용인 푸 씨’라는 별명으로 불리며 많은 사랑을 받은 푸바오가 오늘(3일) 중국에 도착해 쓰촨성의 션수핑 기지에서 지낼 것으로 전해졌다.  3일 에버랜드 등에 따르면 푸바오는 쓰촨성 청두 솽류국제공장에서 차로 두 시간 정도 거리에 위치한 중국 국가임업초원국 산하 자이언트 판다 보호연구센터 션수핑 판다기지에서 지내게 된다.   션수핑 기지는 ‘신의 나무가 있는 땅’이라는 의미를 지닌 판다기지로 2016년 문을 열었다.  푸바오는 한 달 동안 격리 생활을 한 후 션수핑기지와 허타오핑기지, 두장옌기지, 야안기지 등 4곳의 판다 기지 중 한 곳에 정착하게 된다.  판다기지는 야생 판다가 서식하는 해발 1700m 높이의 산과 계곡으로 둘러싸인 곳이다.  션수핑 기지에는 현재 판다 약 90마리가 살고 있는 것으로 알려졌다. MBC가 공개한 영상에는 션수핑 기지에 아기 판다 ‘신신자이’가 잠을 자거나 2014년생 ‘빙 청’이 배에 대나무 껍질을 가득 올려둔 채 대나무를 먹고 있는 장면 등이 담겼다. 미국과</content:encoded>
+    </item>
+    <item>
+      <title>‘용인 푸씨’ 푸바오, 오늘 중국으로 떠나</title>
+      <link>https://www.donga.com/news/Society/article/all/20240403/124299767/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240403/124299767/1</guid>
+      <pubDate>2024-04-03T15:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124299765.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2020년 7월 용인 에버랜드에서 태어난 푸바오가 3일 중국으로 떠났다.푸바오는 2016년 시진핑 중국 국가주석이 한중 친선 도모의 상징으로 보내온 판다 러바오와 아오바오 사이에서 태어났다. 국내 최초 자연 번식으로 태어난 아기 판다다. 귀엽고 장난기 넘치는 이미지로 ‘푸공주’, ‘푸뚠뚠’ 등의 별명과 함께 많은 사랑을 받았다. 오전 10시 에버랜드 판다월드를 나선 푸바오는 11시쯤 인천공항에서 출국 수속을 밟고 전세기를 통해 중국으로 출발했다. 많은 팬이 현장을 찾아 깃발을 흔들며 푸바오를 배웅했다. 중국 주요 매체들은 푸바오의 환송을 라이브로 방송했다.푸바오는 앞으로 쓰촨성 자이언트판다 보전연구센터 워룽 선수핑기지에서 생활하게 된다.중국중앙방송총국(CMG) 관계자는 “에버랜드의 인기 스타 푸바오는 민간 교류 우호사절 역할을 하면서 양국 국민의 마음의 거리를 크게 좁혔다”며 “더 많은 ‘푸바오’들이 새로운 교류의 장을 쓰기를 기대한다”고 말했다.</content:encoded>
+    </item>
+    <item>
+      <title>“잘가 푸바오”… 1354일 추억 안고 중국으로 떠난 푸바오</title>
+      <link>https://www.donga.com/news/Society/article/all/20240403/124302337/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240403/124302337/1</guid>
+      <pubDate>2024-04-03T16:46:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124302334.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“푸바오 잘 가. 고마웠어. 아프지 말고”에버랜드 자이언트 판다 ‘푸바오’가 1354일 만에 한국을 떠나는 길. 팬들은 응원과 눈물로 푸바오를 배웅했다.푸바오가 중국으로 돌아가는 3일 오전 경기 용인시 에버랜드 장미원 분수대 일대에서 푸바오 환송 행사가 열렸다. 비 내리는 궂은 날씨 속에도 푸바오에게 마지막 인사를 건네기 위해 판다 팬 6000여 명이 이곳에 몰렸다. 이날 새벽 4시 반부터 에버랜드 앞에 모이기 시작한 팬들은 오전 10시 개장 시간 이전까지 1000명 이상으로 불어났다.오전 10시 45분. 푸바오가 탑승한</content:encoded>
+    </item>
+    <item>
+      <title>[기고] 시급한 위성항법시스템 구축과 제반 기술 경쟁력 강화</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124305937/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124305937/1</guid>
+      <pubDate>2024-04-03T19:09:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124305873.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;위성항법시스템(GPS, Global Positioning System)은 지구 궤도를 도는 다수 위성이 쏘는 신호를 활용해 거리를 측정하는 방식으로 작동하며, 위치정보를 제공하는 데 쓰인다. 과거 GPS는 최대 10m 안팎의 오차가 발생했다. 위성이 쏜 신호가 단말기까지 도달하는 과정에서 수많은 전파 간섭과 굴절이 발생했기 때문이다.  따라서 위성항법시스템 분야 선도 기술을 갖춘 기업은 지상의 기준국을 기반으로 위성 신호 오차를 2cm~3cm 이내로 보정하는 초정밀 위치정보 장치를 개발해 대응하고 있다.  GPS는 최근 GNSS(Global Navigation Satellite System)라고 불리기도 하는데 주요국이 구축해 사용하는 자체 위성항법시스템을 통칭하는 개념이 GNSS(Global Navigation Satellite System)이다. 대표적인 예로 미국의 GPS, 중국의 베이더우(Beidou), 유럽연합(EU)의 갈릴레오(Galileo), 러시아 글로나스(Glonass) 등이 있다. 각국</content:encoded>
+    </item>
+    <item>
+      <title>5G 월 3만 원 시대…통신사별 요금제 특징은?</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124307180/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124307180/1</guid>
+      <pubDate>2024-04-03T21:12:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124307050.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이동통신사들이 잇따라 새로운 5G 최저 요금제를 내놓으면서 3만원 대 5G 요금 시대가 열렸다. 정부의 가계 통신비 부담 완화 정책에 이통 3사들이 호응한 모양새다.   이통 3사가 내놓은 월 3만 원대 5G 최저 요금제는 데이터 제공량이 4GB에서 6GB 수준이다. 넉넉한 용량은 아니지만 데이터 사용량이 많지 않으면서 통신비를 절감하려는 소비자라면 눈여겨 볼 만하다. 각 통신사의 5G 최저 요금제의 내용과 특징을 살펴봤다.  가격, 데이터 제공량 비슷하지만 이월, 추가 충전 등 특색 달라   가장 먼저 3만 원대 요금제를 출시한 곳은 KT다. 지난 1월 월 3만 7000원에 ‘5G 슬림 4GB’ 요금제를 선보였다. 이어 지난달 말 SK텔레콤이 월 3만 9000원에 ‘컴팩트’, LG유플러스가 월 3만 7000원에 ‘5G 미니’를 출시하며 3만 원대 요금제 대열에 합류했다.  1GB 당 가격만 따지면 KT가 9250원으로 LG유플러스(7400원), SK텔레콤(6500원)보다 비싸다. 다만 KT는 남은 데이</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자, 알아서 챙겨주는 &apos;비스포크 AI&apos; 가전 생태계 선보여</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124307962/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124307962/1</guid>
+      <pubDate>2024-04-03T22:27:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124307932.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;4월 3일, 삼성전자는 서울 서초사옥에서 &apos;웰컴 투 비스포크 AI(Welcome to BESPOKE AI)&apos;를 열고 자사 가전 생태계에 AI 기술을 본격 도입한다고 전했다. 이날 행사에서 한종희 삼성전자 DX부문장 겸 대표이사 부회장은 소비자들이 가정에서 자주 이용하는 스마트홈 기기들이 AI 기술로 서로 긴밀하게 연동하는 시나리오를 이야기하며, &apos;모두를 위한 AI(AI for All)&apos; 비전을 발표했다.    삼성전자에서 이날 발표한 비스포크 AI는 노인이나 사회적 약자도 손쉽게 이용 가능한 AI 생태계를 지향한다. 복잡한 제품 등록 과정 없이 매장에서 제품을 구매하면 자동으로 ‘스마트씽스’ 앱에 등록되어 바로 스마트 기능을 이용할 수 있게 되며, 제품에 큰 LCD 화면을 탑재해 다양한 AI 연동 기능을 손쉽게 확인 및 이용할 수 있다.    또한 생성형 AI 기술이 적용된 빅스비 음성명령을 통해 “안방이 습해, 에어컨 무풍으로 켜주고 날씨 알려줘”, “보관기한 임박 식품 알려줘”와 같이 다소 복잡한 주</content:encoded>
+    </item>
+    <item>
+      <title>대통령실 “내년 R&amp;D 예산 역대최대 규모로 대폭 증액”</title>
+      <link>https://www.donga.com/news/Politics/article/all/20240404/124308541/1</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20240404/124308541/1</guid>
+      <pubDate>2024-04-04T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124294349.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대통령실이 혁신, 도전형 연구개발(R&amp;amp;D)에 1조 원을 투자하는 등 역대 최대 규모로 내년도 R&amp;amp;D 예산을 편성한다고 3일 밝혔다. 박상욱 대통령과학기술수석비서관은 이날 용산 대통령실에서 브리핑을 열어 “세계가 기술 경쟁에 뛰어드는 유례없이 빠른 기술 변화의 파고 속에서 개혁 작업에 매달릴 수만은 없다”며 “R&amp;amp;D 지원 방식에 대한 개혁을 완수해 나가는 동시에 내년 R&amp;amp;D 예산을 대폭 증액하고자 한다”고 말했다. 지난해 대규모 예산 삭감에 따른 과학계 반발을 감안한 듯 R&amp;amp;D 구조 개혁과 R&amp;amp;D 예산 확대를 동시에 추진하겠다는 것. 박 수석은 “일각에서 말하는 ‘(기존 예산의) 복원’은 아니다”라며 “한국 R&amp;amp;D가 기존에 달리던 트랙이 아닌 새로운 고속선로로 바꿔 탈 수 있도록 하겠다”고 강조했다. 대통령실 고위 관계자는 “지난해 지적된 연구 지원 방식의 비효율 부문에 많은 조정이 이뤄졌고, 연구자들에게 (예산 삭감이라는) 아픔을 드</content:encoded>
+    </item>
+    <item>
+      <title>“푸바오, 기억할게” 1354일 추억 남기고 작별</title>
+      <link>https://www.donga.com/news/Culture/article/all/20240404/124308463/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20240404/124308463/1</guid>
+      <pubDate>2024-04-04T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/04/124303172.10.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“푸바오, 잘 가. 고마웠어. 아프지 말고.” 에버랜드의 자이언트 판다 ‘푸바오’가 1354일 만에 한국을 떠나는 길. 팬들은 응원과 눈물로 푸바오를 배웅했다. 3일 오전 경기 용인시 에버랜드 장미원 분수대 일대에서 푸바오 환송 행사가 열렸다. 비가 내리는 궂은 날씨 속에도 푸바오에게 마지막 인사를 건네기 위해 6000여 명의 팬들이 몰렸다. 일부 팬들은 이날 오전 4시 반부터 에버랜드 앞에 모이기 시작했다. 오전 10시 45분. 푸바오가 탑승한 무진동 특수 차량이 환송 행사장에 모습을 드러내자 팬들은 “푸바오”의 이름을 외쳤다. 우산을 든 팬들은 다른 한 손에 푸바오가 그려진 손팻말을 쥐고 차량을 향해 흔들었다.  ‘판다 할부지’로 유명한 강철원 사육사는 마이크를 들고 “새로운 터전에 잘 정착할 수 있게 할부지가 곁에 있을게. 10년이 지나도 넌 우리의 영원한 아기 판다야”라며 떨리는 목소리로 푸바오에게 준비한 편지를 읽어 나갔다. 강 사육사는 전날 모친상을 당했지만 “어머니도 푸</content:encoded>
+    </item>
+    <item>
+      <title>샴푸-린스-손세정제 여드름 유발… 화장품 성분 꼭 따져야</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124308228/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124308228/1</guid>
+      <pubDate>2024-04-04T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/04/124303189.8.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;날씨가 따뜻해지면서 봄나들이가 한창이다. 하지만 얼굴에 난 여드름 때문에 밖에 나가길 꺼리는 사람도 있다. 여드름은 모낭에 붙어 있는 피지샘에 염증이 생기는 질환으로 청소년뿐 아니라 20, 30대 성인 중에도 발생하는 경우가 적지 않다. 여드름을 방치하면 염증이 심해질 수 있고 잘못 짜 피지가 안쪽에서 터지면 피부가 울퉁불퉁해지거나 색소 침착, 흉터가 생길 수 있다. 어떻게 하면 여드름을 예방할 수 있을까? 우리가 잘 몰랐던 여드름에 대한 오해와 진실을 대한여드름주사학회 위원인 황은주 더삼점영피부과의원 원장을 만나 자세히 알아봤다.   ―여드름의 원인이 호르몬 변화인가.   “아니다. 일반적으로 여드름은 유전이나 호르몬 같은 내적 요인으로 생긴다고 생각하고 치료를 포기하는 경우가 많다. 하지만 여드름은 하나의 원인에 의해 발생하는 게 아니라 여러 요인이 겹쳐 발병한다. 여드름이 발생하는 요인은 크게 내부적 요인과 외부적 요인으로 나눌 수 있다. 내부적 요인으로는 각질·피지 증가, 염증, 막힌 모공 등이</content:encoded>
+    </item>
+    <item>
+      <title>[이진한 의학전문기자의 메디컬 현장]정부-전공의 만남… ‘의사 수’ 보다 중요한 것은</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124308219/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124308219/1</guid>
+      <pubDate>2024-04-04T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/04/124303091.8.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 에마뉘엘 마크롱 프랑스 대통령이 근로자 정년을 62세에서 64세로 늦추는 연금 개혁안을 발표했을 때 프랑스 국민 상당수는 격렬하게 반대했다. 그걸 보면서 처음에는 일을 더 할 수 있게 해 준다는데 왜 반대하는지 이해가 잘 안 갔다. 이후 프랑스가 연금을 후하게 주는 시스템이라는 걸 알게 되고서야 ‘나라도 반대했을 것 같다’는 생각이 들었다. 프랑스 연금 개혁 사례를 언급한 건 연금제도만큼이나 의료제도도 나라마다 다르다는 점을 설명하기 위해서다. 영국이나 캐나다처럼 의사가 공무원인 시스템에선 의사들이 “의사 수를 늘려달라”고 요구한다. 근무 시간이 일정하고 연봉도 의사마다 크게 다르지 않기 때문이다. 이런 상황에서 의사 수를 늘리면 하는 일은 줄어드는 반면에 소득에는 별 영향이 없다. 의대 증원 이슈가 불거진 후 주변에서 많은 사람이 ‘한국의 의사 수가 정말 부족하냐’고 기자에게 질문했다. 답은 그렇기도 하고 그렇지 않기도 하다는 것이다. 입지가 좋은 곳에 개원한 의사들은 하루</content:encoded>
+    </item>
+    <item>
+      <title>[만화 그리는 의사들]〈314〉아랫배가 아플 때</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124308218/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124308218/1</guid>
+      <pubDate>2024-04-04T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124303186.8.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;</content:encoded>
+    </item>
+    <item>
+      <title>푸바오, 쓰촨 도착해 한달 격리 돌입…中 누리꾼들 “조국 돌아왔다” 환호</title>
+      <link>https://www.donga.com/news/Inter/article/all/20240404/124310366/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20240404/124310366/1</guid>
+      <pubDate>2024-04-04T08:02:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/04/124310339.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;자이언트 판다 푸바오가 무사히 중국에 도착한 것이 확인됐다.   신화통신와 현지 매체를 종합하면 푸바오는 3일(현지시간) 밤 7시22분쯤 청두 솽류 국제공항에 무사히 착륙해 격리에 돌입했다.   푸바오는 이날 공항 세관 검사를 거친 뒤 ‘중화판다원’(中?大熊猫苑)으로 불리는 중국 쓰촨성 선수핑 기지에 입주, 한 달간 격리 검역 절차를 거칠 예정다. 현재 건강 상태는 양호한 것으로 전해진다.   앞서 푸바오는 전날 오후 4시30분시께 중국 쓰촨성 지역 국유항공사인 사천항공 전세기 ‘3U9680편’을 타고 인천국제공항에서 출발해 청두국제공항으로 향했다.   푸바오 출국 길엔 ‘푸바오 할부지’로 알려진 강철원 사육사와 중국 측 판다 전문 수의사가 동행했다.   중국 언론과 누리꾼들은 푸바오가 고향으로 돌아왔다며 환호하고 있다. 중국 관영 중국중앙(CCTV)방송은 “푸바오‘가 전세기를 타고 조국으로 돌아왔다”고 전했다.   베이징에 거주한다는 한 여성은 언론과의 인터뷰에서 “그간 푸바오를 보기 위해 한 달에 두</content:encoded>
+    </item>
+    <item>
+      <title>케이지에 손가락 넣고 찌르자…안타까운 푸바오 모습(영상)</title>
+      <link>https://www.donga.com/news/Society/article/all/20240404/124310506/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240404/124310506/1</guid>
+      <pubDate>2024-04-04T08:17:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/04/124310504.1.gif&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난 3일 중국에 도착한 푸바오가 긴장하고 움츠러든 모습을 보여 한국 팬들의 안타까움이 커지고 있다. 중국 사육사로 보이는 관계자들이 손가락으로 찌르는 행동에 푸바오가 놀라는 모습도 포착됐다. 다만 푸바오는 큰 문제 없이 격리 절차에 들어간 것으로 전해졌다.   4일 중국 매체들에 따르면 푸바오는 지난 3일 오후 7시37분경 중국 청두 솽류국제공항에 도착했다. 웨이보 등에는 푸바오가 비행기에서 내려 공항으로 이동하는 과정을 생중계한 현지 보도 영상이 올라왔다.  이 영상에서 케이지 안에 있는 푸바오는 낯선 환경과 많은 사람들에 놀란 듯 잔뜩 긴장한 듯한 모습을 보였다. 특히 쏟아지는 카메라 플래시에 깜짝 놀라는 모습을 보이거나 다소 호흡이 불편한 듯 가쁜 숨을 헐떡이는 모습도 포착됐다.   심지어 중국 사육사로 보이는 관계자들이 케이지 외부를 치거나 케이지에 뚫린 숨구멍에 손가락을 넣어보자 겁먹은 푸바오가 움츠러드는 모습도 나타났다.   이런 장면을 두고 국내 팬들은 우려를 쏟아냈다.   한 누리꾼은 “</content:encoded>
+    </item>
+    <item>
+      <title>AI핵심기술 신호처리 최대규모 국제학술대회 ‘IEEE ICASSP 2024’ 개최</title>
+      <link>https://www.donga.com/news/It/article/all/20240403/124299880/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240403/124299880/1</guid>
+      <pubDate>2024-04-04T09:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/03/124299730.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오는 14일부터 코엑스서 열려… 전세계 4000여명 과학자 참석   인공지능 핵심인 음향, 음성 및 신호처리 분야의 국제 전기전자공학협회(IEEE)가 주최하는 세계 최대 규모의 학술행사 ‘ICASSP 2024’가 오는 14일부터 19일까지 대한민국 서울 코엑스 컨벤션 센터에서 개최된다.    50여명의 국내외 석학 및 교수들로 구성된 ‘IEEE ICASSP 2024’ 조직위원장인 고한석 교수(고려대학교 전기전자공학부)는 이번 행사에 전 세계 과학자 4000여 명이 참석할 예정이라고 밝혔다.   49회를 맞이하는 ICASSP는 전 세계에서 매년 열리는 학술대회로 대한민국에서는 처음으로 개최된다.  현대차, 삼성리서치, 메타, 구글, 애플, 소니, 아마존, 알리바바 등 글로벌 기업이 대거 참여해 인공지능 핵심 최신 기술이 공유되는 자리다.   이번 행사에서는 인공지능 기술의 핵심인 인간과 인간, 인간과 사물, 사물과 사물 간에 언어와 음성으로 주고받을 때 필요한 신호처리와 다양한 음성, 영상과, 텍스트를 활</content:encoded>
     </item>
   </channel>
 </rss>
