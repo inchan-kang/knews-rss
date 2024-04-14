@@ -3,27 +3,13 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2024-04-13T00:07:49.959Z</lastBuildDate>
+    <lastBuildDate>2024-04-14T00:12:35.631Z</lastBuildDate>
     <item>
       <title>경계 무너진 ‘AI칩 전쟁’… 인텔 GPU-구글 CPU 공개</title>
       <link>https://www.donga.com/news/Economy/article/all/20240410/124417622/1</link>
       <guid>https://www.donga.com/news/Economy/article/all/20240410/124417622/1</guid>
       <pubDate>2024-04-11T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/10/124417794.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 반도체 시장에 영역 간 경계가 흐려지는 ‘빅 블러’ 시대가 도래했다. 글로벌 빅테크들이 너나 할 것 없이 AI칩 시장에 뛰어들면서 ‘그래픽처리장치(GPU)는 엔비디아’ ‘중앙처리장치(CPU)는 인텔·AMD’라는 오랜 공식에 균열이 가기 시작했다. 공교롭게도 인텔과 구글은 같은 날 각각 GPU와 CPU 시장을 주름잡던 엔비디아와 인텔 제품을 대체할 신제품을 발표하며 ‘AI칩 전쟁’의 불을 댕겼다.● ‘GPU=엔비디아’ 공식 깨려는 인텔과 MS 인텔은 9일(현지 시간) 애리조나주 피닉스에서 열린 ‘인텔 비전 2024’ 행사에서 새 AI칩 ‘가우디3’를 공개했다. 인텔은 가우디3가 엔비디아에서 상용화한 최신 GPU ‘H100’보다 대규모 언어 모델을 50% 더 빠르게 훈련시킬 수 있고 전력 효율도 2배 이상 높다고 강조했다. 팻 겔싱어 인텔 최고경영자(CEO)는 “세상은 더 많은 (AI칩) 공급을 필요로 한다. 사람들은 (엔비디아의) 대안을 원한다”라고 말했다. GPU에서</content:encoded>
-    </item>
-    <item>
-      <title>“AI 발전 걸림돌은 전기 부족”… 전력망 확충 전세계 비상 [딥다이브]</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240410/124417548/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240410/124417548/1</guid>
-      <pubDate>2024-04-11T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/10/124417528.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“인공지능(AI) 발전을 제약하는 건 변압기와 전력 공급이다.”  일론 머스크 테슬라 최고경영자(CEO)의 최근 발언이다. AI 기술 발전 속도를 지금의 전력망이 감당하기엔 역부족이란 뜻이다. 그의 경고대로 AI발 전력 부족 사태가 현실로 다가오고 있다.● AI 열풍이 몰고 온 전력 부족 전력 수요 급증을 경고하는 건 머스크만이 아니다. 오픈AI의 샘 올트먼 CEO는 1월 다보스포럼에서 “AI 기술엔 이전에 생각한 것보다 훨씬 더 많은 에너지가 필요하다”면서 “획기적인 돌파구를 찾아야 한다”고 말했다. 독일 지멘스에너지의 크리스티안 브루흐 CEO도 지난달 연례 주주총회에서 “전기 없이는 AI 기술 발전이 없다”며 전력 수요 급증을 예고했다. 챗GPT 같은 생성형 AI를 개발해 사용하려면 천문학적 용량의 데이터를 보관하고 처리할 대규모 데이터센터가 필요하다. AI 열풍은 곧 데이터센터 붐을 뜻한다. 이미 전 세계엔 약 8000개의 데이터센터가 있지만, 앞으로 훨씬 더 많이 추가돼야만</content:encoded>
-    </item>
-    <item>
-      <title>“SKT AI 피라미드 전략, 핵심 사업서 성과”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240410/124416865/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240410/124416865/1</guid>
-      <pubDate>2024-04-11T03:00:00.000Z</pubDate>
-      <content:encoded>SK텔레콤의 인공지능(AI) 피라미드 전략이 성과를 내고 있다는 글로벌 시장조사기관의 평가가 나왔다. 10일 통신업계에 따르면 영국 시장조사업체 옴디아는 8일(현지 시간) 보고서를 통해 “(SK텔레콤이) 다양한 산업의 제휴사와 전략적으로 협력해 새로운 성장 영역을 개척하는 AI 피라미드 전략으로 유선과 모바일 핵심 사업에서 성과를 거뒀다”고 분석했다. SK텔레콤은 지난해 9월 AI 피라미드 전략을 공개하고 기존 사업을 △AI 인프라 △AI 전환 △AI 서비스 등 3대 사업 영역에 맞춰 재정의하고 있다.  옴디아는 SK텔레콤의 데이터센터와 AI 반도체, 거대언어모델(LLM) 등 인프라 부문에서 성과를 내고 있다고 평가했다. 특히 올해 1월 공개한 기업 및 공공기관 특화 AI 플랫폼인 ‘엔터프라이즈 AI 마켓’에 주목했다. 해당 플랫폼에서는 SK텔레콤이 자체 개발한 ‘에이닷엑스’부터 앤스로픽의 클로드 2, 오픈AI의 GPT-4 등 다양한 LLM을 활용할 수 있다. 옴디아는 “파트너 회사</content:encoded>
     </item>
     <item>
       <title>AMD, 성능 10배 높인 &apos;2세대 버설 AI 엣지·프라임&apos; 임베디드 칩 출시</title>
@@ -296,7 +282,7 @@
       <link>https://www.donga.com/news/Economy/article/all/20240412/124454484/1</link>
       <guid>https://www.donga.com/news/Economy/article/all/20240412/124454484/1</guid>
       <pubDate>2024-04-12T18:14:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/12/124454445.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;현대차(005380)그룹이 보스턴다이내믹스(Boston Dynamics)의 4족 보행 로봇개 ‘스팟’(Spot)을 활용해 본격적인 로봇 배송 사업에 뛰어든다. 실제 택배 배송 현장에 스팟을 투입해 사업 구체화에 나섰다. 향후 기아(000270)가 추진 중인 목적기반차량(PBV) 사업과도 연계할 것으로 보인다.  12일 관련 업계에 따르면 현대차그룹은 CJ대한통운(000120)과 함께 스팟을 활용한 로봇 배송 서비스를 시작한다.  이를 위해 현대차그룹은 계열사인 현대건설이 시공한 경기 고양시의 한 타운하우스를 시범단지로 지정하고 지난달 1차 실증을 진행했다. 1차 실증에는 스팟뿐 아니라 현대차그룹의 사내벤처로 시작해 독립한 스타트업 ‘모빈’도 참여했다.  1차 실증 영상을 보면 작은 택배 박스를 실은 스팟이 목적지에 박스를 내려놓는다. 가는 길에 장애물도 피하고 계단도 내려가는 모습이다. 현대차그룹은 4월에도 추가 테스트를 진행해 로봇 배송 고도화에 나설 계획이다.  현대차그룹의 로봇 배송 서비스는 주요</content:encoded>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/13/124459394.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;현대차(005380)그룹이 보스턴다이내믹스(Boston Dynamics)의 4족 보행 로봇개 ‘스팟’(Spot)을 활용해 본격적인 로봇 배송 사업에 뛰어든다. 실제 택배 배송 현장에 스팟을 투입해 사업 구체화에 나섰다. 향후 기아(000270)가 추진 중인 목적기반차량(PBV) 사업과도 연계할 것으로 보인다.12일 관련 업계에 따르면 현대차그룹은 CJ대한통운(000120)과 함께 스팟을 활용한 로봇 배송 서비스를 시작한다.이를 위해 현대차그룹은 계열사인 현대건설이 시공한 경기 고양시의 한 타운하우스를 시범단지로 지정하고 지난달 1차 실증을 진행했다. 1차 실증 영상을 보면 작은 택배 박스를 실은 스팟이 목적지에 박스를 내려놓는다. 가는 길에 장애물도 피하고 계단도 내려가는 모습이다. 현대차그룹은 4월에도 추가 테스트를 진행해 로봇 배송 고도화에 나설 계획이다.현대차그룹의 로봇 배송 서비스는 주요 계열사인 기아와 CJ대한통운이 함께한다. CJ대한통운의 택배 배송 차량에 스팟이 함께 이</content:encoded>
     </item>
     <item>
       <title>‘가방 끈’ 긴 쪽이 사망률 낮아 …왜일까?</title>
@@ -353,6 +339,20 @@
       <guid>https://www.donga.com/news/It/article/all/20240412/124456030/1</guid>
       <pubDate>2024-04-13T01:40:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/12/124453526.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;경기 성남시 분당구 판교신도시에 있는 ‘네메시스’는 사람이나 동물의 몸에서 발생하는 생체신호를 ‘똑똑하게’ 처리하는 반도체를 설계하는 회사다. 움직이는 생체에서 나오는 신호를 악조건에서도 제대로 처리해야 하고, 초소형 최소 전력으로 설계하는 것이 관건이다. 8일 판교 본사 사무실에서 만난 왕성호 대표이사(57)는 “생체신호를 처리하는 반도체는 지금까지 글로벌 회사들이 내놓은 범용의 신호처리 칩을 사용해 왔다”며 “생체신호 처리에 특화된 반도체를 전문으로 설계하고, 센서 특성에 맞춰 칩을 최적화해 제작해주는 곳은 세계에서 우리가 유일하다”고 했다.   건강을 위해 자신의 몸을 모니터링하는 기기들이 최근 들어 늘어나고 있다. 심박수와 운동량 등을 측정하는 반지, 수면 관리를 위한 뇌파 측정기, 침대나 옷에 설치하는 심전도 측정 장치 등이 나오고 있다. 혈당 관리를 위한 연속혈당측정기는 다이어트나 건강관리용으로도 쓰인다. 팔뚝에 붙여 둔 센서를 통해 2주 동안 휴대전화로 자신의 혈당을 실시간으로 알 수 있다.</content:encoded>
+    </item>
+    <item>
+      <title>AI=반도체+구리? AI발 전력위기가 다가온다[딥다이브]</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240412/124455371/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240412/124455371/1</guid>
+      <pubDate>2024-04-13T10:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/12/124455365.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)과 에너지. 요즘 가장 큰 관심 산업 분야가 아닐까 싶은데요. 이 둘이 결합되기 시작했습니다. ‘AI발 전력 부족’이 전 세계적 이슈로 떠오른 겁니다.‘전기 인프라 혁명이 시작됐다’는 이야기는 사실 오래됐죠. 지난해 8월 딥다이브에서 소개한 적도 있고요. 당시엔 ‘탄소제로로 가려면 전력망 확충이 시급하다’는 논리였는데요. 그 스토리가 좀 달라지기 시작했습니다. ‘AI 기술이 발전하려면’으로 말이죠. 그리고 AI가 앞에 붙자 갑자기 시장의 관심도가 확 높아집니다. 오늘은 이 AI와 전력망의 상관관계를 들여다보겠습니다.*이 기사는 12일 발행한 딥다이브 뉴스레터의 온라인 기사 버전입니다. ‘읽다 보면 빠져드는 경제뉴스’ 딥다이브를 뉴스레터로 구독하세요.https://www.donga.com/news/Newsletter머스크의 전기 걱정전기가 부족해서 큰일 났다는 얘기를 몇 년째 해온 인물이 있습니다. 바로 일론 머스크 테슬라 CEO이죠. 그는 지난해 8월 이렇게 말했습니다</content:encoded>
+    </item>
+    <item>
+      <title>“제 근육 어때요? 낼 모레 환갑입니다“[양종구의 100세 시대 건강법]</title>
+      <link>https://www.donga.com/news/It/article/all/20240412/124455846/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240412/124455846/1</guid>
+      <pubDate>2024-04-13T12:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/04/12/124455831.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“미국에서 아이들 키울 때 식당을 운영하면서 허리를 삐끗한 적이 있었죠. 한국으로 돌아와 골프 치다 디스크가 터진 겁니다. 수술도 했는데 자리에서 일어날 수도 없을 정도로 통증이 심했죠. 의사 선생님이 ‘만성 통증이니 그러려니 하며 살아야 한다’고 했죠. 삶의 질이 완전히 엉망이 됐죠. 그때 친구가 파고다헬스클럽을 소개시켜 주면서 ‘제대로 운동해 봐라’고 했어요.”서울 종로구 파고다헬스클럽에서 트레이너로 일하는 이인혜 씨(59)는 전공이 음악이다. 클라리넷 전공으로 선화예고를 다니다 미국으로 이민을 떠났다. 미국 대학에서도 음악을</content:encoded>
     </item>
   </channel>
 </rss>
