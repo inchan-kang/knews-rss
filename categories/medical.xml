@@ -3,119 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2024-08-01T00:10:28.242Z</lastBuildDate>
-    <item>
-      <title>초전도체 비밀 풀 ‘고체물질 암흑전자’ 국내 연구진이 첫 확인</title>
-      <link>https://www.donga.com/news/People/article/all/20240730/126192934/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20240730/126192934/2</guid>
-      <pubDate>2024-07-30T03:00:00.000Z</pubDate>
-      <content:encoded>국내 연구진이 고체 물질에서 ‘암흑 전자’의 존재를 세계 최초로 확인했다. 그간 베일에 싸여 있던 고온초전도체의 원리를 밝힐 수 있는 실마리가 될 것으로 보인다. 과학기술정보통신부는 김근수 연세대 교수 팀이 국제 공동연구를 통해 고체 속에서 암흑 전자를 확인해 국제 학술지 ‘네이처 피직스’ 29일자에 게재했다고 밝혔다. 암흑 전자는 이름처럼 빛을 흡수하거나 방출하지 않아 관측이 어려운 물질이다. 앞서 원자나 분자에 존재하는 암흑 전자가 발견된 적은 있지만 고체 물질에서 발견된 적은 없었다. 연구진은 약 4년간의 연구 끝에 암흑 전자의 존재를 간접적으로 확인할 수 있는 새로운 방법론을 구상했다. 이를 통해 고온초전도체 구리 산화물에서 눈에 보이지 않는 암흑 전자가 존재한다는 것을 확인했다. 이는 고체 물질 속에서도 전자가 암흑 상태로 존재할 수 있다는 것을 규명한 세계 최초 사례다.최지원 기자 jwchoi@donga.com</content:encoded>
-    </item>
-    <item>
-      <title>[단독]이재용-최태원, 구글 비공개 사교모임서 ‘AI 비즈니스’</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240730/126193024/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240730/126193024/2</guid>
-      <pubDate>2024-07-30T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126195533.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이재용 삼성전자 회장과 최태원 SK그룹 회장이 이탈리아 시칠리아에서 열리는 비공개 억만장자 사교모임 ‘구글 캠프’에 참석했다. 한국인 참석자는 이 둘뿐인 것으로 알려졌다. 최 회장은 27일 이탈리아 시칠리아로 출국해 29일부터 2박 3일간 열리는 구글캠프에 참석했다. 최 회장의 구글 캠프 참석은 이번이 처음이며 국내에서는 이 회장 이후 두 번째로 초청됐다. 이 회장도 ‘2024 파리 올림픽’ 개막 관련 파리 현장 일정을 마친 뒤 28일 시칠리아로 이동했다. 이 회장은 구글 캠프 창립 초기부터 참여해 왔으나 2017년 국정농단 사태로 사법 리스크가 시작되며 한동안 불참하다 2022년부터 다시 참석하기 시작했다. 구글 캠프는 구글의 공동 창립자인 래리 페이지와 세르게이 브린이 2012년부터 매년 여름마다 시칠리아 남부 베르두라 골프 리조트에서 개최해 온 글로벌 사교 모임이다. 투숙객 명단과 행사 진행 내용은 극비 사항으로 보호되며 참석자들과 행사 관계자들 모두 비밀 유지 계약서에 서명해</content:encoded>
-    </item>
-    <item>
-      <title>“엔비디아 잡아라” 반도체 팹리스들 ‘추리형 AI’ 집중 공략</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240729/126190151/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240729/126190151/2</guid>
-      <pubDate>2024-07-30T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/29/126194160.2.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 반도체 시장을 사실상 독점 중인 엔비디아에 대항해 국내외 반도체 팹리스(설계 전문) 스타트업들의 도전이 거세지고 있다. 성능이 비교적 낮아도 가성비 및 전성비(전력 대비 성능 비율)로 승부할 수 있는 ‘추론형 AI 반도체 시장’에서는 승산이 있다고 보고 집중 공략하는 것이다. 국내 팹리스 기업도 삼성전자, TSMC 등 파운드리와 협력해 본격적인 경쟁에 나선다는 전략이다.  AI 반도체 시장은 크게 학습(training)과 추론(inference)으로 구분된다. 대규모 데이터를 학습시켜 GPT와 같은 AI 모델을 만들어내는 과정에는 학습용 AI 반도체가 필요하다. 엔비디아가 주력인 시장이다. 반면 ‘추론’은 AI 모델이 사용자의 각종 요청에 따라 ‘생각해서’ 답을 내놓는 과정을 뜻한다. 대규모 데이터를 소화해야 해 고성능 AI 반도체가 필요한 ‘학습’ 과정과 달리, 추론에는 비교적 저성능·저전력의 칩도 경쟁력이 있다는 것이 업계의 평가다. 국내 AI 반도체 팹리스 기업</content:encoded>
-    </item>
-    <item>
-      <title>아이폰16, 9월 출시때 AI기능 탑재 안될듯</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240729/126190138/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240729/126190138/2</guid>
-      <pubDate>2024-07-30T03:00:00.000Z</pubDate>
-      <content:encoded>애플이 9월 공개할 예정인 아이폰 16에는 인공지능(AI) 기능이 탑재되지 않을 것으로 전망된다. 다만 출시 후 한 달쯤 지나서 소프트웨어 업데이트를 통해 AI 기능이 추가될 것으로 보인다.  블룸버그는 28일(현지 시간) 소식통을 인용해 애플이 9월 아이폰의 새로운 운영체제 iOS 18을 출시하고 그 다음 달인 10월 소프트웨어 업데이트를 통해 AI 기능을 배포할 계획이라고 보도했다. 이에 따라 9월 신형 아이폰 16이 출시될 때는 AI 기능이 들어가지 않을 것으로 예상된다.  애플은 이르면 이번 주중 iOS 18.1 베타 버전을 배포할 방침이다. 이를 통해 소프트웨어 개발자들이 애플의 AI 기능인 ‘애플 인텔리전스’를 미리 사용해 볼 수 있게 할 계획이다. 애플이 새 소프트웨어 공식 출시 전에 개발자들에게 미리 공개하는 것은 이례적인 일이다. 이에 대해 블룸버그는 “개발자들을 대상으로 AI 기능을 광범위하게 테스트하도록 해 문제를 줄이려는 시도”라고 분석했다.</content:encoded>
-    </item>
-    <item>
-      <title>LIG넥스원, 美 ‘사족보행 로봇’ 고스트로보틱스 인수 완료</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240729/126191258/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240729/126191258/2</guid>
-      <pubDate>2024-07-30T03:00:00.000Z</pubDate>
-      <content:encoded>LIG넥스원이 미국 사족보행 로봇 전문기업 ‘고스트로보틱스’의 총 지분 중 60%를 인수했다고 29일 공시했다. 지난해 기업 인수 목적 기업을 설립해 고스트로보틱스 인수를 추진했던 LIG넥스원은 26일(현지 시간) 미국 외국인투자심의위원회(CFIUS)의 승인을 최종 획득하는 등 모든 투자 절차를 마무리했다. 이로써 LIG넥스원은 고스트로보틱스의 총 지분 약 5540억 원 중 약 3320억 원에 해당하는 지분 60%를 확보하게 됐다. 고스트로보틱스는 2015년 미국 필라델피아에 설립된 회사로 사족보행 로봇 분야에서는 세계적인 기술력을 가진 기업으로 평가받는다. 고스트로보틱스의 대표적인 제품 ‘비전60’은 경쟁사 대비 배터리 지속 시간이 긴 것으로 알려져 있다. 또 자갈밭이나 언덕 등 평탄하지 않은 지형에서도 민첩하고 자연스럽게 움직일 수 있다.  고스트로보틱스는 현재 미국과 영국, 일본 등에 제품을 수출하고 있다. LIG넥스원은 미국 워싱턴에 협력 센터를 설립할 예정이다.  신익현 L</content:encoded>
-    </item>
-    <item>
-      <title>살 빼는 약 복용 후 담배까지 뚝…‘선한 부작용’ 확인</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126202001/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126202001/1</guid>
-      <pubDate>2024-07-30T08:43:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126201913.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;살 빼려고 먹은 비만 치료제 덕에 담배까지 멀리한다면. 그야말로 ‘일석이조’, ‘꿩 먹고 알 먹고’다.  새로운 연구에 따르면 당뇨병 치료제 오젬픽(Ozempic)과 비만 치료제 위고비(Wegovy)에 공통으로 들어 있는 활성 성분인 세마글루타이드(semaglutide)가 흡연 욕구를 줄이는 데 도움이 되는 것으로 나타났다. 세마글루타이드는 혁신적인 당뇨병·비만치료제로 알려졌다. 그런데, 이 약물을 복용하는 일부 환자가 담배와 알코올에 대한 갈망이 줄어든다는 얘기치 않은 효과를 보고했다.  미국 국립 약물 남용 연구소(NIDA) 연구진이 학술지 ‘내과학 연보’(Annals of Internal Medicine)에 29일(현지시각) 발표한 최근 연구에 따르면 오젬픽을 복용하는 제2형 당뇨병 환자는 다른 당뇨병 약을 복용하는 환자보다 담배와 관련된 의료 서비스를 받는 횟수가 적고 금연을 위한 개입도 더 적게 받는 것으로 나타났다고 로이터 통신, 야후 뉴스 등이 보도했다.  흡연 습관으로 인해 과거 니코틴 사</content:encoded>
-    </item>
-    <item>
-      <title>대머리 없는 세상 오나? …모발 재성장 촉진 ‘설탕’ 발견</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126204521/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126204521/1</guid>
-      <pubDate>2024-07-30T10:35:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126204448.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;탈모인들에게 희망적인 소식이다.  우리 몸에서 자연적으로 생성되는 단당류가 전 세계 남성의 최대 50%에게 영향을 미치는 남성형 탈모를 치료할 수 있는 열쇠가 될 수도 있다는 연구결과가 나왔다.  영국 셰필드 대학교와 파키스탄 콤사츠 대학 공동 연구진은 지난 8년 간 인체에서 자연스럽게 만들어지는 단당류인 2-디옥시-D-리보스(2-deoxy-D-ribose·2dDR)로 상처를 치유하는 방법을 연구하던 중 뜻밖의 소득을 얻었다.  연구자들은 실험용 쥐의 상처에 이 당을 적용하면 상처 주변의 털이 치료하지 않은 곳에 비해 더 빠르게 자라는 것을 발견했다. 이 현상에 매료된 연구진은 추가 연구를 진행했다. 테스토스테론을 활용해 생쥐에게 남성형 탈모와 비슷한 조건을 만들었다. 그리고 2dDR(디오식리보스 당)을 탈모 부위에 소량 바르자 새로운 혈관이 생성 돼 모발이 다시 자라나는 것을 확인했다.  셰필드 대학교 조직공학과 셰일라 맥닐(Sheila MacNeil) 명예 교수는 “우리의 연구는 자연적으로 발생하는</content:encoded>
-    </item>
-    <item>
-      <title>전국 장마 끝…당분간 낮엔 폭염·밤엔 열대야 ‘아열대 날씨’</title>
-      <link>https://www.donga.com/news/Society/article/all/20240730/126205199/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20240730/126205199/1</guid>
-      <pubDate>2024-07-30T11:13:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126205507.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;30일 기상청은 전국의 장마가 종료됐으며, 당분간 푹푹 찌는 아열대 날씨가 나타나겠다고 밝혔다.기상청에 따르면 27일 소멸한 제3호 태풍 ‘개미’ 영향으로 활성화했던 정체전선은 북태평양 고기압 확장에 따라 북한으로 북상했다.빈자리는 아열대 고기압이 확장하며 채웠다.이번 장마 기간 전국 강수량은 472.0㎜를 기록해 평년(1991~2020년) 356.7㎜보다 32.0%가량 많았다.중부와 남부, 제주의 강수량은 각각 506.3㎜, 447.2㎜, 561.9㎜로 추산됐다.특히 장맛비는 제주에서 평년보다 58.9% 많이 내렸다.기상청은 정확한 장마 시작과 종료일은 사후분석을 통해 9월 중 최종 확정 발표한다.기온은 8월 초순 최고 37도로 평년(최저 22~25도, 최고 29~33도)보다 무덥겠다. 북태평양 고기압이 폭염을 강화하는 사이 티베트에서 흘러나온 대륙 고기압은 ‘이불’ 역할을 하며 열이 빠져나가지 못하게 할 것으로 보인다.체감 온도는 최고 35도 안팎을 유지하겠고, 밤에는 전국적인</content:encoded>
-    </item>
-    <item>
-      <title>[스타트업-ing] 선상원 로드원 대표, “허니콤 볼라드로 사고를 방지합니다”</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126206815/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126206815/1</guid>
-      <pubDate>2024-07-30T12:17:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126206667.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난 2020년 12월에 설립한 로드원은 독자적인 허니콤 구조를 연구한 뒤, 이를 바탕으로 충격 흡수재와 보강재를 개발하고 있는 제조 스타트업이다. 현재 주력해서 판매하고 있는 제품은 허니콤 볼라드다. 로드원의 허니콤 볼라드는 기존에 일반적인 스틸 볼라드 대비 충격 흡수력과 지지력을 보강한 제품이다.  선상원 로드원 대표는 “허니콤 볼라드는 보행자, 자전거, 이륜차, 개인형 이동수단(킥보드 등)이 볼라드에 부딪혀 다치는 일을 방지하고, 차량의 인도 진입을 효과적으로 막을 수 있다”라며, “차량의 인도 진입을 막아 안전을 담보하는 볼라드 때문에 오히려 사람이 다치는 일이 종종 발생한다. 허니콤 볼라드는 이런 문제를 해결하기 위해 고안한 로드원만의 제품”이라고 설명했다.   너무 단단한 도로교통 시설물의 문제점  IT동아: 만나서 반갑다. 먼저 로드원 소개를 부탁한다.  선상원 대표(이하 선 대표): 로드원은 허니콤(벌집) 구조의 폐플라스틱을 이용한 도로교통 시설물 충격 흡수 장치를 개발하는 스타트업이다.</content:encoded>
-    </item>
-    <item>
-      <title>바이엇, 중간 수수료 없는 글로벌 인플루언서 모집 플랫폼 출시</title>
-      <link>https://www.donga.com/news/Economy/article/all/20240730/126207420/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20240730/126207420/1</guid>
-      <pubDate>2024-07-30T13:14:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126207368.2.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;바이엇(BYAHT)은 중간 수수료 없이 글로벌 인플루언서를 모집할 수 있는 Glow.B 플랫폼을 출시했다고 30일 밝혔다.   Glow.B 플랫폼은 광고주와 크리에이터를 직접 연결하여 중개 수수료를 없애고 광고 계약 체결 과정을 간소화했다. 광고주와 크리에이터는 플랫폼 안에서 편리하게 상호 검색할 수 있으며, 광고 유치 과정에서 발생하는 시간과 비용을 절감할 수 있다.   바이엇 측은 &quot;팔로워 수, 게시물 반응, 구매 전환 등의 광고비용 산출 기준도 투명하게 제공해 광고 비용 산출 과정에서 발생하는 정보 비대칭 문제도 해결했다&quot;며 &quot;Glow.B는 베타서비스 런칭 3개월 만에 베트남 내 협업 건수 1000건, 가입 인플루언서 2만 명 돌파 등의 빠른 성장세를 보이고 있다&quot;고 전했다.   김동규 바이엇 대표는 “Glow.B 플랫폼은 광고주와 인플루언서 모두에게 이익이 되는 구조로, 보다 투명하고 효율적인 마케팅 환경을 조성하여 한국의 K-프로덕트를 전 세계에 알리는 데 도움이 되고 싶다”라고 전했다.   한</content:encoded>
-    </item>
-    <item>
-      <title>양재웅 사과에 “병원에선 눈길 안주더니 뒤늦게 언론플레이”…유족 분노</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126207986/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126207986/2</guid>
-      <pubDate>2024-07-30T13:32:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126206068.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정신과의사 양재웅 씨가 자신이 운영하던 병원에서 발생한 환자 사망사건과 관련해 사과한 가운데 유족들은 병원 측이 뒤늦게 언론플레이를 한다고 비판했다.  30일 경기 부천 원미경찰서에 따르면 지난 5월 27일 오전 3시 30분경 양 씨가 운영하는 부천 한 병원에서 30대 여성 A 씨가 숨졌다.  당시 A 씨는 마약류 성분이 포함된 다이어트약 중독 치료를 위해 입원한 상태였다.  공개된 폐쇄회로(CC)TV 영상에는 A 씨가 병원 1인실에서 배를 잡은 채 문을 두드리자 간호조무사와 보호사가 들어와 안정제를 먹이고 손발과 가슴을 침대에 묶는 모습이 담겼다.  A 씨는 손발이 묶인 지 2시간 만에 배가 부푼 채로 코피를 흘렸다. 간호사들은 그의 결박만 풀어줄 뿐 별다른 조치를 하지 않았고, 결국 A 씨는 숨졌다.  A 씨가 의식이 없다는 것을 뒤늦게 발견한 직원들은 맥박을 재고 손발을 주무르다 5분 뒤 심폐소생술을 시도했다. 이들은 20분쯤 지나서야 제세동기를 사용했다.  병원 측은 A 씨가 만성 변비 환자인 데</content:encoded>
-    </item>
-    <item>
-      <title>카방 “신뢰도 높은 정보와 편리한 서비스로 중고차 직거래 지원” [과기대X글로벌]</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126207954/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126207954/1</guid>
-      <pubDate>2024-07-30T13:43:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126207890.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[서울과기대 x IT동아 공동기획] 글로벌 기업 협업 프로그램은 중소벤처기업부와 창업진흥원, 글로벌 기업 11곳이 7년 차 이내 유망 스타트업을 지원하는 사업입니다. 이중 서울과학기술대학교 창업지원단은 AWS 정글, 오라클 미라클, IBM 협업 프로그램을 주관합니다. IT동아가 서울과기대 창업지원단과 함께 올해 선정된 글로벌 기업 협업 프로그램 참여 기업을 조명합니다.  중고차 시세 비교, 직거래 플랫폼이 활성화되면서 중고차를 직접 거래하는 소비자가 늘고 있다. 중고차 직거래는 중간 과정의 수수료를 절감할 수 있어 원하는 자동차를 보다 저렴한 가격에 구입할 수 있다. 물론 다소 번거로운 과정을 거쳐야 한다. 자동차 상태 확인, 보험 이력 조회 등을 직접 해야 한다.   자동차 명의 이전 등록도 마찬가지다. 매수일 기준 15일 이내 등록하지 않으면 최대 50만 원의 과태료를 내야 하기 때문에 기한 내에 반드시 처리해야 한다. 하지만 그 절차가 복잡하다. 이전 등록 신청서, 양도 증명서, 자동차 등록증, 보</content:encoded>
-    </item>
-    <item>
-      <title>공모주 제안 솔깃했다 ‘아차’…수상한 URL ‘스미싱’ 주의보</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126208635/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126208635/1</guid>
-      <pubDate>2024-07-30T14:23:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126208492.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;올해 2분기 문자 형태 피싱인 ‘스미싱’ 주요 수법으로 공모주 사칭이 쓰이고 있다. 전체 건 중 약 3분의 1인 31.8%를 차지했으며 직전 분기 대비 136% 증가했다.  안랩(053800)은 머신러닝 시스템에 기반해 다양한 피싱 문자를 탐지·분석한 ‘2024년 2분기 스미싱 위협 통계 및 분석 보고서’를 30일 발표했다.  스미싱 주요 열쇠말로는 공모주 사칭 외에도 단기 알바 위장(18.3%), 기관 사칭(12.6%), 카드사 사칭(11.6%), 부고 위장(9.2%), 정부 지원금 위장(8.6%), 가족 사칭(4.2%), 허위 결제 위장(3.4%) 등이 뒤를 이었다.  공모주 사칭 증가 배경으론 연초부터 이어진 대형 공모주 흥행이 꼽혔다. 이런 열기를 틈타 공격자가 개인투자자 등을 꾀어낸다는 설명이다. 자주 쓰이는 표현으론 ‘사전 청약’, ‘고수익’, ‘선착순 모집’ 등이 있었다.   또 스미싱 공격자가 사칭한 주요 기관·산업군은 정부 기관(23.0%), 금융(16.8%), 쇼핑몰(5.1%), 택배(</content:encoded>
-    </item>
-    <item>
-      <title>롯데이노베이트, 신안산선 철도통신시스템 사업 수주… “차별화된 철도 IT 역량 자신있다”</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126209849/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126209849/1</guid>
-      <pubDate>2024-07-30T15:06:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126209843.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;롯데이노베이트는 30일 ‘신안산선 복선전철 민간투자사업 7공구 철도정보통신공사(본선)’ 계약을 체결했다고 밝혔다. 이번 계약은 한양대 에리카캠퍼스에서 여의도까지 총 44.9km 구간에 걸쳐 19개 역사의 철도통신시스템을 구축하는 대형 프로젝트다.  신안산선은 수도권 서남부와 서울 도심을 연결하는 광역 철도망으로, 광역교통 문제를 해소하고 철도 교통 편의를 제공할 것으로 기대를 모으고 있다. 롯데이노베이트는 이번 사업을 통해 전송설비, 통합교환, 정보통신망설비, 열차행선안내설비 등 주요 철도통신시스템을 설치할 예정이다. 사업 규모는 200억 원 수준이다.  롯데이노베이트는 30여 년간 철도 신호, 통신, 역무자동설비 분야에서 쌓아온 기술력과 경험을 바탕으로 이번 프로젝트를 수행한다. 또한, 회사는 위례선 트램 건설사업 등 국내 최초의 트램 사업자로서의 입지를 다지고 있다.   철도 사업 외에도 롯데이노베이트는 자율주행셔틀, 전기차 충전 플랫폼, C-ITS, 다차로 하이패스, 버스 AFC 등 다양한 교통 및</content:encoded>
-    </item>
-    <item>
-      <title>[정구태의 디지털자산 리터러시] 디지털자산 업계의 다양성 확보와 건강한 생태계 조성</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126211114/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126211114/1</guid>
-      <pubDate>2024-07-30T15:50:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126211076.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[IT동아]  지금 당신이 디지털자산에 관심을 가져야할 이유  디지털자산 규제와 진흥의 균형이 필요한 시점  디지털자산 갈라파고스 탈출을 위한 제언 1) 법인참여 허용  디지털자산 갈라파고스 탈출을 위한 제언 2) 실명계좌제도 개선  디지털자산 갈라파고스 탈출을 위한 제언 3) 해외 투자자 허용  한국형 비트코인ETF 출시를 위한 선결 조건  디지털자산 규제 샌드박스가 필요한 이유  건전한 디지털자산 시장을 위한 민간 중심 감시시스템 구현  디지털자산 업계의 다양성 확보와 건강한 생태계 조성  지난해 우리나라 지방은행 한 곳에서 내부 직원에 의해 2900억 원에 달하는 횡령 사고가 터졌다. 프로젝트 파이낸싱 담당 부서장이 2007년부터 무려 15년간 자신이 관리하던 대출자금 등을 빼돌린 것. 이는 우리나라 은행 역사상 규모가 가장 큰 횡령이었다. 지난 10년간 우리나라의 한 대형은행에서도 약 772억 원의 횡령 사고가 일어난 사실이 알려지면서 금융기관의 내부통제가 화두로 떠올랐다. 은행이 가장 신뢰도 높</content:encoded>
-    </item>
-    <item>
-      <title>젠슨 황·저커버그 대담으로 들여다본 &apos;생성형 AI의 향방&apos;</title>
-      <link>https://www.donga.com/news/It/article/all/20240730/126212166/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20240730/126212166/1</guid>
-      <pubDate>2024-07-30T16:28:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/07/30/126212122.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;컴퓨터 그래픽 기술 콘퍼런스 ‘시그라프 2024’가 현지시간으로 지난 7월 28일 개막해 오는 8월 1일까지 열린다. 시그라프는 컴퓨터 그래픽 및 인터랙티브 기술의 진화를 지원하는 글로벌 비영리 단체 AMC 시그라프가 진행하는 행사며, 엔비디아가 꾸준히 지원해 왔다.  올해 시그라프에서 엔비디아는 실제 세계의 AI 레디 가상 모델을 생성하는 새로운 딥 러닝 프레임 워크 ‘fVDB’, 물리 생성형 AI ‘NIM 마이크로서비스’, 휴머노이드 로봇 개발 가속화 지원 방안 등을 발표했다. 아울러 젠슨황 엔비디아 CEO와 마크 저커버그 메타 CEO가 ‘기초 연구가 어떻게 AI 혁신을 가능하게 하는지, 그리고 생성형 AI와 오픈 소스가 어떻게 개발자와 크리에이터에게 힘을 실어주는가’를 주제로 대담을 나눴다.  메타, 초개인화된 생성형 AI 모델 바라본다   젠슨 황은 “메타에서 생성형 AI를 어떻게 발전시키며, 이를 향상하기 위해 어떤 기능을 적용하는지”로 운을 뗐다. 마크 저커버그는 “세상에서 가장 큰 컴퓨팅 시</content:encoded>
-    </item>
+    <lastBuildDate>2024-08-02T00:09:57.323Z</lastBuildDate>
     <item>
       <title>현실화하는 ‘아이폰 공식 통화녹음’…개발자 대상 선공개</title>
       <link>https://www.donga.com/news/It/article/all/20240730/126212280/1</link>
@@ -345,7 +233,7 @@
       <link>https://www.donga.com/news/Economy/article/all/20240731/126240236/2</link>
       <guid>https://www.donga.com/news/Economy/article/all/20240731/126240236/2</guid>
       <pubDate>2024-08-01T03:00:00.000Z</pubDate>
-      <content:encoded>BMW코리아가 선제적 차량관리 시스템 ‘프로액티브케어’를 도입했다. 차량에서 이상이 감지되면 고객에게 먼저 안내하는 방식이다. 필요할 경우 서비스센터 일정까지 미리 예약도 가능하다. 안전성을 개선하고 서비스 대기 시간을 줄이는 효과도 기대된다.  프로액티브케어는 자동차 상태와 관련된 데이터를 원격으로 수집한다. 조치가 필요한 상황이 감지되면 고객에게 안내한다. 단순히 소모품 교환 안내에만 그치는 것이 아니라 문제의 위급 수준에 따라 가장 효율적인 방식으로 고객에게 연락해 상황과 대처 방법을 알린다. 즉시 조치가 필요한 위급한 상황일 경우 BMW 프로액티브케어 팀이 고객에게 즉시 전화해 상황을 전달한다. 또 ‘마이BMW’ 앱을 통해서도 알림 메시지를 발송한다. 경우에 따라 원격 진단을 실시하고 견인이나 긴급출동 서비스도 제공한다. 고객이 간단하게 해결할 수 있는 문제는 서비스 가이드를 통해 조치 방법을 안내한다. BMW 측은 “자동차를 잘 모르는 운전자도 언제나 안전한 상태로 BMW</content:encoded>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126262275.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;BMW코리아가 선제적 차량관리 시스템 ‘프로액티브케어’를 도입했다. 차량에서 이상이 감지되면 고객에게 먼저 안내하는 방식이다. 필요할 경우 서비스센터 일정까지 미리 예약도 가능하다. 안전성을 개선하고 서비스 대기 시간을 줄이는 효과도 기대된다.  프로액티브케어는 자동차 상태와 관련된 데이터를 원격으로 수집한다. 조치가 필요한 상황이 감지되면 고객에게 안내한다. 단순히 소모품 교환 안내에만 그치는 것이 아니라 문제의 위급 수준에 따라 가장 효율적인 방식으로 고객에게 연락해 상황과 대처 방법을 알린다. 즉시 조치가 필요한 위급한 상황일 경우 BMW 프로액티브케어 팀이 고객에게 즉시 전화해 상황을 전달한다. 또 ‘마이BMW’ 앱을 통해서도 알림 메시지를 발송한다. 경우에 따라 원격 진단을 실시하고 견인이나 긴급출동 서비스도 제공한다. 고객이 간단하게 해결할 수 있는 문제는 서비스 가이드를 통해 조치 방법을 안내한다. BMW 측은 “자동차를 잘 모르는 운전자도 언제나 안전한 상태로 BMW</content:encoded>
     </item>
     <item>
       <title>밀리니얼 세대 특정 암 발병률, 베이비붐 세대의 3배…왜?</title>
@@ -353,6 +241,118 @@
       <guid>https://www.donga.com/news/It/article/all/20240801/126253805/1</guid>
       <pubDate>2024-08-01T08:46:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126253748.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘엑스(X) 세대’와 ‘밀레니얼 세대’가 이전 세대와 비교해 특점 암에 걸리고 그로 인해 사망할 위험이 더 높은 것으로 나타났다.  31일(현지시각) 대규모 연구결과를 발표한 미국 암학회(ACS) 연구자들은 2000년부터 2019년까지 암 진단을 받은 1920년에서 1990년 사이에 태어난 2300만 명의 환자를 대상으로 34가지 유형의 암을 연구했다. 그 결과 젊은 세대가 17가지 유형의 암에 걸릴 위험이 더 크고, 그 중 5가지 암으로 사망할 위험이 더 높은 것으로 나타났다.  1965년~1980년 태어난 엑스 세대와 1981년~1996년 출생한 밀레니얼 세대에서 더 자주 발병하는 암으로는 두 가지 유형의 위암, 소장암, 에스트로겐 수용체 양성(ER 양성) 유방암, 난소암, 간암, 담도암 및 대장암, 자궁암 및 고환암, 담낭암, 신장암 및 췌장암, 그리고 두 가지 유형의 혈액암(다발성 골수종과 백혈병)이 포함되었다.  연구에 따르면 여성의 구강암과 인후암의 일부, 남성의 항문암, 그리고 남성의 카포시</content:encoded>
+    </item>
+    <item>
+      <title>치매 걱정된다면 베이컨·소시지·햄 끊고 ‘이것’ 먹어야</title>
+      <link>https://www.donga.com/news/It/article/all/20240801/126256381/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240801/126256381/1</guid>
+      <pubDate>2024-08-01T10:27:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126256301.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;베이컨, 소시지, 햄 같은 적색 가공육이 치매 위험을 높인다는 새로운 연구 결과가 나왔다.31일(현지시각) 미국 필라델피아에서 열린 2024년 알츠하이머협회 국제회의(AAIC 2024)에서 발표한 이번 연구는 13만 명 이상의 성인을 대상으로 40년간 추적 관찰해 얻은 결과다. 아직 동료 검토를 거치지 않은 이 연구는 식단과 인지 기능 사이의 연관성을 조사했다.NBC뉴스에 따르면 알츠하이머협회 최고 과학 책임자인 마리오 카리요 박사는 “이 연구는 가공육 소비와 치매를 연결하는 가장 강력한 연구 중 하나”라면서 “왜냐하면 이 연구는 사람들을 수십 년 동안 추적했기 때문이다”라고 말했다.43년간 추적 조사한 내용을 정리한 연구에 따르면 하루 약 28그램의 가공된 붉은 고기를 섭취(85그램 씩 주당 2회 섭취한 것과 비슷)한 사람들은 월 3회 미만 섭취한 사람들에 비해 치매 위험이 14% 증가했다. 또한 매일 추가로 가공된 붉은 고기를 섭취할 때마다 언어 능력과 실행 기능에 영향을 미치는</content:encoded>
+    </item>
+    <item>
+      <title>휴가지에서 공사현장까지, 사람 안전 지키는 ‘PES’ 주목</title>
+      <link>https://www.donga.com/news/It/article/all/20240801/126256700/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240801/126256700/1</guid>
+      <pubDate>2024-08-01T10:46:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126256653.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;PES(Portable Emergency Speaker)가 주목 받는다. 이 제품은 특수 음향 기술인 지향성 음향을 활용해서 선명한 소리를 먼 곳까지 전달한다. 바닷가와 산 등 휴가지, 발전소와 아파트 공사터 등 대규모 산업 현장, 홍수와 지진 등 재난이 일어난 곳에서 경고 방송을 명료하게 전달하는 PES는 사람의 안전을 지킬 혁신 제품으로 꼽힌다.  위험하다고 알릴 때나 경고할 때 주로 쓰는 수단은 소리다. 사람의 귀가 소리를 아주 예민하게 듣는 까닭이다. 순찰차와 소방차 등 응급 차량이 울리는 사이렌, 재난을 알리는 재난문자방송 수신음이 아주 크고 찢어질 듯 날카로운 고음인 이유이기도 하다. 소리는 멀리까지 퍼지기에 위험을 알리기에 알맞다. 귀로 위험을 감지하면 눈으로 안전한 곳을 찾기 알맞다.  그래서 지금까지는 EES(Emergency Evacuation Speaker)라고도 부르는 고출력 스피커로 큰 소리를 내서 위험을 알렸다. 사람이 말하는 경고 방송의 음량을 증폭하는 확성기도 소형 EES로</content:encoded>
+    </item>
+    <item>
+      <title>전국 180개 구역에 폭염특보 발효…오늘도 무덥다</title>
+      <link>https://www.donga.com/news/Society/article/all/20240801/126257693/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240801/126257693/2</guid>
+      <pubDate>2024-08-01T11:24:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126257692.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;푹푹 찌는 날씨가 이어지며 1일 전국 대부분 지역에 폭염 경보가 발효됐다.   기상청에 따르면 이날 오전 10시를 기해 전국 183개 구역 중 서해 5도, 울릉도 독도, 제주 산지를 제외한 180곳에 폭염경보와 폭염주의보가 발효됐다. 최고 체감온도가 이틀 넘게 35도 이상일 것으로 전망될 때 폭염경보가, 33도 이상으로 예상될 때 폭염주의보가 내려진다.   폭염경보는 서울, 경기도(광명, 김포, 성남, 파주, 용인, 양평 등 일부 지역), 강원도(강릉평지, 원주, 화천 등), 충남(천안, 공주, 아산 등), 전남, 전북자치도(진안, 장수 제외), 대전, 광주, 대구, 부산, 울산, 세종 등에 발령됐다. 폭염주의보는 강원(태백, 영월 등) 충북과 경남, 인천(옹진군 제외), 제주(추자도, 북부중산간, 남부중산간) 등에 내려졌다.   기청청은 “전국 대부분 지역에 폭염 경보가 발효된 가운데, 당분간 최고체감온도가 35도 내외로 올라 매우 무덥겠다“고 했다. 낮 기온은 31~36도로 전날과 비슷하겠다고 예보했</content:encoded>
+    </item>
+    <item>
+      <title>종근당홀딩스, ‘하절기 사랑나눔 헌혈캠페인’ 진행… 올해 헌혈증 219장 기증</title>
+      <link>https://www.donga.com/news/It/article/all/20240801/126260045/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240801/126260045/1</guid>
+      <pubDate>2024-08-01T13:33:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126260013.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;종근당홀딩스는 혈액 수급 안정화를 위해 ‘2024년 하절기 사랑나눔 헌혈캠페인’을 진행했다고 1일 밝혔다.   캠페인은 7월 23일부터 31일까지 종근당 충정로 본사를 시작으로 천안공장과 효종연구소, 종근당바이오 안산공장, 경보제약 아산공장, 종근당건강 당진공장 등 6개 사업장에서 이뤄졌다. 올해 두 번에 걸쳐 진행된 헌혈캠페인에는 임직원 219명이 참여해 헌혈증을 기증했다. 기증한 헌혈증은 한국백혈병어린이재단에 전달할 예정이다.  또한 헌혈에 참여한 임직원 1명당 1만 원의 매칭기금을 조성해 한국백혈병어린이재단 소아암센터 노후시설을 개선하는데 후원하기로 했다.  종근당홀딩스는 지난 2010년부터 헌혈 참여가 감소하는 여름철 혈액수급 부족 해결에 동참하고 소아암 환우를 돕기 위해 헌혈캠페인을 진행해왔다. 지난 15년간 임직원 2336명이 헌혈에 참여해 헌혈증 총 1920장을 기부했다.  종근당홀딩스 관계자는 “헌혈은 소중한 생명을 살리는 가장 직접적이고 적극적인 방법”이라며 “헌혈캠페인을 통해 종근당 가</content:encoded>
+    </item>
+    <item>
+      <title>코로나19·백일해·수족구 ‘감염병 비상’…“예방 수칙 준수해야”</title>
+      <link>https://www.donga.com/news/Society/article/all/20240801/126260421/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240801/126260421/1</guid>
+      <pubDate>2024-08-01T13:58:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126260038.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 코로나19를 비롯해 백일해, 수족구, 마이코플라스마 폐렴균 감염증 등이 확산하고 있는 가운데 방역당국이 백신 접종과 감염병 예방 수칙 준수를 독려하고 나섰다.홍정익 질병관리청 감염병정책국장은 1일 열린 ‘여름철 감염병 발생 동향 및 대응 현황’ 브리핑에서 “현재 코로나19, 백일해, 수족구, 마이코플라스마 폐렴균 감염증 등 다양한 감염병이 유행하고 있다”며 “손 씻기, 기침 예절 실천, 호흡기 증상이 있는 경우 마스크 착용 등과 같은 감염병 예방수칙을 준수해 주기를 당부한다”고 밝혔다.잠잠해지는가 싶던 코로나19는 6월 4주부터 증가해 최근 4주 동안 병원급 입원 환자 수가 5배 증가했다. 입원 환자는 대다수가 고령층으로 올 들어 입원한 환자 중 65세 이상이 64.8%를 차지했다.홍 국장은 “전 세계적으로 유행 중인 오미크론 세부 계통인 KP.3 변이 바이러스 검출률이 국내에서 증가하고 있다”며 “다만 우리나라보다 먼저 KP.3가 유행한 미국, 영국, 일본에서도 코로나19 발</content:encoded>
+    </item>
+    <item>
+      <title>포티투마루 “기업용 AI, 환각 줄이고 정확도 높이는 기술이 필수” [과기대X글로벌]</title>
+      <link>https://www.donga.com/news/It/article/all/20240801/126260699/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240801/126260699/1</guid>
+      <pubDate>2024-08-01T14:07:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126260662.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[서울과기대 x IT동아 공동기획] 글로벌 기업 협업 프로그램은 중소벤처기업부와 창업진흥원, 글로벌 기업 11곳이 7년 차 이내 유망 스타트업을 지원하는 사업입니다. 이중 서울과학기술대학교 창업지원단은 AWS 정글, 오라클 미라클, IBM 협업 프로그램을 주관합니다. IT동아가 서울과기대 창업지원단과 함께 올해 선정된 글로벌 기업 협업 프로그램 참여 기업을 조명합니다.  현재 인공지능(AI) 기술 경쟁은 대형언어모델(LLM) 중에서도 이른바 ‘최첨단 LLM(State-of-the-Art LLM)’을 보유한 글로벌 빅테크 기업이 주도하고 있다. 하지만 최첨단 LLM만 있으면 모든 게 능사는 아니다. LLM을 전문적인 산업 영역에서 활용하거나, 상용 서비스로 개발하기에는 아직 해결해야 할 문제도 많기 때문이다. 거짓말을 진실처럼 말하는 환각(Hallucination) 문제가 대표적이다.  최근에는 특정 전문 분야나 산업 영역에 특화한 모델이나 온디바이스(On-Device) 구동이나 비용 부담을 줄이기 위한</content:encoded>
+    </item>
+    <item>
+      <title>MS, 경쟁사 목록에 오픈AI 추가…파트너에서 경쟁자되나</title>
+      <link>https://www.donga.com/news/Inter/article/all/20240801/126263591/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20240801/126263591/1</guid>
+      <pubDate>2024-08-01T15:59:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126263511.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오픈AI의 주요 후원자인 마이크로소프트(MS)가 오픈AI를 경쟁사 목록에 추가한 것으로 전해졌다.  지난달 31일(현지시각) CNBC에 따르면 MS는 전날 내놓은 최신 연례 보고서에서 경쟁사 목록에 오픈AI를 추가했다. 이 목록에는 수년 간 아마존, 애플, 구글, 메타 등이 포함돼 왔는데 이번에 오픈AI도 추가된 것이다.  보고서에서 MS는 오픈AI를 인공지능(AI) 서비스 제공, 검색, 뉴스 광고 분야의 경쟁사로 지목했다.  AI 모델에 접근이 필요한 기업들은 오픈AI와 거래를 할 수도 있고, MS의 애저 오픈AI 서비스를 이용할 수도 있는 상황이다. 또 오픈AI가 만든 챗GPT의 대안을 찾는 사람들은 MS의 AI 챗봇인 코파일럿을 이용할 수도 있다. 지난주 챗GPT를 만든 오픈AI는 서치GPT라는 이름의 자체 검색엔진을 내놓기도 했다.  장기적 파트너십 관계를 맺고 있는 MS와 오픈AI의 관계가 조금씩 바뀌고 있는 것이다. MS는 오픈AI의 독점 클라우드 제공업체이며, 각종 제품 등에 오픈AI의 AI</content:encoded>
+    </item>
+    <item>
+      <title>클라우드로 쇼핑몰의 글로벌 호스팅 나선 &apos;위드소프트&apos; [과기대X글로벌]</title>
+      <link>https://www.donga.com/news/It/article/all/20240801/126263969/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240801/126263969/1</guid>
+      <pubDate>2024-08-01T16:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126263910.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[서울과기대 x IT동아 공동기획] 글로벌 기업 협업 프로그램은 중소벤처기업부와 창업진흥원, 글로벌 기업 11곳이 7년 차 이내 유망 스타트업을 지원하는 사업입니다. 이중 서울과학기술대학교 창업지원단은 AWS 정글, 오라클 미라클, IBM 협업 프로그램을 주관합니다. IT동아가 서울과기대 창업지원단과 함께 올해 선정된 글로벌 기업 협업 프로그램 참여 기업을 조명합니다.  “자체 추산으로 전자상거래 호스팅 시장 5위 사업자로 판단하지만, 아직 인지도나 브랜딩 면에서 많이 부족하다고 생각한다. 위드소프트는 이제 시작점에 진입한 동남아 시장을 중심으로 사업에 박차를 가할 예정이다”   김형준 위드소프트 대표에게 국내 쇼핑몰 호스트 시장에서 위드소프트의 입지를 물어보자 돌아온 대답이다. 전자상거래 호스팅 및 웹 비즈니스 업계에서 가장 널리 알려진 기업은 카페24, 메이크샵, 고도몰이 시장을 양분하고 있다. 위드소프트는 같은 분야에서 점유율 확보 경쟁을 벌이기보다는, 다양한 플랫폼과 글로벌 진출을 통해 활로를 모</content:encoded>
+    </item>
+    <item>
+      <title>대한항공 이코노미석 컵라면 서비스 중단…“난기류 화상 사고 예방”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240801/126263900/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240801/126263900/1</guid>
+      <pubDate>2024-08-01T16:11:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126263896.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대한항공이 장거리 노선 이코노미석에 제공하던 라면 서비스를 중단한다. 기상으로 인해 기체가 요동치는 난기류 상황에 따른 화상 사고 등을 예방하기 위해서다. 라면 서비스를 없애는 대신 다양한 간식을 제공하기로 했다. 1일 대한항공은 15일부터 라면 서비스를 없애는 등 장거리 노선 기내 간식 서비스를 개편한다고 밝혔다. 라면 서비스는 이코노미석의 경우 승객이 원하면 추가로 제공되는 간식이었다. 승객이 요청하면 승무원이 컵라면에 물을 부어서 자리로 가져다줬다. 그런데  여려개 컵라면을 옮기는 과정에서 난기류를 만나면 뜨거운 물 때문에</content:encoded>
+    </item>
+    <item>
+      <title>셀트리온제약, 고혈압 치료제 ‘이달비’ 저용량 제품 국내 판매… “맞춤 처방 확대”</title>
+      <link>https://www.donga.com/news/It/article/all/20240801/126264132/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240801/126264132/1</guid>
+      <pubDate>2024-08-01T16:17:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126264067.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;셀트리온제약은 고혈압 치료제 ‘이달비정(성분명 아질사탄메독소밀) 20mg’이 보험약가 고시를 거쳐 국내 판매 절차에 돌입했다고 1일 밝혔다.  이달비정 20mg은 지난 5월 식품의약품안전처로부터 품목허가를 획득하고 보건복지부 약제급여 상한금액 고시에 따라 이달 1일부터 정당 292원의 건강보험 급여를 적용받았다.   기존 이달비 40, 80mg에 더해 저용량 품목인 20mg을 추가해 환자 상태에 따른 맞춤 처방 폭이 확대된 만큼 처방 편의와 선호도가 개선될 것으로 셀트리온제약은 기대하고 있다. 특히 초기 저용량 처방이 필요한 초고령(만 75세 이상) 및 특수질환 환자 편의성이 증대될 것으로 보고 있다.  이달비는 안지오텐신수용체차단제(ARB, Angiotensin Ⅱ Receptor Blocker) 계열 오리지널 고혈압 치료제다. 혈압을 높이는 호르몬 안지오텐신Ⅱ의 수용체를 차단해 혈관을 확장하는 방식으로 혈압을 낮추는 기전을 가진다. 1~2기 고혈압 환자 대상 3상 임상시험 결과 다른 ARB 계열 성분</content:encoded>
+    </item>
+    <item>
+      <title>GC녹십자·한미약품, 파브리병 ‘장기 지속’ 혁신신약 임상 본격화… 美 FDA 임상 1·2상 접수</title>
+      <link>https://www.donga.com/news/It/article/all/20240801/126265092/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240801/126265092/1</guid>
+      <pubDate>2024-08-01T16:57:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126265054.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;GC녹십자는 한미약품과 공동개발 중인 파브리병 치료제 ‘LA-GLA(GC1134A, HM15421)’에 대한 임상 1·2상 임상시험계획서(IND)를 미국 식품의약국(FDA)에 신청했다고 1일 밝혔다.  LA-GLA는 세계 최초 월 1회 피하투여 용법으로 GC녹십자와 한미약품이 공동개발하고 있는 파브리병 치료 혁신신약이다. 파브리병은 성염색체로 유전되는 희귀질환이다. 리소좀축적질환(LSD, Lysosomal Storage Disease) 일종이다. 불필요한 물질을 제거하는 세포 내 소기관 리소좀에서 당지질을 분해하는 효소 ‘알파-갈락토시다아제A’가 결핍됐을 때 발생한다. 체내 처리되지 못한 당지질이 지속적으로 축적되면서 세포독성 및 염증 반응이 일어나고 다양한 장기가 서서히 손상돼 심하면 사망에 이르는 진행성 희귀난치질환으로 알려졌다.  현재 파브리병 환자는 유전자 재조합 기술로 개발한 효소를 정맥주사하는 방식인 효소대체요법(ERT, enzyme replacement therapy)으로 치료가 이뤄지고 있</content:encoded>
+    </item>
+    <item>
+      <title>롯데이노베이트, 아마존 클라우드프론트 인증 획득… ‘네트워크 안정성’ 기술력 입증</title>
+      <link>https://www.donga.com/news/It/article/all/20240801/126265378/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20240801/126265378/1</guid>
+      <pubDate>2024-08-01T17:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126265350.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;롯데이노베이트는 1일 아마존웹서비스(Amazon Web Services, 이하 AWS)의 아마존 클라우드프론트 서비스 제공 프로그램(SDP) 인증을 취득했다고 밝혔다.  아마존 클라우드프론트는 AWS의 콘텐츠 전송 네트워크(CDN, Content Delivery Network) 서비스로 지리적 제약 없이 글로벌 사용자에게 빠르고 안전하게 콘텐츠를 전송할 수 있는 기술로 알려져 있다.  CDN 서비스는 사용자가 웹 사이트 또는 앱 이용 시 해당 콘텐츠를 원본 서버가 아닌 중계 서버를 통해 다운로드 받도록 한다. 원본 서버의 부하를 분산하고 빠른 다운로드가 가능하다는 장점이 있어 대부분의 온라인 사업자들이 CDN을 이용하고 있다. 주로 쇼핑몰 이미지, 온라인 동영상, 게임 설치 파일 등에 사용된다.  롯데이노베이트는 롯데GRS의 잇츠 앱과 롯데헬스케어의 캐즐(CAZZLE)의 구축 사례에 대해 보안, 운영 우수성, 서비스 연속성, 비용 최적화 등 7개 분야 13개 항목 심사를 통과하며 이번 인증을 취득했다고</content:encoded>
+    </item>
+    <item>
+      <title>동원시스템즈, 수출 호조로 수익성 개선… 2분기 영업益 18%↑</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240801/126267024/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240801/126267024/1</guid>
+      <pubDate>2024-08-01T17:46:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126266979.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동원시스템즈가 올해 2분기 고부가가치 제품 수출에 힘입어 수익성을 대폭 개선한 실적을 거뒀다.  동원시스템즈는 2분기 매출 3444억 원, 영업이익 303억 원의 경영실적을 기록했다고 1일 밝혔다. 작년 2분기와 비교해 매출이 2.9% 증가할 때 영업이익은 18.3% 성장해 수익성이 크게 개선된 것으로 나타났다.   수익성 개선 흐름은 상반기 누적 실적으로도 확인할 수 있다. 매출은 1.3% 감소한 6535억 원에 머물렀지만 영업이익은 7.2% 증가한 464억 원으로 집계됐다.국내 경기침체 영향으로 병과 캔 등 주요 포장재 수요가 감소했지만 펫푸드 파우치와 레토르트 파우치 등 고부가 제품을 중심으로 수출이 늘면서 소재부문 영업이익이 증가했기 때문이라는 분석이다. 레토르트는 단층 플라스틱 필름이나 금속박 등으로 만든 용기에 조리한 식품을 넣어 밀봉한 후 가열살균이나 멸균을 거친 포장 방식을 말한다. 장기보존이 가능한 포장으로 알려졌다. 구입한 후 그대로 먹거나 데워 먹는 간편식 등의 포장재로 주로 사용된다</content:encoded>
+    </item>
+    <item>
+      <title>말소리로 치매 조기 예측 AI기술 국내 개발</title>
+      <link>https://www.donga.com/news/People/article/all/20240801/126272023/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20240801/126272023/2</guid>
+      <pubDate>2024-08-02T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/02/126274430.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;노인들의 음성을 분석해 치매 전 단계인 경도인지장애를 조기에 예측할 수 있는 인공지능(AI) 기술이 개발됐다. 한국전자통신연구원(ETRI)은 세계 최초로 음성·텍스트 분석 기술에 대형언어모델(LLM)을 결합한 알츠하이머 치매 예측 AI를 개발했다고 1일 밝혔다. 음성 발화는 기억·주의집중 등 인지 기능과 음운·통사·의미 등 언어 생성 기능, 호흡·조음·발성 등 구어 운동 기능이 복합적으로 작용하는 과정이다. 이를 분석하면 경도인지장애나 치매 환자에게서 나타나는 인지·언어·운동능력 저하를 판단할 수 있다. 연구팀은 음성 발화를 통해 경도인지장애 고위험군을 예측하는 태블릿 기반 앱 개발도 마치고, 한국전기연구원과 함께 노인복지센터 등에서 실증해 모델을 개선해 나갈 계획이다. 연구팀은 음성과 텍스트뿐만 아니라 이미지·동영상까지 분석·처리할 수 있는 멀티모달 대형언어모델을 개발하고 후속 연구를 진행 중이다. 강병옥 ETRI 책임연구원은 “보건소를 방문해 선별검사를 받는 방식에 비해 스마트기기</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자, 31일까지 AI 세일 페스타</title>
+      <link>https://www.donga.com/news/Economy/article/all/20240801/126267903/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20240801/126267903/2</guid>
+      <pubDate>2024-08-02T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/01/126271819.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 1일부터 31일까지 전국 온·오프라인 매장에서 ‘삼성전자 AI 세일 페스타’ 프로모션을 시작한다고 1일 밝혔다. 세일 페스타 기간 중 가전, TV, 모바일, 정보기술(IT) 등 인공지능(AI) 기반의 다양한 제품을 할인된 가격으로 구매할 수 있다.</content:encoded>
+    </item>
+    <item>
+      <title>동해안서 해파리에 500명 쏘였는데…속초는 ‘0명’ 왜?</title>
+      <link>https://www.donga.com/news/Society/article/all/20240802/126278175/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20240802/126278175/1</guid>
+      <pubDate>2024-08-02T06:46:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2024/08/02/126278164.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;피서 극성수기 강원 동해안 해수욕장에서 해파리 쏘임 사고가 급증했지만, 속초지역 해수욕장에선 관련 사고가 전무한 것으로 나타났다.  1일 강원도 글로벌본부에 따르면 지난 6월 말부터 순차 개장한 동해안 6개 시군(속초·고성·양양·강릉·동해·삼척) 해수욕장에서 발생한 해파리 쏘임 사고는 7월 30일 기준 503건으로 집계됐다.  지역별로는 강릉 236건, 양양 173건, 고성 64건, 동해 22건, 삼척 8건 순이다. 그러나 속초의 경우 지역 내 3개 해수욕장(속초·외옹치·등대)에서 해파리 쏘임 사고가 단 1건도 발생하지 않았다.  이는 속초시가 이들 해수욕장에 설치한 ‘해파리 방지 그물망’이 일정 부분 효과를 발휘했기 때문으로 보인다.  속초시는 7월 1일 해수욕장 개장과 동시에 수영 가능 구역 바깥쪽에 상어와 해파리 유입을 차단하기 위한 그물망을 설치했다.  이에 현재 속초해수욕장에선 700m, 등대해수욕장은 300m, 외옹치해수욕장은 200m 규모의 방지망이 각각 해파리 유입을 막아주고 있다.  또</content:encoded>
     </item>
   </channel>
 </rss>
